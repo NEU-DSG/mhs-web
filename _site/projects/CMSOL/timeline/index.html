@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>PSC Lab Space JQA Timeline</title>
+	<link rel="icon" type="image/x-icon" href="../../../images/book.ico">
+
+	<meta charset="utf-8">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.0/d3.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
+	<script src="../../../JsScripts/gtime/dist/d3-gtimeline.full.umd.cjs" type="text/javascript"></script>
+	<link rel="stylesheet" href="../../../styles/oldstyles.css">
+	</link>
+	<link rel="stylesheet" href="../../../styles/tabs-style.css">
+	</link>
+	<script src="https://code.jquery.com/jquery-3.3.1.js"
+		integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous">
+		</script>
+
+	<script>
+		$(function () {
+			$("#footer").load("/../../footer.html");
+		});
+	</script>
+
+	<style type="text/css">
+		div.tooltip {
+			position: absolute;
+			text-align: center;
+			padding: 5px;
+			font: 12px sans-serif;
+			background: white;
+			border: 1px solid #AAA;
+			border-radius: 2px;
+			pointer-events: none;
+		}
+	</style>
+</head>
+
+<body>
+	<header id="menu">
+		<script src="../../../styles/menu.js"></script>
+	</header>
+
+	<div style="width: 80%;" class="main-body">
+
+		<h3 class="subtitle">Catharine Maria Sedgwick Subject Timeline Chart</h3>
+
+		<div style="position: absolute; left: 50%; transform: translateX(-50%);">
+
+			<button class="button-1" role="button" onclick="window.location.href='/projects/CMSOL';">Back to
+				CMS</button>
+			<button class="button-1" role="button" onclick="window.location.href='/tools/timelines';">Back to Timeline
+				Charts</button>
+		</div>
+		<br><br><br>
+		<p>Below is a topic timeline, plotted by year and when that topic appears in the works of the respective author.
+		Editors of the XML would assign topics to each diary entry or letter, and these were all accumulated and then
+		grouped together by year. Topics are all under a topic umbrella assigned by the MHS, you can collapse or expand
+		topics under their umbrella. Each topic, topic umbrella, and appearance of the topic on the timeline chart can
+		be clicked to bring you to the Primary Source Cooperative website.</p><br>
+
+
+		<div class="menu__item item-active" style="border: 3px solid #94b3ae; border-radius: 8px; line-height: .3;">
+
+			<br>
+			<div id="centered-div">
+
+				<button style="font-size: 10px; height: 20px; line-height: 20px; padding: 0 12px; border-radius: 2px;"
+					class="button-1" id="collapseAllButton" onclick="collapseAll()">Collapse All</button>
+				<button style="font-size: 10px; height: 20px; line-height: 20px; padding: 0 12px; border-radius: 2px;"
+					class="button-1" id="expandAllButton" onclick="expandAll()">Expand All</button>
+			</div>
+			<br>
+			<div id="chart"></div>
+		</div>
+
+		<script>
+
+			// Load the CSV file asynchronously
+			d3.csv("../../../data/cmsol/timeline/sortedtimeline.csv", function (row) {
+				return {
+					role: row.Role,
+					name: row.Name,
+					start: new Date(row.Start),
+					end: new Date(row.End),
+					count: parseInt(row.Count)
+				};
+			}).then(function (data) {
+				// Transform the data into the format needed by the timeline
+				const transformedData = transformData(data);
+
+
+				// After the data is transformed, draw the chart
+				drawChart(transformedData, "../../../data/cmsol/timeline/sortedcolors.csv");
+
+			}).catch(function (error) {
+				console.error("Error loading the CSV file:", error);
+			});
+			// Function to create the timeline chart
+
+			function drawChart(data, colors) {
+
+				d3.text(colors).then(function (csvText) {
+					// Split the text by commas to get an array of color values wrapped in double quotes
+					let colorsArray = csvText.trim().split(",");
+
+					// Remove the double quotes around each color value, while keeping them as strings
+					colorsArray = colorsArray.map(color => color.trim().replace(/^"|"$/g, ''));
+
+
+					// Apply the colors to your chart dynamically
+					const chart = d3.timeline("cms").duration(500);
+					chart.colors(colorsArray);
+
+					// Select the div with id 'chart' and apply the data to it
+					d3.selectAll('#chart').datum(data).call(chart);
+
+					requestAnimationFrame(() => {
+						const path = document.querySelector('path[stroke-width="1.75"]');
+						if (path) {
+							const dAttribute = path.getAttribute('d');
+							const xCoordinate = parseFloat(dAttribute.split(',')[0].replace('M', ''));
+							const halfX = xCoordinate / 2;
+
+							const div = document.getElementById('centered-div');
+
+							// Ensure only visible content is measured
+							div.style.display = 'inline-block';
+							const divRect = div.getBoundingClientRect();
+
+							// Calculate margin-left for centering
+							const marginLeft = halfX - divRect.width / 2;
+
+							// Apply the calculated position
+							div.style.position = 'absolute';
+							div.style.marginLeft = `${marginLeft}px`;
+						} else {
+							console.error("Path with stroke-width='1.75' not found");
+						}
+					});
+				});
+			}
+
+
+			// Function to transform the CSV data into the format needed for the timeline
+			function transformData(data) {
+				return data.map(d => [
+					d.role,
+					d.name,
+					new Date(d.start),
+					new Date(d.end),
+					parseInt(d.count)
+				]);
+			}
+
+
+
+		</script>
+
+	</div>
+	<div id="footer"></div>
+</body>
+
+</html>

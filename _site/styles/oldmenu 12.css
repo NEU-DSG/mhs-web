@@ -1,0 +1,83 @@
+/* Top Navigation Bar */
+.topnav {
+    width: 100%;
+    z-index: 1000;
+    /* Ensure the menu renders above the main body */
+    position: relative;
+    background-color: #110b11;
+    font-family: 'Merriweather', serif;
+
+}
+
+/* Regular navigation items */
+ul.topnav li {
+    float: left;
+    position: relative;
+    /* Needed for dropdown positioning */
+}
+
+/* Links within the navigation bar */
+ul.topnav li a {
+    display: block;
+    color: #fdeed8;
+    /* Antique White */
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Dropdown menu styling */
+.dropdown {
+    position: relative;
+    display: inline-block;
+    z-index: 1000;
+    /* Ensure the dropdown renders above other elements */
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+    display: inline-block;
+    background-color: #94b3ae;
+    color: #fdeed8;
+    /* Antique White */
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Dropdown content */
+.dropdown-content {
+    display: none;
+    /* Hidden by default */
+    position: absolute;
+    left: 0;
+    top: 100%;
+    /* Position below the button */
+    background-color: #94b3ae;
+    color: #110b11;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1100;
+    /* Ensure it renders above main-body */
+}
+
+/* Dropdown content links */
+.dropdown-content a {
+    background-color: #94b3ae;
+    color: #abc3c0;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+/* Hover state for dropdown links */
+.dropdown-content a:hover {
+    background-color: #abc3c0;
+    color: #110b11;
+}
+
+/* Show dropdown when hovering over dropdown */
+.dropdown:hover .dropdown-content {
+    display: block;
+}

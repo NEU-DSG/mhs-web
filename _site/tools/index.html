@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="eng">
+
+<head>
+    <title>PSC Lab Space Tools</title>
+    <link rel="icon" type="image/x-icon" href="../images/book.ico">
+    <meta charset="utf-8" />
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1" /> -->
+    <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+    </meta>
+    <link rel="stylesheet" href="../styles/oldstyles.css">
+    </link>
+    <link rel="stylesheet" href="../styles/bookshelf.css" />
+    <script type="module" src="../styles/bookshelf.js?v4"></script>
+
+</head>
+
+<body>
+
+
+    <header id="menu">
+        <script src="../styles/menu.js?v1"></script>
+    </header>
+
+
+
+    <div style="width: 60%;" class="main-body">
+
+        <h1 class="title">Tools</h1>
+        <div style="position: absolute; left: 50%; transform: translateX(-50%); margin-top: -30px; ">
+
+            <button class="button-1" role="button" onclick="window.location.href='/index.html';">Back to Home</button>
+        </div>
+        <br>
+        <br>
+        <br>
+        <div class="container">
+
+
+            <div class="bookshelf">
+                <!-- Networks -->
+                <div class="book">
+                    <div onclick="window.location.href='networks/index.html';" class="side spine">
+                        <span class="spine-title">Network Graph</span>
+                        <span class="spine-author"></span>
+                    </div>
+                    <div class="side top"></div>
+                    <div onclick="window.location.href='networks/index.html';" class="side cover"
+                        style="background-image: url('/../images/bookimages/network.png');"></div>
+                </div>
+
+                <!-- Geos -->
+                <div class="book">
+                    <div onclick="window.location.href='geos/index.html';" class="side spine">
+                        <span class="spine-title">Geo-References</span>
+                        <span style="font-size:x-small" class="spine-author"></span>
+                    </div>
+                    <div class="side top"></div>
+                    <div onclick="window.location.href='geos/index.html';"
+                        style="background-image: url('/../images/bookimages/geo.png');" class="side cover"></div>
+                </div>
+
+                <!-- Timeline -->
+                <div class="book">
+                    <div onclick="window.location.href='timelines/index.html';" class="side spine">
+                        <span style="font-size: large;" class="spine-title">Timeline</span>
+                        <span class="spine-author">RBT</span>
+                    </div>
+                    <div class="side top"></div>
+                    <div onclick="window.location.href='timelines/index.html';"
+                        style="background-image: url('/../images/bookimages/timeline.png');" class="side cover"></div>
+                </div>
+
+
+
+            </div>
+
+            <!-- Bookshelf visual below the books -->
+            <div class="visual-bookshelf"></div>
+
+
+
+        </div>
+
+    </div>
+
+
+ <!-- Footer -->
+    <div id="footer-box" style="
+        height: 70px;
+        text-align: center;
+        background-color:#94b3ae;
+        color: #FFF;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+    ">
+        <br>
+        Created by the Northeastern Digital Scholarship Group (DSG) in collaboration with the Massachusetts Historical
+        Society (MHS). Designed to work alongside the MHS Primary Source Cooperative.
+        <br>
+    </div>
+</body>
+</html>

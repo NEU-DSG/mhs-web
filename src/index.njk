@@ -1,0 +1,78 @@
+---
+layout: base.njk
+title: Home
+---
+
+{% block head %}
+    <link rel="stylesheet" href="/styles/bookshelf.css">
+    <script type="module" src="/styles/bookshelf.js"></script>
+{% endblock %}
+
+<div style="width: 60%;" class="main-body">
+    <h1 class="title">Primary Source Cooperative</h1>
+
+    <h2 class="subtitle" style="text-align: left;">Welcome to the Primary Source Coop Lab Space.</h2>
+    <p>The purpose of the Primary Source Cooperative of the Massachusetts Historical Society (the Cooperative, MHS) is
+        to provide a platform designed and governed by consensus to assist the digital publication of documentary
+        editions led by scholars studying the American long 19th century (1789–1914) and who would not otherwise
+        have a portal for affordable, supportive online publishing. In this form, it serves the needs of people preparing
+        relevant archival materials for distribution, enriching the work of scholars and users who seek to understand
+        this critical period in American history, when revolution and reform were causing fundamental changes in
+        social and political culture...</p>
+
+    <hr>
+
+    <h2 class="subtitle">Projects</h2>
+    <div class="bookshelf">
+        <!-- JQA Project -->
+        {% set type = "projects" %}
+        {% set author = "JQA" %}
+        {% set title = "John Quincy Adams Diaries!" %}
+        {% include "book.njk" %}
+    
+        <!-- CMSOL Project -->
+        {% set type = "projects" %}
+        {% set author = "CMSOL" %}
+        {% set title = "Catharine Maria Sedgwick Letters!" %}
+        {% include "book.njk" %}
+    
+        <!-- RBT Project -->
+        {% set type = "projects" %}
+        {% set author = "RBT" %}
+        {% set title = "Roger Brooke Taney Papers!" %}
+        {% include "book.njk" %}
+    </div>
+    <!-- Visual bookshelf divider -->
+    <div class="visual-bookshelf"></div>
+
+    <br>
+    <hr>
+
+    <h2 class="subtitle">Tools</h2>
+    <div class="bookshelf">
+        <!-- Network Graph Tool -->
+        {% set type = "tools" %}
+        {% set author = "networks" %}
+        {% set title = "Co-reference Network Graph" %}
+        {% include "book.njk" %}
+
+        <!-- Geo-References Tool -->
+        {% set type = "tools" %}
+        {% set author = "geos" %}
+        {% set title = "Geo Reference Map" %}
+        {% include "book.njk" %}
+
+            <!-- Timelines Tool -->
+        {% set type = "tools" %}
+        {% set author = "timelines" %}
+        {% set title = "Subject Timeline Graph" %}
+        {% include "book.njk" %}
+ 
+    </div>
+
+    <!-- Visual bookshelf divider -->
+    <div class="visual-bookshelf"></div>
+
+    <br><br>
+    <hr>
+</div>
