@@ -1,6 +1,6 @@
 module.exports = function(eleventyConfig) {
   
-  // Pass through these directors and any sibdirectories
+  // Pass through these directories and any sibdirectories
   eleventyConfig.addPassthroughCopy("src/data/**/*");
   eleventyConfig.addPassthroughCopy("src/JsScripts/**/*");
   eleventyConfig.addPassthroughCopy("src/images/**/*");

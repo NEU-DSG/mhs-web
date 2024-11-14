@@ -34,7 +34,7 @@
                 <div class="bookshelf">
 
                     {% if title == "Tools" %}
-                        <!-- Network Graph Tool -->
+<                        <!-- Network Graph Tool -->
                         {% set author = "networks" %}
                         {% set title = "Co-reference Network Graph" %}
                         {% include "book.njk" %}
@@ -47,22 +47,22 @@
                         <!-- Timelines Tool -->
                         {% set author = "timelines" %}
                         {% set title = "Subject Timeline Graph" %}
-                        {% include "book.njk" %}
+                        {% include "book.njk" %}>
 
                     {% elif title == "Projects" %}
                         <!-- JQA Project -->
                         {% set author = "JQA" %}
-                        {% set title = "John Quincy Adams Diaries!" %}
+                        {% set title = "John Quincy Adams Diaries" %}
                         {% include "book.njk" %}
 
                         <!-- CMSOL Project -->
                         {% set author = "CMSOL" %}
-                        {% set title = "Catharine Maria Sedgwick Letters!" %}
+                        {% set title = "Catharine Maria Sedgwick Letters" %}
                         {% include "book.njk" %}
 
                         <!-- RBT Project -->
                         {% set author = "RBT" %}
-                        {% set title = "Roger Brooke Taney Papers!" %}
+                        {% set title = "Roger Brooke Taney Papers" %}
                         {% include "book.njk" %}
 
                     {% else %}

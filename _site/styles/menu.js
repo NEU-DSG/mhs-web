@@ -82,21 +82,21 @@ toolsDiv.setAttribute('class', 'dropdown-content');
 // Create <li>'s in first dropdown menu.
 // network
 const networkA = document.createElement('a');
-networkA.setAttribute('href', '/tools/networks/index.html');
+networkA.setAttribute('href', '/tools/coref/index.html');
 const networkText = document.createTextNode('Network Graphs');
 networkA.append(networkText);
 toolsDiv.append(networkA);
 
 // geo
 const geosA = document.createElement('a');
-geosA.setAttribute('href', '/tools/geos/index.html');
+geosA.setAttribute('href', '/tools/geo/index.html');
 const geosText = document.createTextNode('Geo-References');
 geosA.append(geosText);
 toolsDiv.append(geosA);
 
 // timeline
 const TimelinesA = document.createElement('a');
-TimelinesA.setAttribute('href', '/tools/timelines/index.html');
+TimelinesA.setAttribute('href', '/tools/time/index.html');
 const TimelinesText = document.createTextNode('Timelines');
 TimelinesA.append(TimelinesText);
 toolsDiv.append(TimelinesA);

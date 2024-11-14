@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="eng">
+
+<head>
+    <title>PSC Lab Timeline Charts</title>
+    <link rel="icon" type="image/x-icon" href="/../../images/book.ico">
+    <meta charset="utf-8" />
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1" /> -->
+    <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+    </meta>
+    <link rel="stylesheet" href="/../styles/oldstyles.css">
+    </link>
+    <link rel="stylesheet" href="/../styles/bookshelf.css" />
+    <script type="module" src="/../styles/bookshelf.js?v4"></script>
+    <script
+    src="https://code.jquery.com/jquery-3.3.1.js"
+    integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+    crossorigin="anonymous">
+</script>
+
+<script> 
+$(function(){
+  $("#footer").load("/../footer.html"); 
+});
+</script> 
+</head>
+
+<body>
+
+
+    <header id="menu">
+        <script src="/../styles/menu.js?v1"></script>
+    </header>
+
+
+
+    <div style="width: 60%;" class="main-body">
+        <div class="container">
+            <h1 class="title">Timeline Charts</h1>
+            <div style="position: absolute; left: 50%; transform: translateX(-50%); margin-top: -30px; ">
+
+                <button class="button-1" role="button" onclick="window.location.href='/index.html';">Back to
+                    Home</button>
+                <button class="button-1" role="button" onclick="window.location.href='/tools';">Back to Tools</button>
+            </div>
+            <br>
+            <br>
+            <br>
+
+            <div class="bookshelf">
+                <!-- JQA -->
+                <div class="book">
+                    <div onclick="window.location.href='/../projects/JQA/timeline/index.html';" class="side spine">
+                        <span class="spine-title">John Quincy Adams Diaries</span>
+                        <span class="spine-author">JQA</span>
+                    </div>
+                    <div class="side top"></div>
+                    <div onclick="window.location.href='/../projects/JQA/timeline/index.html';" class="side cover"
+                        style="background-image: url('/../images/bookimages/JQA.jpg');"></div>
+                </div>
+
+                <!-- CMSOL -->
+                <div class="book">
+                    <div onclick="window.location.href='/../projects/CMSOL/timeline/index.html';" class="side spine">
+                        <span class="spine-title">Catharine Maria Sedgwick Letters</span>
+                        <span style="font-size:x-small" class="spine-author">CMSOL</span>
+                    </div>
+                    <div class="side top"></div>
+                    <div onclick="window.location.href='/../projects/CMSOL/timeline/index.html';"
+                        style="background-image: url('/../images/bookimages/CMSOL.jpg');" class="side cover"></div>
+                </div>
+
+                <!-- RBT -->
+                <div class="book">
+                    <div onclick="window.location.href='/../projects/rbt/timeline/index.html';" class="side spine">
+                        <span class="spine-title">Roger Brooke Taney papers</span>
+                        <span class="spine-author">RBT</span>
+                    </div>
+                    <div class="side top"></div>
+                    <div onclick="window.location.href='/../projects/rbt/timeline/index.html';"
+                        style="background-image: url('/../images/bookimages/rbt.jpg');" class="side cover"></div>
+                </div>
+            </div>
+
+
+
+            <!-- Bookshelf visual below the books -->
+            <div class="visual-bookshelf"></div>
+
+
+
+
+        </div>
+
+    </div>
+    <div id="footer"></div>
+</body>
+
+</html>

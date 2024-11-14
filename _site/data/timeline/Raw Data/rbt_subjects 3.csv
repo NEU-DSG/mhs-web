@@ -1,0 +1,572 @@
+,year,subjects,count,total,percentage
+0,1818,Family Relations (Taney Family),1,4,25.0
+1,1818,Health and Illness,1,4,25.0
+2,1818,Maryland Legislature,1,4,25.0
+3,1818,Postal Service,1,4,25.0
+4,1825,Family Finances (Taney Family),1,1,100.0
+5,1828,Democratic Party,1,3,33.0
+6,1828,Family Relations (Taney Family),1,3,33.0
+7,1828,Patronage,1,3,33.0
+8,1829,Bank of the United States,1,1,100.0
+9,1831,Attorney General,1,34,3.0
+10,1831,Bank Veto,1,34,3.0
+11,1831,Bank War,1,34,3.0
+12,1831,Bank of the United States,3,34,9.0
+13,1831,"Banks, Pet",2,34,6.0
+14,1831,Cabinet,4,34,12.0
+15,1831,Contracts,1,34,3.0
+16,1831,Democratic Party,1,34,3.0
+17,1831,"Elections, Presidential",1,34,3.0
+18,1831,Family Finances (Taney Family),1,34,3.0
+19,1831,Family Residences (Taney Family),1,34,3.0
+20,1831,Health and Illness,1,34,3.0
+21,1831,Maryland Judiciary,1,34,3.0
+22,1831,Patronage,6,34,18.0
+23,1831,Popular Will,1,34,3.0
+24,1831,Postal Service,1,34,3.0
+25,1831,Press,1,34,3.0
+26,1831,Privacy,3,34,9.0
+27,1831,Senate,1,34,3.0
+28,1831,War Department,1,34,3.0
+29,1831,Whig Party,1,34,3.0
+30,1832,African Americans,1,175,1.0
+31,1832,Attorney General,13,175,7.000000000000001
+32,1832,Bank Veto,5,175,3.0
+33,1832,Bank War,9,175,5.0
+34,1832,Bank of the United States,12,175,7.000000000000001
+35,1832,"Banks, Pet",5,175,3.0
+36,1832,Cabinet,2,175,1.0
+37,1832,Circuit Court,1,175,1.0
+38,1832,Congress,5,175,3.0
+39,1832,Constitutional Interpretation,1,175,1.0
+40,1832,Contracts,1,175,1.0
+41,1832,Corporations,3,175,2.0
+42,1832,Corruption,1,175,1.0
+43,1832,Currency,2,175,1.0
+44,1832,Delegation,1,175,1.0
+45,1832,Democratic Party,2,175,1.0
+46,1832,Economic Theory,2,175,1.0
+47,1832,Education,1,175,1.0
+48,1832,"Elections, Presidential",3,175,2.0
+49,1832,"Elections, State and Local",1,175,1.0
+50,1832,Family Finances (Taney Family),2,175,1.0
+51,1832,Family Residences (Taney Family),3,175,2.0
+52,1832,Federal Courts,1,175,1.0
+53,1832,Federalism,4,175,2.0
+54,1832,Foreign Relations,4,175,2.0
+55,1832,Health and Illness,3,175,2.0
+56,1832,House of Representatives,1,175,1.0
+57,1832,Internal Improvements,1,175,1.0
+58,1832,Judicial Philosophy,3,175,2.0
+59,1832,Merchants,1,175,1.0
+60,1832,Native Americans,2,175,1.0
+61,1832,Navy,1,175,1.0
+62,1832,Patronage,5,175,3.0
+63,1832,Political Partisanship,2,175,1.0
+64,1832,Popular Will,4,175,2.0
+65,1832,Postal Service,4,175,2.0
+66,1832,President,6,175,3.0
+67,1832,Press,5,175,3.0
+68,1832,Privacy,6,175,3.0
+69,1832,Public Lands,1,175,1.0
+70,1832,Recreation,1,175,1.0
+71,1832,Rule of Law,3,175,2.0
+72,1832,Sectionalism,1,175,1.0
+73,1832,Senate,3,175,2.0
+74,1832,Separation of Powers,4,175,2.0
+75,1832,Slavery and Enslaved Persons,1,175,1.0
+76,1832,Statutory Interpretation,2,175,1.0
+77,1832,Supreme Court,3,175,2.0
+78,1832,Tariff of 1832,1,175,1.0
+79,1832,Territories,3,175,2.0
+80,1832,"Travel and Touring, US",9,175,5.0
+81,1832,Treasury Department,4,175,2.0
+82,1832,Treaties,2,175,1.0
+83,1832,US Constitution,1,175,1.0
+84,1832,Veto Power,2,175,1.0
+85,1832,War Department,2,175,1.0
+86,1832,War of 1812,1,175,1.0
+87,1832,Whig Party,2,175,1.0
+88,1833,Army,1,870,0.0
+89,1833,Attorney General,24,870,3.0
+90,1833,Bank Failures,9,870,1.0
+91,1833,Bank Veto,3,870,0.0
+92,1833,Bank War,48,870,6.0
+93,1833,Bank of the United States,96,870,11.0
+94,1833,"Banks, Pet",99,870,11.0
+95,1833,Cabinet,15,870,2.0
+96,1833,Catholicism,1,870,0.0
+97,1833,Character,2,870,0.0
+98,1833,Circuit Court,1,870,0.0
+99,1833,Congress,34,870,4.0
+100,1833,Contracts,2,870,0.0
+101,1833,Corporations,7,870,1.0
+102,1833,Corruption,3,870,0.0
+103,1833,Currency,26,870,3.0
+104,1833,Delegation,1,870,0.0
+105,1833,Democratic Party,8,870,1.0
+106,1833,Disinterestedness,2,870,0.0
+107,1833,Economic Theory,20,870,2.0
+108,1833,Education,1,870,0.0
+109,1833,"Elections, Congressional",1,870,0.0
+110,1833,"Elections, Presidential",1,870,0.0
+111,1833,"Elections, State and Local",2,870,0.0
+112,1833,Emancipation,1,870,0.0
+113,1833,Family Finances (Taney Family),8,870,1.0
+114,1833,Family Relations (Taney Family),5,870,1.0
+115,1833,Family Residences (Taney Family),1,870,0.0
+116,1833,Federal Courts,4,870,0.0
+117,1833,Federalism,7,870,1.0
+118,1833,Foreign Relations,4,870,0.0
+119,1833,House of Representatives,9,870,1.0
+120,1833,Internal Improvements,7,870,1.0
+121,1833,Merchants,5,870,1.0
+122,1833,Native Americans,1,870,0.0
+123,1833,Navy,3,870,0.0
+124,1833,Nullification,5,870,1.0
+125,1833,Patents,1,870,0.0
+126,1833,Patronage,16,870,2.0
+127,1833,Political Partisanship,8,870,1.0
+128,1833,Political Philosophy,3,870,0.0
+129,1833,Political Violence,1,870,0.0
+130,1833,Popular Will,21,870,2.0
+131,1833,Postal Service,5,870,1.0
+132,1833,Presidency,2,870,0.0
+133,1833,President,9,870,1.0
+134,1833,Press,23,870,3.0
+135,1833,Privacy,55,870,6.0
+136,1833,Private Practice,2,870,0.0
+137,1833,Public Debt,3,870,0.0
+138,1833,Public Lands,5,870,1.0
+139,1833,Public Memory,1,870,0.0
+140,1833,Railroads,2,870,0.0
+141,1833,Recreation,1,870,0.0
+142,1833,Religion,1,870,0.0
+143,1833,Removal of Deposits,47,870,5.0
+144,1833,Rule of Law,5,870,1.0
+145,1833,Science and Technology,1,870,0.0
+146,1833,Sectionalism,2,870,0.0
+147,1833,Senate,6,870,1.0
+148,1833,Separation of Powers,6,870,1.0
+149,1833,Statutory Interpretation,7,870,1.0
+150,1833,Supreme Court,6,870,1.0
+151,1833,Tariff of 1828,1,870,0.0
+152,1833,Tariff of 1832,1,870,0.0
+153,1833,Tariff of 1833,1,870,0.0
+154,1833,Territories,5,870,1.0
+155,1833,Transfer Drafts,33,870,4.0
+156,1833,"Travel and Touring, US",3,870,0.0
+157,1833,Treasury Department,105,870,12.0
+158,1833,Treaties,2,870,0.0
+159,1833,U.S. Constitution,1,870,0.0
+160,1833,US Constitution,3,870,0.0
+161,1833,Union,1,870,0.0
+162,1833,Veterans,2,870,0.0
+163,1833,War Department,5,870,1.0
+164,1833,War of 1812,1,870,0.0
+165,1834,American Revolution,1,581,0.0
+166,1834,Army,2,581,0.0
+167,1834,Attorney General,1,581,0.0
+168,1834,Bank Failures,22,581,4.0
+169,1834,Bank Veto,2,581,0.0
+170,1834,Bank War,43,581,7.000000000000001
+171,1834,Bank of the United States,46,581,8.0
+172,1834,"Banks, Pet",66,581,11.0
+173,1834,Censure,2,581,0.0
+174,1834,Character,5,581,1.0
+175,1834,Circuit Court,1,581,0.0
+176,1834,Congress,15,581,3.0
+177,1834,Constitutional Interpretation,1,581,0.0
+178,1834,Contracts,2,581,0.0
+179,1834,Corporations,5,581,1.0
+180,1834,Corruption,1,581,0.0
+181,1834,Currency,24,581,4.0
+182,1834,Delegation,1,581,0.0
+183,1834,Democratic Party,9,581,2.0
+184,1834,Economic Theory,23,581,4.0
+185,1834,"Elections, Congressional",8,581,1.0
+186,1834,"Elections, Presidential",4,581,1.0
+187,1834,"Elections, State and Local",8,581,1.0
+188,1834,Family Finances (Taney Family),5,581,1.0
+189,1834,Family Relations (Taney Family),1,581,0.0
+190,1834,Family Residences (Taney Family),3,581,1.0
+191,1834,Federalism,1,581,0.0
+192,1834,Financial Panics,2,581,0.0
+193,1834,Health and Illness,5,581,1.0
+194,1834,House of Representatives,15,581,3.0
+195,1834,Internal Improvements,5,581,1.0
+196,1834,Merchants,6,581,1.0
+197,1834,Native Americans,2,581,0.0
+198,1834,Navy,1,581,0.0
+199,1834,Patronage,10,581,2.0
+200,1834,Political Partisanship,5,581,1.0
+201,1834,Popular Will,13,581,2.0
+202,1834,Postal Service,2,581,0.0
+203,1834,President,1,581,0.0
+204,1834,Press,10,581,2.0
+205,1834,Privacy,57,581,10.0
+206,1834,Private Practice,3,581,1.0
+207,1834,Public Health,4,581,1.0
+208,1834,Public Lands,10,581,2.0
+209,1834,Railroads,8,581,1.0
+210,1834,Removal of Deposits,8,581,1.0
+211,1834,Sectionalism,1,581,0.0
+212,1834,Senate,13,581,2.0
+213,1834,Separation of Powers,1,581,0.0
+214,1834,Speeches,2,581,0.0
+215,1834,Statutory Interpretation,2,581,0.0
+216,1834,Supreme Court,2,581,0.0
+217,1834,Tariffs,1,581,0.0
+218,1834,Tranfer Drafts,1,581,0.0
+219,1834,Transfer Drafts,20,581,3.0
+220,1834,"Travel and Touring, US",12,581,2.0
+221,1834,Treasury Department,47,581,8.0
+222,1834,US Constitution,2,581,0.0
+223,1834,Veto Power,1,581,0.0
+224,1834,War of 1812,2,581,0.0
+225,1834,Whig Party,5,581,1.0
+226,1835,Bank Failures,5,105,5.0
+227,1835,Bank War,5,105,5.0
+228,1835,Bank of the United States,5,105,5.0
+229,1835,"Banks, Pet",5,105,5.0
+230,1835,Cabinet,1,105,1.0
+231,1835,Catholicism,1,105,1.0
+232,1835,Censure,1,105,1.0
+233,1835,Congress,1,105,1.0
+234,1835,Corporations,1,105,1.0
+235,1835,Currency,2,105,2.0
+236,1835,Democratic Party,3,105,3.0
+237,1835,Disinterestedness,2,105,2.0
+238,1835,Economic Theory,3,105,3.0
+239,1835,Education,1,105,1.0
+240,1835,"Elections, Congressional",3,105,3.0
+241,1835,"Elections, Presidential",2,105,2.0
+242,1835,"Elections, State and Local",3,105,3.0
+243,1835,Family Relations (Taney Family),4,105,4.0
+244,1835,Health and Illness,6,105,6.0
+245,1835,Judicial Philosophy,1,105,1.0
+246,1835,Patronage,4,105,4.0
+247,1835,Personal Habits,1,105,1.0
+248,1835,Political Partisanship,3,105,3.0
+249,1835,Political Philosophy,2,105,2.0
+250,1835,Political Violence,1,105,1.0
+251,1835,Popular Will,2,105,2.0
+252,1835,Postal Service,2,105,2.0
+253,1835,Press,3,105,3.0
+254,1835,Privacy,5,105,5.0
+255,1835,Private Practice,3,105,3.0
+256,1835,Public Disturbances,3,105,3.0
+257,1835,Public Memory,1,105,1.0
+258,1835,Recreation,6,105,6.0
+259,1835,Religion,1,105,1.0
+260,1835,Senate,2,105,2.0
+261,1835,Supreme Court Nominations,2,105,2.0
+262,1835,Transfer Drafts,1,105,1.0
+263,1835,"Travel and Touring, US",7,105,7.000000000000001
+264,1835,Whig Party,1,105,1.0
+265,1836,Army,1,200,0.0
+266,1836,Bank Failures,3,200,2.0
+267,1836,Bank War,6,200,3.0
+268,1836,Bank of the United States,10,200,5.0
+269,1836,"Banks, Pet",8,200,4.0
+270,1836,Censure,2,200,1.0
+271,1836,Circuit Court,3,200,2.0
+272,1836,Congress,6,200,3.0
+273,1836,Contracts,1,200,0.0
+274,1836,Corporations,1,200,0.0
+275,1836,Currency,7,200,4.0
+276,1836,Democratic Party,4,200,2.0
+277,1836,Disinterestedness,4,200,2.0
+278,1836,Economic Theory,4,200,2.0
+279,1836,"Elections, Presidential",5,200,2.0
+280,1836,"Elections, State and Local",3,200,2.0
+281,1836,Equality,1,200,0.0
+282,1836,Family Relations (Taney Family),5,200,2.0
+283,1836,Federal Courts,1,200,0.0
+284,1836,Federalism,1,200,0.0
+285,1836,Financial Panics,1,200,0.0
+286,1836,Foreign Relations,2,200,1.0
+287,1836,Health and Illness,1,200,0.0
+288,1836,House of Representatives,4,200,2.0
+289,1836,Judicial Philosophy,1,200,0.0
+290,1836,Maryland Legislature,7,200,4.0
+291,1836,Merchants,2,200,1.0
+292,1836,Navy,1,200,0.0
+293,1836,Patronage,5,200,2.0
+294,1836,Personal Habits,1,200,0.0
+295,1836,Political Partisanship,3,200,2.0
+296,1836,Popular Will,5,200,2.0
+297,1836,Postal Service,3,200,2.0
+298,1836,President,2,200,1.0
+299,1836,Press,7,200,4.0
+300,1836,Privacy,11,200,6.0
+301,1836,Private Practice,5,200,2.0
+302,1836,Public Debt,1,200,0.0
+303,1836,Public Disturbances,7,200,4.0
+304,1836,Public Lands,2,200,1.0
+305,1836,Public Memory,1,200,0.0
+306,1836,Religion,1,200,0.0
+307,1836,Removal of Deposits,1,200,0.0
+308,1836,Senate,9,200,4.0
+309,1836,Separation of Powers,3,200,2.0
+310,1836,Specie Circular,2,200,1.0
+311,1836,Speeches,1,200,0.0
+312,1836,Statutory Interpretation,1,200,0.0
+313,1836,Supreme Court,3,200,2.0
+314,1836,Supreme Court Nominations,10,200,5.0
+315,1836,Taxing Power,2,200,1.0
+316,1836,"Travel and Touring, US",9,200,4.0
+317,1836,Treasury Department,2,200,1.0
+318,1836,Treaties,1,200,0.0
+319,1836,US Constitution,2,200,1.0
+320,1836,Veto Power,1,200,0.0
+321,1836,Whig Party,4,200,2.0
+322,1837,Bank Failures,2,127,2.0
+323,1837,Bank War,2,127,2.0
+324,1837,Bank of the United States,6,127,5.0
+325,1837,"Banks, Pet",9,127,7.000000000000001
+326,1837,Cabinet,1,127,1.0
+327,1837,Censure,1,127,1.0
+328,1837,Circuit Court,2,127,2.0
+329,1837,Congress,7,127,6.0
+330,1837,Corporations,1,127,1.0
+331,1837,Currency,5,127,4.0
+332,1837,Democratic Party,1,127,1.0
+333,1837,Disinterestedness,1,127,1.0
+334,1837,Economic Theory,4,127,3.0
+335,1837,"Elections, State and Local",2,127,2.0
+336,1837,Family Finances (Taney Family),2,127,2.0
+337,1837,Family Relations (Taney Family),1,127,1.0
+338,1837,Family Residences (Taney Family),2,127,2.0
+339,1837,Federalism,1,127,1.0
+340,1837,Health and Illness,3,127,2.0
+341,1837,House of Representatives,5,127,4.0
+342,1837,Judicial Philosophy,2,127,2.0
+343,1837,Juries,1,127,1.0
+344,1837,Maryland Judiciary,1,127,1.0
+345,1837,Maryland Legislature,1,127,1.0
+346,1837,Merchants,3,127,2.0
+347,1837,Panic of 1837,3,127,2.0
+348,1837,Patronage,3,127,2.0
+349,1837,Personal Habits,1,127,1.0
+350,1837,Political Partisanship,3,127,2.0
+351,1837,Popular Will,4,127,3.0
+352,1837,Postal Service,1,127,1.0
+353,1837,President,1,127,1.0
+354,1837,Press,3,127,2.0
+355,1837,Privacy,9,127,7.000000000000001
+356,1837,Recreation,2,127,2.0
+357,1837,Removal of Deposits,3,127,2.0
+358,1837,Senate,2,127,2.0
+359,1837,Separation of Powers,3,127,2.0
+360,1837,Slavery,1,127,1.0
+361,1837,Specie Circular,1,127,1.0
+362,1837,Supreme Court,7,127,6.0
+363,1837,"Travel and Touring, US",7,127,6.0
+364,1837,Treasury Department,4,127,3.0
+365,1837,Veterans,1,127,1.0
+366,1837,War of 1812,1,127,1.0
+367,1837,Whig Party,1,127,1.0
+368,1838,Bank War,2,41,5.0
+369,1838,Bank of the United States,2,41,5.0
+370,1838,"Banks, Pet",1,41,2.0
+371,1838,Cabinet,1,41,2.0
+372,1838,Character,1,41,2.0
+373,1838,Circuit Court,1,41,2.0
+374,1838,Congress,1,41,2.0
+375,1838,Corporations,1,41,2.0
+376,1838,Currency,2,41,5.0
+377,1838,Democratic Party,1,41,2.0
+378,1838,"Elections, Congressional",1,41,2.0
+379,1838,"Elections, Presidential",1,41,2.0
+380,1838,"Elections, State and Local",2,41,5.0
+381,1838,Family Relations (Taney Family),1,41,2.0
+382,1838,Federalist Party,1,41,2.0
+383,1838,Health and Illness,2,41,5.0
+384,1838,Merchants,1,41,2.0
+385,1838,Panic of 1837,1,41,2.0
+386,1838,Patronage,1,41,2.0
+387,1838,Political Philosophy,1,41,2.0
+388,1838,Popular Will,2,41,5.0
+389,1838,President,1,41,2.0
+390,1838,Press,2,41,5.0
+391,1838,Privacy,1,41,2.0
+392,1838,Supreme Court,2,41,5.0
+393,1838,Taney Family Residences,1,41,2.0
+394,1838,"Travel and Touring, US",3,41,7.000000000000001
+395,1838,Treasury Department,1,41,2.0
+396,1838,US Constitution,1,41,2.0
+397,1838,War of 1812,1,41,2.0
+398,1838,Whig Party,1,41,2.0
+399,1839,Bank War,2,33,6.0
+400,1839,Bank of the United States,1,33,3.0
+401,1839,Cabinet,1,33,3.0
+402,1839,Circuit Court,3,33,9.0
+403,1839,Congress,1,33,3.0
+404,1839,Currency,1,33,3.0
+405,1839,Democratic Party,2,33,6.0
+406,1839,Economic Theory,1,33,3.0
+407,1839,"Elections, Congressional",1,33,3.0
+408,1839,"Elections, State and Local",1,33,3.0
+409,1839,Family Relations (Taney Family),1,33,3.0
+410,1839,Health and Illness,1,33,3.0
+411,1839,Merchants,1,33,3.0
+412,1839,Political Partisanship,2,33,6.0
+413,1839,Popular Will,1,33,3.0
+414,1839,Postal Service,1,33,3.0
+415,1839,Press,2,33,6.0
+416,1839,Privacy,2,33,6.0
+417,1839,Recreation,1,33,3.0
+418,1839,Sectionalism,1,33,3.0
+419,1839,Supreme Court,2,33,6.0
+420,1839,"Travel and Touring, US",3,33,9.0
+421,1839,Whig Party,1,33,3.0
+422,1840,Bank War,1,20,5.0
+423,1840,Bank of the United States,1,20,5.0
+424,1840,Cabinet,1,20,5.0
+425,1840,Censure,1,20,5.0
+426,1840,Congress,1,20,5.0
+427,1840,Health and Illness,2,20,10.0
+428,1840,House of Representatives,1,20,5.0
+429,1840,Patronage,1,20,5.0
+430,1840,Postal Service,1,20,5.0
+431,1840,President,1,20,5.0
+432,1840,Press,1,20,5.0
+433,1840,Privacy,1,20,5.0
+434,1840,Public Memory,1,20,5.0
+435,1840,Removal of Deposits,1,20,5.0
+436,1840,Senate,1,20,5.0
+437,1840,Supreme Court,1,20,5.0
+438,1840,"Travel and Touring, US",1,20,5.0
+439,1840,Treasury Department,1,20,5.0
+440,1840,Whig Party,1,20,5.0
+441,1841,Bank War,2,31,6.0
+442,1841,Bank of the United States,2,31,6.0
+443,1841,Congress,2,31,6.0
+444,1841,Currency,1,31,3.0
+445,1841,"Elections, Congressional",1,31,3.0
+446,1841,"Elections, Presidential",1,31,3.0
+447,1841,"Elections, State and Local",2,31,6.0
+448,1841,Federalism,1,31,3.0
+449,1841,Health and Illness,2,31,6.0
+450,1841,Independent Treasury,1,31,3.0
+451,1841,Nullification,1,31,3.0
+452,1841,Panic of 1837,1,31,3.0
+453,1841,Patronage,1,31,3.0
+454,1841,Political Partisanship,1,31,3.0
+455,1841,Popular Will,1,31,3.0
+456,1841,President,1,31,3.0
+457,1841,Press,1,31,3.0
+458,1841,Privacy,1,31,3.0
+459,1841,Public Lands,1,31,3.0
+460,1841,Removal of Deposits,1,31,3.0
+461,1841,Senate,1,31,3.0
+462,1841,States Rights,1,31,3.0
+463,1841,US Constitution,1,31,3.0
+464,1841,Union,1,31,3.0
+465,1841,Whig Party,2,31,6.0
+466,1843,Bank of the United States,1,8,12.0
+467,1843,Currency,1,8,12.0
+468,1843,Family Relations (Taney Family),1,8,12.0
+469,1843,Health and Illness,1,8,12.0
+470,1843,Political Partisanship,1,8,12.0
+471,1843,Press,1,8,12.0
+472,1843,Public Memory,1,8,12.0
+473,1843,War of 1812,1,8,12.0
+474,1844,Attorney General,1,20,5.0
+475,1844,Bank War,1,20,5.0
+476,1844,Bank of the United States,1,20,5.0
+477,1844,Circuit Court,1,20,5.0
+478,1844,Constitutional Interpretation,1,20,5.0
+479,1844,Democratic Party,2,20,10.0
+480,1844,"Elections, Presidential",3,20,15.0
+481,1844,Foreign Relations,1,20,5.0
+482,1844,Health and Illness,1,20,5.0
+483,1844,Judicial Philosophy,1,20,5.0
+484,1844,Political Partisanship,2,20,10.0
+485,1844,Popular Will,1,20,5.0
+486,1844,Supreme Court,2,20,10.0
+487,1844,Texas Annexation,1,20,5.0
+488,1844,"Travel and Touring, US",1,20,5.0
+489,1845,Cabinet,1,9,11.0
+490,1845,Catholicism,1,9,11.0
+491,1845,Congress,1,9,11.0
+492,1845,Family Relations (Taney Family),1,9,11.0
+493,1845,Federal Courts,1,9,11.0
+494,1845,Personal Habits,1,9,11.0
+495,1845,President,1,9,11.0
+496,1845,Supreme Court,1,9,11.0
+497,1845,Supreme Court Nominations,1,9,11.0
+498,1849,Alien and Sedition Acts,1,35,3.0
+499,1849,Bank Veto,1,35,3.0
+500,1849,Bank War,1,35,3.0
+501,1849,Bank of the United States,1,35,3.0
+502,1849,"Banks, Pet",1,35,3.0
+503,1849,Cabinet,1,35,3.0
+504,1849,Congress,1,35,3.0
+505,1849,Corruption,1,35,3.0
+506,1849,Currency,1,35,3.0
+507,1849,Democratic Party,1,35,3.0
+508,1849,"Elections, Presidential",1,35,3.0
+509,1849,Embargo,1,35,3.0
+510,1849,Federalist Party,1,35,3.0
+511,1849,Foreign Relations,1,35,3.0
+512,1849,Hartford Convention,1,35,3.0
+513,1849,Health and Illness,1,35,3.0
+514,1849,House of Representatives,1,35,3.0
+515,1849,Merchants,1,35,3.0
+516,1849,Nullification,1,35,3.0
+517,1849,Patronage,1,35,3.0
+518,1849,Political Partisanship,1,35,3.0
+519,1849,Political Philosophy,1,35,3.0
+520,1849,Popular Will,1,35,3.0
+521,1849,President,1,35,3.0
+522,1849,Press,1,35,3.0
+523,1849,Public Debt,1,35,3.0
+524,1849,Railroads,1,35,3.0
+525,1849,Recreation,1,35,3.0
+526,1849,Removal of Deposits,1,35,3.0
+527,1849,Sectionalism,1,35,3.0
+528,1849,Senate,1,35,3.0
+529,1849,"Travel and Touring, US",1,35,3.0
+530,1849,US Constitution,1,35,3.0
+531,1849,War of 1812,1,35,3.0
+532,1849,Whig Party,1,35,3.0
+533,1856,Congress,1,5,20.0
+534,1856,Family Relations (Taney Family),1,5,20.0
+535,1856,Maryland Judiciary,1,5,20.0
+536,1856,Public Memory,1,5,20.0
+537,1856,War of 1812,1,5,20.0
+538,1860,Alien and Sedition Acts,1,48,2.0
+539,1860,Bank Veto,2,48,4.0
+540,1860,Bank War,4,48,8.0
+541,1860,Bank of the United States,5,48,10.0
+542,1860,Cabinet,3,48,6.0
+543,1860,Circuit Court,1,48,2.0
+544,1860,Congress,3,48,6.0
+545,1860,Corruption,1,48,2.0
+546,1860,Currency,1,48,2.0
+547,1860,Family Relations (Taney Family),1,48,2.0
+548,1860,Financial Panics,1,48,2.0
+549,1860,Foreign Relations,1,48,2.0
+550,1860,Health and Illness,4,48,8.0
+551,1860,Merchants,1,48,2.0
+552,1860,Patronage,1,48,2.0
+553,1860,Political Partisanship,1,48,2.0
+554,1860,Presidency,1,48,2.0
+555,1860,President,1,48,2.0
+556,1860,Privacy,2,48,4.0
+557,1860,Public Memory,1,48,2.0
+558,1860,Removal of Deposits,4,48,8.0
+559,1860,Senate,1,48,2.0
+560,1860,Separation of Powers,2,48,4.0
+561,1860,Supreme Court,2,48,4.0
+562,1860,Treaties,1,48,2.0
+563,1860,US Constitution,1,48,2.0
+564,1860,Veto Power,1,48,2.0
+565,1866,Bank War,1,6,17.0
+566,1866,Bank of the United States,1,6,17.0
+567,1866,"Banks, Pet",1,6,17.0
+568,1866,Dred Scott v. Sandford,1,6,17.0
+569,1866,Family Relations (Taney Family),1,6,17.0
+570,1866,Supreme Court,1,6,17.0
