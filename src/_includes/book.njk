@@ -1,8 +1,8 @@
 <div class="book">
-    <div onclick="window.location.href='{{type}}/{{ author }}/index.html';" class="side spine">
+    <div onclick="window.location.href='{% if type %}{{ type }}/{% endif %}{{ author }}/index.html';" class="side spine">
         <span class="spine-title">{{ title }}</span>
     </div>
     <div class="side top"></div>
-    <div onclick="window.location.href='{{type}}/{{ author }}/index.html';" class="side cover"
-        style="background-image: url('/images/bookimages/{{ author }}.jpg');"></div>
+    <div onclick="window.location.href='{% if type %}{{ type }}/{% endif %}{{ author }}/index.html';" class="side cover"
+         style="background-image: url('/images/bookimages/{{ author }}.jpg');"></div>
 </div>
