@@ -71,7 +71,7 @@ export default function (html_func) {
     const isClickInsideTooltip = selection && selection.node().contains(event.target);
 
     // Check if the clicked element is a rect within a g element with the class 'task'
-    const isClickOnTaskRect = 
+    const isClickOnTaskRect =
       event.target.tagName === 'rect' &&
       event.target.parentNode.classList.contains('task');
 

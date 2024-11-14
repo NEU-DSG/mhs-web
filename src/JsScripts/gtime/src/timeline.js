@@ -68,14 +68,14 @@ function hideTasksWithDashClass() {
 
 
 function shiftcolumns(headerRowElement, yGroupSelection, adjvalue) {
-/*
-  Misha
-  Shifts the positions of rows and associated elements vertically by a given adjustment value.
-  
-  This function adjusts the vertical positioning of the rows, task rects, text elements, 
-  the vertical path, and the bottom axis based on the specified adjustment value (`adjvalue`). 
- */
- 
+  /*
+    Misha
+    Shifts the positions of rows and associated elements vertically by a given adjustment value.
+    
+    This function adjusts the vertical positioning of the rows, task rects, text elements, 
+    the vertical path, and the bottom axis based on the specified adjustment value (`adjvalue`). 
+   */
+
 
   // The classes of the clicked element
   const headerRow = d3.select(headerRowElement,);
@@ -131,16 +131,16 @@ function shiftcolumns(headerRowElement, yGroupSelection, adjvalue) {
 
   // Changes the x ticks 
   d3.selectAll(".tick line")
-  .each(function () {
-    const tick = d3.select(this);
-    const currentY1 = parseFloat(tick.attr("y1")) 
+    .each(function () {
+      const tick = d3.select(this);
+      const currentY1 = parseFloat(tick.attr("y1"))
 
 
-    if (!isNaN(currentY1)){
-      tick.attr("y1", currentY1+ adjvalue);
-    }
-    
-  });
+      if (!isNaN(currentY1)) {
+        tick.attr("y1", currentY1 + adjvalue);
+      }
+
+    });
 
   // Select the <path> element with stroke-width="1.75"
   const pathElement = document.querySelector('path[stroke-width="1.75"]');
@@ -363,13 +363,13 @@ function getaffectedcolumns(headerRowElement, yGroupSelection) {
 
 function collapseAll() {
   const collapseButton = document.getElementById('collapseAllButton');
-  
+
   collapseButton.disabled = true; // Temporarily disable the button
 
   let collapsePromises = [];
 
   // Loop through each header and collapse only the expanded ones
-  d3.selectAll("g.row.timelineheader text").each(function() {
+  d3.selectAll("g.row.timelineheader text").each(function () {
     const text = d3.select(this).text();
 
     if (text === "-") {
@@ -378,7 +378,7 @@ function collapseAll() {
       const adjustment = rows.length * 38;
 
       let collapsePromise = transitionDown(headerElement, rows, "none").then(() => {
-        shiftcolumns(headerElement,d3.select(headerElement.parentNode), -adjustment);
+        shiftcolumns(headerElement, d3.select(headerElement.parentNode), -adjustment);
         d3.select(this).text("+").style("font-size", "20px"); // Change to plus sign and adjust font
       });
 
@@ -400,7 +400,7 @@ function expandAll() {
   let expandPromises = [];
 
   // Iterate through each header and expand those that are collapsed
-  d3.selectAll("g.row.timelineheader text").each(function() {
+  d3.selectAll("g.row.timelineheader text").each(function () {
     const text = d3.select(this).text();
 
     if (text === "+") {
@@ -520,14 +520,14 @@ export default function (collection) {
       const g = svg.append("g").attr("transform", "translate(" + 0 + "," + 20 + ")");;
       const yGroup = g.append("g").attr("class", "y axis").call(yAxis);
 
-        // Select the <path> element with stroke-width="1.75"
-  const pathElement = document.querySelector('path[stroke-width="1.75"]');
-  let pathD = pathElement.getAttribute('d');
+      // Select the <path> element with stroke-width="1.75"
+      const pathElement = document.querySelector('path[stroke-width="1.75"]');
+      let pathD = pathElement.getAttribute('d');
 
-  // Extract the vertical endpoint from the path (e.g., "V6270") using a regex
-  let pathValues = pathD.match(/M([\d.-]+),([\d.-]+)V([\d.-]+)/);
+      // Extract the vertical endpoint from the path (e.g., "V6270") using a regex
+      let pathValues = pathD.match(/M([\d.-]+),([\d.-]+)V([\d.-]+)/);
 
-  let PathxValue = parseFloat(pathValues[1]);
+      let PathxValue = parseFloat(pathValues[1]);
 
       yGroup.selectAll("text")
         .on("mouseover", function () {
@@ -559,7 +559,7 @@ export default function (collection) {
           window.open(url, "_blank");
         });
 
-        
+
 
       yGroup.selectAll("g.row")
         .each(function (d) {
@@ -575,7 +575,7 @@ export default function (collection) {
             d3.select(this)  // Select the current <g> group
               .classed("timelineheader", true)
               .append("text")  // Append a new <text> element for the icon
-              .attr("x", PathxValue-10)  // Set the position of the icon
+              .attr("x", PathxValue - 10)  // Set the position of the icon
               .attr("y", 25)  // Align the icon vertically with the text
               .text("-")  // Set the icon content
               .style("text-anchor", "end")
@@ -598,8 +598,8 @@ export default function (collection) {
             collapsed_rows -= 1
             expanded_rows += 1
 
-            console.log("Collapsed: ",collapsed_rows);
-            console.log("Expanded: ",expanded_rows);
+            console.log("Collapsed: ", collapsed_rows);
+            console.log("Expanded: ", expanded_rows);
 
             let rows = getaffectedcolumns(this.parentNode, yGroup);
             let adjustment = rows.length * 38
@@ -620,8 +620,8 @@ export default function (collection) {
             collapsed_rows += 1
             expanded_rows -= 1
 
-            console.log("Collapsed: ",collapsed_rows);
-            console.log("Expanded: ",expanded_rows);
+            console.log("Collapsed: ", collapsed_rows);
+            console.log("Expanded: ", expanded_rows);
 
             let rows = getaffectedcolumns(this.parentNode, yGroup);
             let adjustment = rows.length * 38
@@ -655,20 +655,20 @@ export default function (collection) {
 
         });
 
-// Select all text elements and filter those starting with " •"
-const NumHeaders = d3.selectAll("text")
-  .filter(function () {
-    return this.textContent.startsWith(" •");
-  }).size();
+      // Select all text elements and filter those starting with " •"
+      const NumHeaders = d3.selectAll("text")
+        .filter(function () {
+          return this.textContent.startsWith(" •");
+        }).size();
 
-expanded_rows = NumHeaders;
+      expanded_rows = NumHeaders;
 
       let range = yAxis.range();
 
       xScale.range([range[0] + padding, range[1] - padding]).clamp(true);
 
       const xAxis = d3.axisBottom(xScale);
-      
+
       const xGroup = g
         .append("g")
         .attr("class", "x axis")
@@ -733,7 +733,7 @@ expanded_rows = NumHeaders;
         .style("fill", pipe(names, cScale));
 
 
- 
+
 
 
 
@@ -751,7 +751,7 @@ expanded_rows = NumHeaders;
         .attr("transform", (d) => translate(xScale(starts(d)), yScale(labels(d))))
         .selectAll("rect")
         .attr("width", (d) => xScale(ends(d)) - xScale(starts(d)) || milestone_width)
-   
+
 
       if (today)
         g.append("path")
@@ -795,24 +795,24 @@ expanded_rows = NumHeaders;
 
   function tooltip_html(event, d) {
     const format = pipe(d3.isoParse, d3.timeFormat("%Y"));
-  
+
     // Header with the name and a horizontal rule
     const header = `<b>${names(d)}</b><hr style="margin: 2px 0 2px 0">${format(starts(d))}`;
-  
+
     // Body with the formatted end date and duration (if applicable)
-    const body = ends(d) - starts(d) 
-      ? ` - ${format(ends(d))}, ${durationFormat(starts(d), ends(d))}` 
+    const body = ends(d) - starts(d)
+      ? ` - ${format(ends(d))}, ${durationFormat(starts(d), ends(d))}`
       : "";
-  
+
     // Generate the dynamic URL for the docs link
     const subjectTitle = String(d[1]);
     let searchSubject = subjectTitle.replace(/ /g, "%20").replace("Topic,%20", "");
-  
+
     const startDateStr = formatDate(d[2]);  // Format start date
     const endDateStr = formatDate(d[3]);    // Format end date
-  
+
     const url = `https://www.primarysourcecoop.org/publications/${collection}/search#q%3D%2Bsubject%3A%22${searchSubject}%22%20%2Bdate_when%3A%5B${startDateStr}%20TO%20${endDateStr}%5D%7Crows=20%7Cstart=0%7Chl=true%7Chl.fl=text_merge%7Csort=date_when%20asc%7Cff=person_keyword;subject%7Cfl=id%20index%20title%20filename%20resource_group_name%20date_when%20date_to%20author%20recipient%20person_keyword%20subject%20doc_beginning`;
-  
+
     // Add the clickable link to the tooltip
     const link = `<br><a href="${url}" target="_blank">${d[4]} Docs</a>`;
     // Combine the header, body, and link into the final tooltip content

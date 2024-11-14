@@ -2,72 +2,72 @@
 
 {% block head %}
     <title>PSC Lab Space {{ title }}</title>
-        <link rel="stylesheet" href="../../styles/bookshelf.css"/>
-        <script type="module" src="../../styles/bookshelf.js"></script>
+    <link rel="stylesheet" href="../../styles/bookshelf.css"/>
+    <script type="module" src="../../styles/bookshelf.js"></script>
 {% endblock %}
 
 {% block content %}
 
-        <div style="width: 60%;" class="main-body">
-            <div class="container">
+    <div style="width: 60%;" class="main-body">
+        <div class="container">
 
-                <h1 id="JQA-header" class="title">{{title}}</h1>
+            <h1 id="JQA-header" class="title">{{title}}</h1>
 
-                <div style="position: absolute; left: 50%; transform: translateX(-50%); margin-top: -30px;">
-                    <button class="button-1" role="button" onclick="window.location.href='/index.html';">Back to Home</button>
-                    <button class="button-1" role="button" onclick="window.location.href='/{{ kind }}';">Back to {{ kind }}</button>
-                </div>
+            <div style="position: absolute; left: 50%; transform: translateX(-50%); margin-top: -30px;">
+                <button class="button-1" role="button" onclick="window.location.href='/index.html';">Back to Home</button>
+                <button class="button-1" role="button" onclick="window.location.href='/{{ kind }}';">Back to {{ kind }}</button>
             </div>
-            <br>
-            <br>
-            <br>
+        </div>
+        <br>
+        <br>
+        <br>
 
-            <div class="bookshelf">
-                {% if kind == "Projects" %}
-                    <!-- Network Graph Tool -->
-                    {% set author = "coref" %}
-                    {% include "book.njk" %}
+        <div class="bookshelf">
+            {% if kind == "Projects" %}
+                <!-- Network Graph Tool -->
+                {% set author = "coref" %}
+                {% include "book.njk" %}
 
-                    <!-- Geo-References Tool -->
-                    {% set author = "geo" %}
-                    {% include "book.njk" %}
+                <!-- Geo-References Tool -->
+                {% set author = "geo" %}
+                {% include "book.njk" %}
 
-                    <!-- Timelines Tool -->
-                    {% set author = "timeline" %}
-                    {% set title = "Subject Timeline Graph" %}
-                    {% include "book.njk" %}
+                <!-- Timelines Tool -->
+                {% set author = "timeline" %}
+                {% set title = "Subject Timeline Graph" %}
+                {% include "book.njk" %}
 
-                {% elif kind == "Tools" %}
-                    <!-- JQA -->
-                    {% set type = "../../projects"%}
-                    {% set author = "JQA" %}
-                    {% set viz = tool %}
-                    {% include "book.njk" %}
+            {% elif kind == "Tools" %}
+                <!-- JQA -->
+                {% set type = "../../projects"%}
+                {% set author = "JQA" %}
+                {% set viz = tool %}
+                {% include "book.njk" %}
 
-                    <!-- CMSOL -->
-                    {% set type = "../../projects"%}
-                    {% set author = "CMSOL" %}
-                    {% set viz = tool %}
-                    {% include "book.njk" %}
+                <!-- CMSOL -->
+                {% set type = "../../projects"%}
+                {% set author = "CMSOL" %}
+                {% set viz = tool %}
+                {% include "book.njk" %}
 
-                    <!-- RBT -->
-                    {% set type = "../../projects"%}
-                    {% set author = "RBT" %}
-                    {% set viz = tool %}
-                    {% include "book.njk" %}
+                <!-- RBT -->
+                {% set type = "../../projects"%}
+                {% set author = "RBT" %}
+                {% set viz = tool %}
+                {% include "book.njk" %}
 
-                {% else %}
-                    <p>Content not found for this section.</p>
+            {% else %}
+                <p>Content not found for this section.</p>
 
-                {% endif %}
-
-            </div>
-
-            <!-- Bookshelf visual below the books -->
-            <div class="visual-bookshelf"></div>
+            {% endif %}
 
         </div>
 
+        <!-- Bookshelf visual below the books -->
+        <div class="visual-bookshelf"></div>
+
     </div>
+
+</div>
 
 {% endblock %}

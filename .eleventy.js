@@ -1,5 +1,5 @@
-module.exports = function(eleventyConfig) {
-  
+module.exports = function (eleventyConfig) {
+
   // Pass through these directories and any sibdirectories
   eleventyConfig.addPassthroughCopy("src/data/**/*");
   eleventyConfig.addPassthroughCopy("src/JsScripts/**/*");
@@ -7,10 +7,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/styles/**/*");
 
   return {
-      dir: {
-          input: "src",   // Input folder (all your source files)
-          output: "_site",  // Output folder
-          includes: "_includes"  // Folder for templates and includes
-      }
+    dir: {
+      input: "src",   // Input folder (all your source files)
+      output: "_site",  // Output folder
+      includes: "_includes"  // Folder for templates and includes
+    }
   };
 };

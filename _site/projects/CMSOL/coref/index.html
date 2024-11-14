@@ -1,37 +1,34 @@
 <!DOCTYPE html>
 <html lang="eng">
 
-<head>
-    <title>PSC Lab Space CMSOL Co-Ref</title>
-    <link rel="icon" type="image/x-icon" href="../../../images/book.ico">
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="../../../styles/oldstyles.css">
-    </link>
-    <link rel="stylesheet" href="../../../styles/d3-dark.css">
-    </link>
-    <link rel="stylesheet" href="../../../styles/slider_styles.css">
-    </link>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-    <link rel="stylesheet" href="../../../styles/tabs-style.css">
+    <head>
+        <title>PSC Lab Space CMSOL Co-Ref</title>
+        <link rel="icon" type="image/x-icon" href="../../../images/book.ico">
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <link rel="stylesheet" href="../../../styles/oldstyles.css"></link>
+        <link rel="stylesheet" href="../../../styles/d3-dark.css"></link>
+        <link rel="stylesheet" href="../../../styles/slider_styles.css"></link>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+        <link rel="stylesheet" href="../../../styles/tabs-style.css">
 
-    <script src="../../../JsScripts/multiselect-dropdown.js"></script>
-    <script src="../../../JsScripts/CreateSliders.js"></script> <!-- Holds the code for the modular sliders-->
-    <script type="text/javascript" src="../../../JsScripts/coRef.js"></script>
-    <!-- Holds the code for the network viz-->
-    <script src="https://code.jquery.com/jquery-3.3.1.js"
-        integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous">
+        <script src="../../../JsScripts/multiselect-dropdown.js"></script>
+        <script src="../../../JsScripts/CreateSliders.js"></script>
+        <!-- Holds the code for the modular sliders-->
+        <script type="text/javascript" src="../../../JsScripts/coRef.js"></script>
+        <!-- Holds the code for the network viz-->
+        <script src="https://code.jquery.com/jquery-3.3.1.js"
+        integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+
+        <script>
+            $(function () {
+                $("#footer").load("/../../footer.html");
+            });
         </script>
 
-    <script>
-        $(function () {
-            $("#footer").load("/../../footer.html");
-        });
-    </script>
+        <script src="https://d3js.org/d3.v7.min.js"></script>
 
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-
-    <!-- Dark Mode Colors
+        <!-- Dark Mode Colors
             Xiketic: 110b11
             Raisin Black: 242124
             Black Coffee: 353135 
@@ -42,94 +39,94 @@
             Antique White: fdeed8
             Floral White: FFFAF0
         -->
-    <style></style>
-</head>
+        <style></style>
+    </head>
 
-<body>
-    <header id="menu">
-        <script src="../../../styles/menu.js"></script>
-    </header>
+    <body>
+        <header id="menu">
+            <script src="../../../styles/menu.js"></script>
+        </header>
 
-    <div style="width: 65%;" class="main-body">
+        <div style="width: 65%;" class="main-body">
 
-        <!-- This is a tab based navigation system. You can add new tabs following this method-->
+            <!-- This is a tab based navigation system. You can add new tabs following this method-->
 
-        <h3 class="subtitle">Catharine Maria Sedgwick Co-reference Network Map</h3>
+            <h3 class="subtitle">Catharine Maria Sedgwick Co-reference Network Map</h3>
 
-        <div style="position: absolute; left: 50%; transform: translateX(-50%); margin-top: 10px; margin-bottom: 40px;">
-            <button class="button-1" role="button" onclick="window.location.href='/projects/CMSOL';">Back to
+            <div style="position: absolute; left: 50%; transform: translateX(-50%); margin-top: 10px; margin-bottom: 40px;">
+                <button class="button-1" role="button" onclick="window.location.href='/projects/CMSOL';">Back to
                 CMS</button>
-            <button class="button-1" role="button" onclick="window.location.href='/tools/coref';">Back to Network
+                <button class="button-1" role="button" onclick="window.location.href='/tools/coref';">Back to Network
                 Maps</button>
-        </div>
-        <br>
-        <div class="tab-menu">
+            </div>
+            <br>
+            <div class="tab-menu">
 
-            <ul class="menu__tabs">
+                <ul class="menu__tabs">
 
-                <!--Marked active here because it is the default-->
-                <li><a class="active" href="#item-1"> <i class="fa-solid fa-circle-info"></i> About</a></li>
+                    <!--Marked active here because it is the default-->
+                    <li>
+                        <a class="active" href="#item-1">
+                            <i class="fa-solid fa-circle-info"></i> About</a>
+                    </li>
 
-                <li><a href="#item-2"> <i class="fa-solid fa-diagram-project"></i> Co-ref Chart </a></li>
+                    <li>
+                        <a href="#item-2">
+                            <i class="fa-solid fa-diagram-project"></i> Co-ref Chart </a>
+                    </li>
 
+                </ul>
 
+                <!--ABove held the tabs, below here holds their contents. THe graphs will be drawn here -->
+                <section class="menu--wrapper">
 
+                    <article id="item-1" class="menu__item item-active">
+                        <br>
+                        <h3 class="subtitle">About</h3>
 
-            </ul>
-
-            <!--ABove held the tabs, below here holds their contents. THe graphs will be drawn here -->
-            <section class="menu--wrapper">
-
-                <article id="item-1" class="menu__item item-active">
-                    <br>
-                    <h3 class="subtitle">About</h3>
-
-                    <div class="about-holder">
-                        <p style="padding-left: 5%; padding-right: 5%;">
+                        <div class="about-holder">
+                            <p style="padding-left: 5%; padding-right: 5%;">
                             Network visualizations showcase the interconnectivity between different entities.
                             Here, they show the co-references of people mentioned in Catharine Sedgwick's letters.
                         </p>
-                        <br>
+                            <br>
 
-                        <ul style="padding-left: 5%; padding-right: 5%;">
-                            <li>
-                                <span>Node:</span> The circles, each representing a different person.
+                            <ul style="padding-left: 5%; padding-right: 5%;">
+                                <li>
+                                    <span>Node:</span> The circles, each representing a different person.
                             </li>
-                            <li>
-                                <span>Edge:</span> The lines, each representing a connection between two people.
+                                <li>
+                                    <span>Edge:</span> The lines, each representing a connection between two people.
                             </li>
-                            <li>
-                                <span>Degree:</span> Counts the number of edges connected to a node.
+                                <li>
+                                    <span>Degree:</span> Counts the number of edges connected to a node.
                                 A node with more connections will appear larger in the visualization.
                             </li>
-                            <li>
-                                <span>Modularity/Community:</span> Groups nodes into distinct communities
+                                <li>
+                                    <span>Modularity/Community:</span> Groups nodes into distinct communities
                                 based on the strength of their connections with one another. Nodes within the
                                 same community are more interconnected, and each community is represented by
                                 a unique color.
                             </li>
-                            <li>
-                                <span>Betweenness:</span> A measure of importance. Specifically, this measures
+                                <li>
+                                    <span>Betweenness:</span> A measure of importance. Specifically, this measures
                                 how important a node is for connecting other nodes, by capturing how often a
                                 node is on the shortest path between other nodes.
                             </li>
-                            <li>
-                                <span>Eigenvector:</span> A measure of importance. Specifically, it both counts
+                                <li>
+                                    <span>Eigenvector:</span> A measure of importance. Specifically, it both counts
                                 the number of connections a node has and also how well-connected its connections are.
                                 A node scores higher if it links to other nodes that themselves have many connections.
                             </li>
-                        </ul>
+                            </ul>
 
+                            <br><br>
+                        </div>
+                        <!--The graph will go inside of this div. This is replicated for all tabs that have possbilities for a graph-->
+                        <div id="G-1" class="Chart-Holder"></div>
                         <br><br>
-                    </div>
-                    <!--The graph will go inside of this div. This is replicated for all tabs that have possbilities for a graph-->
-                    <div id="G-1" class="Chart-Holder">
-
-                    </div>
-                    <br><br>
                     </p>
                 </article>
-
 
                 <article id="item-2" class="menu__item">
                     <br>
@@ -146,14 +143,11 @@
                         creative work. <br><br>
 
                         <!--The graph will go inside of this div. This is replicated for all tabs that have possbilities for a graph-->
-                    <div id="G-2" class="Chart-Holder">
-
-                    </div>
-                    <br><br>
+                        <div id="G-2" class="Chart-Holder"></div>
+                        <br><br>
                     </p>
 
                 </article>
-
 
             </section>
 
@@ -183,7 +177,7 @@
 
                     <div style="color: #7a7369;" id="second">
                         <label for="site-search">Search for person by name:</label>
-                        <input type="search" id="site-search" name="q" />
+                        <input type="search" id="site-search" name="q"/>
                         <button onclick="Searched()">Search</button>
                     </div>
 
@@ -191,16 +185,13 @@
 
                 <div class="Filter-Container" id="Filter-Container">
 
-
                     <!--There is a modular filter builder, this uses the CreateSliders.js file to build filters-->
 
                     <div class="child">
 
-
                         <h3 style="color: #7a7369;">Community Filter</h3>
 
                         <div class="slider" style="color: #7a7369;">
-
 
                             <select name="comms" id="comms" multiple multiple multiselect-search="true"
                                 multiselect-select-all="true">
@@ -230,9 +221,7 @@
 
                             </select>
 
-
                         </div>
-
 
                     </div>
 
@@ -251,7 +240,7 @@
             $(function () {
                 var $menu_tabs = $('.menu__tabs li a');
 
-                // This maps a tab to its data file 
+                // This maps a tab to its data file
                 var graphMapping = {
                     "item-1": "example.json",
                     "item-2": "cmsol.json"
@@ -269,12 +258,10 @@
                 $menu_tabs.on("click", function (e) {
                     e.preventDefault();
 
-                    // Sets the slider progress bars back to their default lenghts 
-                    $('.slider .range-slider .progress').css({
-                        'left': '0%', 'right': '0%'
-                    });
+                    // Sets the slider progress bars back to their default lenghts
+                    $('.slider .range-slider .progress').css({'left': '0%', 'right': '0%'});
 
-                    // The ID of the tab that has been clicked on 
+                    // The ID of the tab that has been clicked on
                     var targetArticleID = this.hash;
 
                     // Remove 'active' class from all tabs
@@ -282,7 +269,10 @@
                     $(this).addClass('active'); // Add active class to clicked tab
 
                     // The active tab href code (ie item-1)
-                    var active_tab = this.href.toString().substring(this.href.toString().indexOf("#") + 1);
+                    var active_tab = this
+                        .href
+                        .toString()
+                        .substring(this.href.toString().indexOf("#") + 1);
 
                     // Clear all graphs from all tabs before rendering the new one
                     clearAllGraphs();
@@ -292,7 +282,10 @@
                         // After fadeOut completes, remove 'item-active' from the old article
                         $(this).removeClass('item-active');
 
-                        $(targetArticleID).hide().addClass('item-active').fadeIn(0);  // Fade in new article after class is added
+                        $(targetArticleID)
+                            .hide()
+                            .addClass('item-active')
+                            .fadeIn(0); // Fade in new article after class is added
                     });
 
                     // Check if the tab has a corresponding data script
@@ -300,36 +293,34 @@
                         loadGraph(graphMapping[active_tab], ContainerMapping[active_tab]); // Load the corresponding graph into the correct container
                     }
 
-
-
                 });
 
                 // Function to clear all graphs from all containers
                 function clearAllGraphs() {
                     $('.network').remove();
-                    // Clear any existing graph content inside all graph containers 
+                    // Clear any existing graph content inside all graph containers
 
                 }
 
                 // General function to load the corresponding graph script into the specific container
                 async function loadGraph(graphScript, containerID) {
 
-                    // Create new network div 
+                    // Create new network div
                     var div_string = '<div style="width: 100%;"  class="network"></div>';
 
                     // Insert the div into the container with the provided containerID. Th
                     $(div_string).appendTo(document.getElementById(containerID));
 
-                    // Insert the graph 
+                    // Insert the graph
                     await graph("../../../data/cmsol/coref/" + graphScript);
 
-                    document.getElementById("comms").loadOptions();
+                    document
+                        .getElementById("comms")
+                        .loadOptions();
 
                 }
             });
         </script>
-
-
 
     </div>
     <div id="footer"></div>

@@ -1,55 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+    <head>
+        <title>PSC Lab Space John Quincy Adams&#39;s Diary Digital Project</title>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <link rel="icon" type="image/x-icon" href="/images/book.ico">
+        <link rel="stylesheet" href="/styles/oldstyles.css">
+
+        <!-- Allow pages to add their own head content if needed -->
+        
     <title>PSC Lab Space John Quincy Adams&#39;s Diary Digital Project</title>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" type="image/x-icon" href="/images/book.ico">
-    <link rel="stylesheet" href="/styles/oldstyles.css">
+    <link rel="stylesheet" href="../../styles/bookshelf.css"/>
+    <script type="module" src="../../styles/bookshelf.js"></script>
 
-    <!-- Allow pages to add their own head content if needed -->
-    
-    <title>PSC Lab Space John Quincy Adams&#39;s Diary Digital Project</title>
-        <link rel="stylesheet" href="../../styles/bookshelf.css"/>
-        <script type="module" src="../../styles/bookshelf.js"></script>
+    </head>
 
-</head>
+    <body>
+        <header id="menu">
+            <script src="/styles/menu.js"></script>
+            <br>
+        </header>
 
-<body>
-    <header id="menu">
-        <script src="/styles/menu.js"></script>
-        <br>
-    </header>
+        <!-- Page content will be injected here -->
+        
 
-    <!-- Page content will be injected here -->
-    
+    <div style="width: 60%;" class="main-body">
+        <div class="container">
 
-        <div style="width: 60%;" class="main-body">
-            <div class="container">
+            <h1 id="JQA-header" class="title">John Quincy Adams&#39;s Diary Digital Project</h1>
 
-                <h1 id="JQA-header" class="title">John Quincy Adams&#39;s Diary Digital Project</h1>
-
-                <div style="position: absolute; left: 50%; transform: translateX(-50%); margin-top: -30px;">
-                    <button class="button-1" role="button" onclick="window.location.href='/index.html';">Back to Home</button>
-                    <button class="button-1" role="button" onclick="window.location.href='/Projects';">Back to Projects</button>
-                </div>
+            <div style="position: absolute; left: 50%; transform: translateX(-50%); margin-top: -30px;">
+                <button class="button-1" role="button" onclick="window.location.href='/index.html';">Back to Home</button>
+                <button class="button-1" role="button" onclick="window.location.href='/Projects';">Back to Projects</button>
             </div>
-            <br>
-            <br>
-            <br>
+        </div>
+        <br>
+        <br>
+        <br>
 
-            <div class="bookshelf">
+        <div class="bookshelf">
+            
+                <!-- Network Graph Tool -->
                 
-                    <!-- Network Graph Tool -->
-                    
-                    <div class="book">
+                <div class="book">
 
-       
+    
 
     <!-- If title is unset, look up from the dictionary based on author -->
     
-
-
 
     <div onclick="window.location.href='coref/index.html';" class="side spine">
         <span class="spine-title">Co-reference Network Graph</span>
@@ -59,16 +57,14 @@
          style="background-image: url('/images/bookimages/coref.jpg');"></div>
 </div>
 
-                    <!-- Geo-References Tool -->
-                    
-                    <div class="book">
+                <!-- Geo-References Tool -->
+                
+                <div class="book">
 
-       
+    
 
     <!-- If title is unset, look up from the dictionary based on author -->
     
-
-
 
     <div onclick="window.location.href='geo/index.html';" class="side spine">
         <span class="spine-title">Geo Reference Map</span>
@@ -78,17 +74,15 @@
          style="background-image: url('/images/bookimages/geo.jpg');"></div>
 </div>
 
-                    <!-- Timelines Tool -->
-                    
-                    
-                    <div class="book">
+                <!-- Timelines Tool -->
+                
+                
+                <div class="book">
 
-       
+    
 
     <!-- If title is unset, look up from the dictionary based on author -->
     
-
-
 
     <div onclick="window.location.href='timeline/index.html';" class="side spine">
         <span class="spine-title">Subject Timeline Graph</span>
@@ -98,25 +92,25 @@
          style="background-image: url('/images/bookimages/timeline.jpg');"></div>
 </div>
 
-                
-
-            </div>
-
-            <!-- Bookshelf visual below the books -->
-            <div class="visual-bookshelf"></div>
+            
 
         </div>
 
+        <!-- Bookshelf visual below the books -->
+        <div class="visual-bookshelf"></div>
+
     </div>
 
+</div>
 
 
-    <!-- Footer -->
-    <div id="footer-box" style="height: 70px; text-align: center; background-color:#94b3ae; color: #FFF; position: absolute; bottom: 0; width: 100%;">
-        <br>
+
+        <!-- Footer -->
+        <div id="footer-box" style="height: 70px; text-align: center; background-color:#94b3ae; color: #FFF; position: absolute; bottom: 0; width: 100%;">
+            <br>
         Created by the Northeastern Digital Scholarship Group (DSG) in collaboration with the Massachusetts Historical
         Society (MHS). Designed to work alongside the MHS Primary Source Cooperative.
         <br>
-    </div>
-</body>
+        </div>
+    </body>
 </html>

@@ -4,8 +4,8 @@ html {
 	box-sizing: border-box;
 }
 
-*, 
-*:before, 
+*,
+*:before,
 *:after {
 	margin: 0;
 	padding: 0;
@@ -14,81 +14,80 @@ html {
 	box-sizing: inherit;
 }
 
-
-
 .menu__tabs {
-    list-style: none;
-    display: flex;
-    justify-content: space-between;
-    padding: 0;
-    margin: 0;
-    width: 100%;
-    position: relative;
-    z-index: 10;
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	position: relative;
+	z-index: 10;
 }
 
 .menu__tabs li {
-    flex: 1 1 0;
-    min-width: 0;
-    position: relative;
-    z-index: 10;
+	flex: 1 1 0;
+	min-width: 0;
+	position: relative;
+	z-index: 10;
 }
 
 .menu__tabs a {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    white-space: nowrap;
-    padding: 1em;
-    background: #94b3ae;
-    color: #FFF;
-    text-decoration: none;
-    border-radius: 10px 10px 0 0;
-    transition: all 0.3s ease;
-    box-shadow: inset 0 -2px 5px rgba(0, 0, 0, 0.2);
-    font-size: calc(8px + 0.4vw);
-    height: 100%;
-    z-index: 10;
-    overflow: hidden; 
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	white-space: nowrap;
+	padding: 1em;
+	background: #94b3ae;
+	color: #FFF;
+	text-decoration: none;
+	border-radius: 10px 10px 0 0;
+	transition: all 0.3s ease;
+	box-shadow: inset 0 -2px 5px rgba(0, 0, 0, 0.2);
+	font-size: calc(8px + 0.4vw);
+	height: 100%;
+	z-index: 10;
+	overflow: hidden;
 }
 
 .menu__tabs a i {
-    margin-right: calc(4px + 0.3vw);
-    font-size: calc(8px + 0.4vw);
-    flex-shrink: 0; 
-    max-width: 100%; 
-    overflow: hidden; 
+	margin-right: calc(4px + 0.3vw);
+	font-size: calc(8px + 0.4vw);
+	flex-shrink: 0;
+	max-width: 100%;
+	overflow: hidden;
 }
 
 .menu__tabs a:hover {
-    background: #b0b7b6;
+	background: #b0b7b6;
 }
 
 .menu__tabs a.active {
-    color: #b0b7b6;
-    background: #FFF;
-    box-shadow: none;
+	color: #b0b7b6;
+	background: #FFF;
+	box-shadow: none;
 }
 
 .menu__tabs a.active i {
-    color: #94b3ae;
+	color: #94b3ae;
 }
 
 .menu__tabs a span {
-    opacity: 1;
-    visibility: visible;
-    transition: opacity 0.5s ease, visibility 0.5s ease;
+	opacity: 1;
+	visibility: visible;
+	transition: opacity 0.5s ease, visibility 0.5s ease;
 }
 
 /* Media query to hide the text and show only the icon when the screen gets smaller */
 @media (max-width: 1000px) {
-    .menu__tabs a span { 
-        display: none; 
-    }
-    .menu__tabs a i {
-        margin-right: 0; 
-        font-size: 1.3em; 
-    }
+	.menu__tabs a span {
+		display: none;
+	}
+
+	.menu__tabs a i {
+		margin-right: 0;
+		font-size: 1.3em;
+	}
 }
 
 /*--------------------------
@@ -100,6 +99,7 @@ html {
 	max-width: 3000px;
 	position: relative;
 }
+
 .menu__wrapper {
 	padding: 2em;
 	position: relative;
@@ -110,6 +110,7 @@ html {
 	-moz-border-radius: 0 10px 10px 10px;
 	border-radius: 0 10px 10px 10px;
 }
+
 .menu--shadow {
 	position: absolute;
 	z-index: 300;
@@ -117,6 +118,7 @@ html {
 	height: 25px;
 	width: 100%;
 }
+
 .menu--shadow:after,
 .menu--shadow:before {
 	content: '';
@@ -125,18 +127,19 @@ html {
 	height: 25px;
 	position: absolute;
 	left: 0;
-	background: rgba(0,0,0,0.2);
+	background: rgba(0, 0, 0, 0.2);
 	-webkit-border-radius: 25px;
 	-moz-border-radius: 25px;
 	border-radius: 25px;
-	-webkit-box-shadow: 0 0 15px 5px rgba(0,0,0,0.25);
-	-moz-box-shadow: 0 0 15px 5px rgba(0,0,0,0.25);
-	box-shadow: 0 0 15px 5px rgba(0,0,0,0.25);
+	-webkit-box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.25);
+	-moz-box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.25);
+	box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.25);
 	-webkit-transform: scale(0.8) rotate(-4deg);
 	-ms-transform: scale(0.8) rotate(-4deg);
 	-o-transform: scale(0.8) rotate(-4deg);
 	transform: scale(0.8) rotate(-4deg);
 }
+
 .menu--shadow:after {
 	right: 0;
 	left: auto;
@@ -145,11 +148,13 @@ html {
 	-o-transform: scale(0.8) rotate(4deg);
 	transform: scale(0.8) rotate(4deg);
 }
+
 .menu__wrapper .menu__item {
 	line-height: 1.3;
 	color: #76716f;
 	display: none;
 }
+
 .menu__wrapper .menu__item h3 {
 	font-size: 1.8em;
 	color: #333b48;
@@ -157,24 +162,25 @@ html {
 	padding-bottom: 5px;
 	margin-bottom: 12px;
 }
+
 .menu__wrapper .menu__item p {
 	font-size: 1.3em;
 	line-height: 1.6em;
 	color: #76716f;
-    
+
 }
 
 .menu__item.item-active {
-    display: block;
-    background-color: #ffffff;
-    -webkit-border-radius: 0px 10px 10px 10px;
+	display: block;
+	background-color: #ffffff;
+	-webkit-border-radius: 0px 10px 10px 10px;
 	-moz-border-radius: 0px 10px 10px 10px;
 	border-radius: 0px 10px 10px 10px;
-    color: #7a7369;
+	color: #7a7369;
 
 
 }
 
 .menu__item {
-    display: none;
+	display: none;
 }
