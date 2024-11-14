@@ -96,7 +96,7 @@ toolsDiv.append(geosA);
 
 // timeline
 const TimelinesA = document.createElement('a');
-TimelinesA.setAttribute('href', '/tools/time/index.html');
+TimelinesA.setAttribute('href', '/tools/timeline/index.html');
 const TimelinesText = document.createTextNode('Timelines');
 TimelinesA.append(TimelinesText);
 toolsDiv.append(TimelinesA);

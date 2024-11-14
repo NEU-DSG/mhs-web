@@ -1,100 +1,110 @@
 <!DOCTYPE html>
-<html lang="eng">
+<html lang="en">
+<head>
+    <title>PSC Lab Space Tools</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="/images/book.ico">
+    <link rel="stylesheet" href="/styles/oldstyles.css">
 
-    <head>
-        <title>PSC Lab Space Tools</title>
-        <link rel="icon" type="image/x-icon" href="../images/book.ico">
-        <meta charset="utf-8"/>
-        <!-- <meta name="viewport" content="width=device-width, initial-scale=1" /> -->
-        <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"></meta>
-        <link rel="stylesheet" href="../styles/oldstyles.css"></link>
-        <link rel="stylesheet" href="../styles/bookshelf.css"/>
-        <script type="module" src="../styles/bookshelf.js?v4"></script>
+    <!-- Allow pages to add their own head content if needed -->
+    
+    <title>PSC Lab Space Tools</title>
+    <link rel="stylesheet" href="../styles/bookshelf.css"/>
+    <script type="module" src="../styles/bookshelf.js"></script>
 
-    </head>
+</head>
 
-    <body>
+<body>
+    <header id="menu">
+        <script src="/styles/menu.js"></script>
+        <br>
+    </header>
 
-        <header id="menu">
-            <script src="../styles/menu.js?v1"></script>
-        </header>
-
-        <div style="width: 60%;" class="main-body">
-
-            <h1 class="title">Tools</h1>
-            <div style="position: absolute; left: 50%; transform: translateX(-50%); margin-top: -30px; ">
-
-                <button class="button-1" role="button" onclick="window.location.href='/index.html';">Back to Home</button>
-            </div>
-            <br>
-            <br>
-            <br>
-            <div class="container">
-
-                <div class="bookshelf">
-
+    <!-- Page content will be injected here -->
+    
+    <div style="width: 60%;" class="main-body">
+        <h1 class="title">Tools</h1>
+        <div style="position: absolute; left: 50%; transform: translateX(-50%); margin-top: -30px;">
+            <button class="button-1" role="button" onclick="window.location.href='/index.html';">Back to Home</button>
+        </div>
+        <br>
+        <br>
+        <br>
+        <div class="container">
+            <div class="bookshelf">
+                
+                    <!-- Network Graph Tool -->
                     
-<                        <!-- Network Graph Tool -->
-                        
-                        
-                        <div class="book">
-    <div onclick="window.location.href='networks/index.html';" class="side spine">
+                    <div class="book">
+
+       
+
+    <!-- If title is unset, look up from the dictionary based on author -->
+    
+
+
+
+    <div onclick="window.location.href='coref/index.html';" class="side spine">
         <span class="spine-title">Co-reference Network Graph</span>
     </div>
     <div class="side top"></div>
-    <div onclick="window.location.href='networks/index.html';" class="side cover"
-         style="background-image: url('/images/bookimages/networks.jpg');"></div>
+    <div onclick="window.location.href='coref/index.html';" class="side cover"
+         style="background-image: url('/images/bookimages/coref.jpg');"></div>
 </div>
 
-                        <!-- Geo-References Tool -->
-                        
-                        
-                        <div class="book">
-    <div onclick="window.location.href='geos/index.html';" class="side spine">
+                    <!-- Geo-References Tool -->
+                    
+                    <div class="book">
+
+       
+
+    <!-- If title is unset, look up from the dictionary based on author -->
+    
+
+
+
+    <div onclick="window.location.href='geo/index.html';" class="side spine">
         <span class="spine-title">Geo Reference Map</span>
     </div>
     <div class="side top"></div>
-    <div onclick="window.location.href='geos/index.html';" class="side cover"
-         style="background-image: url('/images/bookimages/geos.jpg');"></div>
+    <div onclick="window.location.href='geo/index.html';" class="side cover"
+         style="background-image: url('/images/bookimages/geo.jpg');"></div>
 </div>
 
-                        <!-- Timelines Tool -->
-                        
-                        
-                        <div class="book">
-    <div onclick="window.location.href='timelines/index.html';" class="side spine">
+                    <!-- Timelines Tool -->
+                    
+                    <div class="book">
+
+       
+
+    <!-- If title is unset, look up from the dictionary based on author -->
+    
+
+
+
+    <div onclick="window.location.href='timeline/index.html';" class="side spine">
         <span class="spine-title">Subject Timeline Graph</span>
     </div>
     <div class="side top"></div>
-    <div onclick="window.location.href='timelines/index.html';" class="side cover"
-         style="background-image: url('/images/bookimages/timelines.jpg');"></div>
-</div>>
-
-                    
-
-                </div>
-
-                <!-- Bookshelf visual below the books -->
-                <div class="visual-bookshelf"></div>
-
+    <div onclick="window.location.href='timeline/index.html';" class="side cover"
+         style="background-image: url('/images/bookimages/timeline.jpg');"></div>
+</div>
+                
             </div>
 
+            <!-- Bookshelf visual below the books -->
+            <div class="visual-bookshelf"></div>
         </div>
+    </div>
 
-        <!-- Footer -->
-        <div id="footer-box" style="
-        height: 70px;
-        text-align: center;
-        background-color:#94b3ae;
-        color: #FFF;
-        position: absolute;
-        bottom: 0;
-        width: 100%;
-    ">
-            <br>
+
+    <!-- Footer -->
+    <div id="footer-box" style="height: 70px; text-align: center; background-color:#94b3ae; color: #FFF; position: absolute; bottom: 0; width: 100%;">
+        <br>
         Created by the Northeastern Digital Scholarship Group (DSG) in collaboration with the Massachusetts Historical
         Society (MHS). Designed to work alongside the MHS Primary Source Cooperative.
         <br>
-        </div>
-    </body>
+    </div>
+</body>
 </html>

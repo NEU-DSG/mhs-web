@@ -1,13 +1,11 @@
----
-layout: base.njk
-title: Home
----
+{% extends "base.njk" %}
 
 {% block head %}
     <link rel="stylesheet" href="/styles/bookshelf.css">
     <script type="module" src="/styles/bookshelf.js"></script>
 {% endblock %}
 
+{% block content %}
 <div style="width: 60%;" class="main-body">
     <h1 class="title">Primary Source Cooperative</h1>
 
@@ -27,19 +25,16 @@ title: Home
         <!-- JQA Project -->
         {% set type = "projects" %}
         {% set author = "JQA" %}
-        {% set title = "John Quincy Adams Diaries!" %}
         {% include "book.njk" %}
     
         <!-- CMSOL Project -->
         {% set type = "projects" %}
         {% set author = "CMSOL" %}
-        {% set title = "Catharine Maria Sedgwick Letters!" %}
         {% include "book.njk" %}
     
         <!-- RBT Project -->
         {% set type = "projects" %}
         {% set author = "RBT" %}
-        {% set title = "Roger Brooke Taney Papers!" %}
         {% include "book.njk" %}
     </div>
     <!-- Visual bookshelf divider -->
@@ -53,19 +48,16 @@ title: Home
         <!-- Network Graph Tool -->
         {% set type = "tools" %}
         {% set author = "coref" %}
-        {% set title = "Co-reference Network Graph" %}
         {% include "book.njk" %}
 
         <!-- Geo-References Tool -->
         {% set type = "tools" %}
         {% set author = "geo" %}
-        {% set title = "Geo Reference Map" %}
         {% include "book.njk" %}
 
             <!-- Timelines Tool -->
         {% set type = "tools" %}
         {% set author = "timeline" %}
-        {% set title = "Subject Timeline Graph" %}
         {% include "book.njk" %}
  
     </div>
@@ -76,3 +68,4 @@ title: Home
     <br><br>
     <hr>
 </div>
+{% endblock %}

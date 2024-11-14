@@ -1,98 +1,53 @@
-<!DOCTYPE html>
-<html lang="eng">
+{% extends "base.njk" %}
 
-    <head>
-        <title>PSC Lab Space {{ title }}</title>
-        <link rel="icon" type="image/x-icon" href="../images/book.ico">
-        <meta charset="utf-8"/>
-        <!-- <meta name="viewport" content="width=device-width, initial-scale=1" /> -->
-        <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"></meta>
-        <link rel="stylesheet" href="../styles/oldstyles.css"></link>
-        <link rel="stylesheet" href="../styles/bookshelf.css"/>
-        <script type="module" src="../styles/bookshelf.js?v4"></script>
+{% block head %}
+    <title>PSC Lab Space {{ title }}</title>
+    <link rel="stylesheet" href="../styles/bookshelf.css"/>
+    <script type="module" src="../styles/bookshelf.js"></script>
+{% endblock %}
 
-    </head>
-
-    <body>
-
-        <header id="menu">
-            <script src="../styles/menu.js?v1"></script>
-        </header>
-
-        <div style="width: 60%;" class="main-body">
-
-            <h1 class="title">{{ title }}</h1>
-            <div style="position: absolute; left: 50%; transform: translateX(-50%); margin-top: -30px; ">
-
-                <button class="button-1" role="button" onclick="window.location.href='/index.html';">Back to Home</button>
-            </div>
-            <br>
-            <br>
-            <br>
-            <div class="container">
-
-                <div class="bookshelf">
-
-                    {% if title == "Tools" %}
-<                        <!-- Network Graph Tool -->
-                        {% set author = "networks" %}
-                        {% set title = "Co-reference Network Graph" %}
-                        {% include "book.njk" %}
-
-                        <!-- Geo-References Tool -->
-                        {% set author = "geos" %}
-                        {% set title = "Geo Reference Map" %}
-                        {% include "book.njk" %}
-
-                        <!-- Timelines Tool -->
-                        {% set author = "timelines" %}
-                        {% set title = "Subject Timeline Graph" %}
-                        {% include "book.njk" %}>
-
-                    {% elif title == "Projects" %}
-                        <!-- JQA Project -->
-                        {% set author = "JQA" %}
-                        {% set title = "John Quincy Adams Diaries" %}
-                        {% include "book.njk" %}
-
-                        <!-- CMSOL Project -->
-                        {% set author = "CMSOL" %}
-                        {% set title = "Catharine Maria Sedgwick Letters" %}
-                        {% include "book.njk" %}
-
-                        <!-- RBT Project -->
-                        {% set author = "RBT" %}
-                        {% set title = "Roger Brooke Taney Papers" %}
-                        {% include "book.njk" %}
-
-                    {% else %}
-                        <p>Content not found for this section.</p>
-
-                    {% endif %}
-
-                </div>
-
-                <!-- Bookshelf visual below the books -->
-                <div class="visual-bookshelf"></div>
-
-            </div>
-
+{% block content %}
+    <div style="width: 60%;" class="main-body">
+        <h1 class="title">{{ title }}</h1>
+        <div style="position: absolute; left: 50%; transform: translateX(-50%); margin-top: -30px;">
+            <button class="button-1" role="button" onclick="window.location.href='/index.html';">Back to Home</button>
         </div>
-
-        <!-- Footer -->
-        <div id="footer-box" style="
-        height: 70px;
-        text-align: center;
-        background-color:#94b3ae;
-        color: #FFF;
-        position: absolute;
-        bottom: 0;
-        width: 100%;
-    ">
-            <br>
-        Created by the Northeastern Digital Scholarship Group (DSG) in collaboration with the Massachusetts Historical
-        Society (MHS). Designed to work alongside the MHS Primary Source Cooperative.
         <br>
+        <br>
+        <br>
+        <div class="container">
+            <div class="bookshelf">
+                {% if title == "Tools" %}
+                    <!-- Network Graph Tool -->
+                    {% set author = "coref" %}
+                    {% include "book.njk" %}
+
+                    <!-- Geo-References Tool -->
+                    {% set author = "geo" %}
+                    {% include "book.njk" %}
+
+                    <!-- Timelines Tool -->
+                    {% set author = "timeline" %}
+                    {% include "book.njk" %}
+                {% elif title == "Projects" %}
+                    <!-- JQA Project -->
+                    {% set author = "JQA" %}
+                    {% include "book.njk" %}
+
+                    <!-- CMSOL Project -->
+                    {% set author = "CMSOL" %}
+                    {% include "book.njk" %}
+
+                    <!-- RBT Project -->
+                    {% set author = "RBT" %}
+                    {% include "book.njk" %}
+                {% else %}
+                    <p>Content not found for this section.</p>
+                {% endif %}
+            </div>
+
+            <!-- Bookshelf visual below the books -->
+            <div class="visual-bookshelf"></div>
         </div>
-    </body>
-</html>
+    </div>
+{% endblock %}

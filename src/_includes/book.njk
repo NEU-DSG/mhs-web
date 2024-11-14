@@ -1,8 +1,23 @@
 <div class="book">
-    <div onclick="window.location.href='{% if type %}{{ type }}/{% endif %}{{ author }}/index.html';" class="side spine">
-        <span class="spine-title">{{ title }}</span>
+
+       {% set Btitles = { 
+    "JQA": "John Quincy Adams Diaries",
+    "CMSOL": "Catharine Maria Sedgwick Letters",
+    "RBT": "Roger Brooke Taney Papers",
+    "coref": "Co-reference Network Graph",
+    "geo": "Geo Reference Map",
+    "timeline": "Subject Timeline Graph"
+    } %}
+
+    <!-- If title is unset, look up from the dictionary based on author -->
+    {% set Btitle = Btitle or Btitles[author] %}
+
+
+
+    <div onclick="window.location.href='{% if type %}{{ type }}/{% endif %}{{ author }}{% if viz %}/{{ viz }}{% endif %}/index.html';" class="side spine">
+        <span class="spine-title">{{ Btitle }}</span>
     </div>
     <div class="side top"></div>
-    <div onclick="window.location.href='{% if type %}{{ type }}/{% endif %}{{ author }}/index.html';" class="side cover"
+    <div onclick="window.location.href='{% if type %}{{ type }}/{% endif %}{{ author }}{% if viz %}/{{ viz }}{% endif %}/index.html';" class="side cover"
          style="background-image: url('/images/bookimages/{{ author }}.jpg');"></div>
 </div>
