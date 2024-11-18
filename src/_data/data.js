@@ -1,4 +1,20 @@
 module.exports = {
+    projects: [
+        {
+            initials: "CMSOL",
+            full_name: "Catharine Maria Sedgwick",
+        },
+        {
+            initials: "JQA",
+            title: "John Quincy Adams",
+        },
+        {
+            initials: "RBT",
+            title: "Roger Brooke Taney",
+        },
+
+    ],
+
     tools: [
         {
             tool: "coref",
@@ -13,4 +29,5 @@ module.exports = {
             title: "Subject Reference Timeline",
         },
     ],
+
 };

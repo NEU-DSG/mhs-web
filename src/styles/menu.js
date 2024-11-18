@@ -22,109 +22,84 @@ homeA.appendChild(homeText);
 l1.appendChild(homeA);
 ul.append(l1);
 
+// Fetch JSON data
+fetch('/data/pagedata.json') // Adjust path as necessary
+    .then((response) => response.json())
+    .then((data) => {
+        // Create first dropdown menu: Projects
+        const project = document.createElement('li');
+        project.setAttribute('class', 'dropdown');
 
-// Create first dropdown menu.
-const project = document.createElement('li');
-project.setAttribute('class', 'dropdown');
+        const projectA = document.createElement('a');
+        projectA.setAttribute('href', '/projects/index.html');
+        projectA.setAttribute('class', 'dropbtn');
 
-const projectA = document.createElement('a');
-projectA.setAttribute('href', '/projects/index.html');
-projectA.setAttribute('class', 'dropbtn');
+        const projectAText = document.createTextNode('Projects');
+        projectA.append(projectAText);
+        project.append(projectA);
 
-const projectAText = document.createTextNode('Projects');
-projectA.append(projectAText);
-project.append(projectA);
+        const projectDiv = document.createElement('div');
+        projectDiv.setAttribute('class', 'dropdown-content');
 
-const projectDiv = document.createElement('div');
-projectDiv.setAttribute('class', 'dropdown-content');
+        // Dynamically add project links
+        data.projects.forEach((projectData) => {
+            const projectLink = document.createElement('a');
+            projectLink.setAttribute('href', `/projects/${projectData.initials}/index.html`);
+            const projectText = document.createTextNode(
+                projectData.full_name || projectData.title
+            );
+            projectLink.appendChild(projectText);
+            projectDiv.appendChild(projectLink);
+        });
 
-// Create <li>'s in first dropdown menu.
-// jqa
-const jqaA = document.createElement('a');
-jqaA.setAttribute('href', '/projects/JQA/index.html');
-const jqaText = document.createTextNode('John Quincy Adams Diary Digital Project');
-jqaA.append(jqaText);
-projectDiv.append(jqaA);
+        project.append(projectDiv); // Append dropdown content to Projects
+        ul.append(project); // Add Projects to navbar
 
-// cmsol
-const cmsolA = document.createElement('a');
-cmsolA.setAttribute('href', '/projects/CMSOL/index.html');
-const cmsolText = document.createTextNode('Catharine Maria Sedgwick Online Letters');
-cmsolA.append(cmsolText);
-projectDiv.append(cmsolA);
+        // Create second dropdown menu: Tools
+        const tools = document.createElement('li');
+        tools.setAttribute('class', 'dropdown');
 
-// taney
-const rbtA = document.createElement('a');
-rbtA.setAttribute('href', '/projects/rbt/index.html');
-const rbtText = document.createTextNode('Roger Brooke Taney Papers');
-rbtA.append(rbtText);
-projectDiv.append(rbtA);
+        const toolsA = document.createElement('a');
+        toolsA.setAttribute('href', '/tools/index.html');
+        toolsA.setAttribute('class', 'dropbtn');
 
-// Append <a> to project <div>
-project.append(projectDiv); // Append <div> to project
-ul.append(project);
+        const toolsAText = document.createTextNode('Tools');
+        toolsA.append(toolsAText);
+        tools.append(toolsA);
 
-// Create second dropdown menu.
-const tools = document.createElement('li');
-tools.setAttribute('class', 'dropdown');
+        const toolsDiv = document.createElement('div');
+        toolsDiv.setAttribute('class', 'dropdown-content');
 
-const toolsA = document.createElement('a');
-toolsA.setAttribute('href', '/tools/index.html');
-toolsA.setAttribute('class', 'dropbtn');
+        // Dynamically add tools links
+        data.tools.forEach((toolData) => {
+            const toolLink = document.createElement('a');
+            toolLink.setAttribute('href', `/tools/${toolData.tool}/index.html`);
+            const toolText = document.createTextNode(toolData.title);
+            toolLink.appendChild(toolText);
+            toolsDiv.appendChild(toolLink);
+        });
 
-const toolsAText = document.createTextNode('Tools');
-toolsA.append(toolsAText);
-tools.append(toolsA);
+        tools.append(toolsDiv); // Append dropdown content to Tools
+        ul.append(tools); // Add Tools to navbar
 
-const toolsDiv = document.createElement('div');
-toolsDiv.setAttribute('class', 'dropdown-content');
+        // Create ABOUT US link.
+        const about = document.createElement('li');
+        about.setAttribute('class', 'dropdown');
 
-// Create <li>'s in first dropdown menu.
-// network
-const networkA = document.createElement('a');
-networkA.setAttribute('href', '/tools/coref/index.html');
-const networkText = document.createTextNode('Network Graphs');
-networkA.append(networkText);
-toolsDiv.append(networkA);
+        const aboutA = document.createElement('a');
+        aboutA.setAttribute('href', '/about/index.html');
+        aboutA.setAttribute('class', 'dropbtn');
 
-// geo
-const geosA = document.createElement('a');
-geosA.setAttribute('href', '/tools/geo/index.html');
-const geosText = document.createTextNode('Geo-References');
-geosA.append(geosText);
-toolsDiv.append(geosA);
+        const aboutAText = document.createTextNode('About Us');
+        aboutA.append(aboutAText);
+        about.append(aboutA);
 
-// timeline
-const TimelinesA = document.createElement('a');
-TimelinesA.setAttribute('href', '/tools/timeline/index.html');
-const TimelinesText = document.createTextNode('Timelines');
-TimelinesA.append(TimelinesText);
-toolsDiv.append(TimelinesA);
-
-
-// Append <a> to project <div>
-tools.append(toolsDiv); // Append <div> to project
-ul.append(tools);
-
-
-
-// Create first dropdown menu.
-const about = document.createElement('li');
-about.setAttribute('class', 'dropdown');
-
-const aboutA = document.createElement('a');
-aboutA.setAttribute('href', '/about/index.html');
-aboutA.setAttribute('class', 'dropbtn');
-
-const aboutAText = document.createTextNode('About Us');
-aboutA.append(aboutAText);
-about.append(aboutA);
-
-ul.append(about);
-
+        ul.append(about); // Add About Us to navbar after Projects and Tools
+    })
+    .catch((error) => {
+        console.error('Error fetching menu data:', error);
+    });
 
 // Append <link> & <ul> to <header>.
 header.append(link);
 header.appendChild(ul);
-
-
