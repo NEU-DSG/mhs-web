@@ -8,7 +8,7 @@ module.exports = function (eleventyConfig) {
 
   return {
     dir: {
-      input: "src",   // Input folder (all your source files)
+      input: "src",   // Input folder
       output: "_site",  // Output folder
       includes: "_includes"  // Folder for templates and includes
     }
