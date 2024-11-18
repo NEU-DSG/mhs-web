@@ -1,0 +1,12 @@
+---
+pagination:
+    data: tools.tools
+    size: 1
+    alias: tool
+permalink: "/tools/{{ tool.tool }}/"
+layout: "internalLanding.njk"
+kind: "Tools"
+eleventyComputed:
+    title: "{{ tool.title }}" 
+    tool: "{{ tool.tool }}" 
+---

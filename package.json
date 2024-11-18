@@ -11,8 +11,7 @@
     "rimraf": "^3.0.2"
   },
   "scripts": {
-    "clean": "rimraf _site",
-    "build": "npm run clean && eleventy",
-    "serve": "npm run clean && eleventy --serve"
+    "build": "eleventy",
+    "serve": "eleventy --serve"
   }
 }
