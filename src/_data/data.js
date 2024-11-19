@@ -2,15 +2,15 @@ module.exports = {
     projects: [
         {
             initials: "CMS",
-            full_name: "Catharine Maria Sedgwick",
+            full_name: "Catharine Maria Sedgwick Online Letters",
         },
         {
             initials: "JQA",
-            full_name: "John Quincy Adams",
+            full_name: "John Quincy Adams Digital Diaries",
         },
         {
             initials: "RBT",
-            full_name: "Roger Brooke Taney",
+            full_name: "The Papers of Roger Brooke Taney",
         },
 
     ],
@@ -18,7 +18,7 @@ module.exports = {
     tools: [
         {
             tool: "coref",
-            title: "Person Co-Reference Network Graphs",
+            title: "Co-Reference Network Graph",
         },
         {
             tool: "geo",
