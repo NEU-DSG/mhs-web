@@ -1,7 +1,7 @@
 {% extends "base.njk" %}
 
 {% block head %}
-    <title>PSC Lab Space {{person}} Subject Line Geo-Reference Map</title>
+    <title>PSC Lab Space {{ person }} Subject Line Geo-Reference Map</title>
 
     <link rel="stylesheet" href="../../../styles/geostyles.css"></link>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
@@ -22,24 +22,26 @@
 {% block content %}
     <div class="main-body">
 
-        <h3 class="subtitle">{{person}} Subject Line Geo-Reference Map</h3>
+        <h3 class="subtitle">{{ person }} Subject Line Geo-Reference Map</h3>
 
         <div style="position: absolute; left: 50%; transform: translateX(-50%); margin-top: -5px; margin-bottom: 40px;">
-            <button class="button-1" role="button" onclick="window.location.href='/projects/{{initials}}';">Back to {{initials}}</button>
-            <button class="button-1" role="button" onclick="window.location.href='/tools/geo';">Back to Geo-Reference
-                Maps</button>
+            <button class="button-1" role="button" onclick="window.location.href='/projects/{{ initials }}';">Back to {{ initials }}</button>
+            <button class="button-1" role="button" onclick="window.location.href='/tools/geo';">Back to Geo-Reference Maps</button>
         </div>
         <br><br>
-        {% if files %}
 
+        {% set customParams = subpage.params %}
+        <!-- Custom Paramters -->
+
+        {% if customParams.files %}
             <script>
-                const filelist = {{ files | dump | safe | default("[]") }};
+                const filelist = {{ customParams.files | dump | safe }};
             </script>
 
             <p>
-                {{desctext}}
+                {{ customParams.desctext }}
                 <br><br>
-            You can click on the information icon in the top right for more information on how to specifically interact with the map.
+                You can click on the information icon in the top right for more information on how to specifically interact with the map.
             </p>
 
             <br>
@@ -47,13 +49,11 @@
             <div id="map"></div>
 
             <script>
-
                 Leafmap(filelist);
             </script>
 
         {% else %}
             <p>No Subject Line Geo-Reference Map detected for this author.</p>
-
         {% endif %}
 
     </div>

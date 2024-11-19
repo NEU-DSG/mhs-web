@@ -36,7 +36,7 @@
         </div>
         <br><br><br>
 
-        {% if APICollection %}
+        {% if initials %}
 
             <p>Below is a topic timeline, plotted by year and when that topic appears in the works of the respective author.
 		Editors of the XML would assign topics to each diary entry or letter, and these were all accumulated and then
@@ -99,7 +99,7 @@
 
                             // Apply the colors to your chart dynamically
                             const chart = d3
-                                .timeline("{{APICollection}}")
+                                .timeline("{{initials}}")
                                 .duration(500);
                             chart.colors(colorsArray);
 

@@ -23,7 +23,7 @@ l1.appendChild(homeA);
 ul.append(l1);
 
 // Fetch JSON data
-fetch('/data/pagedata.json') // Adjust path as necessary
+fetch('/data/menudata.json') // Adjust path as necessary
     .then((response) => response.json())
     .then((data) => {
         // Create first dropdown menu: Projects

@@ -1,0 +1,11 @@
+---
+pagination:
+  data: built.pages
+  size: 1
+  alias: person
+permalink: "projects/{{ person.Initials }}/index.html"
+layout: internalLanding.njk
+kind: Projects
+eleventyComputed:
+  title: "{{ person.Name }}"
+---
