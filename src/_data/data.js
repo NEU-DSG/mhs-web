@@ -22,7 +22,7 @@ module.exports = {
         },
         {
             tool: "geo",
-            title: "Geo-Reference Maps",
+            title: "Geo-Reference Map",
         },
         {
             tool: "timeline",
