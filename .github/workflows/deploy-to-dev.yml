@@ -12,7 +12,7 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: '18'  # Ensure this matches the Node.js version for your Eleventy project
+        node-version: '18' 
 
     - name: Install Dependencies
       run: npm install
@@ -28,7 +28,7 @@ jobs:
         aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
 
     - name: Deploy site to S3 bucket
-      run: aws s3 sync _site/ s3://${{ secrets.S3_BUCKET }} --acl public-read --delete
+      run: aws s3 sync _site/ s3://${{ secrets.S3_BUCKET }} --delete
 
     - name: Invalidate CloudFront Cache
       run: aws cloudfront create-invalidation --distribution-id ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
