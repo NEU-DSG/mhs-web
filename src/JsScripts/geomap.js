@@ -1,4 +1,4 @@
-function Leafmap(files) {
+function Leafmap(files, collection) {
     // Makes map and sets it to Boston (.setView([long, lat], zoom))
     var map = L.map('map').setView([42.3601, -71.0589], 12);
     // /*
@@ -40,7 +40,7 @@ function Leafmap(files) {
         legendData.push({ year, hueRotation });
 
         // Fetches the data 
-        fetch("../../../data/jqa/geo/" + file)
+        fetch("../../../data/" + collection + "/geo/" + file)
             .then(response => response.json())
             // Operates on it 
             .then(data => {
