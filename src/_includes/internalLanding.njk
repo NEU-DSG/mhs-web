@@ -14,7 +14,7 @@
 
             <div style="position: absolute; left: 50%; transform: translateX(-50%); margin-top: -30px;">
                 <button class="button-1" role="button" onclick="window.location.href='/index.html';">Back to Home</button>
-                <button class="button-1" role="button" onclick="window.location.href='/{{ kind }}';">Back to {{ kind }}</button>
+                <button class="button-1" role="button" onclick="window.location.href = '/' + kind.toLowerCase() + '/index.html';">Back to {{ kind }}</button>
             </div>
         </div>
         <br>
