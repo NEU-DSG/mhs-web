@@ -7,11 +7,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^3.0.0",
-    "rimraf": "^3.0.2"
+    "@11ty/eleventy": "^3.0.0"
   },
   "scripts": {
     "build": "eleventy",
     "serve": "eleventy --serve"
+  },
+  "dependencies": {
+    "dsg-gtimeline": "^1.0.0"
   }
 }
