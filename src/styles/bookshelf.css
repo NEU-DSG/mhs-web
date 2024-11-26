@@ -10,7 +10,8 @@
 
 }
 
-.card {
+button.card {
+  all: unset;
   display: flex;
   flex-direction: column;
   border: 2px solid #f5f5dc;
@@ -28,6 +29,11 @@
 }
 
 .card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.card:focus {
   transform: scale(1.03);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 }

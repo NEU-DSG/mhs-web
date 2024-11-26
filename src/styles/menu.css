@@ -1,12 +1,11 @@
-/* // Template from Cara Marta Messina
-// https://github.com/caramessina/caramessina.github.io */
+/* Template from Cara Marta Messina
+   https://github.com/caramessina/caramessina.github.io */
 body {
   margin: 0;
 }
 
 .topnav {
   width: 100%;
-
 }
 
 ul.topnav {
@@ -39,7 +38,8 @@ ul.topnav li a {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-ul.topnav li a:hover:not(.active) {
+ul.topnav li a:hover:not(.active),
+ul.topnav li a:focus:not(.active) {
   background-color: #f3989d;
 }
 
@@ -84,10 +84,12 @@ li a .dropbtn {
   text-align: left;
 }
 
-.dropdown-content a:hover {
+.dropdown-content a:hover,
+.dropdown-content a:focus {
   background-color: #111;
 }
 
-.dropdown:hover .dropdown-content {
+.dropdown:hover .dropdown-content,
+.dropdown:focus-within .dropdown-content {
   display: block;
 }
