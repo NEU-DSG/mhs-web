@@ -3,14 +3,17 @@ module.exports = {
         {
             initials: "CMS",
             full_name: "Catharine Maria Sedgwick Online Letters",
+            short_desc: "The most highly regarded woman writer in the Early National period of American literature.",
         },
         {
             initials: "JQA",
             full_name: "John Quincy Adams Digital Diaries",
+            short_desc: "The sixth president, a leading diplomat who shaped the Monroe Doctrine, and a lifelong advocate for education and abolition.",
         },
         {
             initials: "RBT",
             full_name: "The Papers of Roger Brooke Taney",
+            short_desc: "One of the most consequential jurists of Antebellum America."
         },
 
     ],
@@ -19,14 +22,17 @@ module.exports = {
         {
             tool: "coref",
             title: "Co-Reference Network Graph",
+            short_desc: "People mentioned together in the papers.",
         },
         {
             tool: "geo",
             title: "Geo-Reference Map",
+            short_desc: "Travels charted onto a modern map.",
         },
         {
             tool: "timeline",
             title: "Subject Reference Timeline",
+            short_desc: "What's on their mind over time?"
         },
     ],
 

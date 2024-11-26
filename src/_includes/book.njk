@@ -1,8 +1,10 @@
-<div class="book">
-    <div onclick="window.location.href='{% if type %}{{ type }}/{% endif %}{{ author }}{% if viz %}/{{ viz }}{% endif %}/index.html';" class="side spine">
-        <span class="spine-title">{{ built.Btitles[author] }}</span>
+<div class="card" onclick="window.location.href='{% if type %}{{ type }}/{% endif %}{{ author }}{% if viz %}/{{ viz }}{% endif %}/index.html';">
+    <div class="card-header">
+        <img src="/images/bookimages/{{ author }}.jpg" alt="Cover of {{ built.Btitles[author] }}" class="card-image">
     </div>
-    <div class="side top"></div>
-    <div onclick="window.location.href='{% if type %}{{ type }}/{% endif %}{{ author }}{% if viz %}/{{ viz }}{% endif %}/index.html';" class="side cover"
-         style="background-image: url('/images/bookimages/{{ author }}.jpg');"></div>
+    <div class="card-body">
+        <h3 class="card-title">{{ built.Btitles[author] }}</h3>
+        <p class="card-description"></p>
+
+    </div>
 </div>
