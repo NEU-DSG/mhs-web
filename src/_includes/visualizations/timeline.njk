@@ -100,7 +100,7 @@
 
                             // Apply the colors to your chart dynamically
                             const chart = d3
-                                .timeline("{{initials}}")
+                                .timeline("{{initials | lower}}")
                                 .duration(500);
                             chart.colors(colorsArray);
 

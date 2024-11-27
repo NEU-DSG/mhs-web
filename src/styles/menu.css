@@ -93,3 +93,19 @@ li a .dropbtn {
 .dropdown:focus-within .dropdown-content {
   display: block;
 }
+
+/* Dropdown Arrow Styling */
+.dropdown-arrow {
+  font-size: 12px;
+  margin-left: 5px;
+  vertical-align: middle;
+  content: "▼";
+  /* Default downward arrow */
+}
+
+/* Update arrow when dropdown is visible */
+.dropdown:hover>a .dropdown-arrow,
+.dropdown:focus-within>a .dropdown-arrow {
+  content: "▲";
+  /* Upward arrow */
+}

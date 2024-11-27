@@ -34,8 +34,12 @@ fetch('/data/menudata.json') // Adjust path as necessary
         projectA.setAttribute('href', '/projects/index.html');
         projectA.setAttribute('class', 'dropbtn');
 
-        const projectAText = document.createTextNode('Projects');
-        projectA.append(projectAText);
+        const projectAText = document.createTextNode('Projects ');
+        const projectArrow = document.createElement('span'); // Arrow indicator
+        projectArrow.innerHTML = '&#x25BC;'; // Unicode for downward arrow (▼)
+        projectArrow.setAttribute('class', 'dropdown-arrow');
+
+        projectA.append(projectAText, projectArrow);
         project.append(projectA);
 
         const projectDiv = document.createElement('div');
@@ -63,8 +67,12 @@ fetch('/data/menudata.json') // Adjust path as necessary
         toolsA.setAttribute('href', '/tools/index.html');
         toolsA.setAttribute('class', 'dropbtn');
 
-        const toolsAText = document.createTextNode('Tools');
-        toolsA.append(toolsAText);
+        const toolsAText = document.createTextNode('Tools ');
+        const toolsArrow = document.createElement('span'); // Arrow indicator
+        toolsArrow.innerHTML = '&#x25BC;'; // Unicode for downward arrow (▼)
+        toolsArrow.setAttribute('class', 'dropdown-arrow');
+
+        toolsA.append(toolsAText, toolsArrow);
         tools.append(toolsA);
 
         const toolsDiv = document.createElement('div');
@@ -90,7 +98,9 @@ fetch('/data/menudata.json') // Adjust path as necessary
         aboutA.setAttribute('href', '/about/index.html');
         aboutA.setAttribute('class', 'dropbtn');
 
-        const aboutAText = document.createTextNode('About Us');
+        const aboutAText = document.createTextNode('About Us ');
+
+
         aboutA.append(aboutAText);
         about.append(aboutA);
 
