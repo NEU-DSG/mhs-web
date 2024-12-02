@@ -10,6 +10,8 @@
     <div style="width: 60%;" class="main-body">
         <div class="container">
 
+            <img src="/images/bookimages/{{ initials }}.jpg" class="header-image">
+
             <h1 id="JQA-header" class="title">{{title}}</h1>
 
             <div style="position: absolute; left: 50%; transform: translateX(-50%); margin-top: -30px;">
@@ -34,7 +36,7 @@
                 {% for proj in data.projects %}
                     {% set type = "../../projects"%}
                     {% set author = proj.initials %}
-                    {% set viz = tool %}
+                    {% set viz = initials %}
                     {% include "book.njk" %}
                 {% endfor %}
 

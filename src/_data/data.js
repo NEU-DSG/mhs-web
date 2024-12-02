@@ -151,8 +151,8 @@ module.exports = {
                 tabs: [
                     {
                         number: 2,
-                        title: "Persn",
-                        short_title: "Co-References",
+                        title: "Co-References",
+                        short_title: "Co-Ref",
                         icon: "fa-diagram-project",
                         date: "(1828 - 1866)",
                         data_file: "data.json",

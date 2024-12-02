@@ -263,3 +263,13 @@ footer {
     right: 0;
     height: 100px;
 }
+
+.header-image {
+    width: auto;
+    height: 200px;
+    border-radius: 10px;
+    outline: 5px solid #94b3ae;
+    outline-offset: -3px;
+    display: block;
+    margin: 0 auto;
+}
