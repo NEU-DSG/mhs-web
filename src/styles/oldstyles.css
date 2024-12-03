@@ -273,3 +273,22 @@ footer {
     display: block;
     margin: 0 auto;
 }
+
+.landscape-warning {
+    display: none;
+    /* Hide by default */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(148, 179, 174, 0.9);
+    /* Slightly transparent #94b3ae */
+    color: white;
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    z-index: 9999;
+}

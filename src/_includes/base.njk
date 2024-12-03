@@ -13,6 +13,32 @@
     </head>
 
     <body>
+
+        <div id="landscape-warning" class="landscape-warning">
+  Please rotate your device to landscape mode or enlargen your browser window.
+</div>
+
+        <script>
+            function checkOrientation() {
+                const warning = document.getElementById('landscape-warning');
+                const isPortrait = window
+                    .matchMedia("(orientation: portrait)")
+                    .matches;
+                const isMobile = window.innerWidth < 800;
+
+                if (isPortrait && isMobile) {
+                    warning.style.display = 'flex';
+                } else {
+                    warning.style.display = 'none';
+                }
+            }
+
+            checkOrientation();
+
+            window.addEventListener("orientationchange", checkOrientation);
+            window.addEventListener("resize", checkOrientation);
+        </script>
+
         <header id="menu">
             <script src="/styles/menu.js"></script>
             <br>
