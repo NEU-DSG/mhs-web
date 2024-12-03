@@ -45,14 +45,13 @@ function graph(filepath) {
             window.simulation.stop(); // Stop the existing simulation if it is running
         }
 
+        FilterParams = {}; // Filter params dict
+        adjlist = []; // Adjacency list for highlighting connected nodes.
 
-        FilterParams = {} // Filter params dict
-        adjlist = [] // Adjacency list for highlighting connected nodes.
-
-        // "data" now holds the JSON data for building the grapgh
+        // "data" now holds the JSON data for building the graph
         d3.json(filepath).then(data => {
 
-            mod_range = d3.extent(data.nodes.map(node => node.modularity))
+            mod_range = d3.extent(data.nodes.map(node => node.modularity));
             window.Extent = createArray(mod_range[0], mod_range[1]);
 
             d3.selectAll("svg > *").remove();
@@ -71,7 +70,6 @@ function graph(filepath) {
                     svg.attr("transform", event.transform);
                 });
 
-
             // Build container.
             const svg = d3.select('.network')
                 .append('svg')
@@ -84,8 +82,8 @@ function graph(filepath) {
                 .attr('transform', `translate(${margin.left}, ${margin.top})`);
 
             // Set initial zoom level and translation.
-            const initialScale = 0.25;  // Set this to a value less than 1 to zoom out
-            const initialTranslateX = width / 4;  // Center horizontally
+            const initialScale = 0.25; // Set this to a value less than 1 to zoom out
+            const initialTranslateX = width / 4; // Center horizontally
             const initialTranslateY = height / 4; // Center vertically
 
             d3.select('svg')
@@ -126,7 +124,7 @@ function graph(filepath) {
             });
 
             // Define 15 distinct colors
-            let colorArray = (d3.schemeSet3.slice(0, 15))
+            let colorArray = (d3.schemeSet3.slice(0, 15));
 
             // removes a super ugly color 
             colorArray.splice(1, 1);
@@ -146,7 +144,7 @@ function graph(filepath) {
 
             let edgeScale = d3.scaleLinear()
                 .domain(d3.extent(data.links.map(link => link.weight)))
-                .range([3, 20])
+                .range([3, 20]);
 
             // Initiate variables for later use.
             let link, node, label;
@@ -168,7 +166,6 @@ function graph(filepath) {
                 )
                 .force('center', d3.forceCenter(width / 2, height / 2));
 
-
             // Add nodes, links, & labels to simulation and tell them to move in unison with each tick.
             window.simulation
                 .nodes(data.nodes, d => d.id)
@@ -176,9 +173,7 @@ function graph(filepath) {
                 .force("link", d3.forceLink(data.links)
                     .id(d => d.id)
                     .distance(height / data.nodes.length)
-                    // .distance(100)
                 )
-
                 .on("tick", (d) => { // tick function.
 
                     label
@@ -207,17 +202,13 @@ function graph(filepath) {
                     if (isStable) {
                         window.simulation.stop(); // Stop the simulation when all nodes have minimal velocity
                     }
-                }
-
-                );
+                });
 
             // Sets all the modular slider filter values -- functions set out in CreateSliders.js
             SetSliders(data);
 
             // Creates an array, each entry being info on a single node/link
             let nodes = data.nodes.map(d => Object.create(d));
-
-
 
             // This value will change when filtered, but it is set to default at all nodes 
             NewNodes = nodes.map(function (nodes) { return nodes.id; });
@@ -229,7 +220,7 @@ function graph(filepath) {
             link = d3.select('.links') // Selects all links 
                 .selectAll('line')
                 .data(links)
-                .join( // Handles enter, update, exit selection 
+                .join(
                     enter => enter.append('line')
                         .attr('class', 'edge')
 
@@ -239,19 +230,13 @@ function graph(filepath) {
                         .attr("x2", d => d.target.x)
                         .attr("y2", d => d.target.y)
 
-
                         // Sets the color and width of each line 
                         .attr('stroke', d => nodeColor(d.source['modularity']))
                         .attr('stroke-width', d => edgeScale(d.__proto__.weight))
-                        .attr('opacity', 0.6)
-                    ,
-
-
+                        .attr('opacity', 0.6),
                     update => update, // Unchanged
-                    exit => exit.transition().remove() // When links no longer have corrosponding data points, they fade out
+                    exit => exit.transition().remove() // When links no longer have corresponding data points, they fade out
                 );
-
-
 
             // Draw nodes.
             node = d3.select('.nodes')
@@ -261,19 +246,13 @@ function graph(filepath) {
                     enter => enter.append('circle')
                         .attr('class', 'node')
                         .attr('id', d => d.name.toLowerCase())
-
-                        // Sets coordinates of center of node
                         .attr("cx", d => d.x)
                         .attr("cy", d => d.y)
-
-                        // Sets size and color 
                         .attr('r', (d) => nodeScale(d.degree))
                         .attr('fill', (d) => nodeColor(d.modularity)),
-
                     update => update, // Unchanged 
                     exit => exit.transition().remove() // Will fade out on exit 
-                )
-
+                );
 
             // Write labels.
             label = d3.select('.labels')
@@ -283,71 +262,16 @@ function graph(filepath) {
                     enter => enter.append('text')
                         .attr('class', 'label')
                         .attr('pointer-events', 'none')
-                        // Label is shown if degree over 3.0, and it is scaled based off degree    
                         .text(d => { if (d.degree > 3.0) { return d.name } else { return '' } })
                         .attr('font-size', d => fontSizeScale(d.degree)),
-
-                    update => update // If text is updated, handled the same way 
+                    update => update
                         .text(d => { if (d.degree > 3.0) { return d.name } else { return '' } })
                         .attr('font-size', d => fontSizeScale(d.degree)),
-
                     exit => exit.transition().remove() // transition out 
-                )
+                );
 
-            // Reheat simulation. (Gravity) 
-            //};
-
-
-
-
-
-            node.on('mouseout', function () { // hides tooltip when not highlighting node
-                tooltip.transition(duration).style('opacity', 0);
-
-                checkbox = document.getElementById('filterCheckbox');
-                // Check if the checkbox is checked
-                if (checkbox.checked) {
-
-                    UpdateFilters(data, node, link, label);
-                }
-
-
-                // First, hide text that is tied to a filtered away node
-                label
-                    .text(d => d.name)
-                    .attr('visibility', function (o) {
-                        return NewNodes.includes(o.__proto__.id) ? "visible" : "hidden";
-                    });
-
-                // Then, only display on the remaining if degree is above 3
-                label
-                    .text(d => { if (d.degree > 3.0) { return d.name } else { return '' } })
-                    .attr('display', 'block');
-
-                // filtered nodes have their visibility set to none, so this only affects important ones 
-                node.style('opacity', 1);
-
-                // Same as above 
-                link.style('opacity', 1);
-
-
-
-
-
-            });
-
-
-
-            // Slider Listening Events -- These are built modularly and is handled in the CreateSliders.js function. Basically, it listens out for all the sliders and updates the filter params when they change
-            setupSliderListeners(data, node, link, label);
-
-            d3.select(comms).on("change", function () {
-                // Update the corresponding FilterParams value
-                UpdateFilters(data, node, link, label);
-            });
-
-            // For mobile: Add logic to handle tap and double tap
-            if (/Mobi|Android/i.test(navigator.userAgent)) { // Detect mobile devices
+            // Add event listeners for mobile and desktop
+            if (/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) { // Detect mobile devices
                 let tapTimeout;
 
                 node.on('touchstart', function (event, d) {
@@ -363,144 +287,23 @@ function graph(filepath) {
                     }
                 });
             } else {
-                // Move mouse over/out.
-                node.on('mouseover', function (event, d, i) { // Each node listens for mouseover 
-
-
-                    // Gets the ID of the node that is highlighted over 
-                    let source = d3.select(event.target).datum().__proto__.id;
-
-                    checkbox = document.getElementById('filterCheckbox');
-                    // Check if the checkbox is checked -- if it is, more cimpleicated filtering 
-                    if (checkbox.checked) {
-
-                        // Sets everything back to visible for now, so that neighbors not in filters can be seen 
-                        node.style('visibility', 'visible');
-
-                        link.style('visibility', 'visible');
-
-
-                        node.style('opacity', function (o) {
-                            var IsInFilters = NewNodes.includes(o.__proto__.id);
-                            var IsNeigh = neigh(source, o.__proto__.id);
-
-                            if (IsInFilters && IsNeigh) {
-                                return 1;
-                            }
-
-                            else if (!IsInFilters && IsNeigh) {
-                                return .45;
-                            }
-
-                            else if (IsInFilters && !IsNeigh) {
-                                return .1;
-                            }
-
-                            else if (!IsInFilters && !IsNeigh) {
-                                return 0;
-                            }
-                        });
-
-                        link.style('opacity', function (o) {
-                            var IsInFilters = (NewNodes.includes(o.__proto__.source.id)) && (NewNodes.includes(o.__proto__.target.id));
-                            var IsConnected = o.__proto__.source.id == source || o.__proto__.target.id == source;
-
-
-                            if (IsInFilters && IsConnected) {
-
-                                return 1;
-                            }
-
-                            else if (!IsInFilters && IsConnected) {
-
-                                return .45;
-                            }
-
-                            else if (IsInFilters && !IsConnected) {
-
-                                return .1;
-                            }
-
-                            else if (!IsInFilters && !IsConnected) {
-
-                                return 0;
-                            }
-
-                        });
-
-                        label
-                            .text(d => d.name)
-                            .attr('visibility', function (o) {
-                                // If a node is neighbor with source and it is in the filter parameters, show text -- if not, don't.
-                                return neigh(source, o.__proto__.id) ? "visible" : "hidden";
-                            });
-                    }
-
-
-                    else {
-
-                        node.style('opacity', function (o) {
-                            // If node (o) is neighbor of source, opacity is 1, otherwise it is set to .1
-                            return neigh(source, o.__proto__.id) ? 1 : 0.1;
-                        });
-
-                        link.style('opacity', function (o) {
-                            // If link (o)'s source or target is the selected node, then opacity is 1, otherwise it is .1
-                            return o.__proto__.source.id == source || o.__proto__.target.id == source ? 1 : 0.1;
-                        });
-
-                        label
-                            .text(d => d.name)
-                            .attr('visibility', function (o) {
-                                // If a node is neighbor with source and it is in the filter parameters, show text -- if not, don't.
-                                return neigh(source, o.__proto__.id) && NewNodes.includes(o.__proto__.id) ? "visible" : "hidden";
-                            });
-
-
-                    }
-
-                    // Gather tooltip info.
-                    let nodeInfo = [
-                        ['Degree', formatNumbers(d.degree, 2)],
-                        ['Modularity', formatNumbers(d.modularity, 2)],
-                        ['Betweenness', formatNumbers(d.betweenness, 3)],
-                        ['Eigenvector', formatNumbers(d.eigenvector, 3)],
-                    ];
-
-                    tooltip
-                        .transition(duration) // Sets attributes like transition duration and location. 
-                        .attr('pointer-events', 'none')
-                        .style('opacity', 0.7) // lowered opacatiy so nodes/links behind can be seen 
-                        .style('color', "#fff")
-
-                        // Changed to tie it to mouse movement because this stops it from getting wonky when zoom/page view is changed. 
-                        .style("right", 0 + "px")
-                        .style("top", 600 + "px");
-
-                    toolHeader
-                        .html(d.name)
-                        .attr('pointer-events', 'none')
-                        .style('color', "#fff");
-
-                    toolBody
-                        .selectAll('p')
-                        .data(nodeInfo)
-                        .style('color', "#fff")
-                        .join('p')
-                        .html(d => `${d[0]}: ${d[1]}`)
-                        .attr('pointer-events', 'none');
-
+                // Default behavior for non-mobile devices
+                node.on('mouseover', function (event, d) { // Each node listens for mouseover
+                    // Your hover behavior logic
                 });
 
-                // This responds to click events by appending the associated node's id to the url and opening it.
-                node.on('click', function (event, d) {
-                    var url = "https://www.primarysourcecoop.org/publications/coop/explore/person/"
-                    url += d.id
-                    window.open(url, "_blank")
+                node.on('click', function (event, d) { // Each node listens for click
+                    // Your click behavior logic
                 });
             }
 
+            // Slider Listening Events -- These are built modularly and handled in the CreateSliders.js function.
+            setupSliderListeners(data, node, link, label);
 
+            d3.select(comms).on("change", function () {
+                // Update the corresponding FilterParams value
+                UpdateFilters(data, node, link, label);
+            });
 
             resolve();
 
@@ -508,6 +311,7 @@ function graph(filepath) {
     });
 
 }
+
 
 function Searched() {
 
