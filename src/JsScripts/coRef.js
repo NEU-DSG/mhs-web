@@ -297,141 +297,9 @@ function graph(filepath) {
             // Reheat simulation. (Gravity) 
             //};
 
-            // Move mouse over/out.
-            node.on('mouseover', function (event, d, i) { // Each node listens for mouseover 
 
 
-                // Gets the ID of the node that is highlighted over 
-                let source = d3.select(event.target).datum().__proto__.id;
 
-                checkbox = document.getElementById('filterCheckbox');
-                // Check if the checkbox is checked -- if it is, more cimpleicated filtering 
-                if (checkbox.checked) {
-
-                    // Sets everything back to visible for now, so that neighbors not in filters can be seen 
-                    node.style('visibility', 'visible');
-
-                    link.style('visibility', 'visible');
-
-
-                    node.style('opacity', function (o) {
-                        var IsInFilters = NewNodes.includes(o.__proto__.id);
-                        var IsNeigh = neigh(source, o.__proto__.id);
-
-                        if (IsInFilters && IsNeigh) {
-                            return 1;
-                        }
-
-                        else if (!IsInFilters && IsNeigh) {
-                            return .45;
-                        }
-
-                        else if (IsInFilters && !IsNeigh) {
-                            return .1;
-                        }
-
-                        else if (!IsInFilters && !IsNeigh) {
-                            return 0;
-                        }
-                    });
-
-                    link.style('opacity', function (o) {
-                        var IsInFilters = (NewNodes.includes(o.__proto__.source.id)) && (NewNodes.includes(o.__proto__.target.id));
-                        var IsConnected = o.__proto__.source.id == source || o.__proto__.target.id == source;
-
-
-                        if (IsInFilters && IsConnected) {
-
-                            return 1;
-                        }
-
-                        else if (!IsInFilters && IsConnected) {
-
-                            return .45;
-                        }
-
-                        else if (IsInFilters && !IsConnected) {
-
-                            return .1;
-                        }
-
-                        else if (!IsInFilters && !IsConnected) {
-
-                            return 0;
-                        }
-
-                    });
-
-                    label
-                        .text(d => d.name)
-                        .attr('visibility', function (o) {
-                            // If a node is neighbor with source and it is in the filter parameters, show text -- if not, don't.
-                            return neigh(source, o.__proto__.id) ? "visible" : "hidden";
-                        });
-                }
-
-
-                else {
-
-                    node.style('opacity', function (o) {
-                        // If node (o) is neighbor of source, opacity is 1, otherwise it is set to .1
-                        return neigh(source, o.__proto__.id) ? 1 : 0.1;
-                    });
-
-                    link.style('opacity', function (o) {
-                        // If link (o)'s source or target is the selected node, then opacity is 1, otherwise it is .1
-                        return o.__proto__.source.id == source || o.__proto__.target.id == source ? 1 : 0.1;
-                    });
-
-                    label
-                        .text(d => d.name)
-                        .attr('visibility', function (o) {
-                            // If a node is neighbor with source and it is in the filter parameters, show text -- if not, don't.
-                            return neigh(source, o.__proto__.id) && NewNodes.includes(o.__proto__.id) ? "visible" : "hidden";
-                        });
-
-
-                }
-
-                // Gather tooltip info.
-                let nodeInfo = [
-                    ['Degree', formatNumbers(d.degree, 2)],
-                    ['Modularity', formatNumbers(d.modularity, 2)],
-                    ['Betweenness', formatNumbers(d.betweenness, 3)],
-                    ['Eigenvector', formatNumbers(d.eigenvector, 3)],
-                ];
-
-                tooltip
-                    .transition(duration) // Sets attributes like transition duration and location. 
-                    .attr('pointer-events', 'none')
-                    .style('opacity', 0.7) // lowered opacatiy so nodes/links behind can be seen 
-                    .style('color', "#fff")
-
-                    // Changed to tie it to mouse movement because this stops it from getting wonky when zoom/page view is changed. 
-                    .style("right", 0 + "px")
-                    .style("top", 600 + "px");
-
-                toolHeader
-                    .html(d.name)
-                    .attr('pointer-events', 'none')
-                    .style('color', "#fff");
-
-                toolBody
-                    .selectAll('p')
-                    .data(nodeInfo)
-                    .style('color', "#fff")
-                    .join('p')
-                    .html(d => `${d[0]}: ${d[1]}`)
-                    .attr('pointer-events', 'none');
-
-            });
-
-            node.on('mousemove', function (event) {
-                tooltip
-                    // Changed to tie it to mouse movement because this stops it from getting wonky when zoom/page view is changed. 
-                    .style("right", 0 + "px")
-                    .style("top", 600 + "px");
-            });
 
             node.on('mouseout', function () { // hides tooltip when not highlighting node
                 tooltip.transition(duration).style('opacity', 0);
@@ -468,12 +336,7 @@ function graph(filepath) {
 
             });
 
-            // This responds to click events by appending the associated node's id to the url and opening it.
-            node.on('click', function (event, d) {
-                var url = "https://www.primarysourcecoop.org/publications/coop/explore/person/"
-                url += d.id
-                window.open(url, "_blank")
-            });
+
 
             // Slider Listening Events -- These are built modularly and is handled in the CreateSliders.js function. Basically, it listens out for all the sliders and updates the filter params when they change
             setupSliderListeners(data, node, link, label);
@@ -482,6 +345,161 @@ function graph(filepath) {
                 // Update the corresponding FilterParams value
                 UpdateFilters(data, node, link, label);
             });
+
+            // For mobile: Add logic to handle tap and double tap
+            if (/Mobi|Android/i.test(navigator.userAgent)) { // Detect mobile devices
+                let tapTimeout;
+
+                node.on('touchstart', function (event, d) {
+                    if (!tapTimeout) {
+                        // Single tap: Trigger mouseover behavior
+                        d3.select(this).dispatch('mouseover');
+                        tapTimeout = setTimeout(() => tapTimeout = null, 300); // Reset after 300ms
+                    } else {
+                        // Double tap: Trigger click behavior
+                        clearTimeout(tapTimeout);
+                        tapTimeout = null;
+                        d3.select(this).dispatch('click');
+                    }
+                });
+            } else {
+                // Move mouse over/out.
+                node.on('mouseover', function (event, d, i) { // Each node listens for mouseover 
+
+
+                    // Gets the ID of the node that is highlighted over 
+                    let source = d3.select(event.target).datum().__proto__.id;
+
+                    checkbox = document.getElementById('filterCheckbox');
+                    // Check if the checkbox is checked -- if it is, more cimpleicated filtering 
+                    if (checkbox.checked) {
+
+                        // Sets everything back to visible for now, so that neighbors not in filters can be seen 
+                        node.style('visibility', 'visible');
+
+                        link.style('visibility', 'visible');
+
+
+                        node.style('opacity', function (o) {
+                            var IsInFilters = NewNodes.includes(o.__proto__.id);
+                            var IsNeigh = neigh(source, o.__proto__.id);
+
+                            if (IsInFilters && IsNeigh) {
+                                return 1;
+                            }
+
+                            else if (!IsInFilters && IsNeigh) {
+                                return .45;
+                            }
+
+                            else if (IsInFilters && !IsNeigh) {
+                                return .1;
+                            }
+
+                            else if (!IsInFilters && !IsNeigh) {
+                                return 0;
+                            }
+                        });
+
+                        link.style('opacity', function (o) {
+                            var IsInFilters = (NewNodes.includes(o.__proto__.source.id)) && (NewNodes.includes(o.__proto__.target.id));
+                            var IsConnected = o.__proto__.source.id == source || o.__proto__.target.id == source;
+
+
+                            if (IsInFilters && IsConnected) {
+
+                                return 1;
+                            }
+
+                            else if (!IsInFilters && IsConnected) {
+
+                                return .45;
+                            }
+
+                            else if (IsInFilters && !IsConnected) {
+
+                                return .1;
+                            }
+
+                            else if (!IsInFilters && !IsConnected) {
+
+                                return 0;
+                            }
+
+                        });
+
+                        label
+                            .text(d => d.name)
+                            .attr('visibility', function (o) {
+                                // If a node is neighbor with source and it is in the filter parameters, show text -- if not, don't.
+                                return neigh(source, o.__proto__.id) ? "visible" : "hidden";
+                            });
+                    }
+
+
+                    else {
+
+                        node.style('opacity', function (o) {
+                            // If node (o) is neighbor of source, opacity is 1, otherwise it is set to .1
+                            return neigh(source, o.__proto__.id) ? 1 : 0.1;
+                        });
+
+                        link.style('opacity', function (o) {
+                            // If link (o)'s source or target is the selected node, then opacity is 1, otherwise it is .1
+                            return o.__proto__.source.id == source || o.__proto__.target.id == source ? 1 : 0.1;
+                        });
+
+                        label
+                            .text(d => d.name)
+                            .attr('visibility', function (o) {
+                                // If a node is neighbor with source and it is in the filter parameters, show text -- if not, don't.
+                                return neigh(source, o.__proto__.id) && NewNodes.includes(o.__proto__.id) ? "visible" : "hidden";
+                            });
+
+
+                    }
+
+                    // Gather tooltip info.
+                    let nodeInfo = [
+                        ['Degree', formatNumbers(d.degree, 2)],
+                        ['Modularity', formatNumbers(d.modularity, 2)],
+                        ['Betweenness', formatNumbers(d.betweenness, 3)],
+                        ['Eigenvector', formatNumbers(d.eigenvector, 3)],
+                    ];
+
+                    tooltip
+                        .transition(duration) // Sets attributes like transition duration and location. 
+                        .attr('pointer-events', 'none')
+                        .style('opacity', 0.7) // lowered opacatiy so nodes/links behind can be seen 
+                        .style('color', "#fff")
+
+                        // Changed to tie it to mouse movement because this stops it from getting wonky when zoom/page view is changed. 
+                        .style("right", 0 + "px")
+                        .style("top", 600 + "px");
+
+                    toolHeader
+                        .html(d.name)
+                        .attr('pointer-events', 'none')
+                        .style('color', "#fff");
+
+                    toolBody
+                        .selectAll('p')
+                        .data(nodeInfo)
+                        .style('color', "#fff")
+                        .join('p')
+                        .html(d => `${d[0]}: ${d[1]}`)
+                        .attr('pointer-events', 'none');
+
+                });
+
+                // This responds to click events by appending the associated node's id to the url and opening it.
+                node.on('click', function (event, d) {
+                    var url = "https://www.primarysourcecoop.org/publications/coop/explore/person/"
+                    url += d.id
+                    window.open(url, "_blank")
+                });
+            }
+
 
 
             resolve();
