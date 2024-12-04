@@ -75,6 +75,7 @@ function graph(filepath) {
             // Build container.
             const svg = d3.select('.network')
                 .append('svg')
+                .attr('id', 'networkSvg')
                 .attr("height", height + margin.top + margin.bottom) // Contained.
                 .attr("width", "100%")
                 .attr("margins", "0px auto")
@@ -444,9 +445,10 @@ function graph(filepath) {
                 }
             });
 
-            // Reset tappedNode when touch ends outside the node
-            node.on('touchend', function () {
-                tappedNode = null;
+
+            document.getElementById('networkSvg').addEventListener('click', function () {
+                handleMouseOut(node, link, label, tooltip, duration, UpdateFilters, data, NewNodes);
+                tappedNode = null; // Reset the tappedNode
             });
 
             // Slider Listening Events -- These are built modularly and is handled in the CreateSliders.js function. Basically, it listens out for all the sliders and updates the filter params when they change
