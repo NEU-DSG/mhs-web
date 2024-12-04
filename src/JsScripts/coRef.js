@@ -45,13 +45,14 @@ function graph(filepath) {
             window.simulation.stop(); // Stop the existing simulation if it is running
         }
 
-        FilterParams = {}; // Filter params dict
-        adjlist = []; // Adjacency list for highlighting connected nodes.
 
-        // "data" now holds the JSON data for building the graph
+        FilterParams = {} // Filter params dict
+        adjlist = [] // Adjacency list for highlighting connected nodes.
+
+        // "data" now holds the JSON data for building the grapgh
         d3.json(filepath).then(data => {
 
-            mod_range = d3.extent(data.nodes.map(node => node.modularity));
+            mod_range = d3.extent(data.nodes.map(node => node.modularity))
             window.Extent = createArray(mod_range[0], mod_range[1]);
 
             d3.selectAll("svg > *").remove();
@@ -70,6 +71,7 @@ function graph(filepath) {
                     svg.attr("transform", event.transform);
                 });
 
+
             // Build container.
             const svg = d3.select('.network')
                 .append('svg')
@@ -82,8 +84,8 @@ function graph(filepath) {
                 .attr('transform', `translate(${margin.left}, ${margin.top})`);
 
             // Set initial zoom level and translation.
-            const initialScale = 0.25; // Set this to a value less than 1 to zoom out
-            const initialTranslateX = width / 4; // Center horizontally
+            const initialScale = 0.25;  // Set this to a value less than 1 to zoom out
+            const initialTranslateX = width / 4;  // Center horizontally
             const initialTranslateY = height / 4; // Center vertically
 
             d3.select('svg')
@@ -124,7 +126,7 @@ function graph(filepath) {
             });
 
             // Define 15 distinct colors
-            let colorArray = (d3.schemeSet3.slice(0, 15));
+            let colorArray = (d3.schemeSet3.slice(0, 15))
 
             // removes a super ugly color 
             colorArray.splice(1, 1);
@@ -144,7 +146,7 @@ function graph(filepath) {
 
             let edgeScale = d3.scaleLinear()
                 .domain(d3.extent(data.links.map(link => link.weight)))
-                .range([3, 20]);
+                .range([3, 20])
 
             // Initiate variables for later use.
             let link, node, label;
@@ -166,6 +168,7 @@ function graph(filepath) {
                 )
                 .force('center', d3.forceCenter(width / 2, height / 2));
 
+
             // Add nodes, links, & labels to simulation and tell them to move in unison with each tick.
             window.simulation
                 .nodes(data.nodes, d => d.id)
@@ -173,7 +176,9 @@ function graph(filepath) {
                 .force("link", d3.forceLink(data.links)
                     .id(d => d.id)
                     .distance(height / data.nodes.length)
+                    // .distance(100)
                 )
+
                 .on("tick", (d) => { // tick function.
 
                     label
@@ -202,13 +207,17 @@ function graph(filepath) {
                     if (isStable) {
                         window.simulation.stop(); // Stop the simulation when all nodes have minimal velocity
                     }
-                });
+                }
+
+                );
 
             // Sets all the modular slider filter values -- functions set out in CreateSliders.js
             SetSliders(data);
 
             // Creates an array, each entry being info on a single node/link
             let nodes = data.nodes.map(d => Object.create(d));
+
+
 
             // This value will change when filtered, but it is set to default at all nodes 
             NewNodes = nodes.map(function (nodes) { return nodes.id; });
@@ -220,7 +229,7 @@ function graph(filepath) {
             link = d3.select('.links') // Selects all links 
                 .selectAll('line')
                 .data(links)
-                .join(
+                .join( // Handles enter, update, exit selection 
                     enter => enter.append('line')
                         .attr('class', 'edge')
 
@@ -230,13 +239,19 @@ function graph(filepath) {
                         .attr("x2", d => d.target.x)
                         .attr("y2", d => d.target.y)
 
+
                         // Sets the color and width of each line 
                         .attr('stroke', d => nodeColor(d.source['modularity']))
                         .attr('stroke-width', d => edgeScale(d.__proto__.weight))
-                        .attr('opacity', 0.6),
+                        .attr('opacity', 0.6)
+                    ,
+
+
                     update => update, // Unchanged
-                    exit => exit.transition().remove() // When links no longer have corresponding data points, they fade out
+                    exit => exit.transition().remove() // When links no longer have corrosponding data points, they fade out
                 );
+
+
 
             // Draw nodes.
             node = d3.select('.nodes')
@@ -246,13 +261,19 @@ function graph(filepath) {
                     enter => enter.append('circle')
                         .attr('class', 'node')
                         .attr('id', d => d.name.toLowerCase())
+
+                        // Sets coordinates of center of node
                         .attr("cx", d => d.x)
                         .attr("cy", d => d.y)
+
+                        // Sets size and color 
                         .attr('r', (d) => nodeScale(d.degree))
                         .attr('fill', (d) => nodeColor(d.modularity)),
+
                     update => update, // Unchanged 
                     exit => exit.transition().remove() // Will fade out on exit 
-                );
+                )
+
 
             // Write labels.
             label = d3.select('.labels')
@@ -262,42 +283,173 @@ function graph(filepath) {
                     enter => enter.append('text')
                         .attr('class', 'label')
                         .attr('pointer-events', 'none')
+                        // Label is shown if degree over 3.0, and it is scaled based off degree    
                         .text(d => { if (d.degree > 3.0) { return d.name } else { return '' } })
                         .attr('font-size', d => fontSizeScale(d.degree)),
-                    update => update
+
+                    update => update // If text is updated, handled the same way 
                         .text(d => { if (d.degree > 3.0) { return d.name } else { return '' } })
                         .attr('font-size', d => fontSizeScale(d.degree)),
+
                     exit => exit.transition().remove() // transition out 
-                );
+                )
 
-            // Add event listeners for mobile and desktop
-            if (/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) { // Detect mobile devices
-                let tapTimeout;
+            // Reheat simulation. (Gravity) 
+            //};
 
-                node.on('touchstart', function (event, d) {
-                    if (!tapTimeout) {
-                        // Single tap: Trigger mouseover behavior
-                        d3.select(this).dispatch('mouseover');
-                        tapTimeout = setTimeout(() => tapTimeout = null, 300); // Reset after 300ms
-                    } else {
-                        // Double tap: Trigger click behavior
-                        clearTimeout(tapTimeout);
-                        tapTimeout = null;
-                        d3.select(this).dispatch('click');
-                    }
-                });
-            } else {
-                // Default behavior for non-mobile devices
-                node.on('mouseover', function (event, d) { // Each node listens for mouseover
-                    // Your hover behavior logic
-                });
+            // Function to handle mouseover
+            function handleMouseOver(event, d, node, link, label, tooltip, toolHeader, toolBody, duration, NewNodes, neigh, formatNumbers) {
+                let source = d3.select(event.target).datum().__proto__.id;
+                let checkbox = document.getElementById('filterCheckbox');
 
-                node.on('click', function (event, d) { // Each node listens for click
-                    // Your click behavior logic
-                });
+                if (checkbox.checked) {
+                    node.style('visibility', 'visible');
+                    link.style('visibility', 'visible');
+
+                    node.style('opacity', function (o) {
+                        let IsInFilters = NewNodes.includes(o.__proto__.id);
+                        let IsNeigh = neigh(source, o.__proto__.id);
+
+                        if (IsInFilters && IsNeigh) return 1;
+                        else if (!IsInFilters && IsNeigh) return 0.45;
+                        else if (IsInFilters && !IsNeigh) return 0.1;
+                        else return 0;
+                    });
+
+                    link.style('opacity', function (o) {
+                        let IsInFilters = (NewNodes.includes(o.__proto__.source.id)) && (NewNodes.includes(o.__proto__.target.id));
+                        let IsConnected = o.__proto__.source.id == source || o.__proto__.target.id == source;
+
+                        if (IsInFilters && IsConnected) return 1;
+                        else if (!IsInFilters && IsConnected) return 0.45;
+                        else if (IsInFilters && !IsConnected) return 0.1;
+                        else return 0;
+                    });
+
+                    label
+                        .text(d => d.name)
+                        .attr('visibility', function (o) {
+                            return neigh(source, o.__proto__.id) ? "visible" : "hidden";
+                        });
+                } else {
+                    node.style('opacity', function (o) {
+                        return neigh(source, o.__proto__.id) ? 1 : 0.1;
+                    });
+
+                    link.style('opacity', function (o) {
+                        return o.__proto__.source.id == source || o.__proto__.target.id == source ? 1 : 0.1;
+                    });
+
+                    label
+                        .text(d => d.name)
+                        .attr('visibility', function (o) {
+                            return neigh(source, o.__proto__.id) && NewNodes.includes(o.__proto__.id) ? "visible" : "hidden";
+                        });
+                }
+
+                let nodeInfo = [
+                    ['Degree', formatNumbers(d.degree, 2)],
+                    ['Modularity', formatNumbers(d.modularity, 2)],
+                    ['Betweenness', formatNumbers(d.betweenness, 3)],
+                    ['Eigenvector', formatNumbers(d.eigenvector, 3)],
+                ];
+
+                tooltip
+                    .transition(duration)
+                    .attr('pointer-events', 'none')
+                    .style('opacity', 0.7)
+                    .style('color', "#fff")
+                    .style("right", "0px")
+                    .style("top", "600px");
+
+                toolHeader
+                    .html(d.name)
+                    .attr('pointer-events', 'none')
+                    .style('color', "#fff");
+
+                toolBody
+                    .selectAll('p')
+                    .data(nodeInfo)
+                    .style('color', "#fff")
+                    .join('p')
+                    .html(d => `${d[0]}: ${d[1]}`)
+                    .attr('pointer-events', 'none');
             }
 
-            // Slider Listening Events -- These are built modularly and handled in the CreateSliders.js function.
+            // Function to handle mousemove
+            function handleMouseMove(tooltip) {
+                tooltip.style("right", "0px").style("top", "600px");
+            }
+
+            // Function to handle mouseout
+            function handleMouseOut(node, link, label, tooltip, duration, UpdateFilters, data, NewNodes) {
+                tooltip.transition(duration).style('opacity', 0);
+
+                let checkbox = document.getElementById('filterCheckbox');
+                if (checkbox.checked) {
+                    UpdateFilters(data, node, link, label);
+                }
+
+                label
+                    .text(d => d.name)
+                    .attr('visibility', function (o) {
+                        return NewNodes.includes(o.__proto__.id) ? "visible" : "hidden";
+                    });
+
+                label
+                    .text(d => d.degree > 3.0 ? d.name : '')
+                    .attr('display', 'block');
+
+                node.style('opacity', 1);
+                link.style('opacity', 1);
+            }
+
+            // Function to handle click
+            function handleClick(event, d) {
+                let url = "https://www.primarysourcecoop.org/publications/coop/explore/person/" + d.id;
+                window.open(url, "_blank");
+            }
+
+            let tappedNode = null; // Track the currently tapped node
+
+            // Attach events to nodes
+            node.on('mouseover', function (event, d) {
+                handleMouseOver(event, d, node, link, label, tooltip, toolHeader, toolBody, duration, NewNodes, neigh, formatNumbers);
+            });
+
+            node.on('mousemove', function () {
+                handleMouseMove(tooltip);
+            });
+
+            node.on('mouseout', function () {
+                handleMouseOut(node, link, label, tooltip, duration, UpdateFilters, data, NewNodes);
+            });
+
+            node.on('click', function (event, d) {
+                handleClick(event, d);
+            });
+
+            // For mobile devices
+            node.on('touchstart', function (event, d) {
+                event.preventDefault(); // Prevent default touch behavior
+
+                if (tappedNode === d) {
+                    // If the same node is tapped again, treat it as a "click"
+                    handleClick(event, d);
+                    tappedNode = null; // Reset the tappedNode
+                } else {
+                    // If a different node is tapped, treat it as a "mouseover"
+                    tappedNode = d;
+                    handleMouseOver(event, d, node, link, label, tooltip, toolHeader, toolBody, duration, NewNodes, neigh, formatNumbers);
+                }
+            });
+
+            // Reset tappedNode when touch ends outside the node
+            node.on('touchend', function () {
+                tappedNode = null;
+            });
+
+            // Slider Listening Events -- These are built modularly and is handled in the CreateSliders.js function. Basically, it listens out for all the sliders and updates the filter params when they change
             setupSliderListeners(data, node, link, label);
 
             d3.select(comms).on("change", function () {
@@ -305,13 +457,13 @@ function graph(filepath) {
                 UpdateFilters(data, node, link, label);
             });
 
+
             resolve();
 
         });
     });
 
 }
-
 
 function Searched() {
 
