@@ -1,0 +1,36 @@
+name: deploy-mhs-lab-PROD-env
+
+on: workflow_dispatch
+
+# Hosted on to https://d32k26jeonrc6b.cloudfront.net/index.html 
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18' 
+
+    - name: Install Dependencies
+      run: npm install
+
+    - name: Build Eleventy Site
+      run: npx eleventy
+
+    - name: Configure AWS Credentials
+      uses: aws-actions/configure-aws-credentials@v1-node16
+      with:
+        aws-access-key-id: ${{ secrets.PROD_AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.PROD_AWS_SECRET_ACCESS_KEY }}
+        aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
+
+    - name: Deploy site to S3 bucket
+      run: aws s3 sync _site/ s3://${{ secrets.PROD_S3_BUCKET }} --delete
+
+    - name: Invalidate CloudFront Cache
+      run: aws cloudfront create-invalidation --distribution-id ${{ secrets.PROD_CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
