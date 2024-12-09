@@ -24,7 +24,7 @@
                 const isPortrait = window
                     .matchMedia("(orientation: portrait)")
                     .matches;
-                const isMobile = window.innerWidth < 800;
+                const isMobile = window.innerWidth < 400;
 
                 if (isPortrait && isMobile) {
                     warning.style.display = 'flex';
