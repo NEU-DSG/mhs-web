@@ -2,6 +2,8 @@ name: deploy-mhs-lab-dev-env
 
 on: workflow_dispatch
 
+# Hosted on to https://d32k26jeonrc6b.cloudfront.net/index.html 
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
