@@ -47,11 +47,15 @@ g.network-labels>text.label {
 }
 
 .network-tooltip {
-    background-color: #242124;
-    padding: 20px;
-    border-radius: 20px;
+    background-color: #000000;
+    padding: 10px 15px;
+    border-radius: 8px;
     z-index: 10;
     pointer-events: none;
+    max-width: 200px;
+    word-wrap: break-word;
+    text-align: center;
+    font-size: 12px;
 }
 
 

@@ -361,7 +361,7 @@ function graph(filepath) {
                     .style('opacity', 0.7)
                     .style('color', "#fff")
                     .style("right", "0px")
-                    .style("top", "600px");
+                    .style("top", "0px");
 
                 toolHeader
                     .html(d.name)
@@ -377,10 +377,7 @@ function graph(filepath) {
                     .attr('pointer-events', 'none');
             }
 
-            // Function to handle mousemove
-            function handleMouseMove(tooltip) {
-                tooltip.style("right", "0px").style("top", "600px");
-            }
+
 
             // Function to handle mouseout
             function handleMouseOut(node, link, label, tooltip, duration, UpdateFilters, data, NewNodes) {
@@ -418,9 +415,7 @@ function graph(filepath) {
                 handleMouseOver(event, d, node, link, label, tooltip, toolHeader, toolBody, duration, NewNodes, neigh, formatNumbers);
             });
 
-            node.on('mousemove', function () {
-                handleMouseMove(tooltip);
-            });
+
 
             node.on('mouseout', function () {
                 handleMouseOut(node, link, label, tooltip, duration, UpdateFilters, data, NewNodes);

@@ -16,6 +16,9 @@ module.exports = {
             short_desc: "One of the most consequential jurists of Antebellum America."
         },
 
+        // Here, you could add another person to the site who would show up on all munus, navigation tabs etc. Make sure to create a matching dir in the 
+        // data folder to hold all their data. THIS DIRECTORY SHOULD MATCH the initials param. 
+
     ],
 
     tools: [
@@ -34,9 +37,14 @@ module.exports = {
             title: "Subject Reference Timeline",
             short_desc: "What's on their mind over time?"
         },
+
+        // Here, you could add another tool to the site who would show up on all munus, navigation tabs etc. Make sure to create a matching dir in the 
+        // each projects data directory. THIS DIRECTORY SHOULD MATCH the tool param. 
     ],
 
     custom_params: [
+
+        // here you can add custom paramters if needed for any existing or feature visuzliations 
         {
             project: "JQA",
             tool: "geo",
