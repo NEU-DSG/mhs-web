@@ -2,7 +2,7 @@ name: deploy-mhs-lab-PROD-env
 
 on: workflow_dispatch
 
-# Hosted on to https://d32k26jeonrc6b.cloudfront.net/index.html 
+# Hosted on to https://dgu4r6kvsv9n.cloudfront.net
 
 jobs:
   deploy:
