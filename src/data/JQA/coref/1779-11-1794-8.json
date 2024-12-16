@@ -1,0 +1,6473 @@
+{
+    "metrics": {
+        "start_month_year": "1779-11",
+        "end_month_year": "1794-8",
+        "weight_min": "3",
+        "num_entries": "5303",
+        "avg_entry_len": "347.549877427871",
+        "pers_ref_avg": "2.6894210824061853",
+        "num_nodes": 148,
+        "num_edges": 906
+    },
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 30,
+            "betweenness": 0.0026788424273868723,
+            "eigenvector": 0.14284119109838578,
+            "degree_cent": 0.20408163265306123,
+            "modularity": 0,
+            "id": "adams-charles",
+            "given_name": "Charles",
+            "middle_name": "",
+            "family_name": "Adams",
+            "date_of_birth": "1770",
+            "date_of_death": "1800"
+        },
+        {
+            "degree": 14,
+            "betweenness": 0.00011134145883936208,
+            "eigenvector": 0.09049241183958104,
+            "degree_cent": 0.09523809523809523,
+            "modularity": 0,
+            "id": "abbot-benjamin",
+            "given_name": "Benjamin",
+            "middle_name": "",
+            "family_name": "Abbot",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 66,
+            "betweenness": 0.05086193288998589,
+            "eigenvector": 0.2324336777498635,
+            "degree_cent": 0.4489795918367347,
+            "modularity": 0,
+            "id": "beale-benjamin2",
+            "given_name": "Benjamin",
+            "middle_name": "",
+            "family_name": "Beale",
+            "date_of_birth": "1768",
+            "date_of_death": "1826"
+        },
+        {
+            "degree": 75,
+            "betweenness": 0.13305018762573573,
+            "eigenvector": 0.23764751146963548,
+            "degree_cent": 0.5102040816326531,
+            "modularity": 1,
+            "id": "bridge-james",
+            "given_name": "James",
+            "middle_name": "",
+            "family_name": "Bridge",
+            "date_of_birth": "1765",
+            "date_of_death": "1834"
+        },
+        {
+            "degree": 63,
+            "betweenness": 0.04323602494699368,
+            "eigenvector": 0.22852712509516288,
+            "degree_cent": 0.42857142857142855,
+            "modularity": 0,
+            "id": "burlamaqui-jean",
+            "given_name": "Jean",
+            "middle_name": "Jacques",
+            "family_name": "Burlamaqui",
+            "date_of_birth": "1694",
+            "date_of_death": "1748"
+        },
+        {
+            "degree": 63,
+            "betweenness": 0.04323602494699368,
+            "eigenvector": 0.22852712509516288,
+            "degree_cent": 0.42857142857142855,
+            "modularity": 0,
+            "id": "burr-jonathan",
+            "given_name": "Jonathan",
+            "middle_name": "",
+            "family_name": "Burr",
+            "date_of_birth": "",
+            "date_of_death": "1842"
+        },
+        {
+            "degree": 65,
+            "betweenness": 0.07634774440201747,
+            "eigenvector": 0.22920579310283234,
+            "degree_cent": 0.4421768707482993,
+            "modularity": 0,
+            "id": "cranch-richard",
+            "given_name": "Richard",
+            "middle_name": "",
+            "family_name": "Cranch",
+            "date_of_birth": "1726",
+            "date_of_death": "1811"
+        },
+        {
+            "degree": 69,
+            "betweenness": 0.07613605880465221,
+            "eigenvector": 0.23466047523575476,
+            "degree_cent": 0.4693877551020408,
+            "modularity": 0,
+            "id": "cranch-william",
+            "given_name": "William",
+            "middle_name": "",
+            "family_name": "Cranch",
+            "date_of_birth": "1769",
+            "date_of_death": "1855"
+        },
+        {
+            "degree": 31,
+            "betweenness": 0.12900377868170682,
+            "eigenvector": 0.10492539242920523,
+            "degree_cent": 0.21088435374149658,
+            "modularity": 2,
+            "id": "dana-francis",
+            "given_name": "Francis",
+            "middle_name": "",
+            "family_name": "Dana",
+            "date_of_birth": "1743",
+            "date_of_death": "1811"
+        },
+        {
+            "degree": 11,
+            "betweenness": 0.0,
+            "eigenvector": 0.07772736611196936,
+            "degree_cent": 0.07482993197278912,
+            "modularity": 0,
+            "id": "dodge-oliver",
+            "given_name": "Oliver",
+            "middle_name": "",
+            "family_name": "Dodge",
+            "date_of_birth": "",
+            "date_of_death": "1802"
+        },
+        {
+            "degree": 37,
+            "betweenness": 0.01911015600562959,
+            "eigenvector": 0.153569123526176,
+            "degree_cent": 0.25170068027210885,
+            "modularity": 1,
+            "id": "fiske-oliver",
+            "given_name": "Oliver",
+            "middle_name": "",
+            "family_name": "Fiske",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 65,
+            "betweenness": 0.058573647078018,
+            "eigenvector": 0.23017232674397478,
+            "degree_cent": 0.4421768707482993,
+            "modularity": 0,
+            "id": "hilliard-timothy",
+            "given_name": "Timothy",
+            "middle_name": "",
+            "family_name": "Hilliard",
+            "date_of_birth": "1746",
+            "date_of_death": "1790"
+        },
+        {
+            "degree": 68,
+            "betweenness": 0.096715398586153,
+            "eigenvector": 0.230917750265471,
+            "degree_cent": 0.4625850340136054,
+            "modularity": 0,
+            "id": "shaw-john2",
+            "given_name": "John",
+            "middle_name": "",
+            "family_name": "Shaw",
+            "date_of_birth": "1748",
+            "date_of_death": "1794"
+        },
+        {
+            "degree": 66,
+            "betweenness": 0.058086399725162136,
+            "eigenvector": 0.2308392465804676,
+            "degree_cent": 0.4489795918367347,
+            "modularity": 0,
+            "id": "white-leonard",
+            "given_name": "Leonard",
+            "middle_name": "",
+            "family_name": "White",
+            "date_of_birth": "1767",
+            "date_of_death": "1849"
+        },
+        {
+            "degree": 64,
+            "betweenness": 0.049724462218209815,
+            "eigenvector": 0.22914367634124924,
+            "degree_cent": 0.43537414965986393,
+            "modularity": 0,
+            "id": "williams-samuel4",
+            "given_name": "Samuel",
+            "middle_name": "",
+            "family_name": "Williams",
+            "date_of_birth": "",
+            "date_of_death": "1817"
+        },
+        {
+            "degree": 2,
+            "betweenness": 0.0,
+            "eigenvector": 0.0031470445779342095,
+            "degree_cent": 0.013605442176870748,
+            "modularity": 3,
+            "id": "adams-john",
+            "given_name": "John",
+            "middle_name": "",
+            "family_name": "Adams",
+            "date_of_birth": "1735",
+            "date_of_death": "1826"
+        },
+        {
+            "degree": 5,
+            "betweenness": 0.12777622464510918,
+            "eigenvector": 0.003158043584224057,
+            "degree_cent": 0.03401360544217687,
+            "modularity": 3,
+            "id": "adams-abigail",
+            "given_name": "Abigail",
+            "middle_name": "",
+            "family_name": "Adams",
+            "date_of_birth": "1744",
+            "date_of_death": "1818"
+        },
+        {
+            "degree": 17,
+            "betweenness": 0.15109881145799026,
+            "eigenvector": 0.09183291653805849,
+            "degree_cent": 0.11564625850340135,
+            "modularity": 0,
+            "id": "cranch-mary2",
+            "given_name": "Mary",
+            "middle_name": "",
+            "family_name": "Cranch",
+            "date_of_birth": "1741",
+            "date_of_death": "1811"
+        },
+        {
+            "degree": 7,
+            "betweenness": 0.045599975149877306,
+            "eigenvector": 0.00010700966124475993,
+            "degree_cent": 0.047619047619047616,
+            "modularity": 3,
+            "id": "jefferson-thomas",
+            "given_name": "Thomas",
+            "middle_name": "",
+            "family_name": "Jefferson",
+            "date_of_birth": "1743",
+            "date_of_death": "1826"
+        },
+        {
+            "degree": 8,
+            "betweenness": 0.046858012611437266,
+            "eigenvector": 0.00011036225872939473,
+            "degree_cent": 0.05442176870748299,
+            "modularity": 3,
+            "id": "lafayette",
+            "given_name": "Gilbert",
+            "middle_name": "du Motier",
+            "family_name": "Lafayette",
+            "date_of_birth": "1757",
+            "date_of_death": "1834"
+        },
+        {
+            "degree": 2,
+            "betweenness": 0.0,
+            "eigenvector": 0.00010509520130748512,
+            "degree_cent": 0.013605442176870748,
+            "modularity": 3,
+            "id": "smith-abigail",
+            "given_name": "Abigail (Nabby)",
+            "middle_name": "",
+            "family_name": "Smith",
+            "date_of_birth": "1765",
+            "date_of_death": "1813"
+        },
+        {
+            "degree": 12,
+            "betweenness": 8.076289876681265e-05,
+            "eigenvector": 0.08244652483825253,
+            "degree_cent": 0.08163265306122448,
+            "modularity": 0,
+            "id": "adams-peter",
+            "given_name": "Peter",
+            "middle_name": "Boylston",
+            "family_name": "Adams",
+            "date_of_birth": "1738",
+            "date_of_death": "1823"
+        },
+        {
+            "degree": 15,
+            "betweenness": 6.499262859341138e-05,
+            "eigenvector": 0.09308867630162955,
+            "degree_cent": 0.10204081632653061,
+            "modularity": 0,
+            "id": "adams-thomas",
+            "given_name": "Thomas",
+            "middle_name": "Boylston",
+            "family_name": "Adams",
+            "date_of_birth": "1772",
+            "date_of_death": "1832"
+        },
+        {
+            "degree": 21,
+            "betweenness": 0.0007282806364767915,
+            "eigenvector": 0.11452806033970243,
+            "degree_cent": 0.14285714285714285,
+            "modularity": 0,
+            "id": "bartlett-margaret",
+            "given_name": "Margaret",
+            "middle_name": "Leonard",
+            "family_name": "Bartlett",
+            "date_of_birth": "1766",
+            "date_of_death": "1831"
+        },
+        {
+            "degree": 24,
+            "betweenness": 0.0015753585246176803,
+            "eigenvector": 0.12530004097164604,
+            "degree_cent": 0.16326530612244897,
+            "modularity": 0,
+            "id": "greenleaf-lucy",
+            "given_name": "Lucy",
+            "middle_name": "",
+            "family_name": "Greenleaf",
+            "date_of_birth": "1767",
+            "date_of_death": "1846"
+        },
+        {
+            "degree": 18,
+            "betweenness": 0.0,
+            "eigenvector": 0.1070396680055763,
+            "degree_cent": 0.12244897959183673,
+            "modularity": 0,
+            "id": "hilliard-mary",
+            "given_name": "Mary",
+            "middle_name": "",
+            "family_name": "Hilliard",
+            "date_of_birth": "1755",
+            "date_of_death": "1817"
+        },
+        {
+            "degree": 19,
+            "betweenness": 0.006746226177315377,
+            "eigenvector": 0.10209207896667208,
+            "degree_cent": 0.1292517006802721,
+            "modularity": 1,
+            "id": "packard-hezekiah",
+            "given_name": "Hezekiah",
+            "middle_name": "",
+            "family_name": "Packard",
+            "date_of_birth": "1761",
+            "date_of_death": "1849"
+        },
+        {
+            "degree": 21,
+            "betweenness": 0.0007525334004555829,
+            "eigenvector": 0.1144919740235279,
+            "degree_cent": 0.14285714285714285,
+            "modularity": 0,
+            "id": "peabody-elizabeth",
+            "given_name": "Elizabeth",
+            "middle_name": "",
+            "family_name": "Peabody",
+            "date_of_birth": "1750",
+            "date_of_death": "1815"
+        },
+        {
+            "degree": 11,
+            "betweenness": 0.0,
+            "eigenvector": 0.07940062992215417,
+            "degree_cent": 0.07482993197278912,
+            "modularity": 0,
+            "id": "quincy-norton",
+            "given_name": "Norton",
+            "middle_name": "",
+            "family_name": "Quincy",
+            "date_of_birth": "1716",
+            "date_of_death": "1801"
+        },
+        {
+            "degree": 21,
+            "betweenness": 0.000747292653918318,
+            "eigenvector": 0.11652167503812809,
+            "degree_cent": 0.14285714285714285,
+            "modularity": 0,
+            "id": "read-nathan",
+            "given_name": "Nathan",
+            "middle_name": "",
+            "family_name": "Read",
+            "date_of_birth": "1759",
+            "date_of_death": "1849"
+        },
+        {
+            "degree": 18,
+            "betweenness": 0.0,
+            "eigenvector": 0.1070396680055763,
+            "degree_cent": 0.12244897959183673,
+            "modularity": 0,
+            "id": "reid-thomas",
+            "given_name": "Thomas",
+            "middle_name": "",
+            "family_name": "Reid",
+            "date_of_birth": "1710",
+            "date_of_death": "1796"
+        },
+        {
+            "degree": 20,
+            "betweenness": 0.01909806909457454,
+            "eigenvector": 0.10357894320184444,
+            "degree_cent": 0.13605442176870747,
+            "modularity": 0,
+            "id": "smith-isaac2",
+            "given_name": "Isaac",
+            "middle_name": "",
+            "family_name": "Smith",
+            "date_of_birth": "1719",
+            "date_of_death": "1787"
+        },
+        {
+            "degree": 27,
+            "betweenness": 0.06929609817788161,
+            "eigenvector": 0.10968585461065704,
+            "degree_cent": 0.18367346938775508,
+            "modularity": 2,
+            "id": "thaxter-john2",
+            "given_name": "John",
+            "middle_name": "",
+            "family_name": "Thaxter",
+            "date_of_birth": "1755",
+            "date_of_death": "1791"
+        },
+        {
+            "degree": 18,
+            "betweenness": 0.0,
+            "eigenvector": 0.1070396680055763,
+            "degree_cent": 0.12244897959183673,
+            "modularity": 0,
+            "id": "thayer-nathaniel",
+            "given_name": "Nathaniel",
+            "middle_name": "",
+            "family_name": "Thayer",
+            "date_of_birth": "1769",
+            "date_of_death": "1840"
+        },
+        {
+            "degree": 12,
+            "betweenness": 0.0,
+            "eigenvector": 0.08442535141631692,
+            "degree_cent": 0.08163265306122448,
+            "modularity": 0,
+            "id": "treadwell-john2",
+            "given_name": "John",
+            "middle_name": "Dexter",
+            "family_name": "Treadwell",
+            "date_of_birth": "1768",
+            "date_of_death": "1833"
+        },
+        {
+            "degree": 13,
+            "betweenness": 0.0,
+            "eigenvector": 0.08591400592492485,
+            "degree_cent": 0.08843537414965986,
+            "modularity": 0,
+            "id": "tufts-cotton2",
+            "given_name": "Cotton",
+            "middle_name": "",
+            "family_name": "Tufts",
+            "date_of_birth": "1732",
+            "date_of_death": "1815"
+        },
+        {
+            "degree": 15,
+            "betweenness": 0.0021473773640393714,
+            "eigenvector": 0.09003875996624731,
+            "degree_cent": 0.10204081632653061,
+            "modularity": 0,
+            "id": "wibird-anthony",
+            "given_name": "Anthony",
+            "middle_name": "",
+            "family_name": "Wibird",
+            "date_of_birth": "1729",
+            "date_of_death": "1800"
+        },
+        {
+            "degree": 14,
+            "betweenness": 0.0015262412858163487,
+            "eigenvector": 0.0866042916686838,
+            "degree_cent": 0.09523809523809523,
+            "modularity": 2,
+            "id": "wigglesworth-edward",
+            "given_name": "Edward",
+            "middle_name": "",
+            "family_name": "Wigglesworth",
+            "date_of_birth": "1732",
+            "date_of_death": "1794"
+        },
+        {
+            "degree": 6,
+            "betweenness": 0.00021743857360295715,
+            "eigenvector": 0.008066289777336666,
+            "degree_cent": 0.04081632653061224,
+            "modularity": 2,
+            "id": "allen-jeremiah2",
+            "given_name": "Jeremiah",
+            "middle_name": "",
+            "family_name": "Allen",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 4,
+            "betweenness": 0.00035751065943965014,
+            "eigenvector": 0.0074789189910382334,
+            "degree_cent": 0.027210884353741496,
+            "modularity": 2,
+            "id": "fricke-john",
+            "given_name": "John",
+            "middle_name": "William Christian",
+            "family_name": "Fricke",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 3,
+            "betweenness": 0.0,
+            "eigenvector": 0.007359401364522649,
+            "degree_cent": 0.02040816326530612,
+            "modularity": 2,
+            "id": "johonnot-samuel",
+            "given_name": "Samuel",
+            "middle_name": "Cooper",
+            "family_name": "Johonnot",
+            "date_of_birth": "1768",
+            "date_of_death": "1806"
+        },
+        {
+            "degree": 4,
+            "betweenness": 0.0,
+            "eigenvector": 0.007604576381668934,
+            "degree_cent": 0.027210884353741496,
+            "modularity": 2,
+            "id": "martinus-miguel",
+            "given_name": "Miguel",
+            "middle_name": "",
+            "family_name": "Martinus",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 5,
+            "betweenness": 0.01360544217687075,
+            "eigenvector": 0.007612593655587814,
+            "degree_cent": 0.03401360544217687,
+            "modularity": 2,
+            "id": "stephens-joseph",
+            "given_name": "Joseph",
+            "middle_name": "",
+            "family_name": "Stephens",
+            "date_of_birth": "",
+            "date_of_death": "1783"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.007462204603723564,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 0,
+            "id": "allen-jonathan",
+            "given_name": "Jonathan",
+            "middle_name": "",
+            "family_name": "Allen",
+            "date_of_birth": "1749",
+            "date_of_death": "1827"
+        },
+        {
+            "degree": 6,
+            "betweenness": 0.0,
+            "eigenvector": 0.015187391494449969,
+            "degree_cent": 0.04081632653061224,
+            "modularity": 1,
+            "id": "amory-jonathan",
+            "given_name": "Jonathan",
+            "middle_name": "",
+            "family_name": "Amory",
+            "date_of_birth": "1770",
+            "date_of_death": "1828"
+        },
+        {
+            "degree": 20,
+            "betweenness": 0.003867313730751068,
+            "eigenvector": 0.09753536157364952,
+            "degree_cent": 0.13605442176870747,
+            "modularity": 1,
+            "id": "chandler-gardner",
+            "given_name": "Gardner",
+            "middle_name": "Leonard",
+            "family_name": "Chandler",
+            "date_of_birth": "1768",
+            "date_of_death": "1840"
+        },
+        {
+            "degree": 9,
+            "betweenness": 0.0004291859721154726,
+            "eigenvector": 0.0235202603428907,
+            "degree_cent": 0.061224489795918366,
+            "modularity": 1,
+            "id": "foster-bossenger2",
+            "given_name": "Bossenger",
+            "middle_name": "",
+            "family_name": "Foster",
+            "date_of_birth": "1767",
+            "date_of_death": "1816"
+        },
+        {
+            "degree": 18,
+            "betweenness": 0.004538576545534314,
+            "eigenvector": 0.05121332643958281,
+            "degree_cent": 0.12244897959183673,
+            "modularity": 1,
+            "id": "freeman-nathaniel",
+            "given_name": "Nathaniel",
+            "middle_name": "",
+            "family_name": "Freeman",
+            "date_of_birth": "1766",
+            "date_of_death": "1800"
+        },
+        {
+            "degree": 9,
+            "betweenness": 0.0013485055816912861,
+            "eigenvector": 0.026432126760027094,
+            "degree_cent": 0.061224489795918366,
+            "modularity": 1,
+            "id": "lloyd-james",
+            "given_name": "James",
+            "middle_name": "",
+            "family_name": "Lloyd",
+            "date_of_birth": "1769",
+            "date_of_death": "1831"
+        },
+        {
+            "degree": 14,
+            "betweenness": 0.012193270329663799,
+            "eigenvector": 0.028929668400045405,
+            "degree_cent": 0.09523809523809523,
+            "modularity": 1,
+            "id": "williams-samuel3",
+            "given_name": "Samuel",
+            "middle_name": "",
+            "family_name": "Williams",
+            "date_of_birth": "",
+            "date_of_death": "1808"
+        },
+        {
+            "degree": 6,
+            "betweenness": 0.0005094275152983568,
+            "eigenvector": 0.001111898743576492,
+            "degree_cent": 0.04081632653061224,
+            "modularity": 1,
+            "id": "atkins-dudley",
+            "given_name": "Dudley",
+            "middle_name": "",
+            "family_name": "Atkins",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 7,
+            "betweenness": 0.016620138372009652,
+            "eigenvector": 0.0071646158573193345,
+            "degree_cent": 0.047619047619047616,
+            "modularity": 1,
+            "id": "amory-william",
+            "given_name": "William",
+            "middle_name": "",
+            "family_name": "Amory",
+            "date_of_birth": "1765",
+            "date_of_death": ""
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.00023116421749999196,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 1,
+            "id": "fletcher-lucy",
+            "given_name": "Lucy",
+            "middle_name": "",
+            "family_name": "Amory",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 25,
+            "betweenness": 0.11040950506512795,
+            "eigenvector": 0.10183183990370161,
+            "degree_cent": 0.17006802721088435,
+            "modularity": 1,
+            "id": "little-moses",
+            "given_name": "Moses",
+            "middle_name": "",
+            "family_name": "Little",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 8,
+            "betweenness": 0.003559821470394873,
+            "eigenvector": 0.00751308459042478,
+            "degree_cent": 0.05442176870748299,
+            "modularity": 1,
+            "id": "parsons-theophilus",
+            "given_name": "Theophilus",
+            "middle_name": "",
+            "family_name": "Parsons",
+            "date_of_birth": "1750",
+            "date_of_death": "1813"
+        },
+        {
+            "degree": 29,
+            "betweenness": 0.20740755299642386,
+            "eigenvector": 0.09406083552104531,
+            "degree_cent": 0.19727891156462585,
+            "modularity": 1,
+            "id": "putnam-samuel",
+            "given_name": "Samuel",
+            "middle_name": "",
+            "family_name": "Putnam",
+            "date_of_birth": "1768",
+            "date_of_death": "1853"
+        },
+        {
+            "degree": 3,
+            "betweenness": 0.0,
+            "eigenvector": 0.0036004299234790546,
+            "degree_cent": 0.02040816326530612,
+            "modularity": 1,
+            "id": "stacey-george",
+            "given_name": "George",
+            "middle_name": "",
+            "family_name": "Stacey",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 17,
+            "betweenness": 0.15777787962010642,
+            "eigenvector": 0.0079831605108842,
+            "degree_cent": 0.11564625850340135,
+            "modularity": 1,
+            "id": "townsend-horatio",
+            "given_name": "Horatio",
+            "middle_name": "",
+            "family_name": "Townsend",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.032940966783880525,
+            "eigenvector": 0.02418697734831843,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 1,
+            "id": "andrews-john2",
+            "given_name": "John",
+            "middle_name": "",
+            "family_name": "Andrews",
+            "date_of_birth": "",
+            "date_of_death": "1842"
+        },
+        {
+            "degree": 6,
+            "betweenness": 0.010028586834171203,
+            "eigenvector": 0.0015644702769983892,
+            "degree_cent": 0.04081632653061224,
+            "modularity": 1,
+            "id": "cary-thomas",
+            "given_name": "Thomas",
+            "middle_name": "",
+            "family_name": "Cary (Carey)",
+            "date_of_birth": "1745",
+            "date_of_death": "1808"
+        },
+        {
+            "degree": 7,
+            "betweenness": 0.002794142365927622,
+            "eigenvector": 0.015994802202035984,
+            "degree_cent": 0.047619047619047616,
+            "modularity": 1,
+            "id": "ellery-almy",
+            "given_name": "Almy",
+            "middle_name": "",
+            "family_name": "Stedman",
+            "date_of_birth": "1759",
+            "date_of_death": "1839"
+        },
+        {
+            "degree": 3,
+            "betweenness": 0.0005323009236903563,
+            "eigenvector": 0.001091100050255897,
+            "degree_cent": 0.02040816326530612,
+            "modularity": 1,
+            "id": "spring-samuel",
+            "given_name": "Samuel",
+            "middle_name": "",
+            "family_name": "Spring",
+            "date_of_birth": "1746",
+            "date_of_death": "1819"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.000802795387537466,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 1,
+            "id": "tufts-samuel",
+            "given_name": "Samuel",
+            "middle_name": "",
+            "family_name": "Tufts",
+            "date_of_birth": "1735",
+            "date_of_death": "1799"
+        },
+        {
+            "degree": 7,
+            "betweenness": 0.003741530319668428,
+            "eigenvector": 0.019108744018670708,
+            "degree_cent": 0.047619047619047616,
+            "modularity": 1,
+            "id": "williams-jane2",
+            "given_name": "Jane",
+            "middle_name": "",
+            "family_name": "Williams",
+            "date_of_birth": "1766",
+            "date_of_death": "1819"
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "apthorp-elizabeth",
+            "given_name": "Elizabeth",
+            "middle_name": "",
+            "family_name": "Apthorp",
+            "date_of_birth": "1763",
+            "date_of_death": "1845"
+        },
+        {
+            "degree": 2,
+            "betweenness": 0.0,
+            "eigenvector": 0.00029713625294505713,
+            "degree_cent": 0.013605442176870748,
+            "modularity": 1,
+            "id": "atkins-sarah",
+            "given_name": "Sarah",
+            "middle_name": "",
+            "family_name": "Atkins",
+            "date_of_birth": "1729",
+            "date_of_death": "1810"
+        },
+        {
+            "degree": 8,
+            "betweenness": 0.01859337179460464,
+            "eigenvector": 0.0040431413172862625,
+            "degree_cent": 0.05442176870748299,
+            "modularity": 1,
+            "id": "hooper-mary",
+            "given_name": "Mary",
+            "middle_name": "",
+            "family_name": "Hooper",
+            "date_of_birth": "1746",
+            "date_of_death": "1796"
+        },
+        {
+            "degree": 8,
+            "betweenness": 0.0059060030261818604,
+            "eigenvector": 0.007329487758046993,
+            "degree_cent": 0.05442176870748299,
+            "modularity": 1,
+            "id": "thompson-thomas",
+            "given_name": "Thomas",
+            "middle_name": "Weston",
+            "family_name": "Thompson",
+            "date_of_birth": "1766",
+            "date_of_death": "1821"
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "augustuscaesar",
+            "given_name": "Augustus Caesar",
+            "middle_name": "",
+            "family_name": "",
+            "date_of_birth": "63",
+            "date_of_death": "14"
+        },
+        {
+            "degree": 11,
+            "betweenness": 0.0,
+            "eigenvector": 0.07974465949820637,
+            "degree_cent": 0.07482993197278912,
+            "modularity": 0,
+            "id": "bancroft-thomas",
+            "given_name": "Thomas",
+            "middle_name": "",
+            "family_name": "Bancroft",
+            "date_of_birth": "1765",
+            "date_of_death": "1807"
+        },
+        {
+            "degree": 17,
+            "betweenness": 0.0015067642732133186,
+            "eigenvector": 0.09427498941128422,
+            "degree_cent": 0.11564625850340135,
+            "modularity": 0,
+            "id": "norton-elizabeth",
+            "given_name": "Elizabeth",
+            "middle_name": "",
+            "family_name": "Norton",
+            "date_of_birth": "1763",
+            "date_of_death": "1811"
+        },
+        {
+            "degree": 7,
+            "betweenness": 0.00022409485646835385,
+            "eigenvector": 0.029865275221633875,
+            "degree_cent": 0.047619047619047616,
+            "modularity": 0,
+            "id": "white-john2",
+            "given_name": "John",
+            "middle_name": "",
+            "family_name": "White",
+            "date_of_birth": "1725",
+            "date_of_death": "1800"
+        },
+        {
+            "degree": 11,
+            "betweenness": 0.0,
+            "eigenvector": 0.07974465949820637,
+            "degree_cent": 0.07482993197278912,
+            "modularity": 0,
+            "id": "baxter-stephen",
+            "given_name": "Stephen",
+            "middle_name": "",
+            "family_name": "Baxter",
+            "date_of_birth": "",
+            "date_of_death": "1846"
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "blair-hugh",
+            "given_name": "Hugh",
+            "middle_name": "",
+            "family_name": "Blair",
+            "date_of_birth": "1718",
+            "date_of_death": "1800"
+        },
+        {
+            "degree": 16,
+            "betweenness": 0.00014793402886924368,
+            "eigenvector": 0.09456484709956162,
+            "degree_cent": 0.10884353741496598,
+            "modularity": 1,
+            "id": "burge-josiah",
+            "given_name": "Josiah",
+            "middle_name": "",
+            "family_name": "Burge",
+            "date_of_birth": "",
+            "date_of_death": "1790"
+        },
+        {
+            "degree": 11,
+            "betweenness": 0.0,
+            "eigenvector": 0.0788437543525584,
+            "degree_cent": 0.07482993197278912,
+            "modularity": 0,
+            "id": "callahan-john",
+            "given_name": "John",
+            "middle_name": "",
+            "family_name": "Callahan",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "charles-ii",
+            "given_name": "Charles II",
+            "middle_name": "",
+            "family_name": "",
+            "date_of_birth": "1630",
+            "date_of_death": "1685"
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "ferguson-james",
+            "given_name": "James",
+            "middle_name": "",
+            "family_name": "Ferguson",
+            "date_of_birth": "1710",
+            "date_of_death": "1776"
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "florus-lucius",
+            "given_name": "Lucius",
+            "middle_name": "Annaeus",
+            "family_name": "Florus",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "gravesande-willem",
+            "given_name": "Willem",
+            "middle_name": "Jacob",
+            "family_name": "Gravesande",
+            "date_of_birth": "1688",
+            "date_of_death": "1742"
+        },
+        {
+            "degree": 17,
+            "betweenness": 0.008564699338671006,
+            "eigenvector": 0.09499921959087476,
+            "degree_cent": 0.11564625850340135,
+            "modularity": 1,
+            "id": "harris-thaddeus",
+            "given_name": "Thaddeus",
+            "middle_name": "Mason",
+            "family_name": "Harris",
+            "date_of_birth": "1768",
+            "date_of_death": "1842"
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "james-eleazar",
+            "given_name": "Eleazar",
+            "middle_name": "",
+            "family_name": "James",
+            "date_of_birth": "",
+            "date_of_death": "1843"
+        },
+        {
+            "degree": 11,
+            "betweenness": 0.0,
+            "eigenvector": 0.07974465949820637,
+            "degree_cent": 0.07482993197278912,
+            "modularity": 0,
+            "id": "johnson-asa",
+            "given_name": "Asa",
+            "middle_name": "",
+            "family_name": "Johnson",
+            "date_of_birth": "",
+            "date_of_death": "1820"
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "lincoln-abner",
+            "given_name": "Abner",
+            "middle_name": "",
+            "family_name": "Lincoln",
+            "date_of_birth": "1766",
+            "date_of_death": "1826"
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "louis-xiv",
+            "given_name": "Louis XIV",
+            "middle_name": "",
+            "family_name": "",
+            "date_of_birth": "1638",
+            "date_of_death": "1715"
+        },
+        {
+            "degree": 6,
+            "betweenness": 5.54690238783054e-05,
+            "eigenvector": 0.027491975585004796,
+            "degree_cent": 0.04081632653061224,
+            "modularity": 1,
+            "id": "mason-william4",
+            "given_name": "William",
+            "middle_name": "",
+            "family_name": "Mason",
+            "date_of_birth": "",
+            "date_of_death": "1805"
+        },
+        {
+            "degree": 13,
+            "betweenness": 0.00015589609355942568,
+            "eigenvector": 0.08671514680938089,
+            "degree_cent": 0.08843537414965986,
+            "modularity": 0,
+            "id": "mead-samuel",
+            "given_name": "Samuel",
+            "middle_name": "",
+            "family_name": "Mead",
+            "date_of_birth": "1761",
+            "date_of_death": "1832"
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "millot-claude",
+            "given_name": "Claude",
+            "middle_name": "François Xavier",
+            "family_name": "Millot",
+            "date_of_birth": "1726",
+            "date_of_death": "1785"
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "nathanael",
+            "given_name": "Nathanael",
+            "middle_name": "",
+            "family_name": "",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "otis-harrison",
+            "given_name": "Harrison",
+            "middle_name": "Gray",
+            "family_name": "Otis",
+            "date_of_birth": "1765",
+            "date_of_death": "1848"
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "otis-samuel",
+            "given_name": "Samuel",
+            "middle_name": "Allyne",
+            "family_name": "Otis",
+            "date_of_birth": "1740",
+            "date_of_death": "1814"
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "palmer-elizabeth",
+            "given_name": "Elizabeth",
+            "middle_name": "",
+            "family_name": "Palmer",
+            "date_of_birth": "1777",
+            "date_of_death": "1853"
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "pearson-eliphalet",
+            "given_name": "Eliphalet",
+            "middle_name": "",
+            "family_name": "Pearson",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "perkins-thomas3",
+            "given_name": "Thomas",
+            "middle_name": "",
+            "family_name": "Perkins",
+            "date_of_birth": "1756",
+            "date_of_death": "1786"
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "plinytheelder",
+            "given_name": "Pliny the Elder (Gaius Plinius Secundus)",
+            "middle_name": "",
+            "family_name": "",
+            "date_of_birth": "23",
+            "date_of_death": "79"
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0,
+            "eigenvector": 0.07471993800404361,
+            "degree_cent": 0.06802721088435373,
+            "modularity": 0,
+            "id": "treadwell-john3",
+            "given_name": "John",
+            "middle_name": "",
+            "family_name": "Treadwell",
+            "date_of_birth": "1738",
+            "date_of_death": "1811"
+        },
+        {
+            "degree": 11,
+            "betweenness": 0.0,
+            "eigenvector": 0.07974465949820637,
+            "degree_cent": 0.07482993197278912,
+            "modularity": 0,
+            "id": "vose-solomon",
+            "given_name": "Solomon",
+            "middle_name": "",
+            "family_name": "Vose",
+            "date_of_birth": "",
+            "date_of_death": "1809"
+        },
+        {
+            "degree": 8,
+            "betweenness": 0.0010910487882353228,
+            "eigenvector": 0.04376640823544515,
+            "degree_cent": 0.05442176870748299,
+            "modularity": 1,
+            "id": "willard-joseph2",
+            "given_name": "Joseph",
+            "middle_name": "",
+            "family_name": "Willard",
+            "date_of_birth": "1738",
+            "date_of_death": "1804"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.0031260423468633,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 1,
+            "id": "bradbury-francis",
+            "given_name": "Francis",
+            "middle_name": "",
+            "family_name": "Bradbury",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.0031260423468633,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 1,
+            "id": "bradbury-theophilus",
+            "given_name": "Theophilus",
+            "middle_name": "",
+            "family_name": "Bradbury",
+            "date_of_birth": "1739",
+            "date_of_death": "1803"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.007680904050538956,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 1,
+            "id": "chandler-thomas2",
+            "given_name": "Thomas",
+            "middle_name": "",
+            "family_name": "Chandler",
+            "date_of_birth": "1768",
+            "date_of_death": "1804"
+        },
+        {
+            "degree": 6,
+            "betweenness": 0.003328796923988428,
+            "eigenvector": 0.018736787043230074,
+            "degree_cent": 0.04081632653061224,
+            "modularity": 1,
+            "id": "forbes-john",
+            "given_name": "John",
+            "middle_name": "Murray",
+            "family_name": "Forbes",
+            "date_of_birth": "1771",
+            "date_of_death": "1831"
+        },
+        {
+            "degree": 2,
+            "betweenness": 0.0,
+            "eigenvector": 0.010561469175193548,
+            "degree_cent": 0.013605442176870748,
+            "modularity": 2,
+            "id": "wigglesworth-margaret",
+            "given_name": "Margaret",
+            "middle_name": "",
+            "family_name": "Wigglesworth",
+            "date_of_birth": "1766",
+            "date_of_death": ""
+        },
+        {
+            "degree": 3,
+            "betweenness": 2.329699002888827e-05,
+            "eigenvector": 0.002204577036896615,
+            "degree_cent": 0.02040816326530612,
+            "modularity": 1,
+            "id": "brown-katherine",
+            "given_name": "Catherine (Katherine)",
+            "middle_name": "",
+            "family_name": "Brown",
+            "date_of_birth": "1768",
+            "date_of_death": "1863"
+        },
+        {
+            "degree": 2,
+            "betweenness": 0.0,
+            "eigenvector": 0.00015326625267532632,
+            "degree_cent": 0.013605442176870748,
+            "modularity": 1,
+            "id": "carter-nathaniel",
+            "given_name": "Nathaniel",
+            "middle_name": "",
+            "family_name": "Carter",
+            "date_of_birth": "1715",
+            "date_of_death": "1798"
+        },
+        {
+            "degree": 3,
+            "betweenness": 0.008820726267897068,
+            "eigenvector": 0.0031827381506809183,
+            "degree_cent": 0.02040816326530612,
+            "modularity": 1,
+            "id": "kilham-daniel",
+            "given_name": "Daniel",
+            "middle_name": "",
+            "family_name": "Kilham",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 4,
+            "betweenness": 0.009587433527312316,
+            "eigenvector": 0.010898393998088573,
+            "degree_cent": 0.027210884353741496,
+            "modularity": 1,
+            "id": "tucker-john",
+            "given_name": "John",
+            "middle_name": "",
+            "family_name": "Tucker",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.0002587557554243092,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 1,
+            "id": "cazneau-rebecca",
+            "given_name": "Rebecca",
+            "middle_name": "",
+            "family_name": "Cazneau",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 3,
+            "betweenness": 0.01360544217687075,
+            "eigenvector": 0.01084373313371189,
+            "degree_cent": 0.02040816326530612,
+            "modularity": 5,
+            "id": "toscan-jean",
+            "given_name": "Jean",
+            "middle_name": "Joseph Marie",
+            "family_name": "Toscan",
+            "date_of_birth": "1752",
+            "date_of_death": "1805"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.00035779325902438166,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 5,
+            "id": "chaumont-james",
+            "given_name": "Jacques (James)",
+            "middle_name": "Le Ray de",
+            "family_name": "Chaumont",
+            "date_of_birth": "1760",
+            "date_of_death": "1841"
+        },
+        {
+            "degree": 2,
+            "betweenness": 0.0,
+            "eigenvector": 0.010398298956019975,
+            "degree_cent": 0.013605442176870748,
+            "modularity": 0,
+            "id": "tyler-royall",
+            "given_name": "Royall",
+            "middle_name": "",
+            "family_name": "Tyler",
+            "date_of_birth": "1757",
+            "date_of_death": "1826"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.0001315712014352549,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 1,
+            "id": "cutler-samuel",
+            "given_name": "Samuel",
+            "middle_name": "",
+            "family_name": "Cutler",
+            "date_of_birth": "1752",
+            "date_of_death": "1832"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.0074379353873999625,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 0,
+            "id": "dana-elizabeth2",
+            "given_name": "Elizabeth",
+            "middle_name": "Remington",
+            "family_name": "Dana",
+            "date_of_birth": "1751",
+            "date_of_death": "1807"
+        },
+        {
+            "degree": 2,
+            "betweenness": 0.0,
+            "eigenvector": 0.003715144495496368,
+            "degree_cent": 0.013605442176870748,
+            "modularity": 2,
+            "id": "frederick-ii",
+            "given_name": "Frederick II",
+            "middle_name": "",
+            "family_name": "",
+            "date_of_birth": "1712",
+            "date_of_death": "1786"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.003474449813250337,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 2,
+            "id": "guthrie-william",
+            "given_name": "William",
+            "middle_name": "",
+            "family_name": "Guthrie",
+            "date_of_birth": "1708",
+            "date_of_death": "1770"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.003474449813250337,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 2,
+            "id": "harris-william6",
+            "given_name": "William",
+            "middle_name": "",
+            "family_name": "Harris",
+            "date_of_birth": "1765",
+            "date_of_death": "1829"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.003474449813250337,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 2,
+            "id": "lincoln-benjamin",
+            "given_name": "Benjamin",
+            "middle_name": "",
+            "family_name": "Lincoln",
+            "date_of_birth": "1733",
+            "date_of_death": "1810"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.003474449813250337,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 2,
+            "id": "neufville-jean",
+            "given_name": "Jean de",
+            "middle_name": "",
+            "family_name": "Neufville",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.003474449813250337,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 2,
+            "id": "peter-the-great",
+            "given_name": "Peter",
+            "middle_name": "",
+            "family_name": "",
+            "date_of_birth": "1682",
+            "date_of_death": "1725"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.003474449813250337,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 2,
+            "id": "raimbert-joseph",
+            "given_name": "Joseph",
+            "middle_name": "",
+            "family_name": "Raimbert",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 6,
+            "betweenness": 0.06653620352250489,
+            "eigenvector": 0.0002609684985274977,
+            "degree_cent": 0.04081632653061224,
+            "modularity": 4,
+            "id": "greenleaf-benjamin",
+            "given_name": "Benjamin",
+            "middle_name": "",
+            "family_name": "Greenleaf",
+            "date_of_birth": "1732",
+            "date_of_death": "1799"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 9.139366117814016e-06,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 4,
+            "id": "derby-elizabeth",
+            "given_name": "Elizabeth",
+            "middle_name": "",
+            "family_name": "Derby",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 3,
+            "betweenness": 0.0,
+            "eigenvector": 4.615667192178295e-06,
+            "degree_cent": 0.02040816326530612,
+            "modularity": 3,
+            "id": "doradour-marie",
+            "given_name": "Marie",
+            "middle_name": "du Bourg",
+            "family_name": "Doradour",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 3,
+            "betweenness": 0.0,
+            "eigenvector": 4.615667192178295e-06,
+            "degree_cent": 0.02040816326530612,
+            "modularity": 3,
+            "id": "doradour-charles",
+            "given_name": "Charles",
+            "middle_name": "François",
+            "family_name": "Doradour",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 6,
+            "betweenness": 0.0005280651073214673,
+            "eigenvector": 9.21254730159832e-06,
+            "degree_cent": 0.04081632653061224,
+            "modularity": 3,
+            "id": "williamos-charles",
+            "given_name": "Charles",
+            "middle_name": "",
+            "family_name": "Williamos",
+            "date_of_birth": "",
+            "date_of_death": "1785"
+        },
+        {
+            "degree": 4,
+            "betweenness": 0.0,
+            "eigenvector": 0.019026408471337155,
+            "degree_cent": 0.027210884353741496,
+            "modularity": 0,
+            "id": "duncan-james4",
+            "given_name": "James",
+            "middle_name": "",
+            "family_name": "Duncan",
+            "date_of_birth": "1725",
+            "date_of_death": "1817"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.0002587557554243092,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 1,
+            "id": "emery-margaret",
+            "given_name": "Margaret",
+            "middle_name": "",
+            "family_name": "Emery",
+            "date_of_birth": "1745",
+            "date_of_death": "1788"
+        },
+        {
+            "degree": 5,
+            "betweenness": 0.01360544217687075,
+            "eigenvector": 0.0037574928736610756,
+            "degree_cent": 0.03401360544217687,
+            "modularity": 1,
+            "id": "pickman-benjamin",
+            "given_name": "Benjamin",
+            "middle_name": "",
+            "family_name": "Pickman",
+            "date_of_birth": "1763",
+            "date_of_death": "1843"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.00012174541250949976,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 1,
+            "id": "farnham-william",
+            "given_name": "William",
+            "middle_name": "",
+            "family_name": "Farnham",
+            "date_of_birth": "1767",
+            "date_of_death": "1829"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.0031260423468633,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 1,
+            "id": "frazier-moses",
+            "given_name": "Moses",
+            "middle_name": "",
+            "family_name": "Frazier",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.0002587557554243092,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 1,
+            "id": "gibbon-edward",
+            "given_name": "Edward",
+            "middle_name": "",
+            "family_name": "Gibbon",
+            "date_of_birth": "1737",
+            "date_of_death": "1794"
+        },
+        {
+            "degree": 4,
+            "betweenness": 0.0,
+            "eigenvector": 1.0542731444688294e-05,
+            "degree_cent": 0.027210884353741496,
+            "modularity": 4,
+            "id": "greenleaf-hannah",
+            "given_name": "Hannah",
+            "middle_name": "",
+            "family_name": "Greenleaf",
+            "date_of_birth": "1765",
+            "date_of_death": ""
+        },
+        {
+            "degree": 4,
+            "betweenness": 0.0,
+            "eigenvector": 1.0542731444688294e-05,
+            "degree_cent": 0.027210884353741496,
+            "modularity": 4,
+            "id": "greenleaf-jane",
+            "given_name": "Jane",
+            "middle_name": "",
+            "family_name": "Greenleaf",
+            "date_of_birth": "1768",
+            "date_of_death": ""
+        },
+        {
+            "degree": 4,
+            "betweenness": 0.0,
+            "eigenvector": 1.0542731444688294e-05,
+            "degree_cent": 0.027210884353741496,
+            "modularity": 4,
+            "id": "greenleaf-mary5",
+            "given_name": "Mary",
+            "middle_name": "",
+            "family_name": "Greenleaf",
+            "date_of_birth": "1765",
+            "date_of_death": ""
+        },
+        {
+            "degree": 4,
+            "betweenness": 0.0,
+            "eigenvector": 1.0542731444688294e-05,
+            "degree_cent": 0.027210884353741496,
+            "modularity": 4,
+            "id": "greenleaf-sarah",
+            "given_name": "Sarah",
+            "middle_name": "",
+            "family_name": "Greenleaf",
+            "date_of_birth": "1763",
+            "date_of_death": ""
+        },
+        {
+            "degree": 2,
+            "betweenness": 0.0,
+            "eigenvector": 0.006532947762382779,
+            "degree_cent": 0.013605442176870748,
+            "modularity": 1,
+            "id": "ware-henry",
+            "given_name": "Henry",
+            "middle_name": "",
+            "family_name": "Ware",
+            "date_of_birth": "1764",
+            "date_of_death": "1845"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.003624397959640477,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 2,
+            "id": "hazen-anna",
+            "given_name": "Anna (Nancy)",
+            "middle_name": "",
+            "family_name": "Hazen",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 2,
+            "betweenness": 0.0,
+            "eigenvector": 0.0003903269527269018,
+            "degree_cent": 0.013605442176870748,
+            "modularity": 1,
+            "id": "knight-lucy",
+            "given_name": "Lucy",
+            "middle_name": "",
+            "family_name": "Knight",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 4,
+            "betweenness": 0.0,
+            "eigenvector": 8.747862488684687e-06,
+            "degree_cent": 0.027210884353741496,
+            "modularity": 3,
+            "id": "humphreys-david",
+            "given_name": "David",
+            "middle_name": "",
+            "family_name": "Humphreys",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 4,
+            "betweenness": 0.0,
+            "eigenvector": 8.747862488684687e-06,
+            "degree_cent": 0.027210884353741496,
+            "modularity": 3,
+            "id": "west-benjamin",
+            "given_name": "Benjamin",
+            "middle_name": "",
+            "family_name": "West",
+            "date_of_birth": "1738",
+            "date_of_death": "1820"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 3.945543604298463e-06,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 3,
+            "id": "lafayette-marie",
+            "given_name": "Marie",
+            "middle_name": "Adrienne Françoise",
+            "family_name": "Lafayette",
+            "date_of_birth": "1759",
+            "date_of_death": "1807"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 3.945543604298463e-06,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 3,
+            "id": "rucker-john",
+            "given_name": "John",
+            "middle_name": "",
+            "family_name": "Rucker",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.00024517502127894804,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 2,
+            "id": "leroy-herman",
+            "given_name": "Herman",
+            "middle_name": "",
+            "family_name": "Le Roy",
+            "date_of_birth": "1758",
+            "date_of_death": "1841"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.00337401810643568,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 1,
+            "id": "swett-john",
+            "given_name": "John",
+            "middle_name": "Barnard",
+            "family_name": "Swett",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.007462204603723564,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 0,
+            "id": "smith-hezekiah",
+            "given_name": "Hezekiah",
+            "middle_name": "",
+            "family_name": "Smith",
+            "date_of_birth": "1737",
+            "date_of_death": "1805"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.003425023874846281,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 0,
+            "id": "welsh-thomas",
+            "given_name": "Thomas",
+            "middle_name": "",
+            "family_name": "Welsh",
+            "date_of_birth": "1752",
+            "date_of_death": "1831"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.003624397959640477,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 2,
+            "id": "thaxter-elizabeth3",
+            "given_name": "Elizabeth",
+            "middle_name": "",
+            "family_name": "Thaxter",
+            "date_of_birth": "1767",
+            "date_of_death": "1864"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.0002587557554243092,
+            "degree_cent": 0.006802721088435374,
+            "modularity": 1,
+            "id": "tracy-john",
+            "given_name": "John",
+            "middle_name": "",
+            "family_name": "Tracy",
+            "date_of_birth": "",
+            "date_of_death": ""
+        }
+    ],
+    "links": [
+        {
+            "weight": 3,
+            "source": "adams-charles",
+            "target": "abbot-benjamin"
+        },
+        {
+            "weight": 3,
+            "source": "adams-charles",
+            "target": "adams-peter"
+        },
+        {
+            "weight": 11,
+            "source": "adams-charles",
+            "target": "adams-thomas"
+        },
+        {
+            "weight": 4,
+            "source": "adams-charles",
+            "target": "bartlett-margaret"
+        },
+        {
+            "weight": 8,
+            "source": "adams-charles",
+            "target": "beale-benjamin2"
+        },
+        {
+            "weight": 12,
+            "source": "adams-charles",
+            "target": "bridge-james"
+        },
+        {
+            "weight": 8,
+            "source": "adams-charles",
+            "target": "burlamaqui-jean"
+        },
+        {
+            "weight": 10,
+            "source": "adams-charles",
+            "target": "burr-jonathan"
+        },
+        {
+            "weight": 9,
+            "source": "adams-charles",
+            "target": "cranch-richard"
+        },
+        {
+            "weight": 12,
+            "source": "adams-charles",
+            "target": "cranch-william"
+        },
+        {
+            "weight": 4,
+            "source": "adams-charles",
+            "target": "dana-francis"
+        },
+        {
+            "weight": 4,
+            "source": "adams-charles",
+            "target": "fiske-oliver"
+        },
+        {
+            "weight": 4,
+            "source": "adams-charles",
+            "target": "greenleaf-lucy"
+        },
+        {
+            "weight": 4,
+            "source": "adams-charles",
+            "target": "hilliard-mary"
+        },
+        {
+            "weight": 8,
+            "source": "adams-charles",
+            "target": "hilliard-timothy"
+        },
+        {
+            "weight": 3,
+            "source": "adams-charles",
+            "target": "packard-hezekiah"
+        },
+        {
+            "weight": 5,
+            "source": "adams-charles",
+            "target": "peabody-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "adams-charles",
+            "target": "quincy-norton"
+        },
+        {
+            "weight": 4,
+            "source": "adams-charles",
+            "target": "read-nathan"
+        },
+        {
+            "weight": 4,
+            "source": "adams-charles",
+            "target": "reid-thomas"
+        },
+        {
+            "weight": 7,
+            "source": "adams-charles",
+            "target": "shaw-john2"
+        },
+        {
+            "weight": 3,
+            "source": "adams-charles",
+            "target": "smith-isaac2"
+        },
+        {
+            "weight": 4,
+            "source": "adams-charles",
+            "target": "thaxter-john2"
+        },
+        {
+            "weight": 4,
+            "source": "adams-charles",
+            "target": "thayer-nathaniel"
+        },
+        {
+            "weight": 3,
+            "source": "adams-charles",
+            "target": "treadwell-john2"
+        },
+        {
+            "weight": 4,
+            "source": "adams-charles",
+            "target": "tufts-cotton2"
+        },
+        {
+            "weight": 9,
+            "source": "adams-charles",
+            "target": "white-leonard"
+        },
+        {
+            "weight": 3,
+            "source": "adams-charles",
+            "target": "wibird-anthony"
+        },
+        {
+            "weight": 4,
+            "source": "adams-charles",
+            "target": "wigglesworth-edward"
+        },
+        {
+            "weight": 6,
+            "source": "adams-charles",
+            "target": "williams-samuel4"
+        },
+        {
+            "weight": 4,
+            "source": "abbot-benjamin",
+            "target": "beale-benjamin2"
+        },
+        {
+            "weight": 7,
+            "source": "abbot-benjamin",
+            "target": "bridge-james"
+        },
+        {
+            "weight": 4,
+            "source": "abbot-benjamin",
+            "target": "burlamaqui-jean"
+        },
+        {
+            "weight": 5,
+            "source": "abbot-benjamin",
+            "target": "burr-jonathan"
+        },
+        {
+            "weight": 4,
+            "source": "abbot-benjamin",
+            "target": "cranch-richard"
+        },
+        {
+            "weight": 6,
+            "source": "abbot-benjamin",
+            "target": "cranch-william"
+        },
+        {
+            "weight": 3,
+            "source": "abbot-benjamin",
+            "target": "dana-francis"
+        },
+        {
+            "weight": 3,
+            "source": "abbot-benjamin",
+            "target": "dodge-oliver"
+        },
+        {
+            "weight": 3,
+            "source": "abbot-benjamin",
+            "target": "fiske-oliver"
+        },
+        {
+            "weight": 4,
+            "source": "abbot-benjamin",
+            "target": "hilliard-timothy"
+        },
+        {
+            "weight": 3,
+            "source": "abbot-benjamin",
+            "target": "shaw-john2"
+        },
+        {
+            "weight": 4,
+            "source": "abbot-benjamin",
+            "target": "white-leonard"
+        },
+        {
+            "weight": 4,
+            "source": "abbot-benjamin",
+            "target": "williams-samuel4"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "adams-peter"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "adams-thomas"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "apthorp-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "augustuscaesar"
+        },
+        {
+            "weight": 5,
+            "source": "beale-benjamin2",
+            "target": "bancroft-thomas"
+        },
+        {
+            "weight": 8,
+            "source": "beale-benjamin2",
+            "target": "bartlett-margaret"
+        },
+        {
+            "weight": 5,
+            "source": "beale-benjamin2",
+            "target": "baxter-stephen"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "blair-hugh"
+        },
+        {
+            "weight": 28,
+            "source": "beale-benjamin2",
+            "target": "bridge-james"
+        },
+        {
+            "weight": 7,
+            "source": "beale-benjamin2",
+            "target": "burge-josiah"
+        },
+        {
+            "weight": 17,
+            "source": "beale-benjamin2",
+            "target": "burlamaqui-jean"
+        },
+        {
+            "weight": 22,
+            "source": "beale-benjamin2",
+            "target": "burr-jonathan"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "callahan-john"
+        },
+        {
+            "weight": 7,
+            "source": "beale-benjamin2",
+            "target": "chandler-gardner"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "charles-ii"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "cranch-mary2"
+        },
+        {
+            "weight": 16,
+            "source": "beale-benjamin2",
+            "target": "cranch-richard"
+        },
+        {
+            "weight": 22,
+            "source": "beale-benjamin2",
+            "target": "cranch-william"
+        },
+        {
+            "weight": 6,
+            "source": "beale-benjamin2",
+            "target": "dana-francis"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "dodge-oliver"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "ferguson-james"
+        },
+        {
+            "weight": 13,
+            "source": "beale-benjamin2",
+            "target": "fiske-oliver"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "florus-lucius"
+        },
+        {
+            "weight": 3,
+            "source": "beale-benjamin2",
+            "target": "freeman-nathaniel"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "gravesande-willem"
+        },
+        {
+            "weight": 8,
+            "source": "beale-benjamin2",
+            "target": "greenleaf-lucy"
+        },
+        {
+            "weight": 8,
+            "source": "beale-benjamin2",
+            "target": "harris-thaddeus"
+        },
+        {
+            "weight": 8,
+            "source": "beale-benjamin2",
+            "target": "hilliard-mary"
+        },
+        {
+            "weight": 13,
+            "source": "beale-benjamin2",
+            "target": "hilliard-timothy"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "james-eleazar"
+        },
+        {
+            "weight": 5,
+            "source": "beale-benjamin2",
+            "target": "johnson-asa"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "lincoln-abner"
+        },
+        {
+            "weight": 9,
+            "source": "beale-benjamin2",
+            "target": "little-moses"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "louis-xiv"
+        },
+        {
+            "weight": 3,
+            "source": "beale-benjamin2",
+            "target": "mason-william4"
+        },
+        {
+            "weight": 6,
+            "source": "beale-benjamin2",
+            "target": "mead-samuel"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "millot-claude"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "nathanael"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "norton-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "otis-harrison"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "otis-samuel"
+        },
+        {
+            "weight": 8,
+            "source": "beale-benjamin2",
+            "target": "packard-hezekiah"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "palmer-elizabeth"
+        },
+        {
+            "weight": 8,
+            "source": "beale-benjamin2",
+            "target": "peabody-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "pearson-eliphalet"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "perkins-thomas3"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "plinytheelder"
+        },
+        {
+            "weight": 7,
+            "source": "beale-benjamin2",
+            "target": "putnam-samuel"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "quincy-norton"
+        },
+        {
+            "weight": 8,
+            "source": "beale-benjamin2",
+            "target": "read-nathan"
+        },
+        {
+            "weight": 9,
+            "source": "beale-benjamin2",
+            "target": "reid-thomas"
+        },
+        {
+            "weight": 12,
+            "source": "beale-benjamin2",
+            "target": "shaw-john2"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "smith-isaac2"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "thaxter-john2"
+        },
+        {
+            "weight": 8,
+            "source": "beale-benjamin2",
+            "target": "thayer-nathaniel"
+        },
+        {
+            "weight": 5,
+            "source": "beale-benjamin2",
+            "target": "treadwell-john2"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "treadwell-john3"
+        },
+        {
+            "weight": 4,
+            "source": "beale-benjamin2",
+            "target": "tufts-cotton2"
+        },
+        {
+            "weight": 5,
+            "source": "beale-benjamin2",
+            "target": "vose-solomon"
+        },
+        {
+            "weight": 18,
+            "source": "beale-benjamin2",
+            "target": "white-leonard"
+        },
+        {
+            "weight": 5,
+            "source": "beale-benjamin2",
+            "target": "wibird-anthony"
+        },
+        {
+            "weight": 6,
+            "source": "beale-benjamin2",
+            "target": "wigglesworth-edward"
+        },
+        {
+            "weight": 3,
+            "source": "beale-benjamin2",
+            "target": "willard-joseph2"
+        },
+        {
+            "weight": 13,
+            "source": "beale-benjamin2",
+            "target": "williams-samuel4"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "adams-peter"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "adams-thomas"
+        },
+        {
+            "weight": 3,
+            "source": "bridge-james",
+            "target": "amory-jonathan"
+        },
+        {
+            "weight": 5,
+            "source": "bridge-james",
+            "target": "andrews-john2"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "apthorp-elizabeth"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "augustuscaesar"
+        },
+        {
+            "weight": 7,
+            "source": "bridge-james",
+            "target": "bancroft-thomas"
+        },
+        {
+            "weight": 12,
+            "source": "bridge-james",
+            "target": "bartlett-margaret"
+        },
+        {
+            "weight": 7,
+            "source": "bridge-james",
+            "target": "baxter-stephen"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "blair-hugh"
+        },
+        {
+            "weight": 9,
+            "source": "bridge-james",
+            "target": "burge-josiah"
+        },
+        {
+            "weight": 24,
+            "source": "bridge-james",
+            "target": "burlamaqui-jean"
+        },
+        {
+            "weight": 30,
+            "source": "bridge-james",
+            "target": "burr-jonathan"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "callahan-john"
+        },
+        {
+            "weight": 10,
+            "source": "bridge-james",
+            "target": "chandler-gardner"
+        },
+        {
+            "weight": 3,
+            "source": "bridge-james",
+            "target": "chandler-thomas2"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "charles-ii"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "cranch-mary2"
+        },
+        {
+            "weight": 24,
+            "source": "bridge-james",
+            "target": "cranch-richard"
+        },
+        {
+            "weight": 35,
+            "source": "bridge-james",
+            "target": "cranch-william"
+        },
+        {
+            "weight": 8,
+            "source": "bridge-james",
+            "target": "dana-francis"
+        },
+        {
+            "weight": 7,
+            "source": "bridge-james",
+            "target": "dodge-oliver"
+        },
+        {
+            "weight": 4,
+            "source": "bridge-james",
+            "target": "ellery-almy"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "ferguson-james"
+        },
+        {
+            "weight": 15,
+            "source": "bridge-james",
+            "target": "fiske-oliver"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "florus-lucius"
+        },
+        {
+            "weight": 3,
+            "source": "bridge-james",
+            "target": "forbes-john"
+        },
+        {
+            "weight": 5,
+            "source": "bridge-james",
+            "target": "foster-bossenger2"
+        },
+        {
+            "weight": 7,
+            "source": "bridge-james",
+            "target": "freeman-nathaniel"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "gravesande-willem"
+        },
+        {
+            "weight": 12,
+            "source": "bridge-james",
+            "target": "greenleaf-lucy"
+        },
+        {
+            "weight": 8,
+            "source": "bridge-james",
+            "target": "harris-thaddeus"
+        },
+        {
+            "weight": 13,
+            "source": "bridge-james",
+            "target": "hilliard-mary"
+        },
+        {
+            "weight": 22,
+            "source": "bridge-james",
+            "target": "hilliard-timothy"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "james-eleazar"
+        },
+        {
+            "weight": 7,
+            "source": "bridge-james",
+            "target": "johnson-asa"
+        },
+        {
+            "weight": 7,
+            "source": "bridge-james",
+            "target": "lincoln-abner"
+        },
+        {
+            "weight": 9,
+            "source": "bridge-james",
+            "target": "little-moses"
+        },
+        {
+            "weight": 3,
+            "source": "bridge-james",
+            "target": "lloyd-james"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "louis-xiv"
+        },
+        {
+            "weight": 7,
+            "source": "bridge-james",
+            "target": "mead-samuel"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "millot-claude"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "nathanael"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "norton-elizabeth"
+        },
+        {
+            "weight": 7,
+            "source": "bridge-james",
+            "target": "otis-harrison"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "otis-samuel"
+        },
+        {
+            "weight": 9,
+            "source": "bridge-james",
+            "target": "packard-hezekiah"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "palmer-elizabeth"
+        },
+        {
+            "weight": 12,
+            "source": "bridge-james",
+            "target": "peabody-elizabeth"
+        },
+        {
+            "weight": 8,
+            "source": "bridge-james",
+            "target": "pearson-eliphalet"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "perkins-thomas3"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "plinytheelder"
+        },
+        {
+            "weight": 8,
+            "source": "bridge-james",
+            "target": "putnam-samuel"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "quincy-norton"
+        },
+        {
+            "weight": 12,
+            "source": "bridge-james",
+            "target": "read-nathan"
+        },
+        {
+            "weight": 12,
+            "source": "bridge-james",
+            "target": "reid-thomas"
+        },
+        {
+            "weight": 19,
+            "source": "bridge-james",
+            "target": "shaw-john2"
+        },
+        {
+            "weight": 7,
+            "source": "bridge-james",
+            "target": "smith-isaac2"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "thaxter-john2"
+        },
+        {
+            "weight": 12,
+            "source": "bridge-james",
+            "target": "thayer-nathaniel"
+        },
+        {
+            "weight": 7,
+            "source": "bridge-james",
+            "target": "treadwell-john2"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "treadwell-john3"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "tufts-cotton2"
+        },
+        {
+            "weight": 7,
+            "source": "bridge-james",
+            "target": "vose-solomon"
+        },
+        {
+            "weight": 27,
+            "source": "bridge-james",
+            "target": "white-leonard"
+        },
+        {
+            "weight": 7,
+            "source": "bridge-james",
+            "target": "wibird-anthony"
+        },
+        {
+            "weight": 9,
+            "source": "bridge-james",
+            "target": "wigglesworth-edward"
+        },
+        {
+            "weight": 3,
+            "source": "bridge-james",
+            "target": "wigglesworth-margaret"
+        },
+        {
+            "weight": 6,
+            "source": "bridge-james",
+            "target": "willard-joseph2"
+        },
+        {
+            "weight": 5,
+            "source": "bridge-james",
+            "target": "williams-jane2"
+        },
+        {
+            "weight": 7,
+            "source": "bridge-james",
+            "target": "williams-samuel3"
+        },
+        {
+            "weight": 20,
+            "source": "bridge-james",
+            "target": "williams-samuel4"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "adams-peter"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "adams-thomas"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "apthorp-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "augustuscaesar"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "bancroft-thomas"
+        },
+        {
+            "weight": 8,
+            "source": "burlamaqui-jean",
+            "target": "bartlett-margaret"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "baxter-stephen"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "blair-hugh"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "burge-josiah"
+        },
+        {
+            "weight": 21,
+            "source": "burlamaqui-jean",
+            "target": "burr-jonathan"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "callahan-john"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "chandler-gardner"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "charles-ii"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "cranch-mary2"
+        },
+        {
+            "weight": 16,
+            "source": "burlamaqui-jean",
+            "target": "cranch-richard"
+        },
+        {
+            "weight": 20,
+            "source": "burlamaqui-jean",
+            "target": "cranch-william"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "dana-francis"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "dodge-oliver"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "ferguson-james"
+        },
+        {
+            "weight": 8,
+            "source": "burlamaqui-jean",
+            "target": "fiske-oliver"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "florus-lucius"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "gravesande-willem"
+        },
+        {
+            "weight": 8,
+            "source": "burlamaqui-jean",
+            "target": "greenleaf-lucy"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "harris-thaddeus"
+        },
+        {
+            "weight": 8,
+            "source": "burlamaqui-jean",
+            "target": "hilliard-mary"
+        },
+        {
+            "weight": 12,
+            "source": "burlamaqui-jean",
+            "target": "hilliard-timothy"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "james-eleazar"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "johnson-asa"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "lincoln-abner"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "little-moses"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "louis-xiv"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "mead-samuel"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "millot-claude"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "nathanael"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "norton-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "otis-harrison"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "otis-samuel"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "packard-hezekiah"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "palmer-elizabeth"
+        },
+        {
+            "weight": 8,
+            "source": "burlamaqui-jean",
+            "target": "peabody-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "pearson-eliphalet"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "perkins-thomas3"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "plinytheelder"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "putnam-samuel"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "quincy-norton"
+        },
+        {
+            "weight": 8,
+            "source": "burlamaqui-jean",
+            "target": "read-nathan"
+        },
+        {
+            "weight": 9,
+            "source": "burlamaqui-jean",
+            "target": "reid-thomas"
+        },
+        {
+            "weight": 12,
+            "source": "burlamaqui-jean",
+            "target": "shaw-john2"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "smith-isaac2"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "thaxter-john2"
+        },
+        {
+            "weight": 8,
+            "source": "burlamaqui-jean",
+            "target": "thayer-nathaniel"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "treadwell-john2"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "treadwell-john3"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "tufts-cotton2"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "vose-solomon"
+        },
+        {
+            "weight": 16,
+            "source": "burlamaqui-jean",
+            "target": "white-leonard"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "wibird-anthony"
+        },
+        {
+            "weight": 4,
+            "source": "burlamaqui-jean",
+            "target": "wigglesworth-edward"
+        },
+        {
+            "weight": 12,
+            "source": "burlamaqui-jean",
+            "target": "williams-samuel4"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "adams-peter"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "adams-thomas"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "apthorp-elizabeth"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "augustuscaesar"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "bancroft-thomas"
+        },
+        {
+            "weight": 10,
+            "source": "burr-jonathan",
+            "target": "bartlett-margaret"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "baxter-stephen"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "blair-hugh"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "burge-josiah"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "callahan-john"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "chandler-gardner"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "charles-ii"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "cranch-mary2"
+        },
+        {
+            "weight": 20,
+            "source": "burr-jonathan",
+            "target": "cranch-richard"
+        },
+        {
+            "weight": 26,
+            "source": "burr-jonathan",
+            "target": "cranch-william"
+        },
+        {
+            "weight": 6,
+            "source": "burr-jonathan",
+            "target": "dana-francis"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "dodge-oliver"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "ferguson-james"
+        },
+        {
+            "weight": 10,
+            "source": "burr-jonathan",
+            "target": "fiske-oliver"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "florus-lucius"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "gravesande-willem"
+        },
+        {
+            "weight": 10,
+            "source": "burr-jonathan",
+            "target": "greenleaf-lucy"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "harris-thaddeus"
+        },
+        {
+            "weight": 10,
+            "source": "burr-jonathan",
+            "target": "hilliard-mary"
+        },
+        {
+            "weight": 18,
+            "source": "burr-jonathan",
+            "target": "hilliard-timothy"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "james-eleazar"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "johnson-asa"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "lincoln-abner"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "little-moses"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "louis-xiv"
+        },
+        {
+            "weight": 6,
+            "source": "burr-jonathan",
+            "target": "mead-samuel"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "millot-claude"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "nathanael"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "norton-elizabeth"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "otis-harrison"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "otis-samuel"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "packard-hezekiah"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "palmer-elizabeth"
+        },
+        {
+            "weight": 10,
+            "source": "burr-jonathan",
+            "target": "peabody-elizabeth"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "pearson-eliphalet"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "perkins-thomas3"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "plinytheelder"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "putnam-samuel"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "quincy-norton"
+        },
+        {
+            "weight": 12,
+            "source": "burr-jonathan",
+            "target": "read-nathan"
+        },
+        {
+            "weight": 11,
+            "source": "burr-jonathan",
+            "target": "reid-thomas"
+        },
+        {
+            "weight": 15,
+            "source": "burr-jonathan",
+            "target": "shaw-john2"
+        },
+        {
+            "weight": 6,
+            "source": "burr-jonathan",
+            "target": "smith-isaac2"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "thaxter-john2"
+        },
+        {
+            "weight": 10,
+            "source": "burr-jonathan",
+            "target": "thayer-nathaniel"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "treadwell-john2"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "treadwell-john3"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "tufts-cotton2"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "vose-solomon"
+        },
+        {
+            "weight": 20,
+            "source": "burr-jonathan",
+            "target": "white-leonard"
+        },
+        {
+            "weight": 5,
+            "source": "burr-jonathan",
+            "target": "wibird-anthony"
+        },
+        {
+            "weight": 6,
+            "source": "burr-jonathan",
+            "target": "wigglesworth-edward"
+        },
+        {
+            "weight": 15,
+            "source": "burr-jonathan",
+            "target": "williams-samuel4"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-richard",
+            "target": "adams-peter"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-richard",
+            "target": "adams-thomas"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-richard",
+            "target": "apthorp-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "augustuscaesar"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "bancroft-thomas"
+        },
+        {
+            "weight": 8,
+            "source": "cranch-richard",
+            "target": "bartlett-margaret"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "baxter-stephen"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "blair-hugh"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "burge-josiah"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "callahan-john"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "chandler-gardner"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "charles-ii"
+        },
+        {
+            "weight": 7,
+            "source": "cranch-richard",
+            "target": "cranch-mary2"
+        },
+        {
+            "weight": 25,
+            "source": "cranch-richard",
+            "target": "cranch-william"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "dana-francis"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "dodge-oliver"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "ferguson-james"
+        },
+        {
+            "weight": 8,
+            "source": "cranch-richard",
+            "target": "fiske-oliver"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "florus-lucius"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "gravesande-willem"
+        },
+        {
+            "weight": 10,
+            "source": "cranch-richard",
+            "target": "greenleaf-lucy"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "harris-thaddeus"
+        },
+        {
+            "weight": 8,
+            "source": "cranch-richard",
+            "target": "hilliard-mary"
+        },
+        {
+            "weight": 12,
+            "source": "cranch-richard",
+            "target": "hilliard-timothy"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "james-eleazar"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "johnson-asa"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "lincoln-abner"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "little-moses"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "louis-xiv"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "mead-samuel"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "millot-claude"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "nathanael"
+        },
+        {
+            "weight": 8,
+            "source": "cranch-richard",
+            "target": "norton-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "otis-harrison"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-richard",
+            "target": "otis-samuel"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "packard-hezekiah"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "palmer-elizabeth"
+        },
+        {
+            "weight": 8,
+            "source": "cranch-richard",
+            "target": "peabody-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "pearson-eliphalet"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "perkins-thomas3"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "plinytheelder"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "putnam-samuel"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-richard",
+            "target": "quincy-norton"
+        },
+        {
+            "weight": 8,
+            "source": "cranch-richard",
+            "target": "read-nathan"
+        },
+        {
+            "weight": 8,
+            "source": "cranch-richard",
+            "target": "reid-thomas"
+        },
+        {
+            "weight": 12,
+            "source": "cranch-richard",
+            "target": "shaw-john2"
+        },
+        {
+            "weight": 10,
+            "source": "cranch-richard",
+            "target": "smith-isaac2"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "thaxter-john2"
+        },
+        {
+            "weight": 8,
+            "source": "cranch-richard",
+            "target": "thayer-nathaniel"
+        },
+        {
+            "weight": 3,
+            "source": "cranch-richard",
+            "target": "toscan-jean"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "treadwell-john2"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "treadwell-john3"
+        },
+        {
+            "weight": 6,
+            "source": "cranch-richard",
+            "target": "tufts-cotton2"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "tyler-royall"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "vose-solomon"
+        },
+        {
+            "weight": 17,
+            "source": "cranch-richard",
+            "target": "white-leonard"
+        },
+        {
+            "weight": 7,
+            "source": "cranch-richard",
+            "target": "wibird-anthony"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-richard",
+            "target": "wigglesworth-edward"
+        },
+        {
+            "weight": 12,
+            "source": "cranch-richard",
+            "target": "williams-samuel4"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "adams-peter"
+        },
+        {
+            "weight": 7,
+            "source": "cranch-william",
+            "target": "adams-thomas"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-william",
+            "target": "andrews-john2"
+        },
+        {
+            "weight": 6,
+            "source": "cranch-william",
+            "target": "apthorp-elizabeth"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "augustuscaesar"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "bancroft-thomas"
+        },
+        {
+            "weight": 10,
+            "source": "cranch-william",
+            "target": "bartlett-margaret"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "baxter-stephen"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "blair-hugh"
+        },
+        {
+            "weight": 8,
+            "source": "cranch-william",
+            "target": "burge-josiah"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "callahan-john"
+        },
+        {
+            "weight": 7,
+            "source": "cranch-william",
+            "target": "chandler-gardner"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "charles-ii"
+        },
+        {
+            "weight": 6,
+            "source": "cranch-william",
+            "target": "cranch-mary2"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "dana-francis"
+        },
+        {
+            "weight": 6,
+            "source": "cranch-william",
+            "target": "dodge-oliver"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "ferguson-james"
+        },
+        {
+            "weight": 13,
+            "source": "cranch-william",
+            "target": "fiske-oliver"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "florus-lucius"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-william",
+            "target": "forbes-john"
+        },
+        {
+            "weight": 7,
+            "source": "cranch-william",
+            "target": "freeman-nathaniel"
+        },
+        {
+            "weight": 6,
+            "source": "cranch-william",
+            "target": "gravesande-willem"
+        },
+        {
+            "weight": 11,
+            "source": "cranch-william",
+            "target": "greenleaf-lucy"
+        },
+        {
+            "weight": 8,
+            "source": "cranch-william",
+            "target": "harris-thaddeus"
+        },
+        {
+            "weight": 10,
+            "source": "cranch-william",
+            "target": "hilliard-mary"
+        },
+        {
+            "weight": 15,
+            "source": "cranch-william",
+            "target": "hilliard-timothy"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "james-eleazar"
+        },
+        {
+            "weight": 6,
+            "source": "cranch-william",
+            "target": "johnson-asa"
+        },
+        {
+            "weight": 6,
+            "source": "cranch-william",
+            "target": "lincoln-abner"
+        },
+        {
+            "weight": 8,
+            "source": "cranch-william",
+            "target": "little-moses"
+        },
+        {
+            "weight": 3,
+            "source": "cranch-william",
+            "target": "lloyd-james"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "louis-xiv"
+        },
+        {
+            "weight": 3,
+            "source": "cranch-william",
+            "target": "mason-william4"
+        },
+        {
+            "weight": 6,
+            "source": "cranch-william",
+            "target": "mead-samuel"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "millot-claude"
+        },
+        {
+            "weight": 6,
+            "source": "cranch-william",
+            "target": "nathanael"
+        },
+        {
+            "weight": 8,
+            "source": "cranch-william",
+            "target": "norton-elizabeth"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "otis-harrison"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "otis-samuel"
+        },
+        {
+            "weight": 8,
+            "source": "cranch-william",
+            "target": "packard-hezekiah"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "palmer-elizabeth"
+        },
+        {
+            "weight": 10,
+            "source": "cranch-william",
+            "target": "peabody-elizabeth"
+        },
+        {
+            "weight": 7,
+            "source": "cranch-william",
+            "target": "pearson-eliphalet"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "perkins-thomas3"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "plinytheelder"
+        },
+        {
+            "weight": 8,
+            "source": "cranch-william",
+            "target": "putnam-samuel"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "quincy-norton"
+        },
+        {
+            "weight": 10,
+            "source": "cranch-william",
+            "target": "read-nathan"
+        },
+        {
+            "weight": 10,
+            "source": "cranch-william",
+            "target": "reid-thomas"
+        },
+        {
+            "weight": 18,
+            "source": "cranch-william",
+            "target": "shaw-john2"
+        },
+        {
+            "weight": 7,
+            "source": "cranch-william",
+            "target": "smith-isaac2"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "thaxter-john2"
+        },
+        {
+            "weight": 10,
+            "source": "cranch-william",
+            "target": "thayer-nathaniel"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "treadwell-john2"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "treadwell-john3"
+        },
+        {
+            "weight": 6,
+            "source": "cranch-william",
+            "target": "tufts-cotton2"
+        },
+        {
+            "weight": 6,
+            "source": "cranch-william",
+            "target": "vose-solomon"
+        },
+        {
+            "weight": 24,
+            "source": "cranch-william",
+            "target": "white-leonard"
+        },
+        {
+            "weight": 9,
+            "source": "cranch-william",
+            "target": "wibird-anthony"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "wigglesworth-edward"
+        },
+        {
+            "weight": 5,
+            "source": "cranch-william",
+            "target": "willard-joseph2"
+        },
+        {
+            "weight": 16,
+            "source": "cranch-william",
+            "target": "williams-samuel4"
+        },
+        {
+            "weight": 9,
+            "source": "dana-francis",
+            "target": "allen-jeremiah2"
+        },
+        {
+            "weight": 4,
+            "source": "dana-francis",
+            "target": "ellery-almy"
+        },
+        {
+            "weight": 6,
+            "source": "dana-francis",
+            "target": "fiske-oliver"
+        },
+        {
+            "weight": 4,
+            "source": "dana-francis",
+            "target": "frederick-ii"
+        },
+        {
+            "weight": 21,
+            "source": "dana-francis",
+            "target": "fricke-john"
+        },
+        {
+            "weight": 5,
+            "source": "dana-francis",
+            "target": "guthrie-william"
+        },
+        {
+            "weight": 3,
+            "source": "dana-francis",
+            "target": "harris-thaddeus"
+        },
+        {
+            "weight": 4,
+            "source": "dana-francis",
+            "target": "harris-william6"
+        },
+        {
+            "weight": 14,
+            "source": "dana-francis",
+            "target": "hilliard-timothy"
+        },
+        {
+            "weight": 6,
+            "source": "dana-francis",
+            "target": "johonnot-samuel"
+        },
+        {
+            "weight": 5,
+            "source": "dana-francis",
+            "target": "lincoln-benjamin"
+        },
+        {
+            "weight": 3,
+            "source": "dana-francis",
+            "target": "martinus-miguel"
+        },
+        {
+            "weight": 3,
+            "source": "dana-francis",
+            "target": "neufville-jean"
+        },
+        {
+            "weight": 4,
+            "source": "dana-francis",
+            "target": "peter-the-great"
+        },
+        {
+            "weight": 5,
+            "source": "dana-francis",
+            "target": "raimbert-joseph"
+        },
+        {
+            "weight": 3,
+            "source": "dana-francis",
+            "target": "read-nathan"
+        },
+        {
+            "weight": 3,
+            "source": "dana-francis",
+            "target": "shaw-john2"
+        },
+        {
+            "weight": 3,
+            "source": "dana-francis",
+            "target": "stephens-joseph"
+        },
+        {
+            "weight": 12,
+            "source": "dana-francis",
+            "target": "thaxter-john2"
+        },
+        {
+            "weight": 4,
+            "source": "dana-francis",
+            "target": "white-leonard"
+        },
+        {
+            "weight": 4,
+            "source": "dana-francis",
+            "target": "wigglesworth-edward"
+        },
+        {
+            "weight": 3,
+            "source": "dana-francis",
+            "target": "willard-joseph2"
+        },
+        {
+            "weight": 4,
+            "source": "dana-francis",
+            "target": "williams-samuel4"
+        },
+        {
+            "weight": 4,
+            "source": "dodge-oliver",
+            "target": "hilliard-timothy"
+        },
+        {
+            "weight": 3,
+            "source": "dodge-oliver",
+            "target": "shaw-john2"
+        },
+        {
+            "weight": 4,
+            "source": "dodge-oliver",
+            "target": "white-leonard"
+        },
+        {
+            "weight": 3,
+            "source": "dodge-oliver",
+            "target": "williams-samuel4"
+        },
+        {
+            "weight": 3,
+            "source": "fiske-oliver",
+            "target": "andrews-john2"
+        },
+        {
+            "weight": 3,
+            "source": "fiske-oliver",
+            "target": "bancroft-thomas"
+        },
+        {
+            "weight": 4,
+            "source": "fiske-oliver",
+            "target": "bartlett-margaret"
+        },
+        {
+            "weight": 3,
+            "source": "fiske-oliver",
+            "target": "baxter-stephen"
+        },
+        {
+            "weight": 4,
+            "source": "fiske-oliver",
+            "target": "burge-josiah"
+        },
+        {
+            "weight": 4,
+            "source": "fiske-oliver",
+            "target": "chandler-gardner"
+        },
+        {
+            "weight": 4,
+            "source": "fiske-oliver",
+            "target": "freeman-nathaniel"
+        },
+        {
+            "weight": 4,
+            "source": "fiske-oliver",
+            "target": "greenleaf-lucy"
+        },
+        {
+            "weight": 7,
+            "source": "fiske-oliver",
+            "target": "harris-thaddeus"
+        },
+        {
+            "weight": 4,
+            "source": "fiske-oliver",
+            "target": "hilliard-mary"
+        },
+        {
+            "weight": 7,
+            "source": "fiske-oliver",
+            "target": "hilliard-timothy"
+        },
+        {
+            "weight": 3,
+            "source": "fiske-oliver",
+            "target": "johnson-asa"
+        },
+        {
+            "weight": 7,
+            "source": "fiske-oliver",
+            "target": "little-moses"
+        },
+        {
+            "weight": 3,
+            "source": "fiske-oliver",
+            "target": "mason-william4"
+        },
+        {
+            "weight": 3,
+            "source": "fiske-oliver",
+            "target": "mead-samuel"
+        },
+        {
+            "weight": 6,
+            "source": "fiske-oliver",
+            "target": "packard-hezekiah"
+        },
+        {
+            "weight": 4,
+            "source": "fiske-oliver",
+            "target": "peabody-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "fiske-oliver",
+            "target": "putnam-samuel"
+        },
+        {
+            "weight": 5,
+            "source": "fiske-oliver",
+            "target": "read-nathan"
+        },
+        {
+            "weight": 4,
+            "source": "fiske-oliver",
+            "target": "reid-thomas"
+        },
+        {
+            "weight": 6,
+            "source": "fiske-oliver",
+            "target": "shaw-john2"
+        },
+        {
+            "weight": 4,
+            "source": "fiske-oliver",
+            "target": "thayer-nathaniel"
+        },
+        {
+            "weight": 3,
+            "source": "fiske-oliver",
+            "target": "treadwell-john2"
+        },
+        {
+            "weight": 3,
+            "source": "fiske-oliver",
+            "target": "vose-solomon"
+        },
+        {
+            "weight": 9,
+            "source": "fiske-oliver",
+            "target": "white-leonard"
+        },
+        {
+            "weight": 3,
+            "source": "fiske-oliver",
+            "target": "willard-joseph2"
+        },
+        {
+            "weight": 3,
+            "source": "fiske-oliver",
+            "target": "williams-samuel3"
+        },
+        {
+            "weight": 7,
+            "source": "fiske-oliver",
+            "target": "williams-samuel4"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "adams-peter"
+        },
+        {
+            "weight": 5,
+            "source": "hilliard-timothy",
+            "target": "adams-thomas"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "apthorp-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "augustuscaesar"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "bancroft-thomas"
+        },
+        {
+            "weight": 6,
+            "source": "hilliard-timothy",
+            "target": "bartlett-margaret"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "baxter-stephen"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "blair-hugh"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "burge-josiah"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "callahan-john"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "chandler-gardner"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "charles-ii"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "cranch-mary2"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "dana-elizabeth2"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "ferguson-james"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "florus-lucius"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "gravesande-willem"
+        },
+        {
+            "weight": 6,
+            "source": "hilliard-timothy",
+            "target": "greenleaf-lucy"
+        },
+        {
+            "weight": 4,
+            "source": "hilliard-timothy",
+            "target": "harris-thaddeus"
+        },
+        {
+            "weight": 7,
+            "source": "hilliard-timothy",
+            "target": "hilliard-mary"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "james-eleazar"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "johnson-asa"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "lincoln-abner"
+        },
+        {
+            "weight": 4,
+            "source": "hilliard-timothy",
+            "target": "little-moses"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "louis-xiv"
+        },
+        {
+            "weight": 4,
+            "source": "hilliard-timothy",
+            "target": "mead-samuel"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "millot-claude"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "nathanael"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "norton-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "otis-harrison"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "otis-samuel"
+        },
+        {
+            "weight": 4,
+            "source": "hilliard-timothy",
+            "target": "packard-hezekiah"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "palmer-elizabeth"
+        },
+        {
+            "weight": 6,
+            "source": "hilliard-timothy",
+            "target": "peabody-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "hilliard-timothy",
+            "target": "pearson-eliphalet"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "perkins-thomas3"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "plinytheelder"
+        },
+        {
+            "weight": 4,
+            "source": "hilliard-timothy",
+            "target": "putnam-samuel"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "quincy-norton"
+        },
+        {
+            "weight": 6,
+            "source": "hilliard-timothy",
+            "target": "read-nathan"
+        },
+        {
+            "weight": 6,
+            "source": "hilliard-timothy",
+            "target": "reid-thomas"
+        },
+        {
+            "weight": 9,
+            "source": "hilliard-timothy",
+            "target": "shaw-john2"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "smith-isaac2"
+        },
+        {
+            "weight": 4,
+            "source": "hilliard-timothy",
+            "target": "thaxter-john2"
+        },
+        {
+            "weight": 6,
+            "source": "hilliard-timothy",
+            "target": "thayer-nathaniel"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "treadwell-john2"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "treadwell-john3"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "tufts-cotton2"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "vose-solomon"
+        },
+        {
+            "weight": 12,
+            "source": "hilliard-timothy",
+            "target": "white-leonard"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "wibird-anthony"
+        },
+        {
+            "weight": 5,
+            "source": "hilliard-timothy",
+            "target": "wigglesworth-edward"
+        },
+        {
+            "weight": 3,
+            "source": "hilliard-timothy",
+            "target": "willard-joseph2"
+        },
+        {
+            "weight": 10,
+            "source": "hilliard-timothy",
+            "target": "williams-samuel4"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "adams-peter"
+        },
+        {
+            "weight": 5,
+            "source": "shaw-john2",
+            "target": "adams-thomas"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "allen-jonathan"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "apthorp-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "augustuscaesar"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "bancroft-thomas"
+        },
+        {
+            "weight": 8,
+            "source": "shaw-john2",
+            "target": "bartlett-margaret"
+        },
+        {
+            "weight": 4,
+            "source": "shaw-john2",
+            "target": "baxter-stephen"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "blair-hugh"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "burge-josiah"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "callahan-john"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "chandler-gardner"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "charles-ii"
+        },
+        {
+            "weight": 4,
+            "source": "shaw-john2",
+            "target": "cranch-mary2"
+        },
+        {
+            "weight": 4,
+            "source": "shaw-john2",
+            "target": "duncan-james4"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "ferguson-james"
+        },
+        {
+            "weight": 4,
+            "source": "shaw-john2",
+            "target": "florus-lucius"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "gravesande-willem"
+        },
+        {
+            "weight": 7,
+            "source": "shaw-john2",
+            "target": "greenleaf-lucy"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "harris-thaddeus"
+        },
+        {
+            "weight": 6,
+            "source": "shaw-john2",
+            "target": "hilliard-mary"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "james-eleazar"
+        },
+        {
+            "weight": 4,
+            "source": "shaw-john2",
+            "target": "johnson-asa"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "lincoln-abner"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "little-moses"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "louis-xiv"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "mead-samuel"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "millot-claude"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "nathanael"
+        },
+        {
+            "weight": 9,
+            "source": "shaw-john2",
+            "target": "norton-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "otis-harrison"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "otis-samuel"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "packard-hezekiah"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "palmer-elizabeth"
+        },
+        {
+            "weight": 11,
+            "source": "shaw-john2",
+            "target": "peabody-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "pearson-eliphalet"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "perkins-thomas3"
+        },
+        {
+            "weight": 4,
+            "source": "shaw-john2",
+            "target": "plinytheelder"
+        },
+        {
+            "weight": 4,
+            "source": "shaw-john2",
+            "target": "putnam-samuel"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "quincy-norton"
+        },
+        {
+            "weight": 6,
+            "source": "shaw-john2",
+            "target": "read-nathan"
+        },
+        {
+            "weight": 6,
+            "source": "shaw-john2",
+            "target": "reid-thomas"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "smith-hezekiah"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "smith-isaac2"
+        },
+        {
+            "weight": 11,
+            "source": "shaw-john2",
+            "target": "thaxter-john2"
+        },
+        {
+            "weight": 6,
+            "source": "shaw-john2",
+            "target": "thayer-nathaniel"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "treadwell-john2"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "treadwell-john3"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "tucker-john"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "tufts-cotton2"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "vose-solomon"
+        },
+        {
+            "weight": 11,
+            "source": "shaw-john2",
+            "target": "white-john2"
+        },
+        {
+            "weight": 19,
+            "source": "shaw-john2",
+            "target": "white-leonard"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "wibird-anthony"
+        },
+        {
+            "weight": 3,
+            "source": "shaw-john2",
+            "target": "wigglesworth-edward"
+        },
+        {
+            "weight": 10,
+            "source": "shaw-john2",
+            "target": "williams-samuel4"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "adams-peter"
+        },
+        {
+            "weight": 5,
+            "source": "white-leonard",
+            "target": "adams-thomas"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "apthorp-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "augustuscaesar"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "bancroft-thomas"
+        },
+        {
+            "weight": 10,
+            "source": "white-leonard",
+            "target": "bartlett-margaret"
+        },
+        {
+            "weight": 5,
+            "source": "white-leonard",
+            "target": "baxter-stephen"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "blair-hugh"
+        },
+        {
+            "weight": 6,
+            "source": "white-leonard",
+            "target": "burge-josiah"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "callahan-john"
+        },
+        {
+            "weight": 7,
+            "source": "white-leonard",
+            "target": "chandler-gardner"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "charles-ii"
+        },
+        {
+            "weight": 5,
+            "source": "white-leonard",
+            "target": "cranch-mary2"
+        },
+        {
+            "weight": 3,
+            "source": "white-leonard",
+            "target": "duncan-james4"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "ferguson-james"
+        },
+        {
+            "weight": 5,
+            "source": "white-leonard",
+            "target": "florus-lucius"
+        },
+        {
+            "weight": 3,
+            "source": "white-leonard",
+            "target": "foster-bossenger2"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "gravesande-willem"
+        },
+        {
+            "weight": 9,
+            "source": "white-leonard",
+            "target": "greenleaf-lucy"
+        },
+        {
+            "weight": 5,
+            "source": "white-leonard",
+            "target": "harris-thaddeus"
+        },
+        {
+            "weight": 8,
+            "source": "white-leonard",
+            "target": "hilliard-mary"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "james-eleazar"
+        },
+        {
+            "weight": 6,
+            "source": "white-leonard",
+            "target": "johnson-asa"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "lincoln-abner"
+        },
+        {
+            "weight": 5,
+            "source": "white-leonard",
+            "target": "little-moses"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "louis-xiv"
+        },
+        {
+            "weight": 5,
+            "source": "white-leonard",
+            "target": "mead-samuel"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "millot-claude"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "nathanael"
+        },
+        {
+            "weight": 6,
+            "source": "white-leonard",
+            "target": "norton-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "otis-harrison"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "otis-samuel"
+        },
+        {
+            "weight": 6,
+            "source": "white-leonard",
+            "target": "packard-hezekiah"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "palmer-elizabeth"
+        },
+        {
+            "weight": 9,
+            "source": "white-leonard",
+            "target": "peabody-elizabeth"
+        },
+        {
+            "weight": 5,
+            "source": "white-leonard",
+            "target": "pearson-eliphalet"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "perkins-thomas3"
+        },
+        {
+            "weight": 5,
+            "source": "white-leonard",
+            "target": "plinytheelder"
+        },
+        {
+            "weight": 6,
+            "source": "white-leonard",
+            "target": "putnam-samuel"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "quincy-norton"
+        },
+        {
+            "weight": 8,
+            "source": "white-leonard",
+            "target": "read-nathan"
+        },
+        {
+            "weight": 8,
+            "source": "white-leonard",
+            "target": "reid-thomas"
+        },
+        {
+            "weight": 6,
+            "source": "white-leonard",
+            "target": "smith-isaac2"
+        },
+        {
+            "weight": 10,
+            "source": "white-leonard",
+            "target": "thaxter-john2"
+        },
+        {
+            "weight": 8,
+            "source": "white-leonard",
+            "target": "thayer-nathaniel"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "treadwell-john2"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "treadwell-john3"
+        },
+        {
+            "weight": 5,
+            "source": "white-leonard",
+            "target": "tufts-cotton2"
+        },
+        {
+            "weight": 5,
+            "source": "white-leonard",
+            "target": "vose-solomon"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "white-john2"
+        },
+        {
+            "weight": 4,
+            "source": "white-leonard",
+            "target": "wibird-anthony"
+        },
+        {
+            "weight": 6,
+            "source": "white-leonard",
+            "target": "wigglesworth-edward"
+        },
+        {
+            "weight": 13,
+            "source": "white-leonard",
+            "target": "williams-samuel4"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "adams-peter"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "adams-thomas"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "apthorp-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "augustuscaesar"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "bancroft-thomas"
+        },
+        {
+            "weight": 6,
+            "source": "williams-samuel4",
+            "target": "bartlett-margaret"
+        },
+        {
+            "weight": 4,
+            "source": "williams-samuel4",
+            "target": "baxter-stephen"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "blair-hugh"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "burge-josiah"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "callahan-john"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "chandler-gardner"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "charles-ii"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "cranch-mary2"
+        },
+        {
+            "weight": 4,
+            "source": "williams-samuel4",
+            "target": "ferguson-james"
+        },
+        {
+            "weight": 4,
+            "source": "williams-samuel4",
+            "target": "florus-lucius"
+        },
+        {
+            "weight": 4,
+            "source": "williams-samuel4",
+            "target": "gravesande-willem"
+        },
+        {
+            "weight": 6,
+            "source": "williams-samuel4",
+            "target": "greenleaf-lucy"
+        },
+        {
+            "weight": 4,
+            "source": "williams-samuel4",
+            "target": "harris-thaddeus"
+        },
+        {
+            "weight": 6,
+            "source": "williams-samuel4",
+            "target": "hilliard-mary"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "james-eleazar"
+        },
+        {
+            "weight": 4,
+            "source": "williams-samuel4",
+            "target": "johnson-asa"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "lincoln-abner"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "little-moses"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "louis-xiv"
+        },
+        {
+            "weight": 4,
+            "source": "williams-samuel4",
+            "target": "mead-samuel"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "millot-claude"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "nathanael"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "norton-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "otis-harrison"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "otis-samuel"
+        },
+        {
+            "weight": 4,
+            "source": "williams-samuel4",
+            "target": "packard-hezekiah"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "palmer-elizabeth"
+        },
+        {
+            "weight": 6,
+            "source": "williams-samuel4",
+            "target": "peabody-elizabeth"
+        },
+        {
+            "weight": 5,
+            "source": "williams-samuel4",
+            "target": "pearson-eliphalet"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "perkins-thomas3"
+        },
+        {
+            "weight": 4,
+            "source": "williams-samuel4",
+            "target": "plinytheelder"
+        },
+        {
+            "weight": 5,
+            "source": "williams-samuel4",
+            "target": "putnam-samuel"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "quincy-norton"
+        },
+        {
+            "weight": 6,
+            "source": "williams-samuel4",
+            "target": "read-nathan"
+        },
+        {
+            "weight": 6,
+            "source": "williams-samuel4",
+            "target": "reid-thomas"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "smith-isaac2"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "thaxter-john2"
+        },
+        {
+            "weight": 6,
+            "source": "williams-samuel4",
+            "target": "thayer-nathaniel"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "treadwell-john2"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "treadwell-john3"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "tufts-cotton2"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "vose-solomon"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "wibird-anthony"
+        },
+        {
+            "weight": 4,
+            "source": "williams-samuel4",
+            "target": "wigglesworth-edward"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel4",
+            "target": "williams-jane2"
+        },
+        {
+            "weight": 4,
+            "source": "adams-john",
+            "target": "adams-abigail"
+        },
+        {
+            "weight": 3,
+            "source": "adams-john",
+            "target": "cranch-mary2"
+        },
+        {
+            "weight": 3,
+            "source": "adams-abigail",
+            "target": "cranch-mary2"
+        },
+        {
+            "weight": 3,
+            "source": "adams-abigail",
+            "target": "jefferson-thomas"
+        },
+        {
+            "weight": 3,
+            "source": "adams-abigail",
+            "target": "lafayette"
+        },
+        {
+            "weight": 6,
+            "source": "adams-abigail",
+            "target": "smith-abigail"
+        },
+        {
+            "weight": 3,
+            "source": "cranch-mary2",
+            "target": "adams-peter"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-mary2",
+            "target": "greenleaf-lucy"
+        },
+        {
+            "weight": 4,
+            "source": "cranch-mary2",
+            "target": "smith-isaac2"
+        },
+        {
+            "weight": 3,
+            "source": "cranch-mary2",
+            "target": "thaxter-john2"
+        },
+        {
+            "weight": 3,
+            "source": "cranch-mary2",
+            "target": "wibird-anthony"
+        },
+        {
+            "weight": 3,
+            "source": "jefferson-thomas",
+            "target": "doradour-charles"
+        },
+        {
+            "weight": 3,
+            "source": "jefferson-thomas",
+            "target": "doradour-marie"
+        },
+        {
+            "weight": 7,
+            "source": "jefferson-thomas",
+            "target": "humphreys-david"
+        },
+        {
+            "weight": 4,
+            "source": "jefferson-thomas",
+            "target": "lafayette"
+        },
+        {
+            "weight": 5,
+            "source": "jefferson-thomas",
+            "target": "west-benjamin"
+        },
+        {
+            "weight": 5,
+            "source": "jefferson-thomas",
+            "target": "williamos-charles"
+        },
+        {
+            "weight": 3,
+            "source": "lafayette",
+            "target": "humphreys-david"
+        },
+        {
+            "weight": 3,
+            "source": "lafayette",
+            "target": "lafayette-marie"
+        },
+        {
+            "weight": 3,
+            "source": "lafayette",
+            "target": "rucker-john"
+        },
+        {
+            "weight": 3,
+            "source": "lafayette",
+            "target": "smith-abigail"
+        },
+        {
+            "weight": 4,
+            "source": "lafayette",
+            "target": "west-benjamin"
+        },
+        {
+            "weight": 5,
+            "source": "lafayette",
+            "target": "williamos-charles"
+        },
+        {
+            "weight": 3,
+            "source": "adams-thomas",
+            "target": "peabody-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "adams-thomas",
+            "target": "smith-isaac2"
+        },
+        {
+            "weight": 4,
+            "source": "adams-thomas",
+            "target": "thaxter-john2"
+        },
+        {
+            "weight": 3,
+            "source": "adams-thomas",
+            "target": "tufts-cotton2"
+        },
+        {
+            "weight": 4,
+            "source": "bartlett-margaret",
+            "target": "greenleaf-lucy"
+        },
+        {
+            "weight": 4,
+            "source": "bartlett-margaret",
+            "target": "hilliard-mary"
+        },
+        {
+            "weight": 6,
+            "source": "bartlett-margaret",
+            "target": "norton-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "bartlett-margaret",
+            "target": "peabody-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "bartlett-margaret",
+            "target": "read-nathan"
+        },
+        {
+            "weight": 4,
+            "source": "bartlett-margaret",
+            "target": "reid-thomas"
+        },
+        {
+            "weight": 3,
+            "source": "bartlett-margaret",
+            "target": "thaxter-john2"
+        },
+        {
+            "weight": 4,
+            "source": "bartlett-margaret",
+            "target": "thayer-nathaniel"
+        },
+        {
+            "weight": 3,
+            "source": "bartlett-margaret",
+            "target": "white-john2"
+        },
+        {
+            "weight": 3,
+            "source": "greenleaf-lucy",
+            "target": "callahan-john"
+        },
+        {
+            "weight": 4,
+            "source": "greenleaf-lucy",
+            "target": "hilliard-mary"
+        },
+        {
+            "weight": 6,
+            "source": "greenleaf-lucy",
+            "target": "norton-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "greenleaf-lucy",
+            "target": "peabody-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "greenleaf-lucy",
+            "target": "read-nathan"
+        },
+        {
+            "weight": 4,
+            "source": "greenleaf-lucy",
+            "target": "reid-thomas"
+        },
+        {
+            "weight": 3,
+            "source": "greenleaf-lucy",
+            "target": "smith-isaac2"
+        },
+        {
+            "weight": 3,
+            "source": "greenleaf-lucy",
+            "target": "thaxter-john2"
+        },
+        {
+            "weight": 4,
+            "source": "greenleaf-lucy",
+            "target": "thayer-nathaniel"
+        },
+        {
+            "weight": 3,
+            "source": "greenleaf-lucy",
+            "target": "wibird-anthony"
+        },
+        {
+            "weight": 4,
+            "source": "hilliard-mary",
+            "target": "peabody-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "hilliard-mary",
+            "target": "read-nathan"
+        },
+        {
+            "weight": 4,
+            "source": "hilliard-mary",
+            "target": "reid-thomas"
+        },
+        {
+            "weight": 4,
+            "source": "hilliard-mary",
+            "target": "thayer-nathaniel"
+        },
+        {
+            "weight": 5,
+            "source": "packard-hezekiah",
+            "target": "burge-josiah"
+        },
+        {
+            "weight": 3,
+            "source": "packard-hezekiah",
+            "target": "chandler-gardner"
+        },
+        {
+            "weight": 3,
+            "source": "packard-hezekiah",
+            "target": "freeman-nathaniel"
+        },
+        {
+            "weight": 6,
+            "source": "packard-hezekiah",
+            "target": "harris-thaddeus"
+        },
+        {
+            "weight": 5,
+            "source": "packard-hezekiah",
+            "target": "little-moses"
+        },
+        {
+            "weight": 3,
+            "source": "packard-hezekiah",
+            "target": "ware-henry"
+        },
+        {
+            "weight": 3,
+            "source": "packard-hezekiah",
+            "target": "wigglesworth-edward"
+        },
+        {
+            "weight": 4,
+            "source": "peabody-elizabeth",
+            "target": "read-nathan"
+        },
+        {
+            "weight": 4,
+            "source": "peabody-elizabeth",
+            "target": "reid-thomas"
+        },
+        {
+            "weight": 5,
+            "source": "peabody-elizabeth",
+            "target": "thaxter-john2"
+        },
+        {
+            "weight": 4,
+            "source": "peabody-elizabeth",
+            "target": "thayer-nathaniel"
+        },
+        {
+            "weight": 3,
+            "source": "peabody-elizabeth",
+            "target": "white-john2"
+        },
+        {
+            "weight": 3,
+            "source": "read-nathan",
+            "target": "mead-samuel"
+        },
+        {
+            "weight": 4,
+            "source": "read-nathan",
+            "target": "reid-thomas"
+        },
+        {
+            "weight": 3,
+            "source": "read-nathan",
+            "target": "smith-isaac2"
+        },
+        {
+            "weight": 4,
+            "source": "read-nathan",
+            "target": "thayer-nathaniel"
+        },
+        {
+            "weight": 4,
+            "source": "reid-thomas",
+            "target": "thayer-nathaniel"
+        },
+        {
+            "weight": 3,
+            "source": "smith-isaac2",
+            "target": "norton-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "smith-isaac2",
+            "target": "thaxter-john2"
+        },
+        {
+            "weight": 3,
+            "source": "smith-isaac2",
+            "target": "toscan-jean"
+        },
+        {
+            "weight": 4,
+            "source": "smith-isaac2",
+            "target": "tufts-cotton2"
+        },
+        {
+            "weight": 4,
+            "source": "smith-isaac2",
+            "target": "welsh-thomas"
+        },
+        {
+            "weight": 9,
+            "source": "thaxter-john2",
+            "target": "allen-jeremiah2"
+        },
+        {
+            "weight": 3,
+            "source": "thaxter-john2",
+            "target": "fricke-john"
+        },
+        {
+            "weight": 4,
+            "source": "thaxter-john2",
+            "target": "hazen-anna"
+        },
+        {
+            "weight": 6,
+            "source": "thaxter-john2",
+            "target": "johonnot-samuel"
+        },
+        {
+            "weight": 3,
+            "source": "thaxter-john2",
+            "target": "martinus-miguel"
+        },
+        {
+            "weight": 3,
+            "source": "thaxter-john2",
+            "target": "norton-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "thaxter-john2",
+            "target": "stephens-joseph"
+        },
+        {
+            "weight": 3,
+            "source": "thaxter-john2",
+            "target": "thaxter-elizabeth3"
+        },
+        {
+            "weight": 4,
+            "source": "thaxter-john2",
+            "target": "white-john2"
+        },
+        {
+            "weight": 3,
+            "source": "wibird-anthony",
+            "target": "norton-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "wibird-anthony",
+            "target": "tyler-royall"
+        },
+        {
+            "weight": 3,
+            "source": "wigglesworth-edward",
+            "target": "wigglesworth-margaret"
+        },
+        {
+            "weight": 3,
+            "source": "allen-jeremiah2",
+            "target": "fricke-john"
+        },
+        {
+            "weight": 7,
+            "source": "allen-jeremiah2",
+            "target": "johonnot-samuel"
+        },
+        {
+            "weight": 3,
+            "source": "allen-jeremiah2",
+            "target": "martinus-miguel"
+        },
+        {
+            "weight": 3,
+            "source": "allen-jeremiah2",
+            "target": "stephens-joseph"
+        },
+        {
+            "weight": 4,
+            "source": "fricke-john",
+            "target": "frederick-ii"
+        },
+        {
+            "weight": 3,
+            "source": "martinus-miguel",
+            "target": "stephens-joseph"
+        },
+        {
+            "weight": 3,
+            "source": "stephens-joseph",
+            "target": "leroy-herman"
+        },
+        {
+            "weight": 3,
+            "source": "amory-jonathan",
+            "target": "chandler-gardner"
+        },
+        {
+            "weight": 3,
+            "source": "amory-jonathan",
+            "target": "foster-bossenger2"
+        },
+        {
+            "weight": 3,
+            "source": "amory-jonathan",
+            "target": "freeman-nathaniel"
+        },
+        {
+            "weight": 3,
+            "source": "amory-jonathan",
+            "target": "lloyd-james"
+        },
+        {
+            "weight": 3,
+            "source": "amory-jonathan",
+            "target": "williams-samuel3"
+        },
+        {
+            "weight": 3,
+            "source": "chandler-gardner",
+            "target": "burge-josiah"
+        },
+        {
+            "weight": 3,
+            "source": "chandler-gardner",
+            "target": "foster-bossenger2"
+        },
+        {
+            "weight": 3,
+            "source": "chandler-gardner",
+            "target": "freeman-nathaniel"
+        },
+        {
+            "weight": 3,
+            "source": "chandler-gardner",
+            "target": "little-moses"
+        },
+        {
+            "weight": 3,
+            "source": "chandler-gardner",
+            "target": "lloyd-james"
+        },
+        {
+            "weight": 3,
+            "source": "chandler-gardner",
+            "target": "putnam-samuel"
+        },
+        {
+            "weight": 3,
+            "source": "chandler-gardner",
+            "target": "williams-samuel3"
+        },
+        {
+            "weight": 3,
+            "source": "foster-bossenger2",
+            "target": "ellery-almy"
+        },
+        {
+            "weight": 3,
+            "source": "foster-bossenger2",
+            "target": "forbes-john"
+        },
+        {
+            "weight": 3,
+            "source": "foster-bossenger2",
+            "target": "freeman-nathaniel"
+        },
+        {
+            "weight": 3,
+            "source": "foster-bossenger2",
+            "target": "lloyd-james"
+        },
+        {
+            "weight": 3,
+            "source": "foster-bossenger2",
+            "target": "williams-samuel3"
+        },
+        {
+            "weight": 5,
+            "source": "freeman-nathaniel",
+            "target": "andrews-john2"
+        },
+        {
+            "weight": 3,
+            "source": "freeman-nathaniel",
+            "target": "burge-josiah"
+        },
+        {
+            "weight": 4,
+            "source": "freeman-nathaniel",
+            "target": "ellery-almy"
+        },
+        {
+            "weight": 3,
+            "source": "freeman-nathaniel",
+            "target": "forbes-john"
+        },
+        {
+            "weight": 3,
+            "source": "freeman-nathaniel",
+            "target": "harris-thaddeus"
+        },
+        {
+            "weight": 4,
+            "source": "freeman-nathaniel",
+            "target": "little-moses"
+        },
+        {
+            "weight": 3,
+            "source": "freeman-nathaniel",
+            "target": "lloyd-james"
+        },
+        {
+            "weight": 4,
+            "source": "freeman-nathaniel",
+            "target": "willard-joseph2"
+        },
+        {
+            "weight": 4,
+            "source": "freeman-nathaniel",
+            "target": "williams-jane2"
+        },
+        {
+            "weight": 5,
+            "source": "freeman-nathaniel",
+            "target": "williams-samuel3"
+        },
+        {
+            "weight": 3,
+            "source": "lloyd-james",
+            "target": "mason-william4"
+        },
+        {
+            "weight": 3,
+            "source": "lloyd-james",
+            "target": "putnam-samuel"
+        },
+        {
+            "weight": 3,
+            "source": "lloyd-james",
+            "target": "williams-samuel3"
+        },
+        {
+            "weight": 4,
+            "source": "williams-samuel3",
+            "target": "andrews-john2"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel3",
+            "target": "brown-katherine"
+        },
+        {
+            "weight": 4,
+            "source": "williams-samuel3",
+            "target": "ellery-almy"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel3",
+            "target": "forbes-john"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel3",
+            "target": "little-moses"
+        },
+        {
+            "weight": 3,
+            "source": "williams-samuel3",
+            "target": "putnam-samuel"
+        },
+        {
+            "weight": 6,
+            "source": "williams-samuel3",
+            "target": "williams-jane2"
+        },
+        {
+            "weight": 3,
+            "source": "atkins-dudley",
+            "target": "amory-william"
+        },
+        {
+            "weight": 4,
+            "source": "atkins-dudley",
+            "target": "atkins-sarah"
+        },
+        {
+            "weight": 3,
+            "source": "atkins-dudley",
+            "target": "hooper-mary"
+        },
+        {
+            "weight": 3,
+            "source": "atkins-dudley",
+            "target": "parsons-theophilus"
+        },
+        {
+            "weight": 3,
+            "source": "atkins-dudley",
+            "target": "thompson-thomas"
+        },
+        {
+            "weight": 7,
+            "source": "atkins-dudley",
+            "target": "townsend-horatio"
+        },
+        {
+            "weight": 3,
+            "source": "amory-william",
+            "target": "fletcher-lucy"
+        },
+        {
+            "weight": 4,
+            "source": "amory-william",
+            "target": "little-moses"
+        },
+        {
+            "weight": 4,
+            "source": "amory-william",
+            "target": "parsons-theophilus"
+        },
+        {
+            "weight": 4,
+            "source": "amory-william",
+            "target": "putnam-samuel"
+        },
+        {
+            "weight": 3,
+            "source": "amory-william",
+            "target": "stacey-george"
+        },
+        {
+            "weight": 9,
+            "source": "amory-william",
+            "target": "townsend-horatio"
+        },
+        {
+            "weight": 4,
+            "source": "little-moses",
+            "target": "burge-josiah"
+        },
+        {
+            "weight": 6,
+            "source": "little-moses",
+            "target": "harris-thaddeus"
+        },
+        {
+            "weight": 3,
+            "source": "little-moses",
+            "target": "mason-william4"
+        },
+        {
+            "weight": 4,
+            "source": "little-moses",
+            "target": "parsons-theophilus"
+        },
+        {
+            "weight": 13,
+            "source": "little-moses",
+            "target": "putnam-samuel"
+        },
+        {
+            "weight": 3,
+            "source": "little-moses",
+            "target": "swett-john"
+        },
+        {
+            "weight": 5,
+            "source": "little-moses",
+            "target": "thompson-thomas"
+        },
+        {
+            "weight": 5,
+            "source": "little-moses",
+            "target": "townsend-horatio"
+        },
+        {
+            "weight": 4,
+            "source": "little-moses",
+            "target": "willard-joseph2"
+        },
+        {
+            "weight": 5,
+            "source": "parsons-theophilus",
+            "target": "hooper-mary"
+        },
+        {
+            "weight": 6,
+            "source": "parsons-theophilus",
+            "target": "putnam-samuel"
+        },
+        {
+            "weight": 3,
+            "source": "parsons-theophilus",
+            "target": "stacey-george"
+        },
+        {
+            "weight": 5,
+            "source": "parsons-theophilus",
+            "target": "thompson-thomas"
+        },
+        {
+            "weight": 7,
+            "source": "parsons-theophilus",
+            "target": "townsend-horatio"
+        },
+        {
+            "weight": 5,
+            "source": "putnam-samuel",
+            "target": "bradbury-francis"
+        },
+        {
+            "weight": 3,
+            "source": "putnam-samuel",
+            "target": "bradbury-theophilus"
+        },
+        {
+            "weight": 4,
+            "source": "putnam-samuel",
+            "target": "frazier-moses"
+        },
+        {
+            "weight": 4,
+            "source": "putnam-samuel",
+            "target": "hooper-mary"
+        },
+        {
+            "weight": 4,
+            "source": "putnam-samuel",
+            "target": "kilham-daniel"
+        },
+        {
+            "weight": 3,
+            "source": "putnam-samuel",
+            "target": "mason-william4"
+        },
+        {
+            "weight": 3,
+            "source": "putnam-samuel",
+            "target": "mead-samuel"
+        },
+        {
+            "weight": 3,
+            "source": "putnam-samuel",
+            "target": "pickman-benjamin"
+        },
+        {
+            "weight": 4,
+            "source": "putnam-samuel",
+            "target": "stacey-george"
+        },
+        {
+            "weight": 11,
+            "source": "putnam-samuel",
+            "target": "thompson-thomas"
+        },
+        {
+            "weight": 9,
+            "source": "putnam-samuel",
+            "target": "townsend-horatio"
+        },
+        {
+            "weight": 3,
+            "source": "putnam-samuel",
+            "target": "tucker-john"
+        },
+        {
+            "weight": 5,
+            "source": "townsend-horatio",
+            "target": "atkins-sarah"
+        },
+        {
+            "weight": 7,
+            "source": "townsend-horatio",
+            "target": "cary-thomas"
+        },
+        {
+            "weight": 3,
+            "source": "townsend-horatio",
+            "target": "cazneau-rebecca"
+        },
+        {
+            "weight": 3,
+            "source": "townsend-horatio",
+            "target": "emery-margaret"
+        },
+        {
+            "weight": 3,
+            "source": "townsend-horatio",
+            "target": "gibbon-edward"
+        },
+        {
+            "weight": 3,
+            "source": "townsend-horatio",
+            "target": "greenleaf-benjamin"
+        },
+        {
+            "weight": 12,
+            "source": "townsend-horatio",
+            "target": "hooper-mary"
+        },
+        {
+            "weight": 4,
+            "source": "townsend-horatio",
+            "target": "knight-lucy"
+        },
+        {
+            "weight": 4,
+            "source": "townsend-horatio",
+            "target": "pickman-benjamin"
+        },
+        {
+            "weight": 6,
+            "source": "townsend-horatio",
+            "target": "thompson-thomas"
+        },
+        {
+            "weight": 5,
+            "source": "townsend-horatio",
+            "target": "tracy-john"
+        },
+        {
+            "weight": 8,
+            "source": "townsend-horatio",
+            "target": "tucker-john"
+        },
+        {
+            "weight": 3,
+            "source": "andrews-john2",
+            "target": "cary-thomas"
+        },
+        {
+            "weight": 6,
+            "source": "andrews-john2",
+            "target": "ellery-almy"
+        },
+        {
+            "weight": 3,
+            "source": "andrews-john2",
+            "target": "spring-samuel"
+        },
+        {
+            "weight": 3,
+            "source": "andrews-john2",
+            "target": "tufts-samuel"
+        },
+        {
+            "weight": 4,
+            "source": "andrews-john2",
+            "target": "williams-jane2"
+        },
+        {
+            "weight": 4,
+            "source": "cary-thomas",
+            "target": "carter-nathaniel"
+        },
+        {
+            "weight": 4,
+            "source": "cary-thomas",
+            "target": "kilham-daniel"
+        },
+        {
+            "weight": 5,
+            "source": "cary-thomas",
+            "target": "spring-samuel"
+        },
+        {
+            "weight": 4,
+            "source": "cary-thomas",
+            "target": "tucker-john"
+        },
+        {
+            "weight": 4,
+            "source": "ellery-almy",
+            "target": "williams-jane2"
+        },
+        {
+            "weight": 4,
+            "source": "spring-samuel",
+            "target": "thompson-thomas"
+        },
+        {
+            "weight": 3,
+            "source": "williams-jane2",
+            "target": "brown-katherine"
+        },
+        {
+            "weight": 3,
+            "source": "hooper-mary",
+            "target": "cutler-samuel"
+        },
+        {
+            "weight": 3,
+            "source": "hooper-mary",
+            "target": "knight-lucy"
+        },
+        {
+            "weight": 4,
+            "source": "hooper-mary",
+            "target": "pickman-benjamin"
+        },
+        {
+            "weight": 3,
+            "source": "hooper-mary",
+            "target": "thompson-thomas"
+        },
+        {
+            "weight": 3,
+            "source": "thompson-thomas",
+            "target": "pickman-benjamin"
+        },
+        {
+            "weight": 3,
+            "source": "norton-elizabeth",
+            "target": "duncan-james4"
+        },
+        {
+            "weight": 5,
+            "source": "norton-elizabeth",
+            "target": "white-john2"
+        },
+        {
+            "weight": 4,
+            "source": "white-john2",
+            "target": "duncan-james4"
+        },
+        {
+            "weight": 4,
+            "source": "burge-josiah",
+            "target": "harris-thaddeus"
+        },
+        {
+            "weight": 3,
+            "source": "harris-thaddeus",
+            "target": "ware-henry"
+        },
+        {
+            "weight": 3,
+            "source": "forbes-john",
+            "target": "brown-katherine"
+        },
+        {
+            "weight": 3,
+            "source": "carter-nathaniel",
+            "target": "kilham-daniel"
+        },
+        {
+            "weight": 3,
+            "source": "toscan-jean",
+            "target": "chaumont-james"
+        },
+        {
+            "weight": 3,
+            "source": "greenleaf-benjamin",
+            "target": "derby-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "greenleaf-benjamin",
+            "target": "greenleaf-hannah"
+        },
+        {
+            "weight": 3,
+            "source": "greenleaf-benjamin",
+            "target": "greenleaf-jane"
+        },
+        {
+            "weight": 3,
+            "source": "greenleaf-benjamin",
+            "target": "greenleaf-mary5"
+        },
+        {
+            "weight": 3,
+            "source": "greenleaf-benjamin",
+            "target": "greenleaf-sarah"
+        },
+        {
+            "weight": 3,
+            "source": "doradour-marie",
+            "target": "doradour-charles"
+        },
+        {
+            "weight": 3,
+            "source": "doradour-marie",
+            "target": "williamos-charles"
+        },
+        {
+            "weight": 3,
+            "source": "doradour-charles",
+            "target": "williamos-charles"
+        },
+        {
+            "weight": 4,
+            "source": "williamos-charles",
+            "target": "humphreys-david"
+        },
+        {
+            "weight": 3,
+            "source": "williamos-charles",
+            "target": "west-benjamin"
+        },
+        {
+            "weight": 4,
+            "source": "pickman-benjamin",
+            "target": "farnham-william"
+        },
+        {
+            "weight": 3,
+            "source": "greenleaf-hannah",
+            "target": "greenleaf-jane"
+        },
+        {
+            "weight": 3,
+            "source": "greenleaf-hannah",
+            "target": "greenleaf-mary5"
+        },
+        {
+            "weight": 3,
+            "source": "greenleaf-hannah",
+            "target": "greenleaf-sarah"
+        },
+        {
+            "weight": 3,
+            "source": "greenleaf-jane",
+            "target": "greenleaf-mary5"
+        },
+        {
+            "weight": 3,
+            "source": "greenleaf-jane",
+            "target": "greenleaf-sarah"
+        },
+        {
+            "weight": 3,
+            "source": "greenleaf-mary5",
+            "target": "greenleaf-sarah"
+        },
+        {
+            "weight": 4,
+            "source": "humphreys-david",
+            "target": "west-benjamin"
+        }
+    ]
+}
