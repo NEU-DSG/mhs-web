@@ -31,7 +31,7 @@ This site was originally built with pure HTML, and was later converted. To see t
 
 As mentioned above, this uses [11ty](https://www.11ty.dev/), docs for which can be found [here](https://www.11ty.dev/docs/). 
 
-Additionally, this repo uses a custom forked NPM package for the timeline chart, which can be found [here](https://github.com/NEU-DSG/mhs-network-graph). 
+Additionally, this repo uses a custom forked NPM package for the timeline chart, which can be found [here](https://github.com/ankudovychm/dsg-gtimeline). 
 
 ### If Running On Node 23 and Receiving a Pagination Error ###
 
