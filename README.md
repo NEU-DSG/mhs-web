@@ -25,7 +25,7 @@ This site was originally built with pure HTML, and was later converted. To see t
 
 1. **Fork of Bill Quinn's Lab Space.** Which can be accessed [here](https://github.com/ankudovychm/dsg-mhs).
 
-2. **MHS-web-outdated**. This holds a view of the site before being converted to a Static Site Generator, and can be accessed [here]([url](https://github.com/NEU-DSG/mhs-web-outdated)). 
+2. **MHS-web-outdated**. This holds a view of the site before being converted to a Static Site Generator, and can be accessed [here](https://github.com/NEU-DSG/mhs-web-outdated). 
 
 3. **This Repo.**
 
