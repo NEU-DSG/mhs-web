@@ -36,3 +36,7 @@ Additionally, this repo uses a custom forked NPM package for the timeline chart,
 ### If Running On Node 23 and Receiving a Pagination Error ###
 
 There was briefly a bug in 11ty that caused an error in how module exports were handled. However, it should be fixed, If you are stillr eceiving this error, you should be able to solve it by adding the logic presented in this [pull request](https://github.com/11ty/eleventy/pull/3519/files).
+
+### Github Actions ### 
+1. There are two Github actions in this file, which are used to deploy the site to the dev and deployment servers.
+2. There is another github action from another DSG-MHS repo, which adds in data to this site from being processed elsewhere.
