@@ -1,679 +1,679 @@
-Role,Name,Start,End
- • Society • ,Privacy,1831-01-02,1841-12-31
- • Society • ,Privacy,1860-01-02,1860-12-31
- • Society • ,Public Health,1834-01-02,1834-12-31
- • Society • ,Society,1831-01-02,1841-12-31
-Privacy,Privacy,1831-01-02,1841-12-31
-Privacy,Privacy,1860-01-02,1860-12-31
-Public Health,Public Health,1834-01-02,1834-12-31
- • Society • ,Society,1860-01-02,1860-12-31
- • Family • ,Family Relations (Taney Family),1818-01-02,1818-12-31
- • Family • ,Family Relations (Taney Family),1828-01-02,1828-12-31
- • Family • ,Family Relations (Taney Family),1833-01-02,1839-12-31
- • Family • ,Family Relations (Taney Family),1843-01-02,1843-12-31
- • Family • ,Family Relations (Taney Family),1845-01-02,1845-12-31
- • Family • ,Family Relations (Taney Family),1856-01-02,1856-12-31
- • Family • ,Family Relations (Taney Family),1860-01-02,1860-12-31
- • Family • ,Family Relations (Taney Family),1866-01-02,1866-12-31
- • Family • ,Family Residences (Taney Family),1831-01-02,1834-12-31
- • Family • ,Family Residences (Taney Family),1837-01-02,1837-12-31
- • Family • ,Family,1818-01-02,1818-12-31
-Family Relations (Taney Family),Family Relations (Taney Family),1818-01-02,1818-12-31
-Family Relations (Taney Family),Family Relations (Taney Family),1828-01-02,1828-12-31
-Family Relations (Taney Family),Family Relations (Taney Family),1833-01-02,1839-12-31
-Family Relations (Taney Family),Family Relations (Taney Family),1843-01-02,1843-12-31
-Family Relations (Taney Family),Family Relations (Taney Family),1845-01-02,1845-12-31
-Family Relations (Taney Family),Family Relations (Taney Family),1856-01-02,1856-12-31
-Family Relations (Taney Family),Family Relations (Taney Family),1860-01-02,1860-12-31
-Family Relations (Taney Family),Family Relations (Taney Family),1866-01-02,1866-12-31
-Family Residences (Taney Family),Family Residences (Taney Family),1831-01-02,1834-12-31
-Family Residences (Taney Family),Family Residences (Taney Family),1837-01-02,1837-12-31
- • Family • ,Family,1828-01-02,1828-12-31
- • Family • ,Family,1831-01-02,1839-12-31
- • Family • ,Family,1843-01-02,1843-12-31
- • Family • ,Family,1845-01-02,1845-12-31
- • Family • ,Family,1856-01-02,1856-12-31
- • Family • ,Family,1860-01-02,1860-12-31
- • Family • ,Family,1866-01-02,1866-12-31
- • Health • ,Health and Illness,1818-01-02,1818-12-31
- • Health • ,Health and Illness,1831-01-02,1832-12-31
- • Health • ,Health and Illness,1834-01-02,1841-12-31
- • Health • ,Health and Illness,1843-01-02,1844-12-31
- • Health • ,Health and Illness,1849-01-02,1849-12-31
- • Health • ,Health and Illness,1860-01-02,1860-12-31
- • Health • ,Recreation,1832-01-02,1833-12-31
- • Health • ,Recreation,1835-01-02,1835-12-31
- • Health • ,Recreation,1837-01-02,1837-12-31
- • Health • ,Recreation,1839-01-02,1839-12-31
- • Health • ,Recreation,1849-01-02,1849-12-31
- • Health • ,Health,1818-01-02,1818-12-31
-Health and Illness,Health and Illness,1818-01-02,1818-12-31
-Health and Illness,Health and Illness,1831-01-02,1832-12-31
-Health and Illness,Health and Illness,1834-01-02,1841-12-31
-Health and Illness,Health and Illness,1843-01-02,1844-12-31
-Health and Illness,Health and Illness,1849-01-02,1849-12-31
-Health and Illness,Health and Illness,1860-01-02,1860-12-31
-Recreation,Recreation,1832-01-02,1833-12-31
-Recreation,Recreation,1835-01-02,1835-12-31
-Recreation,Recreation,1837-01-02,1837-12-31
-Recreation,Recreation,1839-01-02,1839-12-31
-Recreation,Recreation,1849-01-02,1849-12-31
- • Health • ,Health,1831-01-02,1833-12-31
- • Health • ,Health,1834-01-02,1841-12-31
- • Health • ,Health,1843-01-02,1844-12-31
- • Health • ,Health,1849-01-02,1849-12-31
- • Health • ,Health,1860-01-02,1860-12-31
- • Government • ,Maryland Legislature,1818-01-02,1818-12-31
- • Government • ,Maryland Legislature,1836-01-02,1837-12-31
- • Government • ,Postal Service,1818-01-02,1818-12-31
- • Government • ,Postal Service,1831-01-02,1837-12-31
- • Government • ,Postal Service,1839-01-02,1840-12-31
- • Government • ,Patronage,1828-01-02,1828-12-31
- • Government • ,Patronage,1831-01-02,1838-12-31
- • Government • ,Patronage,1840-01-02,1841-12-31
- • Government • ,Patronage,1849-01-02,1849-12-31
- • Government • ,Patronage,1860-01-02,1860-12-31
- • Government • ,Attorney General,1831-01-02,1834-12-31
- • Government • ,Attorney General,1844-01-02,1844-12-31
- • Government • ,Bank War,1831-01-02,1841-12-31
- • Government • ,Bank War,1844-01-02,1844-12-31
- • Government • ,Bank War,1849-01-02,1849-12-31
- • Government • ,Bank War,1860-01-02,1860-12-31
- • Government • ,Bank War,1866-01-02,1866-12-31
- • Government • ,Cabinet,1831-01-02,1833-12-31
- • Government • ,Cabinet,1835-01-02,1835-12-31
- • Government • ,Cabinet,1837-01-02,1840-12-31
- • Government • ,Cabinet,1845-01-02,1845-12-31
- • Government • ,Cabinet,1849-01-02,1849-12-31
- • Government • ,Cabinet,1860-01-02,1860-12-31
- • Government • ,Maryland Judiciary,1831-01-02,1831-12-31
- • Government • ,Maryland Judiciary,1837-01-02,1837-12-31
- • Government • ,Maryland Judiciary,1856-01-02,1856-12-31
- • Government • ,Senate,1831-01-02,1837-12-31
- • Government • ,Senate,1840-01-02,1841-12-31
- • Government • ,Senate,1849-01-02,1849-12-31
- • Government • ,Senate,1860-01-02,1860-12-31
- • Government • ,War Department,1831-01-02,1833-12-31
- • Government • ,Congress,1832-01-02,1841-12-31
- • Government • ,Congress,1845-01-02,1845-12-31
- • Government • ,Congress,1849-01-02,1849-12-31
- • Government • ,Congress,1856-01-02,1856-12-31
- • Government • ,Congress,1860-01-02,1860-12-31
- • Government • ,Federalism,1832-01-02,1834-12-31
- • Government • ,Federalism,1836-01-02,1837-12-31
- • Government • ,Federalism,1841-01-02,1841-12-31
- • Government • ,House of Representatives,1832-01-02,1834-12-31
- • Government • ,House of Representatives,1836-01-02,1837-12-31
- • Government • ,House of Representatives,1840-01-02,1840-12-31
- • Government • ,House of Representatives,1849-01-02,1849-12-31
- • Government • ,President,1832-01-02,1834-12-31
- • Government • ,President,1836-01-02,1838-12-31
- • Government • ,President,1840-01-02,1841-12-31
- • Government • ,President,1845-01-02,1845-12-31
- • Government • ,President,1849-01-02,1849-12-31
- • Government • ,President,1860-01-02,1860-12-31
- • Government • ,Separation of Powers,1832-01-02,1834-12-31
- • Government • ,Separation of Powers,1836-01-02,1837-12-31
- • Government • ,Separation of Powers,1860-01-02,1860-12-31
- • Government • ,Territories,1832-01-02,1833-12-31
- • Government • ,Treasury Department,1832-01-02,1834-12-31
- • Government • ,Treasury Department,1836-01-02,1838-12-31
- • Government • ,Treasury Department,1840-01-02,1840-12-31
- • Government • ,US Constitution,1832-01-02,1834-12-31
- • Government • ,US Constitution,1836-01-02,1836-12-31
- • Government • ,US Constitution,1838-01-02,1838-12-31
- • Government • ,US Constitution,1841-01-02,1841-12-31
- • Government • ,US Constitution,1849-01-02,1849-12-31
- • Government • ,US Constitution,1860-01-02,1860-12-31
- • Government • ,Veto Power,1832-01-02,1832-12-31
- • Government • ,Veto Power,1834-01-02,1834-12-31
- • Government • ,Veto Power,1836-01-02,1836-12-31
- • Government • ,Veto Power,1860-01-02,1860-12-31
- • Government • ,Taxing Power,1836-01-02,1836-12-31
- • Government • ,States Rights,1841-01-02,1841-12-31
+Role,Name,Start,End,Count
+ • Government • ,Maryland Legislature,1818-01-02,1818-12-31,0
+ • Government • ,Maryland Legislature,1836-01-02,1837-12-31,0
+ • Government • ,Postal Service,1818-01-02,1818-12-31,0
+ • Government • ,Postal Service,1831-01-02,1837-12-31,0
+ • Government • ,Postal Service,1839-01-02,1840-12-31,0
+ • Government • ,Patronage,1828-01-02,1828-12-31,0
+ • Government • ,Patronage,1831-01-02,1838-12-31,0
+ • Government • ,Patronage,1840-01-02,1841-12-31,0
+ • Government • ,Patronage,1849-01-02,1849-12-31,0
+ • Government • ,Patronage,1860-01-02,1860-12-31,0
+ • Government • ,Attorney General,1831-01-02,1834-12-31,0
+ • Government • ,Attorney General,1844-01-02,1844-12-31,0
+ • Government • ,Bank War,1831-01-02,1841-12-31,0
+ • Government • ,Bank War,1844-01-02,1844-12-31,0
+ • Government • ,Bank War,1849-01-02,1849-12-31,0
+ • Government • ,Bank War,1860-01-02,1860-12-31,0
+ • Government • ,Bank War,1866-01-02,1866-12-31,0
+ • Government • ,Cabinet,1831-01-02,1833-12-31,0
+ • Government • ,Cabinet,1835-01-02,1835-12-31,0
+ • Government • ,Cabinet,1837-01-02,1840-12-31,0
+ • Government • ,Cabinet,1845-01-02,1845-12-31,0
+ • Government • ,Cabinet,1849-01-02,1849-12-31,0
+ • Government • ,Cabinet,1860-01-02,1860-12-31,0
+ • Government • ,Maryland Judiciary,1831-01-02,1831-12-31,0
+ • Government • ,Maryland Judiciary,1837-01-02,1837-12-31,0
+ • Government • ,Maryland Judiciary,1856-01-02,1856-12-31,0
+ • Government • ,Senate,1831-01-02,1837-12-31,0
+ • Government • ,Senate,1840-01-02,1841-12-31,0
+ • Government • ,Senate,1849-01-02,1849-12-31,0
+ • Government • ,Senate,1860-01-02,1860-12-31,0
+ • Government • ,War Department,1831-01-02,1833-12-31,0
+ • Government • ,Congress,1832-01-02,1841-12-31,0
+ • Government • ,Congress,1845-01-02,1845-12-31,0
+ • Government • ,Congress,1849-01-02,1849-12-31,0
+ • Government • ,Congress,1856-01-02,1856-12-31,0
+ • Government • ,Congress,1860-01-02,1860-12-31,0
+ • Government • ,Federalism,1832-01-02,1834-12-31,0
+ • Government • ,Federalism,1836-01-02,1837-12-31,0
+ • Government • ,Federalism,1841-01-02,1841-12-31,0
+ • Government • ,House of Representatives,1832-01-02,1834-12-31,0
+ • Government • ,House of Representatives,1836-01-02,1837-12-31,0
+ • Government • ,House of Representatives,1840-01-02,1840-12-31,0
+ • Government • ,House of Representatives,1849-01-02,1849-12-31,0
+ • Government • ,President,1832-01-02,1834-12-31,0
+ • Government • ,President,1836-01-02,1838-12-31,0
+ • Government • ,President,1840-01-02,1841-12-31,0
+ • Government • ,President,1845-01-02,1845-12-31,0
+ • Government • ,President,1849-01-02,1849-12-31,0
+ • Government • ,President,1860-01-02,1860-12-31,0
+ • Government • ,Separation of Powers,1832-01-02,1834-12-31,0
+ • Government • ,Separation of Powers,1836-01-02,1837-12-31,0
+ • Government • ,Separation of Powers,1860-01-02,1860-12-31,0
+ • Government • ,Territories,1832-01-02,1833-12-31,0
+ • Government • ,Treasury Department,1832-01-02,1834-12-31,0
+ • Government • ,Treasury Department,1836-01-02,1838-12-31,0
+ • Government • ,Treasury Department,1840-01-02,1840-12-31,0
+ • Government • ,US Constitution,1832-01-02,1834-12-31,0
+ • Government • ,US Constitution,1836-01-02,1836-12-31,0
+ • Government • ,US Constitution,1838-01-02,1838-12-31,0
+ • Government • ,US Constitution,1841-01-02,1841-12-31,0
+ • Government • ,US Constitution,1849-01-02,1849-12-31,0
+ • Government • ,US Constitution,1860-01-02,1860-12-31,0
+ • Government • ,Veto Power,1832-01-02,1832-12-31,0
+ • Government • ,Veto Power,1834-01-02,1834-12-31,0
+ • Government • ,Veto Power,1836-01-02,1836-12-31,0
+ • Government • ,Veto Power,1860-01-02,1860-12-31,0
+ • Government • ,Taxing Power,1836-01-02,1836-12-31,0
+ • Government • ,States Rights,1841-01-02,1841-12-31,0
  • Government • ,Government,1818-01-02,1818-12-31
-Maryland Legislature,Maryland Legislature,1818-01-02,1818-12-31
-Maryland Legislature,Maryland Legislature,1836-01-02,1837-12-31
-Postal Service,Postal Service,1818-01-02,1818-12-31
-Postal Service,Postal Service,1831-01-02,1837-12-31
-Postal Service,Postal Service,1839-01-02,1840-12-31
-Patronage,Patronage,1828-01-02,1828-12-31
-Patronage,Patronage,1831-01-02,1838-12-31
-Patronage,Patronage,1840-01-02,1841-12-31
-Patronage,Patronage,1849-01-02,1849-12-31
-Patronage,Patronage,1860-01-02,1860-12-31
-Attorney General,Attorney General,1831-01-02,1834-12-31
-Attorney General,Attorney General,1844-01-02,1844-12-31
-Bank War,Bank War,1831-01-02,1841-12-31
-Bank War,Bank War,1844-01-02,1844-12-31
-Bank War,Bank War,1849-01-02,1849-12-31
-Bank War,Bank War,1860-01-02,1860-12-31
-Bank War,Bank War,1866-01-02,1866-12-31
-Cabinet,Cabinet,1831-01-02,1833-12-31
-Cabinet,Cabinet,1835-01-02,1835-12-31
-Cabinet,Cabinet,1837-01-02,1840-12-31
-Cabinet,Cabinet,1845-01-02,1845-12-31
-Cabinet,Cabinet,1849-01-02,1849-12-31
-Cabinet,Cabinet,1860-01-02,1860-12-31
-Maryland Judiciary,Maryland Judiciary,1831-01-02,1831-12-31
-Maryland Judiciary,Maryland Judiciary,1837-01-02,1837-12-31
-Maryland Judiciary,Maryland Judiciary,1856-01-02,1856-12-31
-Senate,Senate,1831-01-02,1837-12-31
-Senate,Senate,1840-01-02,1841-12-31
-Senate,Senate,1849-01-02,1849-12-31
-Senate,Senate,1860-01-02,1860-12-31
-War Department,War Department,1831-01-02,1833-12-31
-Congress,Congress,1832-01-02,1841-12-31
-Congress,Congress,1845-01-02,1845-12-31
-Congress,Congress,1849-01-02,1849-12-31
-Congress,Congress,1856-01-02,1856-12-31
-Congress,Congress,1860-01-02,1860-12-31
-Federalism,Federalism,1832-01-02,1834-12-31
-Federalism,Federalism,1836-01-02,1837-12-31
-Federalism,Federalism,1841-01-02,1841-12-31
-House of Representatives,House of Representatives,1832-01-02,1834-12-31
-House of Representatives,House of Representatives,1836-01-02,1837-12-31
-House of Representatives,House of Representatives,1840-01-02,1840-12-31
-House of Representatives,House of Representatives,1849-01-02,1849-12-31
-President,President,1832-01-02,1834-12-31
-President,President,1836-01-02,1838-12-31
-President,President,1840-01-02,1841-12-31
-President,President,1845-01-02,1845-12-31
-President,President,1849-01-02,1849-12-31
-President,President,1860-01-02,1860-12-31
-Separation of Powers,Separation of Powers,1832-01-02,1834-12-31
-Separation of Powers,Separation of Powers,1836-01-02,1837-12-31
-Separation of Powers,Separation of Powers,1860-01-02,1860-12-31
-Territories,Territories,1832-01-02,1833-12-31
-Treasury Department,Treasury Department,1832-01-02,1834-12-31
-Treasury Department,Treasury Department,1836-01-02,1838-12-31
-Treasury Department,Treasury Department,1840-01-02,1840-12-31
-US Constitution,US Constitution,1832-01-02,1834-12-31
-US Constitution,US Constitution,1836-01-02,1836-12-31
-US Constitution,US Constitution,1838-01-02,1838-12-31
-US Constitution,US Constitution,1841-01-02,1841-12-31
-US Constitution,US Constitution,1849-01-02,1849-12-31
-US Constitution,US Constitution,1860-01-02,1860-12-31
-Veto Power,Veto Power,1832-01-02,1832-12-31
-Veto Power,Veto Power,1834-01-02,1834-12-31
-Veto Power,Veto Power,1836-01-02,1836-12-31
-Veto Power,Veto Power,1860-01-02,1860-12-31
-Taxing Power,Taxing Power,1836-01-02,1836-12-31
-States Rights,States Rights,1841-01-02,1841-12-31
- • Government • ,Government,1828-01-02,1828-12-31
- • Government • ,Government,1831-01-02,1841-12-31
- • Government • ,Government,1844-01-02,1844-12-31
- • Government • ,Government,1845-01-02,1845-12-31
- • Government • ,Government,1849-01-02,1849-12-31
- • Government • ,Government,1856-01-02,1856-12-31
- • Government • ,Government,1860-01-02,1860-12-31
- • Government • ,Government,1866-01-02,1866-12-31
- • Science and Technology • ,Patents,1833-01-02,1833-12-31
- • Science and Technology • ,"Topic, Science and Technology",1833-01-02,1833-12-31
- • Science and Technology • ,Science and Technology,1833-01-02,1833-12-31
-Patents,Patents,1833-01-02,1833-12-31
-"Topic, Science and Technology","Topic, Science and Technology",1833-01-02,1833-12-31
- • Travel and Transportation • ,"Travel and Touring, US",1832-01-02,1840-12-31
- • Travel and Transportation • ,"Travel and Touring, US",1844-01-02,1844-12-31
- • Travel and Transportation • ,"Travel and Touring, US",1849-01-02,1849-12-31
- • Travel and Transportation • ,Railroads,1833-01-02,1834-12-31
- • Travel and Transportation • ,Railroads,1849-01-02,1849-12-31
- • Travel and Transportation • ,Travel and Transportation,1832-01-02,1840-12-31
-"Travel and Touring, US","Travel and Touring, US",1832-01-02,1840-12-31
-"Travel and Touring, US","Travel and Touring, US",1844-01-02,1844-12-31
-"Travel and Touring, US","Travel and Touring, US",1849-01-02,1849-12-31
-Railroads,Railroads,1833-01-02,1834-12-31
-Railroads,Railroads,1849-01-02,1849-12-31
- • Travel and Transportation • ,Travel and Transportation,1844-01-02,1844-12-31
- • Travel and Transportation • ,Travel and Transportation,1849-01-02,1849-12-31
- • Slavery and Enslaved Persons • ,"Topic, Slavery and Enslaved Persons",1832-01-02,1832-12-31
- • Slavery and Enslaved Persons • ,Texas Annexation,1844-01-02,1844-12-31
- • Slavery and Enslaved Persons • ,Slavery and Enslaved Persons,1832-01-02,1832-12-31
-"Topic, Slavery and Enslaved Persons","Topic, Slavery and Enslaved Persons",1832-01-02,1832-12-31
-Texas Annexation,Texas Annexation,1844-01-02,1844-12-31
- • Slavery and Enslaved Persons • ,Slavery and Enslaved Persons,1844-01-02,1844-12-31
- • Economics • ,Family Finances (Taney Family),1825-01-02,1825-12-31
- • Economics • ,Family Finances (Taney Family),1831-01-02,1834-12-31
- • Economics • ,Family Finances (Taney Family),1837-01-02,1837-12-31
- • Economics • ,Bank of the United States,1829-01-02,1829-12-31
- • Economics • ,Bank of the United States,1831-01-02,1841-12-31
- • Economics • ,Bank of the United States,1843-01-02,1844-12-31
- • Economics • ,Bank of the United States,1849-01-02,1849-12-31
- • Economics • ,Bank of the United States,1860-01-02,1860-12-31
- • Economics • ,Bank of the United States,1866-01-02,1866-12-31
- • Economics • ,Bank Veto,1831-01-02,1834-12-31
- • Economics • ,Bank Veto,1849-01-02,1849-12-31
- • Economics • ,Bank Veto,1860-01-02,1860-12-31
- • Economics • ,"Banks, Pet",1831-01-02,1838-12-31
- • Economics • ,"Banks, Pet",1849-01-02,1849-12-31
- • Economics • ,"Banks, Pet",1866-01-02,1866-12-31
- • Economics • ,Contracts,1831-01-02,1834-12-31
- • Economics • ,Contracts,1836-01-02,1836-12-31
- • Economics • ,Corporations,1832-01-02,1838-12-31
- • Economics • ,Currency,1832-01-02,1839-12-31
- • Economics • ,Currency,1841-01-02,1841-12-31
- • Economics • ,Currency,1843-01-02,1843-12-31
- • Economics • ,Currency,1849-01-02,1849-12-31
- • Economics • ,Currency,1860-01-02,1860-12-31
- • Economics • ,Economic Theory,1832-01-02,1837-12-31
- • Economics • ,Economic Theory,1839-01-02,1839-12-31
- • Economics • ,Internal Improvements,1832-01-02,1834-12-31
- • Economics • ,Merchants,1832-01-02,1834-12-31
- • Economics • ,Merchants,1836-01-02,1839-12-31
- • Economics • ,Merchants,1849-01-02,1849-12-31
- • Economics • ,Merchants,1860-01-02,1860-12-31
- • Economics • ,Tariff of 1832,1832-01-02,1833-12-31
- • Economics • ,Bank Failures,1833-01-02,1837-12-31
- • Economics • ,Removal of Deposits,1833-01-02,1834-12-31
- • Economics • ,Removal of Deposits,1836-01-02,1837-12-31
- • Economics • ,Removal of Deposits,1840-01-02,1841-12-31
- • Economics • ,Removal of Deposits,1849-01-02,1849-12-31
- • Economics • ,Removal of Deposits,1860-01-02,1860-12-31
- • Economics • ,Tariff of 1828,1833-01-02,1833-12-31
- • Economics • ,Tariff of 1833,1833-01-02,1833-12-31
- • Economics • ,Transfer Drafts,1833-01-02,1835-12-31
- • Economics • ,Financial Panics,1834-01-02,1834-12-31
- • Economics • ,Financial Panics,1836-01-02,1836-12-31
- • Economics • ,Financial Panics,1860-01-02,1860-12-31
- • Economics • ,Tariffs,1834-01-02,1834-12-31
- • Economics • ,Specie Circular,1836-01-02,1837-12-31
- • Economics • ,Panic of 1837,1837-01-02,1838-12-31
- • Economics • ,Panic of 1837,1841-01-02,1841-12-31
- • Economics • ,Independent Treasury,1841-01-02,1841-12-31
- • Economics • ,Embargo,1849-01-02,1849-12-31
- • Economics • ,Economics,1825-01-02,1825-12-31
-Family Finances (Taney Family),Family Finances (Taney Family),1825-01-02,1825-12-31
-Family Finances (Taney Family),Family Finances (Taney Family),1831-01-02,1834-12-31
-Family Finances (Taney Family),Family Finances (Taney Family),1837-01-02,1837-12-31
-Bank of the United States,Bank of the United States,1829-01-02,1829-12-31
-Bank of the United States,Bank of the United States,1831-01-02,1841-12-31
-Bank of the United States,Bank of the United States,1843-01-02,1844-12-31
-Bank of the United States,Bank of the United States,1849-01-02,1849-12-31
-Bank of the United States,Bank of the United States,1860-01-02,1860-12-31
-Bank of the United States,Bank of the United States,1866-01-02,1866-12-31
-Bank Veto,Bank Veto,1831-01-02,1834-12-31
-Bank Veto,Bank Veto,1849-01-02,1849-12-31
-Bank Veto,Bank Veto,1860-01-02,1860-12-31
-"Banks, Pet","Banks, Pet",1831-01-02,1838-12-31
-"Banks, Pet","Banks, Pet",1849-01-02,1849-12-31
-"Banks, Pet","Banks, Pet",1866-01-02,1866-12-31
-Contracts,Contracts,1831-01-02,1834-12-31
-Contracts,Contracts,1836-01-02,1836-12-31
-Corporations,Corporations,1832-01-02,1838-12-31
-Currency,Currency,1832-01-02,1839-12-31
-Currency,Currency,1841-01-02,1841-12-31
-Currency,Currency,1843-01-02,1843-12-31
-Currency,Currency,1849-01-02,1849-12-31
-Currency,Currency,1860-01-02,1860-12-31
-Economic Theory,Economic Theory,1832-01-02,1837-12-31
-Economic Theory,Economic Theory,1839-01-02,1839-12-31
-Internal Improvements,Internal Improvements,1832-01-02,1834-12-31
-Merchants,Merchants,1832-01-02,1834-12-31
-Merchants,Merchants,1836-01-02,1839-12-31
-Merchants,Merchants,1849-01-02,1849-12-31
-Merchants,Merchants,1860-01-02,1860-12-31
-Tariff of 1832,Tariff of 1832,1832-01-02,1833-12-31
-Bank Failures,Bank Failures,1833-01-02,1837-12-31
-Removal of Deposits,Removal of Deposits,1833-01-02,1834-12-31
-Removal of Deposits,Removal of Deposits,1836-01-02,1837-12-31
-Removal of Deposits,Removal of Deposits,1840-01-02,1841-12-31
-Removal of Deposits,Removal of Deposits,1849-01-02,1849-12-31
-Removal of Deposits,Removal of Deposits,1860-01-02,1860-12-31
-Tariff of 1828,Tariff of 1828,1833-01-02,1833-12-31
-Tariff of 1833,Tariff of 1833,1833-01-02,1833-12-31
-Transfer Drafts,Transfer Drafts,1833-01-02,1835-12-31
-Financial Panics,Financial Panics,1834-01-02,1834-12-31
-Financial Panics,Financial Panics,1836-01-02,1836-12-31
-Financial Panics,Financial Panics,1860-01-02,1860-12-31
-Tariffs,Tariffs,1834-01-02,1834-12-31
-Specie Circular,Specie Circular,1836-01-02,1837-12-31
-Panic of 1837,Panic of 1837,1837-01-02,1838-12-31
-Panic of 1837,Panic of 1837,1841-01-02,1841-12-31
-Independent Treasury,Independent Treasury,1841-01-02,1841-12-31
-Embargo,Embargo,1849-01-02,1849-12-31
- • Economics • ,Economics,1829-01-02,1829-12-31
- • Economics • ,Economics,1831-01-02,1841-12-31
- • Economics • ,Economics,1843-01-02,1844-12-31
- • Economics • ,Economics,1849-01-02,1849-12-31
- • Economics • ,Economics,1860-01-02,1860-12-31
- • Economics • ,Economics,1866-01-02,1866-12-31
- • Uncategorized • ,Popular Will,1831-01-02,1839-12-31
- • Uncategorized • ,Popular Will,1841-01-02,1841-12-31
- • Uncategorized • ,Popular Will,1844-01-02,1844-12-31
- • Uncategorized • ,Popular Will,1849-01-02,1849-12-31
- • Uncategorized • ,Federal Courts,1832-01-02,1833-12-31
- • Uncategorized • ,Federal Courts,1836-01-02,1836-12-31
- • Uncategorized • ,Federal Courts,1845-01-02,1845-12-31
- • Uncategorized • ,Navy,1832-01-02,1834-12-31
- • Uncategorized • ,Navy,1836-01-02,1836-12-31
- • Uncategorized • ,Statutory Interpretation,1832-01-02,1834-12-31
- • Uncategorized • ,Statutory Interpretation,1836-01-02,1836-12-31
- • Uncategorized • ,Army,1833-01-02,1834-12-31
- • Uncategorized • ,Army,1836-01-02,1836-12-31
- • Uncategorized • ,Presidency,1833-01-02,1833-12-31
- • Uncategorized • ,Presidency,1860-01-02,1860-12-31
- • Uncategorized • ,Public Debt,1833-01-02,1833-12-31
- • Uncategorized • ,Public Debt,1836-01-02,1836-12-31
- • Uncategorized • ,Public Debt,1849-01-02,1849-12-31
- • Uncategorized • ,Public Memory,1833-01-02,1833-12-31
- • Uncategorized • ,Public Memory,1835-01-02,1836-12-31
- • Uncategorized • ,Public Memory,1840-01-02,1840-12-31
- • Uncategorized • ,Public Memory,1843-01-02,1843-12-31
- • Uncategorized • ,Public Memory,1856-01-02,1856-12-31
- • Uncategorized • ,Public Memory,1860-01-02,1860-12-31
- • Uncategorized • ,U.S. Constitution,1833-01-02,1833-12-31
- • Uncategorized • ,Tranfer Drafts,1834-01-02,1834-12-31
- • Uncategorized • ,Public Disturbances,1835-01-02,1836-12-31
- • Uncategorized • ,Equality,1836-01-02,1836-12-31
- • Uncategorized • ,Juries,1837-01-02,1837-12-31
- • Uncategorized • ,Slavery,1837-01-02,1837-12-31
- • Uncategorized • ,Taney Family Residences,1838-01-02,1838-12-31
- • Uncategorized • ,Uncategorized,1831-01-02,1839-12-31
-Popular Will,Popular Will,1831-01-02,1839-12-31
-Popular Will,Popular Will,1841-01-02,1841-12-31
-Popular Will,Popular Will,1844-01-02,1844-12-31
-Popular Will,Popular Will,1849-01-02,1849-12-31
-Federal Courts,Federal Courts,1832-01-02,1833-12-31
-Federal Courts,Federal Courts,1836-01-02,1836-12-31
-Federal Courts,Federal Courts,1845-01-02,1845-12-31
-Navy,Navy,1832-01-02,1834-12-31
-Navy,Navy,1836-01-02,1836-12-31
-Statutory Interpretation,Statutory Interpretation,1832-01-02,1834-12-31
-Statutory Interpretation,Statutory Interpretation,1836-01-02,1836-12-31
-Army,Army,1833-01-02,1834-12-31
-Army,Army,1836-01-02,1836-12-31
-Presidency,Presidency,1833-01-02,1833-12-31
-Presidency,Presidency,1860-01-02,1860-12-31
-Public Debt,Public Debt,1833-01-02,1833-12-31
-Public Debt,Public Debt,1836-01-02,1836-12-31
-Public Debt,Public Debt,1849-01-02,1849-12-31
-Public Memory,Public Memory,1833-01-02,1833-12-31
-Public Memory,Public Memory,1835-01-02,1836-12-31
-Public Memory,Public Memory,1840-01-02,1840-12-31
-Public Memory,Public Memory,1843-01-02,1843-12-31
-Public Memory,Public Memory,1856-01-02,1856-12-31
-Public Memory,Public Memory,1860-01-02,1860-12-31
-U.S. Constitution,U.S. Constitution,1833-01-02,1833-12-31
-Tranfer Drafts,Tranfer Drafts,1834-01-02,1834-12-31
-Public Disturbances,Public Disturbances,1835-01-02,1836-12-31
-Equality,Equality,1836-01-02,1836-12-31
-Juries,Juries,1837-01-02,1837-12-31
-Slavery,Slavery,1837-01-02,1837-12-31
-Taney Family Residences,Taney Family Residences,1838-01-02,1838-12-31
- • Uncategorized • ,Uncategorized,1840-01-02,1840-12-31
- • Uncategorized • ,Uncategorized,1841-01-02,1841-12-31
- • Uncategorized • ,Uncategorized,1843-01-02,1843-12-31
- • Uncategorized • ,Uncategorized,1844-01-02,1844-12-31
- • Uncategorized • ,Uncategorized,1845-01-02,1845-12-31
- • Uncategorized • ,Uncategorized,1849-01-02,1849-12-31
- • Uncategorized • ,Uncategorized,1856-01-02,1856-12-31
- • Uncategorized • ,Uncategorized,1860-01-02,1860-12-31
- • Politics • ,Corruption,1832-01-02,1834-12-31
- • Politics • ,Corruption,1849-01-02,1849-12-31
- • Politics • ,Corruption,1860-01-02,1860-12-31
- • Politics • ,Delegation,1832-01-02,1834-12-31
- • Politics • ,Political Partisanship,1832-01-02,1837-12-31
- • Politics • ,Political Partisanship,1839-01-02,1839-12-31
- • Politics • ,Political Partisanship,1841-01-02,1841-12-31
- • Politics • ,Political Partisanship,1843-01-02,1844-12-31
- • Politics • ,Political Partisanship,1849-01-02,1849-12-31
- • Politics • ,Political Partisanship,1860-01-02,1860-12-31
- • Politics • ,Political Philosophy,1833-01-02,1833-12-31
- • Politics • ,Political Philosophy,1835-01-02,1835-12-31
- • Politics • ,Political Philosophy,1838-01-02,1838-12-31
- • Politics • ,Political Philosophy,1849-01-02,1849-12-31
- • Politics • ,Political Violence,1833-01-02,1833-12-31
- • Politics • ,Political Violence,1835-01-02,1835-12-31
- • Politics • ,Veterans,1833-01-02,1833-12-31
- • Politics • ,Veterans,1837-01-02,1837-12-31
- • Politics • ,Censure,1834-01-02,1837-12-31
- • Politics • ,Censure,1840-01-02,1840-12-31
- • Politics • ,Supreme Court Nominations,1835-01-02,1836-12-31
- • Politics • ,Supreme Court Nominations,1845-01-02,1845-12-31
- • Politics • ,Politics,1832-01-02,1837-12-31
-Corruption,Corruption,1832-01-02,1834-12-31
-Corruption,Corruption,1849-01-02,1849-12-31
-Corruption,Corruption,1860-01-02,1860-12-31
-Delegation,Delegation,1832-01-02,1834-12-31
-Political Partisanship,Political Partisanship,1832-01-02,1837-12-31
-Political Partisanship,Political Partisanship,1839-01-02,1839-12-31
-Political Partisanship,Political Partisanship,1841-01-02,1841-12-31
-Political Partisanship,Political Partisanship,1843-01-02,1844-12-31
-Political Partisanship,Political Partisanship,1849-01-02,1849-12-31
-Political Partisanship,Political Partisanship,1860-01-02,1860-12-31
-Political Philosophy,Political Philosophy,1833-01-02,1833-12-31
-Political Philosophy,Political Philosophy,1835-01-02,1835-12-31
-Political Philosophy,Political Philosophy,1838-01-02,1838-12-31
-Political Philosophy,Political Philosophy,1849-01-02,1849-12-31
-Political Violence,Political Violence,1833-01-02,1833-12-31
-Political Violence,Political Violence,1835-01-02,1835-12-31
-Veterans,Veterans,1833-01-02,1833-12-31
-Veterans,Veterans,1837-01-02,1837-12-31
-Censure,Censure,1834-01-02,1837-12-31
-Censure,Censure,1840-01-02,1840-12-31
-Supreme Court Nominations,Supreme Court Nominations,1835-01-02,1836-12-31
-Supreme Court Nominations,Supreme Court Nominations,1845-01-02,1845-12-31
- • Politics • ,Politics,1838-01-02,1838-12-31
- • Politics • ,Politics,1839-01-02,1839-12-31
- • Politics • ,Politics,1840-01-02,1840-12-31
- • Politics • ,Politics,1841-01-02,1841-12-31
- • Politics • ,Politics,1843-01-02,1844-12-31
- • Politics • ,Politics,1845-01-02,1845-12-31
- • Politics • ,Politics,1849-01-02,1849-12-31
- • Politics • ,Politics,1860-01-02,1860-12-31
- • Elections • ,"Elections, Presidential",1831-01-02,1836-12-31
- • Elections • ,"Elections, Presidential",1838-01-02,1838-12-31
- • Elections • ,"Elections, Presidential",1841-01-02,1841-12-31
- • Elections • ,"Elections, Presidential",1844-01-02,1844-12-31
- • Elections • ,"Elections, Presidential",1849-01-02,1849-12-31
- • Elections • ,"Elections, State and Local",1832-01-02,1839-12-31
- • Elections • ,"Elections, State and Local",1841-01-02,1841-12-31
- • Elections • ,"Elections, Congressional",1833-01-02,1835-12-31
- • Elections • ,"Elections, Congressional",1838-01-02,1839-12-31
- • Elections • ,"Elections, Congressional",1841-01-02,1841-12-31
- • Elections • ,Elections,1831-01-02,1839-12-31
-"Elections, Presidential","Elections, Presidential",1831-01-02,1836-12-31
-"Elections, Presidential","Elections, Presidential",1838-01-02,1838-12-31
-"Elections, Presidential","Elections, Presidential",1841-01-02,1841-12-31
-"Elections, Presidential","Elections, Presidential",1844-01-02,1844-12-31
-"Elections, Presidential","Elections, Presidential",1849-01-02,1849-12-31
-"Elections, State and Local","Elections, State and Local",1832-01-02,1839-12-31
-"Elections, State and Local","Elections, State and Local",1841-01-02,1841-12-31
-"Elections, Congressional","Elections, Congressional",1833-01-02,1835-12-31
-"Elections, Congressional","Elections, Congressional",1838-01-02,1839-12-31
-"Elections, Congressional","Elections, Congressional",1841-01-02,1841-12-31
- • Elections • ,Elections,1841-01-02,1841-12-31
- • Elections • ,Elections,1844-01-02,1844-12-31
- • Elections • ,Elections,1849-01-02,1849-12-31
- • Political Groups • ,Democratic Party,1828-01-02,1828-12-31
- • Political Groups • ,Democratic Party,1831-01-02,1839-12-31
- • Political Groups • ,Democratic Party,1844-01-02,1844-12-31
- • Political Groups • ,Democratic Party,1849-01-02,1849-12-31
- • Political Groups • ,Whig Party,1831-01-02,1832-12-31
- • Political Groups • ,Whig Party,1834-01-02,1841-12-31
- • Political Groups • ,Whig Party,1849-01-02,1849-12-31
- • Political Groups • ,Union,1833-01-02,1833-12-31
- • Political Groups • ,Union,1841-01-02,1841-12-31
- • Political Groups • ,Federalist Party,1838-01-02,1838-12-31
- • Political Groups • ,Federalist Party,1849-01-02,1849-12-31
- • Political Groups • ,Hartford Convention,1849-01-02,1849-12-31
- • Political Groups • ,Political Groups,1828-01-02,1828-12-31
-Democratic Party,Democratic Party,1828-01-02,1828-12-31
-Democratic Party,Democratic Party,1831-01-02,1839-12-31
-Democratic Party,Democratic Party,1844-01-02,1844-12-31
-Democratic Party,Democratic Party,1849-01-02,1849-12-31
-Whig Party,Whig Party,1831-01-02,1832-12-31
-Whig Party,Whig Party,1834-01-02,1841-12-31
-Whig Party,Whig Party,1849-01-02,1849-12-31
-Union,Union,1833-01-02,1833-12-31
-Union,Union,1841-01-02,1841-12-31
-Federalist Party,Federalist Party,1838-01-02,1838-12-31
-Federalist Party,Federalist Party,1849-01-02,1849-12-31
-Hartford Convention,Hartford Convention,1849-01-02,1849-12-31
- • Political Groups • ,Political Groups,1831-01-02,1841-12-31
- • Political Groups • ,Political Groups,1844-01-02,1844-12-31
- • Political Groups • ,Political Groups,1849-01-02,1849-12-31
- • Publications and Press • ,Press,1831-01-02,1841-12-31
- • Publications and Press • ,Press,1843-01-02,1843-12-31
- • Publications and Press • ,Press,1849-01-02,1849-12-31
- • Publications and Press • ,Publications and Press,1831-01-02,1841-12-31
-Press,Press,1831-01-02,1841-12-31
-Press,Press,1843-01-02,1843-12-31
-Press,Press,1849-01-02,1849-12-31
- • Publications and Press • ,Publications and Press,1843-01-02,1843-12-31
- • Publications and Press • ,Publications and Press,1849-01-02,1849-12-31
- • African Americans • ,"Topic, African Americans",1832-01-02,1832-12-31
- • African Americans • ,African Americans,1832-01-02,1832-12-31
-"Topic, African Americans","Topic, African Americans",1832-01-02,1832-12-31
- • Wars and Revolutions • ,War of 1812,1832-01-02,1834-12-31
- • Wars and Revolutions • ,War of 1812,1837-01-02,1838-12-31
- • Wars and Revolutions • ,War of 1812,1843-01-02,1843-12-31
- • Wars and Revolutions • ,War of 1812,1849-01-02,1849-12-31
- • Wars and Revolutions • ,War of 1812,1856-01-02,1856-12-31
- • Wars and Revolutions • ,American Revolution,1834-01-02,1834-12-31
+Maryland Legislature,Maryland Legislature,1818-01-02,1818-12-31,1
+Maryland Legislature,Maryland Legislature,1836-01-02,1837-12-31,8
+Postal Service,Postal Service,1818-01-02,1818-12-31,1
+Postal Service,Postal Service,1831-01-02,1837-12-31,18
+Postal Service,Postal Service,1839-01-02,1840-12-31,2
+Patronage,Patronage,1828-01-02,1828-12-31,1
+Patronage,Patronage,1831-01-02,1838-12-31,50
+Patronage,Patronage,1840-01-02,1841-12-31,2
+Patronage,Patronage,1849-01-02,1849-12-31,1
+Patronage,Patronage,1860-01-02,1860-12-31,1
+Attorney General,Attorney General,1831-01-02,1834-12-31,41
+Attorney General,Attorney General,1844-01-02,1844-12-31,1
+Bank War,Bank War,1831-01-02,1841-12-31,121
+Bank War,Bank War,1844-01-02,1844-12-31,1
+Bank War,Bank War,1849-01-02,1849-12-31,1
+Bank War,Bank War,1860-01-02,1860-12-31,4
+Bank War,Bank War,1866-01-02,1866-12-31,1
+Cabinet,Cabinet,1831-01-02,1833-12-31,21
+Cabinet,Cabinet,1835-01-02,1835-12-31,1
+Cabinet,Cabinet,1837-01-02,1840-12-31,4
+Cabinet,Cabinet,1845-01-02,1845-12-31,1
+Cabinet,Cabinet,1849-01-02,1849-12-31,1
+Cabinet,Cabinet,1860-01-02,1860-12-31,3
+Maryland Judiciary,Maryland Judiciary,1831-01-02,1831-12-31,1
+Maryland Judiciary,Maryland Judiciary,1837-01-02,1837-12-31,1
+Maryland Judiciary,Maryland Judiciary,1856-01-02,1856-12-31,1
+Senate,Senate,1831-01-02,1837-12-31,36
+Senate,Senate,1840-01-02,1841-12-31,2
+Senate,Senate,1849-01-02,1849-12-31,1
+Senate,Senate,1860-01-02,1860-12-31,1
+War Department,War Department,1831-01-02,1833-12-31,8
+Congress,Congress,1832-01-02,1841-12-31,73
+Congress,Congress,1845-01-02,1845-12-31,1
+Congress,Congress,1849-01-02,1849-12-31,1
+Congress,Congress,1856-01-02,1856-12-31,1
+Congress,Congress,1860-01-02,1860-12-31,3
+Federalism,Federalism,1832-01-02,1834-12-31,12
+Federalism,Federalism,1836-01-02,1837-12-31,2
+Federalism,Federalism,1841-01-02,1841-12-31,1
+House of Representatives,House of Representatives,1832-01-02,1834-12-31,26
+House of Representatives,House of Representatives,1836-01-02,1837-12-31,9
+House of Representatives,House of Representatives,1840-01-02,1840-12-31,1
+House of Representatives,House of Representatives,1849-01-02,1849-12-31,1
+President,President,1832-01-02,1834-12-31,16
+President,President,1836-01-02,1838-12-31,4
+President,President,1840-01-02,1841-12-31,2
+President,President,1845-01-02,1845-12-31,1
+President,President,1849-01-02,1849-12-31,1
+President,President,1860-01-02,1860-12-31,1
+Separation of Powers,Separation of Powers,1832-01-02,1834-12-31,10
+Separation of Powers,Separation of Powers,1836-01-02,1837-12-31,6
+Separation of Powers,Separation of Powers,1860-01-02,1860-12-31,2
+Territories,Territories,1832-01-02,1833-12-31,9
+Treasury Department,Treasury Department,1832-01-02,1834-12-31,158
+Treasury Department,Treasury Department,1836-01-02,1838-12-31,7
+Treasury Department,Treasury Department,1840-01-02,1840-12-31,1
+US Constitution,US Constitution,1832-01-02,1834-12-31,7
+US Constitution,US Constitution,1836-01-02,1836-12-31,2
+US Constitution,US Constitution,1838-01-02,1838-12-31,1
+US Constitution,US Constitution,1841-01-02,1841-12-31,1
+US Constitution,US Constitution,1849-01-02,1849-12-31,1
+US Constitution,US Constitution,1860-01-02,1860-12-31,1
+Veto Power,Veto Power,1832-01-02,1832-12-31,2
+Veto Power,Veto Power,1834-01-02,1834-12-31,1
+Veto Power,Veto Power,1836-01-02,1836-12-31,1
+Veto Power,Veto Power,1860-01-02,1860-12-31,1
+Taxing Power,Taxing Power,1836-01-02,1836-12-31,2
+States Rights,States Rights,1841-01-02,1841-12-31,1
+ • Government • ,Government,1828-01-02,1828-12-31,1
+ • Government • ,Government,1831-01-02,1841-12-31,855
+ • Government • ,Government,1844-01-02,1844-12-31,3
+ • Government • ,Government,1845-01-02,1845-12-31,3
+ • Government • ,Government,1849-01-02,1849-12-31,9
+ • Government • ,Government,1856-01-02,1856-12-31,2
+ • Government • ,Government,1860-01-02,1860-12-31,22
+ • Government • ,Government,1866-01-02,1866-12-31,2
+ • Health • ,Health and Illness,1818-01-02,1818-12-31,0
+ • Health • ,Health and Illness,1831-01-02,1832-12-31,0
+ • Health • ,Health and Illness,1834-01-02,1841-12-31,0
+ • Health • ,Health and Illness,1843-01-02,1844-12-31,0
+ • Health • ,Health and Illness,1849-01-02,1849-12-31,0
+ • Health • ,Health and Illness,1860-01-02,1860-12-31,0
+ • Health • ,Recreation,1832-01-02,1833-12-31,0
+ • Health • ,Recreation,1835-01-02,1835-12-31,0
+ • Health • ,Recreation,1837-01-02,1837-12-31,0
+ • Health • ,Recreation,1839-01-02,1839-12-31,0
+ • Health • ,Recreation,1849-01-02,1849-12-31,0
+ • Health • ,Health,1818-01-02,1818-12-31
+Health and Illness,Health and Illness,1818-01-02,1818-12-31,1
+Health and Illness,Health and Illness,1831-01-02,1832-12-31,4
+Health and Illness,Health and Illness,1834-01-02,1841-12-31,22
+Health and Illness,Health and Illness,1843-01-02,1844-12-31,2
+Health and Illness,Health and Illness,1849-01-02,1849-12-31,1
+Health and Illness,Health and Illness,1860-01-02,1860-12-31,4
+Recreation,Recreation,1832-01-02,1833-12-31,2
+Recreation,Recreation,1835-01-02,1835-12-31,6
+Recreation,Recreation,1837-01-02,1837-12-31,2
+Recreation,Recreation,1839-01-02,1839-12-31,1
+Recreation,Recreation,1849-01-02,1849-12-31,1
+ • Health • ,Health,1831-01-02,1833-12-31,6
+ • Health • ,Health,1834-01-02,1841-12-31,31
+ • Health • ,Health,1843-01-02,1844-12-31,2
+ • Health • ,Health,1849-01-02,1849-12-31,2
+ • Health • ,Health,1860-01-02,1860-12-31,4
+ • Wars and Revolutions • ,War of 1812,1832-01-02,1834-12-31,0
+ • Wars and Revolutions • ,War of 1812,1837-01-02,1838-12-31,0
+ • Wars and Revolutions • ,War of 1812,1843-01-02,1843-12-31,0
+ • Wars and Revolutions • ,War of 1812,1849-01-02,1849-12-31,0
+ • Wars and Revolutions • ,War of 1812,1856-01-02,1856-12-31,0
+ • Wars and Revolutions • ,American Revolution,1834-01-02,1834-12-31,0
  • Wars and Revolutions • ,Wars and Revolutions,1832-01-02,1834-12-31
-War of 1812,War of 1812,1832-01-02,1834-12-31
-War of 1812,War of 1812,1837-01-02,1838-12-31
-War of 1812,War of 1812,1843-01-02,1843-12-31
-War of 1812,War of 1812,1849-01-02,1849-12-31
-War of 1812,War of 1812,1856-01-02,1856-12-31
-American Revolution,American Revolution,1834-01-02,1834-12-31
- • Wars and Revolutions • ,Wars and Revolutions,1837-01-02,1838-12-31
- • Wars and Revolutions • ,Wars and Revolutions,1843-01-02,1843-12-31
- • Wars and Revolutions • ,Wars and Revolutions,1849-01-02,1849-12-31
- • Wars and Revolutions • ,Wars and Revolutions,1856-01-02,1856-12-31
- • International Relations • ,Foreign Relations,1832-01-02,1833-12-31
- • International Relations • ,Foreign Relations,1836-01-02,1836-12-31
- • International Relations • ,Foreign Relations,1844-01-02,1844-12-31
- • International Relations • ,Foreign Relations,1849-01-02,1849-12-31
- • International Relations • ,Foreign Relations,1860-01-02,1860-12-31
- • International Relations • ,Treaties,1832-01-02,1833-12-31
- • International Relations • ,Treaties,1836-01-02,1836-12-31
- • International Relations • ,Treaties,1860-01-02,1860-12-31
- • International Relations • ,International Relations,1832-01-02,1833-12-31
-Foreign Relations,Foreign Relations,1832-01-02,1833-12-31
-Foreign Relations,Foreign Relations,1836-01-02,1836-12-31
-Foreign Relations,Foreign Relations,1844-01-02,1844-12-31
-Foreign Relations,Foreign Relations,1849-01-02,1849-12-31
-Foreign Relations,Foreign Relations,1860-01-02,1860-12-31
-Treaties,Treaties,1832-01-02,1833-12-31
-Treaties,Treaties,1836-01-02,1836-12-31
-Treaties,Treaties,1860-01-02,1860-12-31
- • International Relations • ,International Relations,1836-01-02,1836-12-31
- • International Relations • ,International Relations,1844-01-02,1844-12-31
- • International Relations • ,International Relations,1849-01-02,1849-12-31
- • International Relations • ,International Relations,1860-01-02,1860-12-31
- • Identity • ,Sectionalism,1832-01-02,1834-12-31
- • Identity • ,Sectionalism,1839-01-02,1839-12-31
- • Identity • ,Sectionalism,1849-01-02,1849-12-31
- • Identity • ,Catholicism,1833-01-02,1833-12-31
- • Identity • ,Catholicism,1835-01-02,1835-12-31
- • Identity • ,Catholicism,1845-01-02,1845-12-31
- • Identity • ,Character,1833-01-02,1834-12-31
- • Identity • ,Character,1838-01-02,1838-12-31
- • Identity • ,Disinterestedness,1833-01-02,1833-12-31
- • Identity • ,Disinterestedness,1835-01-02,1837-12-31
- • Identity • ,Personal Habits,1835-01-02,1837-12-31
- • Identity • ,Personal Habits,1845-01-02,1845-12-31
- • Identity • ,Identity,1832-01-02,1834-12-31
-Sectionalism,Sectionalism,1832-01-02,1834-12-31
-Sectionalism,Sectionalism,1839-01-02,1839-12-31
-Sectionalism,Sectionalism,1849-01-02,1849-12-31
-Catholicism,Catholicism,1833-01-02,1833-12-31
-Catholicism,Catholicism,1835-01-02,1835-12-31
-Catholicism,Catholicism,1845-01-02,1845-12-31
-Character,Character,1833-01-02,1834-12-31
-Character,Character,1838-01-02,1838-12-31
-Disinterestedness,Disinterestedness,1833-01-02,1833-12-31
-Disinterestedness,Disinterestedness,1835-01-02,1837-12-31
-Personal Habits,Personal Habits,1835-01-02,1837-12-31
-Personal Habits,Personal Habits,1845-01-02,1845-12-31
- • Identity • ,Identity,1835-01-02,1837-12-31
- • Identity • ,Identity,1838-01-02,1838-12-31
- • Identity • ,Identity,1839-01-02,1839-12-31
- • Identity • ,Identity,1845-01-02,1845-12-31
- • Identity • ,Identity,1849-01-02,1849-12-31
- • Law • ,Circuit Court,1832-01-02,1834-12-31
- • Law • ,Circuit Court,1836-01-02,1839-12-31
- • Law • ,Circuit Court,1844-01-02,1844-12-31
- • Law • ,Circuit Court,1860-01-02,1860-12-31
- • Law • ,Constitutional Interpretation,1832-01-02,1832-12-31
- • Law • ,Constitutional Interpretation,1834-01-02,1834-12-31
- • Law • ,Constitutional Interpretation,1844-01-02,1844-12-31
- • Law • ,Judicial Philosophy,1832-01-02,1832-12-31
- • Law • ,Judicial Philosophy,1835-01-02,1837-12-31
- • Law • ,Judicial Philosophy,1844-01-02,1844-12-31
- • Law • ,Rule of Law,1832-01-02,1833-12-31
- • Law • ,Supreme Court,1832-01-02,1834-12-31
- • Law • ,Supreme Court,1836-01-02,1840-12-31
- • Law • ,Supreme Court,1844-01-02,1845-12-31
- • Law • ,Supreme Court,1860-01-02,1860-12-31
- • Law • ,Supreme Court,1866-01-02,1866-12-31
- • Law • ,Emancipation,1833-01-02,1833-12-31
- • Law • ,Nullification,1833-01-02,1833-12-31
- • Law • ,Nullification,1841-01-02,1841-12-31
- • Law • ,Nullification,1849-01-02,1849-12-31
- • Law • ,Private Practice,1833-01-02,1836-12-31
- • Law • ,Alien and Sedition Acts,1849-01-02,1849-12-31
- • Law • ,Alien and Sedition Acts,1860-01-02,1860-12-31
- • Law • ,Dred Scott v. Sandford,1866-01-02,1866-12-31
+War of 1812,War of 1812,1832-01-02,1834-12-31,4
+War of 1812,War of 1812,1837-01-02,1838-12-31,2
+War of 1812,War of 1812,1843-01-02,1843-12-31,1
+War of 1812,War of 1812,1849-01-02,1849-12-31,1
+War of 1812,War of 1812,1856-01-02,1856-12-31,1
+American Revolution,American Revolution,1834-01-02,1834-12-31,1
+ • Wars and Revolutions • ,Wars and Revolutions,1837-01-02,1838-12-31,3
+ • Wars and Revolutions • ,Wars and Revolutions,1843-01-02,1843-12-31,1
+ • Wars and Revolutions • ,Wars and Revolutions,1849-01-02,1849-12-31,1
+ • Wars and Revolutions • ,Wars and Revolutions,1856-01-02,1856-12-31,1
+ • Family • ,Family Relations (Taney Family),1818-01-02,1818-12-31,0
+ • Family • ,Family Relations (Taney Family),1828-01-02,1828-12-31,0
+ • Family • ,Family Relations (Taney Family),1833-01-02,1839-12-31,0
+ • Family • ,Family Relations (Taney Family),1843-01-02,1843-12-31,0
+ • Family • ,Family Relations (Taney Family),1845-01-02,1845-12-31,0
+ • Family • ,Family Relations (Taney Family),1856-01-02,1856-12-31,0
+ • Family • ,Family Relations (Taney Family),1860-01-02,1860-12-31,0
+ • Family • ,Family Relations (Taney Family),1866-01-02,1866-12-31,0
+ • Family • ,Family Residences (Taney Family),1831-01-02,1834-12-31,0
+ • Family • ,Family Residences (Taney Family),1837-01-02,1837-12-31,0
+ • Family • ,Family,1818-01-02,1818-12-31
+Family Relations (Taney Family),Family Relations (Taney Family),1818-01-02,1818-12-31,1
+Family Relations (Taney Family),Family Relations (Taney Family),1828-01-02,1828-12-31,1
+Family Relations (Taney Family),Family Relations (Taney Family),1833-01-02,1839-12-31,18
+Family Relations (Taney Family),Family Relations (Taney Family),1843-01-02,1843-12-31,1
+Family Relations (Taney Family),Family Relations (Taney Family),1845-01-02,1845-12-31,1
+Family Relations (Taney Family),Family Relations (Taney Family),1856-01-02,1856-12-31,1
+Family Relations (Taney Family),Family Relations (Taney Family),1860-01-02,1860-12-31,1
+Family Relations (Taney Family),Family Relations (Taney Family),1866-01-02,1866-12-31,1
+Family Residences (Taney Family),Family Residences (Taney Family),1831-01-02,1834-12-31,8
+Family Residences (Taney Family),Family Residences (Taney Family),1837-01-02,1837-12-31,2
+ • Family • ,Family,1828-01-02,1828-12-31,1
+ • Family • ,Family,1831-01-02,1839-12-31,46
+ • Family • ,Family,1843-01-02,1843-12-31,1
+ • Family • ,Family,1845-01-02,1845-12-31,1
+ • Family • ,Family,1856-01-02,1856-12-31,1
+ • Family • ,Family,1860-01-02,1860-12-31,1
+ • Family • ,Family,1866-01-02,1866-12-31,1
+ • Law • ,Circuit Court,1832-01-02,1834-12-31,0
+ • Law • ,Circuit Court,1836-01-02,1839-12-31,0
+ • Law • ,Circuit Court,1844-01-02,1844-12-31,0
+ • Law • ,Circuit Court,1860-01-02,1860-12-31,0
+ • Law • ,Constitutional Interpretation,1832-01-02,1832-12-31,0
+ • Law • ,Constitutional Interpretation,1834-01-02,1834-12-31,0
+ • Law • ,Constitutional Interpretation,1844-01-02,1844-12-31,0
+ • Law • ,Judicial Philosophy,1832-01-02,1832-12-31,0
+ • Law • ,Judicial Philosophy,1835-01-02,1837-12-31,0
+ • Law • ,Judicial Philosophy,1844-01-02,1844-12-31,0
+ • Law • ,Rule of Law,1832-01-02,1833-12-31,0
+ • Law • ,Supreme Court,1832-01-02,1834-12-31,0
+ • Law • ,Supreme Court,1836-01-02,1840-12-31,0
+ • Law • ,Supreme Court,1844-01-02,1845-12-31,0
+ • Law • ,Supreme Court,1860-01-02,1860-12-31,0
+ • Law • ,Supreme Court,1866-01-02,1866-12-31,0
+ • Law • ,Emancipation,1833-01-02,1833-12-31,0
+ • Law • ,Nullification,1833-01-02,1833-12-31,0
+ • Law • ,Nullification,1841-01-02,1841-12-31,0
+ • Law • ,Nullification,1849-01-02,1849-12-31,0
+ • Law • ,Private Practice,1833-01-02,1836-12-31,0
+ • Law • ,Alien and Sedition Acts,1849-01-02,1849-12-31,0
+ • Law • ,Alien and Sedition Acts,1860-01-02,1860-12-31,0
+ • Law • ,Dred Scott v. Sandford,1866-01-02,1866-12-31,0
  • Law • ,Law,1832-01-02,1840-12-31
-Circuit Court,Circuit Court,1832-01-02,1834-12-31
-Circuit Court,Circuit Court,1836-01-02,1839-12-31
-Circuit Court,Circuit Court,1844-01-02,1844-12-31
-Circuit Court,Circuit Court,1860-01-02,1860-12-31
-Constitutional Interpretation,Constitutional Interpretation,1832-01-02,1832-12-31
-Constitutional Interpretation,Constitutional Interpretation,1834-01-02,1834-12-31
-Constitutional Interpretation,Constitutional Interpretation,1844-01-02,1844-12-31
-Judicial Philosophy,Judicial Philosophy,1832-01-02,1832-12-31
-Judicial Philosophy,Judicial Philosophy,1835-01-02,1837-12-31
-Judicial Philosophy,Judicial Philosophy,1844-01-02,1844-12-31
-Rule of Law,Rule of Law,1832-01-02,1833-12-31
-Supreme Court,Supreme Court,1832-01-02,1834-12-31
-Supreme Court,Supreme Court,1836-01-02,1840-12-31
-Supreme Court,Supreme Court,1844-01-02,1845-12-31
-Supreme Court,Supreme Court,1860-01-02,1860-12-31
-Supreme Court,Supreme Court,1866-01-02,1866-12-31
-Emancipation,Emancipation,1833-01-02,1833-12-31
-Nullification,Nullification,1833-01-02,1833-12-31
-Nullification,Nullification,1841-01-02,1841-12-31
-Nullification,Nullification,1849-01-02,1849-12-31
-Private Practice,Private Practice,1833-01-02,1836-12-31
-Alien and Sedition Acts,Alien and Sedition Acts,1849-01-02,1849-12-31
-Alien and Sedition Acts,Alien and Sedition Acts,1860-01-02,1860-12-31
-Dred Scott v. Sandford,Dred Scott v. Sandford,1866-01-02,1866-12-31
- • Law • ,Law,1841-01-02,1841-12-31
- • Law • ,Law,1844-01-02,1845-12-31
- • Law • ,Law,1849-01-02,1849-12-31
- • Law • ,Law,1860-01-02,1860-12-31
- • Law • ,Law,1866-01-02,1866-12-31
- • Migration • ,Public Lands,1832-01-02,1834-12-31
- • Migration • ,Public Lands,1836-01-02,1836-12-31
- • Migration • ,Public Lands,1841-01-02,1841-12-31
- • Migration • ,Migration,1832-01-02,1834-12-31
-Public Lands,Public Lands,1832-01-02,1834-12-31
-Public Lands,Public Lands,1836-01-02,1836-12-31
-Public Lands,Public Lands,1841-01-02,1841-12-31
- • Migration • ,Migration,1836-01-02,1836-12-31
- • Migration • ,Migration,1841-01-02,1841-12-31
- • Literature • ,Speeches,1834-01-02,1834-12-31
- • Literature • ,Speeches,1836-01-02,1836-12-31
- • Literature • ,Literature,1834-01-02,1834-12-31
-Speeches,Speeches,1834-01-02,1834-12-31
-Speeches,Speeches,1836-01-02,1836-12-31
- • Literature • ,Literature,1836-01-02,1836-12-31
- • Education • ,"Topic, Education",1832-01-02,1833-12-31
- • Education • ,"Topic, Education",1835-01-02,1835-12-31
+Circuit Court,Circuit Court,1832-01-02,1834-12-31,3
+Circuit Court,Circuit Court,1836-01-02,1839-12-31,9
+Circuit Court,Circuit Court,1844-01-02,1844-12-31,1
+Circuit Court,Circuit Court,1860-01-02,1860-12-31,1
+Constitutional Interpretation,Constitutional Interpretation,1832-01-02,1832-12-31,1
+Constitutional Interpretation,Constitutional Interpretation,1834-01-02,1834-12-31,1
+Constitutional Interpretation,Constitutional Interpretation,1844-01-02,1844-12-31,1
+Judicial Philosophy,Judicial Philosophy,1832-01-02,1832-12-31,3
+Judicial Philosophy,Judicial Philosophy,1835-01-02,1837-12-31,4
+Judicial Philosophy,Judicial Philosophy,1844-01-02,1844-12-31,1
+Rule of Law,Rule of Law,1832-01-02,1833-12-31,9
+Supreme Court,Supreme Court,1832-01-02,1834-12-31,11
+Supreme Court,Supreme Court,1836-01-02,1840-12-31,15
+Supreme Court,Supreme Court,1844-01-02,1845-12-31,3
+Supreme Court,Supreme Court,1860-01-02,1860-12-31,2
+Supreme Court,Supreme Court,1866-01-02,1866-12-31,1
+Emancipation,Emancipation,1833-01-02,1833-12-31,1
+Nullification,Nullification,1833-01-02,1833-12-31,5
+Nullification,Nullification,1841-01-02,1841-12-31,1
+Nullification,Nullification,1849-01-02,1849-12-31,1
+Private Practice,Private Practice,1833-01-02,1836-12-31,13
+Alien and Sedition Acts,Alien and Sedition Acts,1849-01-02,1849-12-31,1
+Alien and Sedition Acts,Alien and Sedition Acts,1860-01-02,1860-12-31,1
+Dred Scott v. Sandford,Dred Scott v. Sandford,1866-01-02,1866-12-31,1
+ • Law • ,Law,1841-01-02,1841-12-31,2
+ • Law • ,Law,1844-01-02,1845-12-31,7
+ • Law • ,Law,1849-01-02,1849-12-31,4
+ • Law • ,Law,1860-01-02,1860-12-31,5
+ • Law • ,Law,1866-01-02,1866-12-31,2
+ • Travel and Transportation • ,"Travel and Touring, US",1832-01-02,1840-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, US",1844-01-02,1844-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, US",1849-01-02,1849-12-31,0
+ • Travel and Transportation • ,Railroads,1833-01-02,1834-12-31,0
+ • Travel and Transportation • ,Railroads,1849-01-02,1849-12-31,0
+ • Travel and Transportation • ,Travel and Transportation,1832-01-02,1840-12-31
+"Travel and Touring, US","Travel and Touring, US",1832-01-02,1840-12-31,54
+"Travel and Touring, US","Travel and Touring, US",1844-01-02,1844-12-31,1
+"Travel and Touring, US","Travel and Touring, US",1849-01-02,1849-12-31,1
+Railroads,Railroads,1833-01-02,1834-12-31,10
+Railroads,Railroads,1849-01-02,1849-12-31,1
+ • Travel and Transportation • ,Travel and Transportation,1844-01-02,1844-12-31,1
+ • Travel and Transportation • ,Travel and Transportation,1849-01-02,1849-12-31,2
+ • African Americans • ,"Topic, African Americans",1832-01-02,1832-12-31,0
+ • African Americans • ,African Americans,1832-01-02,1832-12-31
+"Topic, African Americans","Topic, African Americans",1832-01-02,1832-12-31,1
+ • Political Groups • ,Democratic Party,1828-01-02,1828-12-31,0
+ • Political Groups • ,Democratic Party,1831-01-02,1839-12-31,0
+ • Political Groups • ,Democratic Party,1844-01-02,1844-12-31,0
+ • Political Groups • ,Democratic Party,1849-01-02,1849-12-31,0
+ • Political Groups • ,Whig Party,1831-01-02,1832-12-31,0
+ • Political Groups • ,Whig Party,1834-01-02,1841-12-31,0
+ • Political Groups • ,Whig Party,1849-01-02,1849-12-31,0
+ • Political Groups • ,Union,1833-01-02,1833-12-31,0
+ • Political Groups • ,Union,1841-01-02,1841-12-31,0
+ • Political Groups • ,Federalist Party,1838-01-02,1838-12-31,0
+ • Political Groups • ,Federalist Party,1849-01-02,1849-12-31,0
+ • Political Groups • ,Hartford Convention,1849-01-02,1849-12-31,0
+ • Political Groups • ,Political Groups,1828-01-02,1828-12-31
+Democratic Party,Democratic Party,1828-01-02,1828-12-31,1
+Democratic Party,Democratic Party,1831-01-02,1839-12-31,31
+Democratic Party,Democratic Party,1844-01-02,1844-12-31,2
+Democratic Party,Democratic Party,1849-01-02,1849-12-31,1
+Whig Party,Whig Party,1831-01-02,1832-12-31,3
+Whig Party,Whig Party,1834-01-02,1841-12-31,16
+Whig Party,Whig Party,1849-01-02,1849-12-31,1
+Union,Union,1833-01-02,1833-12-31,1
+Union,Union,1841-01-02,1841-12-31,1
+Federalist Party,Federalist Party,1838-01-02,1838-12-31,1
+Federalist Party,Federalist Party,1849-01-02,1849-12-31,1
+Hartford Convention,Hartford Convention,1849-01-02,1849-12-31,1
+ • Political Groups • ,Political Groups,1831-01-02,1841-12-31,53
+ • Political Groups • ,Political Groups,1844-01-02,1844-12-31,2
+ • Political Groups • ,Political Groups,1849-01-02,1849-12-31,4
+ • Elections • ,"Elections, Presidential",1831-01-02,1836-12-31,0
+ • Elections • ,"Elections, Presidential",1838-01-02,1838-12-31,0
+ • Elections • ,"Elections, Presidential",1841-01-02,1841-12-31,0
+ • Elections • ,"Elections, Presidential",1844-01-02,1844-12-31,0
+ • Elections • ,"Elections, Presidential",1849-01-02,1849-12-31,0
+ • Elections • ,"Elections, State and Local",1832-01-02,1839-12-31,0
+ • Elections • ,"Elections, State and Local",1841-01-02,1841-12-31,0
+ • Elections • ,"Elections, Congressional",1833-01-02,1835-12-31,0
+ • Elections • ,"Elections, Congressional",1838-01-02,1839-12-31,0
+ • Elections • ,"Elections, Congressional",1841-01-02,1841-12-31,0
+ • Elections • ,Elections,1831-01-02,1839-12-31
+"Elections, Presidential","Elections, Presidential",1831-01-02,1836-12-31,17
+"Elections, Presidential","Elections, Presidential",1838-01-02,1838-12-31,1
+"Elections, Presidential","Elections, Presidential",1841-01-02,1841-12-31,1
+"Elections, Presidential","Elections, Presidential",1844-01-02,1844-12-31,3
+"Elections, Presidential","Elections, Presidential",1849-01-02,1849-12-31,1
+"Elections, State and Local","Elections, State and Local",1832-01-02,1839-12-31,22
+"Elections, State and Local","Elections, State and Local",1841-01-02,1841-12-31,2
+"Elections, Congressional","Elections, Congressional",1833-01-02,1835-12-31,12
+"Elections, Congressional","Elections, Congressional",1838-01-02,1839-12-31,2
+"Elections, Congressional","Elections, Congressional",1841-01-02,1841-12-31,1
+ • Elections • ,Elections,1841-01-02,1841-12-31,4
+ • Elections • ,Elections,1844-01-02,1844-12-31,3
+ • Elections • ,Elections,1849-01-02,1849-12-31,1
+ • Identity • ,Sectionalism,1832-01-02,1834-12-31,0
+ • Identity • ,Sectionalism,1839-01-02,1839-12-31,0
+ • Identity • ,Sectionalism,1849-01-02,1849-12-31,0
+ • Identity • ,Catholicism,1833-01-02,1833-12-31,0
+ • Identity • ,Catholicism,1835-01-02,1835-12-31,0
+ • Identity • ,Catholicism,1845-01-02,1845-12-31,0
+ • Identity • ,Character,1833-01-02,1834-12-31,0
+ • Identity • ,Character,1838-01-02,1838-12-31,0
+ • Identity • ,Disinterestedness,1833-01-02,1833-12-31,0
+ • Identity • ,Disinterestedness,1835-01-02,1837-12-31,0
+ • Identity • ,Personal Habits,1835-01-02,1837-12-31,0
+ • Identity • ,Personal Habits,1845-01-02,1845-12-31,0
+ • Identity • ,Identity,1832-01-02,1834-12-31
+Sectionalism,Sectionalism,1832-01-02,1834-12-31,4
+Sectionalism,Sectionalism,1839-01-02,1839-12-31,1
+Sectionalism,Sectionalism,1849-01-02,1849-12-31,1
+Catholicism,Catholicism,1833-01-02,1833-12-31,1
+Catholicism,Catholicism,1835-01-02,1835-12-31,1
+Catholicism,Catholicism,1845-01-02,1845-12-31,1
+Character,Character,1833-01-02,1834-12-31,7
+Character,Character,1838-01-02,1838-12-31,1
+Disinterestedness,Disinterestedness,1833-01-02,1833-12-31,2
+Disinterestedness,Disinterestedness,1835-01-02,1837-12-31,7
+Personal Habits,Personal Habits,1835-01-02,1837-12-31,3
+Personal Habits,Personal Habits,1845-01-02,1845-12-31,1
+ • Identity • ,Identity,1835-01-02,1837-12-31,11
+ • Identity • ,Identity,1838-01-02,1838-12-31,1
+ • Identity • ,Identity,1839-01-02,1839-12-31,1
+ • Identity • ,Identity,1845-01-02,1845-12-31,2
+ • Identity • ,Identity,1849-01-02,1849-12-31,1
+ • Education • ,"Topic, Education",1832-01-02,1833-12-31,0
+ • Education • ,"Topic, Education",1835-01-02,1835-12-31,0
  • Education • ,Education,1832-01-02,1833-12-31
-"Topic, Education","Topic, Education",1832-01-02,1833-12-31
-"Topic, Education","Topic, Education",1835-01-02,1835-12-31
- • Education • ,Education,1835-01-02,1835-12-31
- • Religion • ,"Topic, Religion",1833-01-02,1833-12-31
- • Religion • ,"Topic, Religion",1835-01-02,1836-12-31
- • Religion • ,Religion,1833-01-02,1833-12-31
-"Topic, Religion","Topic, Religion",1833-01-02,1833-12-31
-"Topic, Religion","Topic, Religion",1835-01-02,1836-12-31
- • Religion • ,Religion,1835-01-02,1836-12-31
- • Indigenous Peoples • ,Native Americans,1832-01-02,1834-12-31
+"Topic, Education","Topic, Education",1832-01-02,1833-12-31,2
+"Topic, Education","Topic, Education",1835-01-02,1835-12-31,1
+ • Education • ,Education,1835-01-02,1835-12-31,1
+ • Society • ,Privacy,1831-01-02,1841-12-31,0
+ • Society • ,Privacy,1860-01-02,1860-12-31,0
+ • Society • ,Public Health,1834-01-02,1834-12-31,0
+ • Society • ,Society,1831-01-02,1841-12-31
+Privacy,Privacy,1831-01-02,1841-12-31,151
+Privacy,Privacy,1860-01-02,1860-12-31,2
+Public Health,Public Health,1834-01-02,1834-12-31,4
+ • Society • ,Society,1860-01-02,1860-12-31,2
+ • Publications and Press • ,Press,1831-01-02,1841-12-31,0
+ • Publications and Press • ,Press,1843-01-02,1843-12-31,0
+ • Publications and Press • ,Press,1849-01-02,1849-12-31,0
+ • Publications and Press • ,Publications and Press,1831-01-02,1841-12-31
+Press,Press,1831-01-02,1841-12-31,59
+Press,Press,1843-01-02,1843-12-31,1
+Press,Press,1849-01-02,1849-12-31,1
+ • Publications and Press • ,Publications and Press,1843-01-02,1843-12-31,1
+ • Publications and Press • ,Publications and Press,1849-01-02,1849-12-31,1
+ • Migration • ,Public Lands,1832-01-02,1834-12-31,0
+ • Migration • ,Public Lands,1836-01-02,1836-12-31,0
+ • Migration • ,Public Lands,1841-01-02,1841-12-31,0
+ • Migration • ,Migration,1832-01-02,1834-12-31
+Public Lands,Public Lands,1832-01-02,1834-12-31,17
+Public Lands,Public Lands,1836-01-02,1836-12-31,2
+Public Lands,Public Lands,1841-01-02,1841-12-31,1
+ • Migration • ,Migration,1836-01-02,1836-12-31,2
+ • Migration • ,Migration,1841-01-02,1841-12-31,1
+ • Politics • ,Corruption,1832-01-02,1834-12-31,0
+ • Politics • ,Corruption,1849-01-02,1849-12-31,0
+ • Politics • ,Corruption,1860-01-02,1860-12-31,0
+ • Politics • ,Delegation,1832-01-02,1834-12-31,0
+ • Politics • ,Political Partisanship,1832-01-02,1837-12-31,0
+ • Politics • ,Political Partisanship,1839-01-02,1839-12-31,0
+ • Politics • ,Political Partisanship,1841-01-02,1841-12-31,0
+ • Politics • ,Political Partisanship,1843-01-02,1844-12-31,0
+ • Politics • ,Political Partisanship,1849-01-02,1849-12-31,0
+ • Politics • ,Political Partisanship,1860-01-02,1860-12-31,0
+ • Politics • ,Political Philosophy,1833-01-02,1833-12-31,0
+ • Politics • ,Political Philosophy,1835-01-02,1835-12-31,0
+ • Politics • ,Political Philosophy,1838-01-02,1838-12-31,0
+ • Politics • ,Political Philosophy,1849-01-02,1849-12-31,0
+ • Politics • ,Political Violence,1833-01-02,1833-12-31,0
+ • Politics • ,Political Violence,1835-01-02,1835-12-31,0
+ • Politics • ,Veterans,1833-01-02,1833-12-31,0
+ • Politics • ,Veterans,1837-01-02,1837-12-31,0
+ • Politics • ,Censure,1834-01-02,1837-12-31,0
+ • Politics • ,Censure,1840-01-02,1840-12-31,0
+ • Politics • ,Supreme Court Nominations,1835-01-02,1836-12-31,0
+ • Politics • ,Supreme Court Nominations,1845-01-02,1845-12-31,0
+ • Politics • ,Politics,1832-01-02,1837-12-31
+Corruption,Corruption,1832-01-02,1834-12-31,5
+Corruption,Corruption,1849-01-02,1849-12-31,1
+Corruption,Corruption,1860-01-02,1860-12-31,1
+Delegation,Delegation,1832-01-02,1834-12-31,3
+Political Partisanship,Political Partisanship,1832-01-02,1837-12-31,25
+Political Partisanship,Political Partisanship,1839-01-02,1839-12-31,2
+Political Partisanship,Political Partisanship,1841-01-02,1841-12-31,1
+Political Partisanship,Political Partisanship,1843-01-02,1844-12-31,3
+Political Partisanship,Political Partisanship,1849-01-02,1849-12-31,1
+Political Partisanship,Political Partisanship,1860-01-02,1860-12-31,1
+Political Philosophy,Political Philosophy,1833-01-02,1833-12-31,3
+Political Philosophy,Political Philosophy,1835-01-02,1835-12-31,2
+Political Philosophy,Political Philosophy,1838-01-02,1838-12-31,1
+Political Philosophy,Political Philosophy,1849-01-02,1849-12-31,1
+Political Violence,Political Violence,1833-01-02,1833-12-31,1
+Political Violence,Political Violence,1835-01-02,1835-12-31,1
+Veterans,Veterans,1833-01-02,1833-12-31,2
+Veterans,Veterans,1837-01-02,1837-12-31,1
+Censure,Censure,1834-01-02,1837-12-31,6
+Censure,Censure,1840-01-02,1840-12-31,1
+Supreme Court Nominations,Supreme Court Nominations,1835-01-02,1836-12-31,12
+Supreme Court Nominations,Supreme Court Nominations,1845-01-02,1845-12-31,1
+ • Politics • ,Politics,1838-01-02,1838-12-31,1
+ • Politics • ,Politics,1839-01-02,1839-12-31,3
+ • Politics • ,Politics,1840-01-02,1840-12-31,1
+ • Politics • ,Politics,1841-01-02,1841-12-31,4
+ • Politics • ,Politics,1843-01-02,1844-12-31,3
+ • Politics • ,Politics,1845-01-02,1845-12-31,1
+ • Politics • ,Politics,1849-01-02,1849-12-31,5
+ • Politics • ,Politics,1860-01-02,1860-12-31,2
+ • Economics • ,Family Finances (Taney Family),1825-01-02,1825-12-31,0
+ • Economics • ,Family Finances (Taney Family),1831-01-02,1834-12-31,0
+ • Economics • ,Family Finances (Taney Family),1837-01-02,1837-12-31,0
+ • Economics • ,Bank of the United States,1829-01-02,1829-12-31,0
+ • Economics • ,Bank of the United States,1831-01-02,1841-12-31,0
+ • Economics • ,Bank of the United States,1843-01-02,1844-12-31,0
+ • Economics • ,Bank of the United States,1849-01-02,1849-12-31,0
+ • Economics • ,Bank of the United States,1860-01-02,1860-12-31,0
+ • Economics • ,Bank of the United States,1866-01-02,1866-12-31,0
+ • Economics • ,Bank Veto,1831-01-02,1834-12-31,0
+ • Economics • ,Bank Veto,1849-01-02,1849-12-31,0
+ • Economics • ,Bank Veto,1860-01-02,1860-12-31,0
+ • Economics • ,"Banks, Pet",1831-01-02,1838-12-31,0
+ • Economics • ,"Banks, Pet",1849-01-02,1849-12-31,0
+ • Economics • ,"Banks, Pet",1866-01-02,1866-12-31,0
+ • Economics • ,Contracts,1831-01-02,1834-12-31,0
+ • Economics • ,Contracts,1836-01-02,1836-12-31,0
+ • Economics • ,Corporations,1832-01-02,1838-12-31,0
+ • Economics • ,Currency,1832-01-02,1839-12-31,0
+ • Economics • ,Currency,1841-01-02,1841-12-31,0
+ • Economics • ,Currency,1843-01-02,1843-12-31,0
+ • Economics • ,Currency,1849-01-02,1849-12-31,0
+ • Economics • ,Currency,1860-01-02,1860-12-31,0
+ • Economics • ,Economic Theory,1832-01-02,1837-12-31,0
+ • Economics • ,Economic Theory,1839-01-02,1839-12-31,0
+ • Economics • ,Internal Improvements,1832-01-02,1834-12-31,0
+ • Economics • ,Merchants,1832-01-02,1834-12-31,0
+ • Economics • ,Merchants,1836-01-02,1839-12-31,0
+ • Economics • ,Merchants,1849-01-02,1849-12-31,0
+ • Economics • ,Merchants,1860-01-02,1860-12-31,0
+ • Economics • ,Tariff of 1832,1832-01-02,1833-12-31,0
+ • Economics • ,Bank Failures,1833-01-02,1837-12-31,0
+ • Economics • ,Removal of Deposits,1833-01-02,1834-12-31,0
+ • Economics • ,Removal of Deposits,1836-01-02,1837-12-31,0
+ • Economics • ,Removal of Deposits,1840-01-02,1841-12-31,0
+ • Economics • ,Removal of Deposits,1849-01-02,1849-12-31,0
+ • Economics • ,Removal of Deposits,1860-01-02,1860-12-31,0
+ • Economics • ,Tariff of 1828,1833-01-02,1833-12-31,0
+ • Economics • ,Tariff of 1833,1833-01-02,1833-12-31,0
+ • Economics • ,Transfer Drafts,1833-01-02,1835-12-31,0
+ • Economics • ,Financial Panics,1834-01-02,1834-12-31,0
+ • Economics • ,Financial Panics,1836-01-02,1836-12-31,0
+ • Economics • ,Financial Panics,1860-01-02,1860-12-31,0
+ • Economics • ,Tariffs,1834-01-02,1834-12-31,0
+ • Economics • ,Specie Circular,1836-01-02,1837-12-31,0
+ • Economics • ,Panic of 1837,1837-01-02,1838-12-31,0
+ • Economics • ,Panic of 1837,1841-01-02,1841-12-31,0
+ • Economics • ,Independent Treasury,1841-01-02,1841-12-31,0
+ • Economics • ,Embargo,1849-01-02,1849-12-31,0
+ • Economics • ,Economics,1825-01-02,1825-12-31
+Family Finances (Taney Family),Family Finances (Taney Family),1825-01-02,1825-12-31,1
+Family Finances (Taney Family),Family Finances (Taney Family),1831-01-02,1834-12-31,16
+Family Finances (Taney Family),Family Finances (Taney Family),1837-01-02,1837-12-31,2
+Bank of the United States,Bank of the United States,1829-01-02,1829-12-31,1
+Bank of the United States,Bank of the United States,1831-01-02,1841-12-31,184
+Bank of the United States,Bank of the United States,1843-01-02,1844-12-31,2
+Bank of the United States,Bank of the United States,1849-01-02,1849-12-31,1
+Bank of the United States,Bank of the United States,1860-01-02,1860-12-31,5
+Bank of the United States,Bank of the United States,1866-01-02,1866-12-31,1
+Bank Veto,Bank Veto,1831-01-02,1834-12-31,12
+Bank Veto,Bank Veto,1849-01-02,1849-12-31,1
+Bank Veto,Bank Veto,1860-01-02,1860-12-31,2
+"Banks, Pet","Banks, Pet",1831-01-02,1838-12-31,195
+"Banks, Pet","Banks, Pet",1849-01-02,1849-12-31,1
+"Banks, Pet","Banks, Pet",1866-01-02,1866-12-31,1
+Contracts,Contracts,1831-01-02,1834-12-31,6
+Contracts,Contracts,1836-01-02,1836-12-31,1
+Corporations,Corporations,1832-01-02,1838-12-31,19
+Currency,Currency,1832-01-02,1839-12-31,68
+Currency,Currency,1841-01-02,1841-12-31,1
+Currency,Currency,1843-01-02,1843-12-31,1
+Currency,Currency,1849-01-02,1849-12-31,1
+Currency,Currency,1860-01-02,1860-12-31,1
+Economic Theory,Economic Theory,1832-01-02,1837-12-31,56
+Economic Theory,Economic Theory,1839-01-02,1839-12-31,1
+Internal Improvements,Internal Improvements,1832-01-02,1834-12-31,13
+Merchants,Merchants,1832-01-02,1834-12-31,12
+Merchants,Merchants,1836-01-02,1839-12-31,7
+Merchants,Merchants,1849-01-02,1849-12-31,1
+Merchants,Merchants,1860-01-02,1860-12-31,1
+Tariff of 1832,Tariff of 1832,1832-01-02,1833-12-31,2
+Bank Failures,Bank Failures,1833-01-02,1837-12-31,41
+Removal of Deposits,Removal of Deposits,1833-01-02,1834-12-31,55
+Removal of Deposits,Removal of Deposits,1836-01-02,1837-12-31,4
+Removal of Deposits,Removal of Deposits,1840-01-02,1841-12-31,2
+Removal of Deposits,Removal of Deposits,1849-01-02,1849-12-31,1
+Removal of Deposits,Removal of Deposits,1860-01-02,1860-12-31,4
+Tariff of 1828,Tariff of 1828,1833-01-02,1833-12-31,1
+Tariff of 1833,Tariff of 1833,1833-01-02,1833-12-31,1
+Transfer Drafts,Transfer Drafts,1833-01-02,1835-12-31,54
+Financial Panics,Financial Panics,1834-01-02,1834-12-31,2
+Financial Panics,Financial Panics,1836-01-02,1836-12-31,1
+Financial Panics,Financial Panics,1860-01-02,1860-12-31,1
+Tariffs,Tariffs,1834-01-02,1834-12-31,1
+Specie Circular,Specie Circular,1836-01-02,1837-12-31,3
+Panic of 1837,Panic of 1837,1837-01-02,1838-12-31,4
+Panic of 1837,Panic of 1837,1841-01-02,1841-12-31,1
+Independent Treasury,Independent Treasury,1841-01-02,1841-12-31,1
+Embargo,Embargo,1849-01-02,1849-12-31,1
+ • Economics • ,Economics,1829-01-02,1829-12-31,1
+ • Economics • ,Economics,1831-01-02,1841-12-31,766
+ • Economics • ,Economics,1843-01-02,1844-12-31,3
+ • Economics • ,Economics,1849-01-02,1849-12-31,7
+ • Economics • ,Economics,1860-01-02,1860-12-31,14
+ • Economics • ,Economics,1866-01-02,1866-12-31,2
+ • Literature • ,Speeches,1834-01-02,1834-12-31,0
+ • Literature • ,Speeches,1836-01-02,1836-12-31,0
+ • Literature • ,Literature,1834-01-02,1834-12-31
+Speeches,Speeches,1834-01-02,1834-12-31,2
+Speeches,Speeches,1836-01-02,1836-12-31,1
+ • Literature • ,Literature,1836-01-02,1836-12-31,1
+ • Uncategorized • ,Popular Will,1831-01-02,1839-12-31,0
+ • Uncategorized • ,Popular Will,1841-01-02,1841-12-31,0
+ • Uncategorized • ,Popular Will,1844-01-02,1844-12-31,0
+ • Uncategorized • ,Popular Will,1849-01-02,1849-12-31,0
+ • Uncategorized • ,Federal Courts,1832-01-02,1833-12-31,0
+ • Uncategorized • ,Federal Courts,1836-01-02,1836-12-31,0
+ • Uncategorized • ,Federal Courts,1845-01-02,1845-12-31,0
+ • Uncategorized • ,Navy,1832-01-02,1834-12-31,0
+ • Uncategorized • ,Navy,1836-01-02,1836-12-31,0
+ • Uncategorized • ,Statutory Interpretation,1832-01-02,1834-12-31,0
+ • Uncategorized • ,Statutory Interpretation,1836-01-02,1836-12-31,0
+ • Uncategorized • ,Army,1833-01-02,1834-12-31,0
+ • Uncategorized • ,Army,1836-01-02,1836-12-31,0
+ • Uncategorized • ,Presidency,1833-01-02,1833-12-31,0
+ • Uncategorized • ,Presidency,1860-01-02,1860-12-31,0
+ • Uncategorized • ,Public Debt,1833-01-02,1833-12-31,0
+ • Uncategorized • ,Public Debt,1836-01-02,1836-12-31,0
+ • Uncategorized • ,Public Debt,1849-01-02,1849-12-31,0
+ • Uncategorized • ,Public Memory,1833-01-02,1833-12-31,0
+ • Uncategorized • ,Public Memory,1835-01-02,1836-12-31,0
+ • Uncategorized • ,Public Memory,1840-01-02,1840-12-31,0
+ • Uncategorized • ,Public Memory,1843-01-02,1843-12-31,0
+ • Uncategorized • ,Public Memory,1856-01-02,1856-12-31,0
+ • Uncategorized • ,Public Memory,1860-01-02,1860-12-31,0
+ • Uncategorized • ,U.S. Constitution,1833-01-02,1833-12-31,0
+ • Uncategorized • ,Tranfer Drafts,1834-01-02,1834-12-31,0
+ • Uncategorized • ,Public Disturbances,1835-01-02,1836-12-31,0
+ • Uncategorized • ,Equality,1836-01-02,1836-12-31,0
+ • Uncategorized • ,Juries,1837-01-02,1837-12-31,0
+ • Uncategorized • ,Slavery,1837-01-02,1837-12-31,0
+ • Uncategorized • ,Taney Family Residences,1838-01-02,1838-12-31,0
+ • Uncategorized • ,Uncategorized,1831-01-02,1839-12-31
+Popular Will,Popular Will,1831-01-02,1839-12-31,54
+Popular Will,Popular Will,1841-01-02,1841-12-31,1
+Popular Will,Popular Will,1844-01-02,1844-12-31,1
+Popular Will,Popular Will,1849-01-02,1849-12-31,1
+Federal Courts,Federal Courts,1832-01-02,1833-12-31,5
+Federal Courts,Federal Courts,1836-01-02,1836-12-31,1
+Federal Courts,Federal Courts,1845-01-02,1845-12-31,1
+Navy,Navy,1832-01-02,1834-12-31,5
+Navy,Navy,1836-01-02,1836-12-31,1
+Statutory Interpretation,Statutory Interpretation,1832-01-02,1834-12-31,11
+Statutory Interpretation,Statutory Interpretation,1836-01-02,1836-12-31,1
+Army,Army,1833-01-02,1834-12-31,3
+Army,Army,1836-01-02,1836-12-31,1
+Presidency,Presidency,1833-01-02,1833-12-31,2
+Presidency,Presidency,1860-01-02,1860-12-31,1
+Public Debt,Public Debt,1833-01-02,1833-12-31,3
+Public Debt,Public Debt,1836-01-02,1836-12-31,1
+Public Debt,Public Debt,1849-01-02,1849-12-31,1
+Public Memory,Public Memory,1833-01-02,1833-12-31,1
+Public Memory,Public Memory,1835-01-02,1836-12-31,2
+Public Memory,Public Memory,1840-01-02,1840-12-31,1
+Public Memory,Public Memory,1843-01-02,1843-12-31,1
+Public Memory,Public Memory,1856-01-02,1856-12-31,1
+Public Memory,Public Memory,1860-01-02,1860-12-31,1
+U.S. Constitution,U.S. Constitution,1833-01-02,1833-12-31,1
+Tranfer Drafts,Tranfer Drafts,1834-01-02,1834-12-31,1
+Public Disturbances,Public Disturbances,1835-01-02,1836-12-31,10
+Equality,Equality,1836-01-02,1836-12-31,1
+Juries,Juries,1837-01-02,1837-12-31,1
+Slavery,Slavery,1837-01-02,1837-12-31,1
+Taney Family Residences,Taney Family Residences,1838-01-02,1838-12-31,1
+ • Uncategorized • ,Uncategorized,1840-01-02,1840-12-31,0
+ • Uncategorized • ,Uncategorized,1841-01-02,1841-12-31,0
+ • Uncategorized • ,Uncategorized,1843-01-02,1843-12-31,0
+ • Uncategorized • ,Uncategorized,1844-01-02,1844-12-31,0
+ • Uncategorized • ,Uncategorized,1845-01-02,1845-12-31,0
+ • Uncategorized • ,Uncategorized,1849-01-02,1849-12-31,0
+ • Uncategorized • ,Uncategorized,1856-01-02,1856-12-31,0
+ • Uncategorized • ,Uncategorized,1860-01-02,1860-12-31,0
+ • Science and Technology • ,Patents,1833-01-02,1833-12-31,0
+ • Science and Technology • ,"Topic, Science and Technology",1833-01-02,1833-12-31,0
+ • Science and Technology • ,Science and Technology,1833-01-02,1833-12-31
+Patents,Patents,1833-01-02,1833-12-31,1
+"Topic, Science and Technology","Topic, Science and Technology",1833-01-02,1833-12-31,1
+ • Indigenous Peoples • ,Native Americans,1832-01-02,1834-12-31,0
  • Indigenous Peoples • ,Indigenous Peoples,1832-01-02,1834-12-31
-Native Americans,Native Americans,1832-01-02,1834-12-31
+Native Americans,Native Americans,1832-01-02,1834-12-31,5
+ • International Relations • ,Foreign Relations,1832-01-02,1833-12-31,0
+ • International Relations • ,Foreign Relations,1836-01-02,1836-12-31,0
+ • International Relations • ,Foreign Relations,1844-01-02,1844-12-31,0
+ • International Relations • ,Foreign Relations,1849-01-02,1849-12-31,0
+ • International Relations • ,Foreign Relations,1860-01-02,1860-12-31,0
+ • International Relations • ,Treaties,1832-01-02,1833-12-31,0
+ • International Relations • ,Treaties,1836-01-02,1836-12-31,0
+ • International Relations • ,Treaties,1860-01-02,1860-12-31,0
+ • International Relations • ,International Relations,1832-01-02,1833-12-31
+Foreign Relations,Foreign Relations,1832-01-02,1833-12-31,8
+Foreign Relations,Foreign Relations,1836-01-02,1836-12-31,2
+Foreign Relations,Foreign Relations,1844-01-02,1844-12-31,1
+Foreign Relations,Foreign Relations,1849-01-02,1849-12-31,1
+Foreign Relations,Foreign Relations,1860-01-02,1860-12-31,1
+Treaties,Treaties,1832-01-02,1833-12-31,4
+Treaties,Treaties,1836-01-02,1836-12-31,1
+Treaties,Treaties,1860-01-02,1860-12-31,1
+ • International Relations • ,International Relations,1836-01-02,1836-12-31,3
+ • International Relations • ,International Relations,1844-01-02,1844-12-31,1
+ • International Relations • ,International Relations,1849-01-02,1849-12-31,2
+ • International Relations • ,International Relations,1860-01-02,1860-12-31,2
+ • Religion • ,"Topic, Religion",1833-01-02,1833-12-31,0
+ • Religion • ,"Topic, Religion",1835-01-02,1836-12-31,0
+ • Religion • ,Religion,1833-01-02,1833-12-31
+"Topic, Religion","Topic, Religion",1833-01-02,1833-12-31,1
+"Topic, Religion","Topic, Religion",1835-01-02,1836-12-31,2
+ • Religion • ,Religion,1835-01-02,1836-12-31,3
+ • Slavery and Enslaved Persons • ,"Topic, Slavery and Enslaved Persons",1832-01-02,1832-12-31,0
+ • Slavery and Enslaved Persons • ,Texas Annexation,1844-01-02,1844-12-31,0
+ • Slavery and Enslaved Persons • ,Slavery and Enslaved Persons,1832-01-02,1832-12-31
+"Topic, Slavery and Enslaved Persons","Topic, Slavery and Enslaved Persons",1832-01-02,1832-12-31,1
+Texas Annexation,Texas Annexation,1844-01-02,1844-12-31,1
+ • Slavery and Enslaved Persons • ,Slavery and Enslaved Persons,1844-01-02,1844-12-31,1
