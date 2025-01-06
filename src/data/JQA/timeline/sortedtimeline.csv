@@ -34,7 +34,7 @@ Continental Congress,Continental Congress,1838-01-02,1838-12-31,1
 US Constitution,US Constitution,1787-01-02,1788-12-31,21
 US Constitution,US Constitution,1803-01-02,1808-12-31,44
 US Constitution,US Constitution,1810-01-02,1811-12-31,2
-US Constitution,US Constitution,1813-01-02,1828-12-31,133
+US Constitution,US Constitution,1813-01-02,1828-12-31,134
 US Constitution,US Constitution,1830-01-02,1839-12-31,101
 US Constitution,US Constitution,1841-01-02,1846-12-31,24
 Articles of Confederation,Articles of Confederation,1805-01-02,1805-12-31,1
@@ -58,9 +58,705 @@ Spoils System,Spoils System,1840-01-02,1841-12-31,8
 Spoils System,Spoils System,1846-01-02,1846-12-31,1
  • Government • ,Government,1787-01-02,1788-12-31,21
  • Government • ,Government,1803-01-02,1809-12-31,50
- • Government • ,Government,1810-01-02,1828-12-31,268
- • Government • ,Government,1829-01-02,1839-12-31,452
+ • Government • ,Government,1810-01-02,1828-12-31,269
+ • Government • ,Government,1829-01-02,1839-12-31,453
  • Government • ,Government,1840-01-02,1846-12-31,53
+ • Territorial Expansion • ,"Topic, Territorial Expansion",1797-01-02,1797-12-31,0
+ • Territorial Expansion • ,"Topic, Territorial Expansion",1818-01-02,1821-12-31,0
+ • Territorial Expansion • ,"Topic, Territorial Expansion",1826-01-02,1827-12-31,0
+ • Territorial Expansion • ,"Topic, Territorial Expansion",1835-01-02,1838-12-31,0
+ • Territorial Expansion • ,"Topic, Territorial Expansion",1842-01-02,1846-12-31,0
+ • Territorial Expansion • ,Louisiana Purchase,1803-01-02,1804-12-31,0
+ • Territorial Expansion • ,Louisiana Purchase,1806-01-02,1806-12-31,0
+ • Territorial Expansion • ,Louisiana Purchase,1811-01-02,1811-12-31,0
+ • Territorial Expansion • ,Louisiana Purchase,1814-01-02,1815-12-31,0
+ • Territorial Expansion • ,Louisiana Purchase,1817-01-02,1824-12-31,0
+ • Territorial Expansion • ,Louisiana Purchase,1827-01-02,1830-12-31,0
+ • Territorial Expansion • ,Louisiana Purchase,1835-01-02,1838-12-31,0
+ • Territorial Expansion • ,Louisiana Purchase,1844-01-02,1846-12-31,0
+ • Territorial Expansion • ,Oregon Country,1817-01-02,1819-12-31,0
+ • Territorial Expansion • ,Oregon Country,1821-01-02,1824-12-31,0
+ • Territorial Expansion • ,Oregon Country,1826-01-02,1826-12-31,0
+ • Territorial Expansion • ,Oregon Country,1828-01-02,1828-12-31,0
+ • Territorial Expansion • ,Oregon Country,1839-01-02,1839-12-31,0
+ • Territorial Expansion • ,Oregon Country,1842-01-02,1846-12-31,0
+ • Territorial Expansion • ,Florida Annexation,1818-01-02,1822-12-31,0
+ • Territorial Expansion • ,Florida Annexation,1830-01-02,1831-12-31,0
+ • Territorial Expansion • ,Florida Annexation,1838-01-02,1838-12-31,0
+ • Territorial Expansion • ,Florida Annexation,1844-01-02,1844-12-31,0
+ • Territorial Expansion • ,Territorial Expansion,1797-01-02,1797-12-31
+"Topic, Territorial Expansion","Topic, Territorial Expansion",1797-01-02,1797-12-31,1
+"Topic, Territorial Expansion","Topic, Territorial Expansion",1818-01-02,1821-12-31,16
+"Topic, Territorial Expansion","Topic, Territorial Expansion",1826-01-02,1827-12-31,4
+"Topic, Territorial Expansion","Topic, Territorial Expansion",1835-01-02,1838-12-31,20
+"Topic, Territorial Expansion","Topic, Territorial Expansion",1842-01-02,1846-12-31,9
+Louisiana Purchase,Louisiana Purchase,1803-01-02,1804-12-31,16
+Louisiana Purchase,Louisiana Purchase,1806-01-02,1806-12-31,1
+Louisiana Purchase,Louisiana Purchase,1811-01-02,1811-12-31,1
+Louisiana Purchase,Louisiana Purchase,1814-01-02,1815-12-31,4
+Louisiana Purchase,Louisiana Purchase,1817-01-02,1824-12-31,46
+Louisiana Purchase,Louisiana Purchase,1827-01-02,1830-12-31,5
+Louisiana Purchase,Louisiana Purchase,1835-01-02,1838-12-31,7
+Louisiana Purchase,Louisiana Purchase,1844-01-02,1846-12-31,8
+Oregon Country,Oregon Country,1817-01-02,1819-12-31,14
+Oregon Country,Oregon Country,1821-01-02,1824-12-31,39
+Oregon Country,Oregon Country,1826-01-02,1826-12-31,3
+Oregon Country,Oregon Country,1828-01-02,1828-12-31,1
+Oregon Country,Oregon Country,1839-01-02,1839-12-31,2
+Oregon Country,Oregon Country,1842-01-02,1846-12-31,105
+Florida Annexation,Florida Annexation,1818-01-02,1822-12-31,134
+Florida Annexation,Florida Annexation,1830-01-02,1831-12-31,5
+Florida Annexation,Florida Annexation,1838-01-02,1838-12-31,1
+Florida Annexation,Florida Annexation,1844-01-02,1844-12-31,9
+ • Territorial Expansion • ,Territorial Expansion,1803-01-02,1804-12-31,16
+ • Territorial Expansion • ,Territorial Expansion,1806-01-02,1806-12-31,1
+ • Territorial Expansion • ,Territorial Expansion,1811-01-02,1811-12-31,1
+ • Territorial Expansion • ,Territorial Expansion,1814-01-02,1815-12-31,4
+ • Territorial Expansion • ,Territorial Expansion,1817-01-02,1824-12-31,642
+ • Territorial Expansion • ,Territorial Expansion,1826-01-02,1831-12-31,22
+ • Territorial Expansion • ,Territorial Expansion,1835-01-02,1838-12-31,60
+ • Territorial Expansion • ,Territorial Expansion,1839-01-02,1839-12-31,2
+ • Territorial Expansion • ,Territorial Expansion,1842-01-02,1846-12-31,280
+ • Health • ,Health and Illness,1779-01-02,1779-12-31,0
+ • Health • ,Health and Illness,1782-01-02,1783-12-31,0
+ • Health • ,Health and Illness,1785-01-02,1789-12-31,0
+ • Health • ,Health and Illness,1791-01-02,1847-12-31,0
+ • Health • ,Recreation,1779-01-02,1847-12-31,0
+ • Health • ,Health,1779-01-02,1847-12-31
+Health and Illness,Health and Illness,1779-01-02,1779-12-31,2
+Health and Illness,Health and Illness,1782-01-02,1783-12-31,7
+Health and Illness,Health and Illness,1785-01-02,1789-12-31,51
+Health and Illness,Health and Illness,1791-01-02,1847-12-31,2209
+Recreation,Recreation,1779-01-02,1847-12-31,4764
+ • Wars and Revolutions • ,American Revolution,1779-01-02,1782-12-31,0
+ • Wars and Revolutions • ,American Revolution,1785-01-02,1786-12-31,0
+ • Wars and Revolutions • ,American Revolution,1788-01-02,1788-12-31,0
+ • Wars and Revolutions • ,American Revolution,1795-01-02,1797-12-31,0
+ • Wars and Revolutions • ,American Revolution,1799-01-02,1801-12-31,0
+ • Wars and Revolutions • ,American Revolution,1805-01-02,1805-12-31,0
+ • Wars and Revolutions • ,American Revolution,1808-01-02,1811-12-31,0
+ • Wars and Revolutions • ,American Revolution,1813-01-02,1822-12-31,0
+ • Wars and Revolutions • ,American Revolution,1824-01-02,1826-12-31,0
+ • Wars and Revolutions • ,American Revolution,1828-01-02,1847-12-31,0
+ • Wars and Revolutions • ,Barbary Wars,1785-01-02,1785-12-31,0
+ • Wars and Revolutions • ,Barbary Wars,1794-01-02,1794-12-31,0
+ • Wars and Revolutions • ,Barbary Wars,1796-01-02,1796-12-31,0
+ • Wars and Revolutions • ,Barbary Wars,1815-01-02,1816-12-31,0
+ • Wars and Revolutions • ,Barbary Wars,1831-01-02,1831-12-31,0
+ • Wars and Revolutions • ,French Revolution,1793-01-02,1797-12-31,0
+ • Wars and Revolutions • ,French Revolution,1801-01-02,1801-12-31,0
+ • Wars and Revolutions • ,French Revolution,1804-01-02,1804-12-31,0
+ • Wars and Revolutions • ,French Revolution,1809-01-02,1815-12-31,0
+ • Wars and Revolutions • ,French Revolution,1817-01-02,1817-12-31,0
+ • Wars and Revolutions • ,French Revolution,1834-01-02,1836-12-31,0
+ • Wars and Revolutions • ,French Revolution,1839-01-02,1841-12-31,0
+ • Wars and Revolutions • ,French Revolution,1846-01-02,1846-12-31,0
+ • Wars and Revolutions • ,Haitian Revolution,1793-01-02,1793-12-31,0
+ • Wars and Revolutions • ,Quasi-War,1798-01-02,1798-12-31,0
+ • Wars and Revolutions • ,Quasi-War,1830-01-02,1830-12-31,0
+ • Wars and Revolutions • ,Quasi-War,1837-01-02,1837-12-31,0
+ • Wars and Revolutions • ,Napoleonic Wars,1806-01-02,1806-12-31,0
+ • Wars and Revolutions • ,Napoleonic Wars,1812-01-02,1815-12-31,0
+ • Wars and Revolutions • ,Napoleonic Wars,1831-01-02,1831-12-31,0
+ • Wars and Revolutions • ,Napoleonic Wars,1833-01-02,1833-12-31,0
+ • Wars and Revolutions • ,Napoleonic Wars,1837-01-02,1837-12-31,0
+ • Wars and Revolutions • ,Napoleonic Wars,1843-01-02,1843-12-31,0
+ • Wars and Revolutions • ,Latin American Wars of Independence,1810-01-02,1812-12-31,0
+ • Wars and Revolutions • ,Latin American Wars of Independence,1816-01-02,1823-12-31,0
+ • Wars and Revolutions • ,Latin American Wars of Independence,1825-01-02,1825-12-31,0
+ • Wars and Revolutions • ,Latin American Wars of Independence,1830-01-02,1830-12-31,0
+ • Wars and Revolutions • ,War of 1812,1811-01-02,1829-12-31,0
+ • Wars and Revolutions • ,War of 1812,1831-01-02,1847-12-31,0
+ • Wars and Revolutions • ,Mexican War of Independence,1817-01-02,1822-12-31,0
+ • Wars and Revolutions • ,Mexican War of Independence,1843-01-02,1843-12-31,0
+ • Wars and Revolutions • ,Texas Revolution and Independence,1836-01-02,1838-12-31,0
+ • Wars and Revolutions • ,Texas Revolution and Independence,1843-01-02,1843-12-31,0
+ • Wars and Revolutions • ,Mexican War,1846-01-02,1848-12-31,0
+ • Wars and Revolutions • ,Wars and Revolutions,1779-01-02,1782-12-31
+American Revolution,American Revolution,1779-01-02,1782-12-31,7
+American Revolution,American Revolution,1785-01-02,1786-12-31,6
+American Revolution,American Revolution,1788-01-02,1788-12-31,2
+American Revolution,American Revolution,1795-01-02,1797-12-31,4
+American Revolution,American Revolution,1799-01-02,1801-12-31,3
+American Revolution,American Revolution,1805-01-02,1805-12-31,1
+American Revolution,American Revolution,1808-01-02,1811-12-31,7
+American Revolution,American Revolution,1813-01-02,1822-12-31,63
+American Revolution,American Revolution,1824-01-02,1826-12-31,9
+American Revolution,American Revolution,1828-01-02,1847-12-31,237
+Barbary Wars,Barbary Wars,1785-01-02,1785-12-31,1
+Barbary Wars,Barbary Wars,1794-01-02,1794-12-31,1
+Barbary Wars,Barbary Wars,1796-01-02,1796-12-31,1
+Barbary Wars,Barbary Wars,1815-01-02,1816-12-31,21
+Barbary Wars,Barbary Wars,1831-01-02,1831-12-31,1
+French Revolution,French Revolution,1793-01-02,1797-12-31,16
+French Revolution,French Revolution,1801-01-02,1801-12-31,1
+French Revolution,French Revolution,1804-01-02,1804-12-31,1
+French Revolution,French Revolution,1809-01-02,1815-12-31,14
+French Revolution,French Revolution,1817-01-02,1817-12-31,1
+French Revolution,French Revolution,1834-01-02,1836-12-31,9
+French Revolution,French Revolution,1839-01-02,1841-12-31,4
+French Revolution,French Revolution,1846-01-02,1846-12-31,1
+Haitian Revolution,Haitian Revolution,1793-01-02,1793-12-31,1
+Quasi-War,Quasi-War,1798-01-02,1798-12-31,3
+Quasi-War,Quasi-War,1830-01-02,1830-12-31,1
+Quasi-War,Quasi-War,1837-01-02,1837-12-31,1
+Napoleonic Wars,Napoleonic Wars,1806-01-02,1806-12-31,2
+Napoleonic Wars,Napoleonic Wars,1812-01-02,1815-12-31,166
+Napoleonic Wars,Napoleonic Wars,1831-01-02,1831-12-31,1
+Napoleonic Wars,Napoleonic Wars,1833-01-02,1833-12-31,1
+Napoleonic Wars,Napoleonic Wars,1837-01-02,1837-12-31,1
+Napoleonic Wars,Napoleonic Wars,1843-01-02,1843-12-31,1
+Latin American Wars of Independence,Latin American Wars of Independence,1810-01-02,1812-12-31,3
+Latin American Wars of Independence,Latin American Wars of Independence,1816-01-02,1823-12-31,171
+Latin American Wars of Independence,Latin American Wars of Independence,1825-01-02,1825-12-31,2
+Latin American Wars of Independence,Latin American Wars of Independence,1830-01-02,1830-12-31,1
+War of 1812,War of 1812,1811-01-02,1829-12-31,218
+War of 1812,War of 1812,1831-01-02,1847-12-31,74
+Mexican War of Independence,Mexican War of Independence,1817-01-02,1822-12-31,17
+Mexican War of Independence,Mexican War of Independence,1843-01-02,1843-12-31,1
+Texas Revolution and Independence,Texas Revolution and Independence,1836-01-02,1838-12-31,62
+Texas Revolution and Independence,Texas Revolution and Independence,1843-01-02,1843-12-31,1
+Mexican War,Mexican War,1846-01-02,1848-12-31,49
+ • Wars and Revolutions • ,Wars and Revolutions,1785-01-02,1786-12-31,8
+ • Wars and Revolutions • ,Wars and Revolutions,1788-01-02,1788-12-31,3
+ • Wars and Revolutions • ,Wars and Revolutions,1793-01-02,1797-12-31,23
+ • Wars and Revolutions • ,Wars and Revolutions,1798-01-02,1798-12-31,3
+ • Wars and Revolutions • ,Wars and Revolutions,1799-01-02,1801-12-31,4
+ • Wars and Revolutions • ,Wars and Revolutions,1804-01-02,1804-12-31,1
+ • Wars and Revolutions • ,Wars and Revolutions,1805-01-02,1805-12-31,1
+ • Wars and Revolutions • ,Wars and Revolutions,1806-01-02,1806-12-31,2
+ • Wars and Revolutions • ,Wars and Revolutions,1808-01-02,1848-12-31,1301
+ • Family • ,Family Relations (Adams Family),1785-01-02,1787-12-31,0
+ • Family • ,Family Relations (Adams Family),1801-01-02,1801-12-31,0
+ • Family • ,Family Relations (Adams Family),1803-01-02,1803-12-31,0
+ • Family • ,Family Relations (Adams Family),1805-01-02,1805-12-31,0
+ • Family • ,Family Relations (Adams Family),1807-01-02,1807-12-31,0
+ • Family • ,Family Relations (Adams Family),1813-01-02,1813-12-31,0
+ • Family • ,Family Relations (Adams Family),1817-01-02,1821-12-31,0
+ • Family • ,Family Relations (Adams Family),1823-01-02,1823-12-31,0
+ • Family • ,Family Relations (Adams Family),1826-01-02,1836-12-31,0
+ • Family • ,Family Relations (Adams Family),1838-01-02,1838-12-31,0
+ • Family • ,Family Relations (Adams Family),1840-01-02,1840-12-31,0
+ • Family • ,Family Relations (Adams Family),1843-01-02,1845-12-31,0
+ • Family • ,Family Relations (Adams Family),1847-01-02,1847-12-31,0
+ • Family • ,Family Residences (Adams Family),1785-01-02,1785-12-31,0
+ • Family • ,Family Residences (Adams Family),1797-01-02,1798-12-31,0
+ • Family • ,Family Residences (Adams Family),1800-01-02,1803-12-31,0
+ • Family • ,Family Residences (Adams Family),1805-01-02,1812-12-31,0
+ • Family • ,Family Residences (Adams Family),1815-01-02,1821-12-31,0
+ • Family • ,Family Residences (Adams Family),1823-01-02,1827-12-31,0
+ • Family • ,Family Residences (Adams Family),1829-01-02,1838-12-31,0
+ • Family • ,Family Residences (Adams Family),1840-01-02,1840-12-31,0
+ • Family • ,Family Residences (Adams Family),1842-01-02,1842-12-31,0
+ • Family • ,Family Residences (Adams Family),1844-01-02,1845-12-31,0
+ • Family • ,Family Residences (Adams Family),1847-01-02,1847-12-31,0
+ • Family • ,Family,1785-01-02,1787-12-31
+Family Relations (Adams Family),Family Relations (Adams Family),1785-01-02,1787-12-31,9
+Family Relations (Adams Family),Family Relations (Adams Family),1801-01-02,1801-12-31,1
+Family Relations (Adams Family),Family Relations (Adams Family),1803-01-02,1803-12-31,1
+Family Relations (Adams Family),Family Relations (Adams Family),1805-01-02,1805-12-31,2
+Family Relations (Adams Family),Family Relations (Adams Family),1807-01-02,1807-12-31,3
+Family Relations (Adams Family),Family Relations (Adams Family),1813-01-02,1813-12-31,6
+Family Relations (Adams Family),Family Relations (Adams Family),1817-01-02,1821-12-31,67
+Family Relations (Adams Family),Family Relations (Adams Family),1823-01-02,1823-12-31,8
+Family Relations (Adams Family),Family Relations (Adams Family),1826-01-02,1836-12-31,106
+Family Relations (Adams Family),Family Relations (Adams Family),1838-01-02,1838-12-31,2
+Family Relations (Adams Family),Family Relations (Adams Family),1840-01-02,1840-12-31,1
+Family Relations (Adams Family),Family Relations (Adams Family),1843-01-02,1845-12-31,42
+Family Relations (Adams Family),Family Relations (Adams Family),1847-01-02,1847-12-31,4
+Family Residences (Adams Family),Family Residences (Adams Family),1785-01-02,1785-12-31,2
+Family Residences (Adams Family),Family Residences (Adams Family),1797-01-02,1798-12-31,8
+Family Residences (Adams Family),Family Residences (Adams Family),1800-01-02,1803-12-31,7
+Family Residences (Adams Family),Family Residences (Adams Family),1805-01-02,1812-12-31,47
+Family Residences (Adams Family),Family Residences (Adams Family),1815-01-02,1821-12-31,137
+Family Residences (Adams Family),Family Residences (Adams Family),1823-01-02,1827-12-31,30
+Family Residences (Adams Family),Family Residences (Adams Family),1829-01-02,1838-12-31,92
+Family Residences (Adams Family),Family Residences (Adams Family),1840-01-02,1840-12-31,1
+Family Residences (Adams Family),Family Residences (Adams Family),1842-01-02,1842-12-31,1
+Family Residences (Adams Family),Family Residences (Adams Family),1844-01-02,1845-12-31,11
+Family Residences (Adams Family),Family Residences (Adams Family),1847-01-02,1847-12-31,12
+ • Family • ,Family,1797-01-02,1798-12-31,8
+ • Family • ,Family,1800-01-02,1803-12-31,48
+ • Family • ,Family,1805-01-02,1812-12-31,65
+ • Family • ,Family,1813-01-02,1813-12-31,6
+ • Family • ,Family,1815-01-02,1821-12-31,382
+ • Family • ,Family,1823-01-02,1838-12-31,765
+ • Family • ,Family,1840-01-02,1840-12-31,8
+ • Family • ,Family,1842-01-02,1842-12-31,13
+ • Family • ,Family,1843-01-02,1845-12-31,143
+ • Family • ,Family,1847-01-02,1847-12-31,49
+ • Law • ,Supreme Court,1803-01-02,1804-12-31,0
+ • Law • ,Supreme Court,1806-01-02,1809-12-31,0
+ • Law • ,Supreme Court,1811-01-02,1811-12-31,0
+ • Law • ,Supreme Court,1818-01-02,1821-12-31,0
+ • Law • ,Supreme Court,1823-01-02,1823-12-31,0
+ • Law • ,Supreme Court,1826-01-02,1826-12-31,0
+ • Law • ,Supreme Court,1828-01-02,1838-12-31,0
+ • Law • ,Supreme Court,1840-01-02,1846-12-31,0
+ • Law • ,Emancipation,1819-01-02,1820-12-31,0
+ • Law • ,Emancipation,1822-01-02,1822-12-31,0
+ • Law • ,Emancipation,1826-01-02,1827-12-31,0
+ • Law • ,Emancipation,1831-01-02,1835-12-31,0
+ • Law • ,Emancipation,1837-01-02,1839-12-31,0
+ • Law • ,Emancipation,1843-01-02,1843-12-31,0
+ • Law • ,Emancipation,1847-01-02,1847-12-31,0
+ • Law • ,Fugitive Slave Laws,1820-01-02,1820-12-31,0
+ • Law • ,Fugitive Slave Laws,1822-01-02,1822-12-31,0
+ • Law • ,Fugitive Slave Laws,1838-01-02,1839-12-31,0
+ • Law • ,Fugitive Slave Laws,1841-01-02,1844-12-31,0
+ • Law • ,Nullification,1820-01-02,1820-12-31,0
+ • Law • ,Nullification,1830-01-02,1841-12-31,0
+ • Law • ,Northwest Ordinance,1831-01-02,1831-12-31,0
+ • Law • ,Northwest Ordinance,1835-01-02,1835-12-31,0
+ • Law • ,Northwest Ordinance,1837-01-02,1838-12-31,0
+ • Law • ,Northwest Ordinance,1843-01-02,1844-12-31,0
+ • Law • ,Alien and Sedition Acts,1833-01-02,1834-12-31,0
+ • Law • ,Alien and Sedition Acts,1836-01-02,1836-12-31,0
+ • Law • ,Law,1803-01-02,1804-12-31
+Supreme Court,Supreme Court,1803-01-02,1804-12-31,19
+Supreme Court,Supreme Court,1806-01-02,1809-12-31,45
+Supreme Court,Supreme Court,1811-01-02,1811-12-31,1
+Supreme Court,Supreme Court,1818-01-02,1821-12-31,27
+Supreme Court,Supreme Court,1823-01-02,1823-12-31,11
+Supreme Court,Supreme Court,1826-01-02,1826-12-31,3
+Supreme Court,Supreme Court,1828-01-02,1838-12-31,72
+Supreme Court,Supreme Court,1840-01-02,1846-12-31,55
+Emancipation,Emancipation,1819-01-02,1820-12-31,9
+Emancipation,Emancipation,1822-01-02,1822-12-31,2
+Emancipation,Emancipation,1826-01-02,1827-12-31,2
+Emancipation,Emancipation,1831-01-02,1835-12-31,10
+Emancipation,Emancipation,1837-01-02,1839-12-31,7
+Emancipation,Emancipation,1843-01-02,1843-12-31,2
+Emancipation,Emancipation,1847-01-02,1847-12-31,1
+Fugitive Slave Laws,Fugitive Slave Laws,1820-01-02,1820-12-31,2
+Fugitive Slave Laws,Fugitive Slave Laws,1822-01-02,1822-12-31,3
+Fugitive Slave Laws,Fugitive Slave Laws,1838-01-02,1839-12-31,2
+Fugitive Slave Laws,Fugitive Slave Laws,1841-01-02,1844-12-31,6
+Nullification,Nullification,1820-01-02,1820-12-31,1
+Nullification,Nullification,1830-01-02,1841-12-31,89
+Northwest Ordinance,Northwest Ordinance,1831-01-02,1831-12-31,1
+Northwest Ordinance,Northwest Ordinance,1835-01-02,1835-12-31,1
+Northwest Ordinance,Northwest Ordinance,1837-01-02,1838-12-31,2
+Northwest Ordinance,Northwest Ordinance,1843-01-02,1844-12-31,2
+Alien and Sedition Acts,Alien and Sedition Acts,1833-01-02,1834-12-31,2
+Alien and Sedition Acts,Alien and Sedition Acts,1836-01-02,1836-12-31,4
+ • Law • ,Law,1806-01-02,1809-12-31,89
+ • Law • ,Law,1811-01-02,1811-12-31,6
+ • Law • ,Law,1818-01-02,1821-12-31,141
+ • Law • ,Law,1822-01-02,1822-12-31,14
+ • Law • ,Law,1823-01-02,1823-12-31,14
+ • Law • ,Law,1826-01-02,1827-12-31,8
+ • Law • ,Law,1828-01-02,1846-12-31,530
+ • Law • ,Law,1847-01-02,1847-12-31,2
+ • Travel and Transportation • ,"Travel and Touring, International",1779-01-02,1785-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, International",1794-01-02,1794-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, International",1796-01-02,1801-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, International",1809-01-02,1809-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, International",1814-01-02,1815-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, International",1817-01-02,1817-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, International",1840-01-02,1840-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, International",1843-01-02,1843-12-31,0
+ • Travel and Transportation • ,Canals,1812-01-02,1812-12-31,0
+ • Travel and Transportation • ,Canals,1818-01-02,1820-12-31,0
+ • Travel and Transportation • ,Canals,1824-01-02,1835-12-31,0
+ • Travel and Transportation • ,Canals,1838-01-02,1838-12-31,0
+ • Travel and Transportation • ,Canals,1843-01-02,1845-12-31,0
+ • Travel and Transportation • ,Roads,1818-01-02,1821-12-31,0
+ • Travel and Transportation • ,Roads,1824-01-02,1824-12-31,0
+ • Travel and Transportation • ,Roads,1826-01-02,1826-12-31,0
+ • Travel and Transportation • ,Roads,1830-01-02,1831-12-31,0
+ • Travel and Transportation • ,Roads,1834-01-02,1834-12-31,0
+ • Travel and Transportation • ,Roads,1836-01-02,1836-12-31,0
+ • Travel and Transportation • ,Railroads,1826-01-02,1838-12-31,0
+ • Travel and Transportation • ,Railroads,1843-01-02,1847-12-31,0
+ • Travel and Transportation • ,Travel and Transportation,1779-01-02,1785-12-31
+"Travel and Touring, International","Travel and Touring, International",1779-01-02,1785-12-31,228
+"Travel and Touring, International","Travel and Touring, International",1794-01-02,1794-12-31,33
+"Travel and Touring, International","Travel and Touring, International",1796-01-02,1801-12-31,182
+"Travel and Touring, International","Travel and Touring, International",1809-01-02,1809-12-31,81
+"Travel and Touring, International","Travel and Touring, International",1814-01-02,1815-12-31,50
+"Travel and Touring, International","Travel and Touring, International",1817-01-02,1817-12-31,54
+"Travel and Touring, International","Travel and Touring, International",1840-01-02,1840-12-31,20
+"Travel and Touring, International","Travel and Touring, International",1843-01-02,1843-12-31,12
+Canals,Canals,1812-01-02,1812-12-31,1
+Canals,Canals,1818-01-02,1820-12-31,5
+Canals,Canals,1824-01-02,1835-12-31,87
+Canals,Canals,1838-01-02,1838-12-31,3
+Canals,Canals,1843-01-02,1845-12-31,8
+Roads,Roads,1818-01-02,1821-12-31,16
+Roads,Roads,1824-01-02,1824-12-31,1
+Roads,Roads,1826-01-02,1826-12-31,2
+Roads,Roads,1830-01-02,1831-12-31,2
+Roads,Roads,1834-01-02,1834-12-31,2
+Roads,Roads,1836-01-02,1836-12-31,3
+Railroads,Railroads,1826-01-02,1838-12-31,85
+Railroads,Railroads,1843-01-02,1847-12-31,67
+ • Travel and Transportation • ,Travel and Transportation,1794-01-02,1794-12-31,33
+ • Travel and Transportation • ,Travel and Transportation,1796-01-02,1801-12-31,183
+ • Travel and Transportation • ,Travel and Transportation,1809-01-02,1809-12-31,81
+ • Travel and Transportation • ,Travel and Transportation,1812-01-02,1812-12-31,2
+ • Travel and Transportation • ,Travel and Transportation,1814-01-02,1815-12-31,51
+ • Travel and Transportation • ,Travel and Transportation,1817-01-02,1817-12-31,57
+ • Travel and Transportation • ,Travel and Transportation,1818-01-02,1821-12-31,73
+ • Travel and Transportation • ,Travel and Transportation,1824-01-02,1838-12-31,398
+ • Travel and Transportation • ,Travel and Transportation,1840-01-02,1840-12-31,31
+ • Travel and Transportation • ,Travel and Transportation,1843-01-02,1847-12-31,167
+ • African Americans • ,"Topic, African Americans",1785-01-02,1785-12-31,0
+ • African Americans • ,"Topic, African Americans",1787-01-02,1787-12-31,0
+ • African Americans • ,"Topic, African Americans",1794-01-02,1794-12-31,0
+ • African Americans • ,"Topic, African Americans",1806-01-02,1807-12-31,0
+ • African Americans • ,"Topic, African Americans",1809-01-02,1822-12-31,0
+ • African Americans • ,"Topic, African Americans",1824-01-02,1829-12-31,0
+ • African Americans • ,"Topic, African Americans",1831-01-02,1847-12-31,0
+ • African Americans • ,African Americans,1785-01-02,1785-12-31
+"Topic, African Americans","Topic, African Americans",1785-01-02,1785-12-31,1
+"Topic, African Americans","Topic, African Americans",1787-01-02,1787-12-31,1
+"Topic, African Americans","Topic, African Americans",1794-01-02,1794-12-31,2
+"Topic, African Americans","Topic, African Americans",1806-01-02,1807-12-31,2
+"Topic, African Americans","Topic, African Americans",1809-01-02,1822-12-31,117
+"Topic, African Americans","Topic, African Americans",1824-01-02,1829-12-31,39
+"Topic, African Americans","Topic, African Americans",1831-01-02,1847-12-31,120
+ • African Americans • ,African Americans,1787-01-02,1787-12-31,1
+ • African Americans • ,African Americans,1794-01-02,1794-12-31,2
+ • African Americans • ,African Americans,1806-01-02,1807-12-31,2
+ • African Americans • ,African Americans,1809-01-02,1822-12-31,117
+ • African Americans • ,African Americans,1824-01-02,1829-12-31,39
+ • African Americans • ,African Americans,1831-01-02,1847-12-31,120
+ • Political Groups • ,Loyalists,1785-01-02,1785-12-31,0
+ • Political Groups • ,Loyalists,1787-01-02,1788-12-31,0
+ • Political Groups • ,Loyalists,1840-01-02,1840-12-31,0
+ • Political Groups • ,Anti-Federalists,1788-01-02,1788-12-31,0
+ • Political Groups • ,Federalist Party,1795-01-02,1795-12-31,0
+ • Political Groups • ,Federalist Party,1802-01-02,1809-12-31,0
+ • Political Groups • ,Federalist Party,1811-01-02,1812-12-31,0
+ • Political Groups • ,Federalist Party,1828-01-02,1831-12-31,0
+ • Political Groups • ,Federalist Party,1833-01-02,1835-12-31,0
+ • Political Groups • ,Federalist Party,1837-01-02,1838-12-31,0
+ • Political Groups • ,Federalist Party,1840-01-02,1841-12-31,0
+ • Political Groups • ,Federalist Party,1845-01-02,1845-12-31,0
+ • Political Groups • ,Democratic-Republican Party,1803-01-02,1806-12-31,0
+ • Political Groups • ,Democratic-Republican Party,1808-01-02,1808-12-31,0
+ • Political Groups • ,Democratic-Republican Party,1818-01-02,1818-12-31,0
+ • Political Groups • ,Democratic-Republican Party,1822-01-02,1824-12-31,0
+ • Political Groups • ,Democratic-Republican Party,1830-01-02,1830-12-31,0
+ • Political Groups • ,Democratic-Republican Party,1832-01-02,1833-12-31,0
+ • Political Groups • ,Democratic-Republican Party,1835-01-02,1835-12-31,0
+ • Political Groups • ,Essex Junto,1808-01-02,1808-12-31,0
+ • Political Groups • ,Essex Junto,1830-01-02,1830-12-31,0
+ • Political Groups • ,Essex Junto,1833-01-02,1833-12-31,0
+ • Political Groups • ,Hartford Convention,1814-01-02,1815-12-31,0
+ • Political Groups • ,Hartford Convention,1828-01-02,1830-12-31,0
+ • Political Groups • ,Hartford Convention,1833-01-02,1836-12-31,0
+ • Political Groups • ,Hartford Convention,1840-01-02,1841-12-31,0
+ • Political Groups • ,Hartford Convention,1845-01-02,1846-12-31,0
+ • Political Groups • ,Anti-Masonic Party,1827-01-02,1839-12-31,0
+ • Political Groups • ,Anti-Masonic Party,1841-01-02,1841-12-31,0
+ • Political Groups • ,Democratic Party,1830-01-02,1830-12-31,0
+ • Political Groups • ,Democratic Party,1834-01-02,1846-12-31,0
+ • Political Groups • ,National Republican Party,1830-01-02,1834-12-31,0
+ • Political Groups • ,Whig Party,1834-01-02,1847-12-31,0
+ • Political Groups • ,American Party,1846-01-02,1846-12-31,0
+ • Political Groups • ,Political Groups,1785-01-02,1785-12-31
+Loyalists,Loyalists,1785-01-02,1785-12-31,1
+Loyalists,Loyalists,1787-01-02,1788-12-31,2
+Loyalists,Loyalists,1840-01-02,1840-12-31,5
+Anti-Federalists,Anti-Federalists,1788-01-02,1788-12-31,9
+Federalist Party,Federalist Party,1795-01-02,1795-12-31,1
+Federalist Party,Federalist Party,1802-01-02,1809-12-31,21
+Federalist Party,Federalist Party,1811-01-02,1812-12-31,4
+Federalist Party,Federalist Party,1828-01-02,1831-12-31,17
+Federalist Party,Federalist Party,1833-01-02,1835-12-31,4
+Federalist Party,Federalist Party,1837-01-02,1838-12-31,3
+Federalist Party,Federalist Party,1840-01-02,1841-12-31,4
+Federalist Party,Federalist Party,1845-01-02,1845-12-31,2
+Democratic-Republican Party,Democratic-Republican Party,1803-01-02,1806-12-31,13
+Democratic-Republican Party,Democratic-Republican Party,1808-01-02,1808-12-31,8
+Democratic-Republican Party,Democratic-Republican Party,1818-01-02,1818-12-31,1
+Democratic-Republican Party,Democratic-Republican Party,1822-01-02,1824-12-31,8
+Democratic-Republican Party,Democratic-Republican Party,1830-01-02,1830-12-31,1
+Democratic-Republican Party,Democratic-Republican Party,1832-01-02,1833-12-31,2
+Democratic-Republican Party,Democratic-Republican Party,1835-01-02,1835-12-31,1
+Essex Junto,Essex Junto,1808-01-02,1808-12-31,1
+Essex Junto,Essex Junto,1830-01-02,1830-12-31,1
+Essex Junto,Essex Junto,1833-01-02,1833-12-31,1
+Hartford Convention,Hartford Convention,1814-01-02,1815-12-31,2
+Hartford Convention,Hartford Convention,1828-01-02,1830-12-31,9
+Hartford Convention,Hartford Convention,1833-01-02,1836-12-31,5
+Hartford Convention,Hartford Convention,1840-01-02,1841-12-31,3
+Hartford Convention,Hartford Convention,1845-01-02,1846-12-31,2
+Anti-Masonic Party,Anti-Masonic Party,1827-01-02,1839-12-31,161
+Anti-Masonic Party,Anti-Masonic Party,1841-01-02,1841-12-31,2
+Democratic Party,Democratic Party,1830-01-02,1830-12-31,2
+Democratic Party,Democratic Party,1834-01-02,1846-12-31,82
+National Republican Party,National Republican Party,1830-01-02,1834-12-31,43
+Whig Party,Whig Party,1834-01-02,1847-12-31,277
+American Party,American Party,1846-01-02,1846-12-31,2
+ • Political Groups • ,Political Groups,1787-01-02,1788-12-31,11
+ • Political Groups • ,Political Groups,1795-01-02,1795-12-31,1
+ • Political Groups • ,Political Groups,1802-01-02,1809-12-31,43
+ • Political Groups • ,Political Groups,1811-01-02,1812-12-31,4
+ • Political Groups • ,Political Groups,1814-01-02,1815-12-31,2
+ • Political Groups • ,Political Groups,1818-01-02,1818-12-31,1
+ • Political Groups • ,Political Groups,1822-01-02,1824-12-31,8
+ • Political Groups • ,Political Groups,1827-01-02,1847-12-31,629
+ • Elections • ,"Elections, Presidential 1796",1797-01-02,1797-12-31,0
+ • Elections • ,"Elections, Presidential 1800",1801-01-02,1801-12-31,0
+ • Elections • ,"Elections, Presidential 1808",1807-01-02,1809-12-31,0
+ • Elections • ,"Elections, Presidential 1812",1812-01-02,1813-12-31,0
+ • Elections • ,"Elections, Presidential 1812",1820-01-02,1820-12-31,0
+ • Elections • ,"Elections, Presidential 1812",1828-01-02,1828-12-31,0
+ • Elections • ,"Elections, Presidential 1816",1816-01-02,1816-12-31,0
+ • Elections • ,"Elections, Presidential 1816",1822-01-02,1822-12-31,0
+ • Elections • ,"Elections, Presidential 1816",1824-01-02,1824-12-31,0
+ • Elections • ,"Elections, Presidential 1820",1818-01-02,1821-12-31,0
+ • Elections • ,"Elections, Presidential 1820",1845-01-02,1845-12-31,0
+ • Elections • ,"Elections, Presidential 1824",1819-01-02,1826-12-31,0
+ • Elections • ,"Elections, Presidential 1824",1828-01-02,1828-12-31,0
+ • Elections • ,"Elections, Presidential 1824",1831-01-02,1831-12-31,0
+ • Elections • ,"Elections, Presidential 1824",1845-01-02,1845-12-31,0
+ • Elections • ,"Elections, Presidential 1828",1827-01-02,1829-12-31,0
+ • Elections • ,"Elections, Presidential 1828",1831-01-02,1831-12-31,0
+ • Elections • ,"Elections, Presidential 1828",1835-01-02,1835-12-31,0
+ • Elections • ,"Elections, Presidential 1832",1828-01-02,1834-12-31,0
+ • Elections • ,"Elections, Presidential 1836",1833-01-02,1837-12-31,0
+ • Elections • ,"Elections, Presidential 1836",1839-01-02,1840-12-31,0
+ • Elections • ,"Elections, Presidential 1840",1837-01-02,1841-12-31,0
+ • Elections • ,"Elections, Presidential 1844",1843-01-02,1846-12-31,0
+ • Elections • ,"Elections, Presidential 1848",1847-01-02,1847-12-31,0
+ • Elections • ,Elections,1797-01-02,1797-12-31
+"Elections, Presidential 1796","Elections, Presidential 1796",1797-01-02,1797-12-31,1
+"Elections, Presidential 1800","Elections, Presidential 1800",1801-01-02,1801-12-31,2
+"Elections, Presidential 1808","Elections, Presidential 1808",1807-01-02,1809-12-31,16
+"Elections, Presidential 1812","Elections, Presidential 1812",1812-01-02,1813-12-31,5
+"Elections, Presidential 1812","Elections, Presidential 1812",1820-01-02,1820-12-31,1
+"Elections, Presidential 1812","Elections, Presidential 1812",1828-01-02,1828-12-31,1
+"Elections, Presidential 1816","Elections, Presidential 1816",1816-01-02,1816-12-31,3
+"Elections, Presidential 1816","Elections, Presidential 1816",1822-01-02,1822-12-31,1
+"Elections, Presidential 1816","Elections, Presidential 1816",1824-01-02,1824-12-31,1
+"Elections, Presidential 1820","Elections, Presidential 1820",1818-01-02,1821-12-31,26
+"Elections, Presidential 1820","Elections, Presidential 1820",1845-01-02,1845-12-31,1
+"Elections, Presidential 1824","Elections, Presidential 1824",1819-01-02,1826-12-31,194
+"Elections, Presidential 1824","Elections, Presidential 1824",1828-01-02,1828-12-31,1
+"Elections, Presidential 1824","Elections, Presidential 1824",1831-01-02,1831-12-31,1
+"Elections, Presidential 1824","Elections, Presidential 1824",1845-01-02,1845-12-31,1
+"Elections, Presidential 1828","Elections, Presidential 1828",1827-01-02,1829-12-31,22
+"Elections, Presidential 1828","Elections, Presidential 1828",1831-01-02,1831-12-31,5
+"Elections, Presidential 1828","Elections, Presidential 1828",1835-01-02,1835-12-31,1
+"Elections, Presidential 1832","Elections, Presidential 1832",1828-01-02,1834-12-31,67
+"Elections, Presidential 1836","Elections, Presidential 1836",1833-01-02,1837-12-31,58
+"Elections, Presidential 1836","Elections, Presidential 1836",1839-01-02,1840-12-31,2
+"Elections, Presidential 1840","Elections, Presidential 1840",1837-01-02,1841-12-31,32
+"Elections, Presidential 1844","Elections, Presidential 1844",1843-01-02,1846-12-31,39
+"Elections, Presidential 1848","Elections, Presidential 1848",1847-01-02,1847-12-31,2
+ • Elections • ,Elections,1801-01-02,1801-12-31,2
+ • Elections • ,Elections,1807-01-02,1809-12-31,16
+ • Elections • ,Elections,1812-01-02,1813-12-31,5
+ • Elections • ,Elections,1816-01-02,1816-12-31,3
+ • Elections • ,Elections,1818-01-02,1826-12-31,223
+ • Elections • ,Elections,1827-01-02,1841-12-31,190
+ • Elections • ,Elections,1843-01-02,1846-12-31,41
+ • Elections • ,Elections,1847-01-02,1847-12-31,2
+ • Identity • ,Sectionalism,1814-01-02,1814-12-31,0
+ • Identity • ,Sectionalism,1816-01-02,1826-12-31,0
+ • Identity • ,Sectionalism,1828-01-02,1829-12-31,0
+ • Identity • ,Sectionalism,1838-01-02,1838-12-31,0
+ • Identity • ,Sectionalism,1841-01-02,1842-12-31,0
+ • Identity • ,"West, The",1817-01-02,1821-12-31,0
+ • Identity • ,"West, The",1827-01-02,1827-12-31,0
+ • Identity • ,"South, The",1819-01-02,1820-12-31,0
+ • Identity • ,"South, The",1831-01-02,1833-12-31,0
+ • Identity • ,"South, The",1835-01-02,1838-12-31,0
+ • Identity • ,Identity,1814-01-02,1814-12-31
+Sectionalism,Sectionalism,1814-01-02,1814-12-31,3
+Sectionalism,Sectionalism,1816-01-02,1826-12-31,70
+Sectionalism,Sectionalism,1828-01-02,1829-12-31,6
+Sectionalism,Sectionalism,1838-01-02,1838-12-31,4
+Sectionalism,Sectionalism,1841-01-02,1842-12-31,7
+"West, The","West, The",1817-01-02,1821-12-31,57
+"West, The","West, The",1827-01-02,1827-12-31,1
+"South, The","South, The",1819-01-02,1820-12-31,15
+"South, The","South, The",1831-01-02,1833-12-31,7
+"South, The","South, The",1835-01-02,1838-12-31,20
+ • Identity • ,Identity,1816-01-02,1826-12-31,142
+ • Identity • ,Identity,1827-01-02,1827-12-31,1
+ • Identity • ,Identity,1828-01-02,1829-12-31,6
+ • Identity • ,Identity,1831-01-02,1833-12-31,7
+ • Identity • ,Identity,1835-01-02,1838-12-31,24
+ • Identity • ,Identity,1841-01-02,1842-12-31,7
+ • Education • ,Boylston Professor of Rhetoric and Oratory,1805-01-02,1809-12-31,0
+ • Education • ,Boylston Professor of Rhetoric and Oratory,1811-01-02,1811-12-31,0
+ • Education • ,Boylston Professor of Rhetoric and Oratory,1816-01-02,1816-12-31,0
+ • Education • ,Boylston Professor of Rhetoric and Oratory,1830-01-02,1831-12-31,0
+ • Education • ,Boylston Professor of Rhetoric and Oratory,1833-01-02,1833-12-31,0
+ • Education • ,Boylston Professor of Rhetoric and Oratory,1835-01-02,1835-12-31,0
+ • Education • ,Boylston Professor of Rhetoric and Oratory,1844-01-02,1845-12-31,0
+ • Education • ,Education,1805-01-02,1809-12-31
+Boylston Professor of Rhetoric and Oratory,Boylston Professor of Rhetoric and Oratory,1805-01-02,1809-12-31,86
+Boylston Professor of Rhetoric and Oratory,Boylston Professor of Rhetoric and Oratory,1811-01-02,1811-12-31,1
+Boylston Professor of Rhetoric and Oratory,Boylston Professor of Rhetoric and Oratory,1816-01-02,1816-12-31,1
+Boylston Professor of Rhetoric and Oratory,Boylston Professor of Rhetoric and Oratory,1830-01-02,1831-12-31,2
+Boylston Professor of Rhetoric and Oratory,Boylston Professor of Rhetoric and Oratory,1833-01-02,1833-12-31,1
+Boylston Professor of Rhetoric and Oratory,Boylston Professor of Rhetoric and Oratory,1835-01-02,1835-12-31,2
+Boylston Professor of Rhetoric and Oratory,Boylston Professor of Rhetoric and Oratory,1844-01-02,1845-12-31,3
+ • Education • ,Education,1811-01-02,1811-12-31,1
+ • Education • ,Education,1816-01-02,1816-12-31,1
+ • Education • ,Education,1830-01-02,1831-12-31,2
+ • Education • ,Education,1833-01-02,1833-12-31,1
+ • Education • ,Education,1835-01-02,1835-12-31,2
+ • Education • ,Education,1844-01-02,1845-12-31,3
+ • Political Upheavals • ,Shays's Rebellion,1786-01-02,1788-12-31,0
+ • Political Upheavals • ,Shays's Rebellion,1837-01-02,1837-12-31,0
+ • Political Upheavals • ,Shays's Rebellion,1839-01-02,1839-12-31,0
+ • Political Upheavals • ,Political Upheavals,1786-01-02,1788-12-31
+Shays's Rebellion,Shays's Rebellion,1786-01-02,1788-12-31,28
+Shays's Rebellion,Shays's Rebellion,1837-01-02,1837-12-31,1
+Shays's Rebellion,Shays's Rebellion,1839-01-02,1839-12-31,1
+ • Political Upheavals • ,Political Upheavals,1837-01-02,1837-12-31,1
+ • Political Upheavals • ,Political Upheavals,1839-01-02,1839-12-31,1
+ • Society • ,Dueling,1786-01-02,1786-12-31,0
+ • Society • ,Dueling,1796-01-02,1796-12-31,0
+ • Society • ,Dueling,1804-01-02,1806-12-31,0
+ • Society • ,Dueling,1808-01-02,1809-12-31,0
+ • Society • ,Dueling,1811-01-02,1816-12-31,0
+ • Society • ,Dueling,1818-01-02,1825-12-31,0
+ • Society • ,Dueling,1827-01-02,1831-12-31,0
+ • Society • ,Dueling,1835-01-02,1846-12-31,0
+ • Society • ,Society,1786-01-02,1786-12-31
+Dueling,Dueling,1786-01-02,1786-12-31,1
+Dueling,Dueling,1796-01-02,1796-12-31,1
+Dueling,Dueling,1804-01-02,1806-12-31,4
+Dueling,Dueling,1808-01-02,1809-12-31,4
+Dueling,Dueling,1811-01-02,1816-12-31,9
+Dueling,Dueling,1818-01-02,1825-12-31,36
+Dueling,Dueling,1827-01-02,1831-12-31,17
+Dueling,Dueling,1835-01-02,1846-12-31,76
+ • Society • ,Society,1796-01-02,1796-12-31,248
+ • Society • ,Society,1804-01-02,1806-12-31,72
+ • Society • ,Society,1808-01-02,1809-12-31,83
+ • Society • ,Society,1811-01-02,1816-12-31,496
+ • Society • ,Society,1818-01-02,1825-12-31,644
+ • Society • ,Society,1827-01-02,1831-12-31,784
+ • Society • ,Society,1835-01-02,1846-12-31,515
+ • Reform • ,Reform Movements,1806-01-02,1806-12-31,0
+ • Reform • ,Reform Movements,1813-01-02,1813-12-31,0
+ • Reform • ,Reform Movements,1824-01-02,1824-12-31,0
+ • Reform • ,Reform Movements,1835-01-02,1835-12-31,0
+ • Reform • ,Reform Movements,1837-01-02,1838-12-31,0
+ • Reform • ,Reform Movements,1841-01-02,1841-12-31,0
+ • Reform • ,Reform Movements,1844-01-02,1846-12-31,0
+ • Reform • ,Asylum Movement,1818-01-02,1818-12-31,0
+ • Reform • ,Asylum Movement,1832-01-02,1833-12-31,0
+ • Reform • ,Asylum Movement,1840-01-02,1840-12-31,0
+ • Reform • ,Anti-Slavery Movements,1819-01-02,1823-12-31,0
+ • Reform • ,Anti-Slavery Movements,1831-01-02,1833-12-31,0
+ • Reform • ,Anti-Slavery Movements,1835-01-02,1841-12-31,0
+ • Reform • ,Anti-Slavery Movements,1843-01-02,1846-12-31,0
+ • Reform • ,Suffrage,1819-01-02,1819-12-31,0
+ • Reform • ,Suffrage,1827-01-02,1827-12-31,0
+ • Reform • ,Temperance Movement,1827-01-02,1827-12-31,0
+ • Reform • ,Temperance Movement,1831-01-02,1847-12-31,0
+ • Reform • ,Anti-Slavery Petitions,1831-01-02,1847-12-31,0
+ • Reform • ,Reform,1806-01-02,1806-12-31
+Reform Movements,Reform Movements,1806-01-02,1806-12-31,1
+Reform Movements,Reform Movements,1813-01-02,1813-12-31,1
+Reform Movements,Reform Movements,1824-01-02,1824-12-31,2
+Reform Movements,Reform Movements,1835-01-02,1835-12-31,1
+Reform Movements,Reform Movements,1837-01-02,1838-12-31,8
+Reform Movements,Reform Movements,1841-01-02,1841-12-31,1
+Reform Movements,Reform Movements,1844-01-02,1846-12-31,3
+Asylum Movement,Asylum Movement,1818-01-02,1818-12-31,1
+Asylum Movement,Asylum Movement,1832-01-02,1833-12-31,4
+Asylum Movement,Asylum Movement,1840-01-02,1840-12-31,1
+Anti-Slavery Movements,Anti-Slavery Movements,1819-01-02,1823-12-31,20
+Anti-Slavery Movements,Anti-Slavery Movements,1831-01-02,1833-12-31,4
+Anti-Slavery Movements,Anti-Slavery Movements,1835-01-02,1841-12-31,58
+Anti-Slavery Movements,Anti-Slavery Movements,1843-01-02,1846-12-31,27
+Suffrage,Suffrage,1819-01-02,1819-12-31,1
+Suffrage,Suffrage,1827-01-02,1827-12-31,1
+Temperance Movement,Temperance Movement,1827-01-02,1827-12-31,2
+Temperance Movement,Temperance Movement,1831-01-02,1847-12-31,57
+Anti-Slavery Petitions,Anti-Slavery Petitions,1831-01-02,1847-12-31,198
+ • Reform • ,Reform,1813-01-02,1813-12-31,1
+ • Reform • ,Reform,1818-01-02,1818-12-31,3
+ • Reform • ,Reform,1819-01-02,1823-12-31,38
+ • Reform • ,Reform,1824-01-02,1824-12-31,9
+ • Reform • ,Reform,1827-01-02,1827-12-31,11
+ • Reform • ,Reform,1831-01-02,1847-12-31,414
+ • Publications and Press • ,Press,1808-01-02,1808-12-31,0
+ • Publications and Press • ,Press,1817-01-02,1823-12-31,0
+ • Publications and Press • ,Press,1830-01-02,1839-12-31,0
+ • Publications and Press • ,Press,1843-01-02,1845-12-31,0
+ • Publications and Press • ,Press,1847-01-02,1847-12-31,0
+ • Publications and Press • ,Publications and Press,1808-01-02,1808-12-31
+Press,Press,1808-01-02,1808-12-31,1
+Press,Press,1817-01-02,1823-12-31,132
+Press,Press,1830-01-02,1839-12-31,372
+Press,Press,1843-01-02,1845-12-31,163
+Press,Press,1847-01-02,1847-12-31,8
+ • Publications and Press • ,Publications and Press,1817-01-02,1823-12-31,132
+ • Publications and Press • ,Publications and Press,1830-01-02,1839-12-31,378
+ • Publications and Press • ,Publications and Press,1843-01-02,1845-12-31,163
+ • Publications and Press • ,Publications and Press,1847-01-02,1847-12-31,8
+ • Migration • ,Colonization Movements,1817-01-02,1829-12-31,0
+ • Migration • ,Colonization Movements,1831-01-02,1833-12-31,0
+ • Migration • ,Colonization Movements,1835-01-02,1839-12-31,0
+ • Migration • ,Colonization Movements,1841-01-02,1845-12-31,0
+ • Migration • ,Immigration,1817-01-02,1820-12-31,0
+ • Migration • ,Migration,1817-01-02,1829-12-31
+Colonization Movements,Colonization Movements,1817-01-02,1829-12-31,38
+Colonization Movements,Colonization Movements,1831-01-02,1833-12-31,10
+Colonization Movements,Colonization Movements,1835-01-02,1839-12-31,15
+Colonization Movements,Colonization Movements,1841-01-02,1845-12-31,12
+Immigration,Immigration,1817-01-02,1820-12-31,25
+ • Migration • ,Migration,1831-01-02,1833-12-31,10
+ • Migration • ,Migration,1835-01-02,1839-12-31,15
+ • Migration • ,Migration,1841-01-02,1845-12-31,12
+ • Personal Relationships • ,Courtship and Marriage of JQA and LCA,1796-01-02,1797-12-31,0
+ • Personal Relationships • ,Courtship and Marriage of JQA and LCA,1844-01-02,1845-12-31,0
+ • Personal Relationships • ,Personal Relationships,1796-01-02,1797-12-31
+Courtship and Marriage of JQA and LCA,Courtship and Marriage of JQA and LCA,1796-01-02,1797-12-31,23
+Courtship and Marriage of JQA and LCA,Courtship and Marriage of JQA and LCA,1844-01-02,1845-12-31,3
+ • Personal Relationships • ,Personal Relationships,1844-01-02,1845-12-31,29
+ • Industry • ,Steam Power,1797-01-02,1797-12-31,0
+ • Industry • ,Steam Power,1812-01-02,1812-12-31,0
+ • Industry • ,Steam Power,1814-01-02,1814-12-31,0
+ • Industry • ,Steam Power,1817-01-02,1821-12-31,0
+ • Industry • ,Steam Power,1823-01-02,1823-12-31,0
+ • Industry • ,Steam Power,1826-01-02,1827-12-31,0
+ • Industry • ,Steam Power,1829-01-02,1840-12-31,0
+ • Industry • ,Steam Power,1843-01-02,1845-12-31,0
+ • Industry • ,Steam Power,1847-01-02,1847-12-31,0
+ • Industry • ,Textile Industry,1800-01-02,1800-12-31,0
+ • Industry • ,Textile Industry,1810-01-02,1810-12-31,0
+ • Industry • ,Textile Industry,1818-01-02,1818-12-31,0
+ • Industry • ,Textile Industry,1824-01-02,1824-12-31,0
+ • Industry • ,Textile Industry,1827-01-02,1827-12-31,0
+ • Industry • ,Industry,1797-01-02,1797-12-31
+Steam Power,Steam Power,1797-01-02,1797-12-31,1
+Steam Power,Steam Power,1812-01-02,1812-12-31,1
+Steam Power,Steam Power,1814-01-02,1814-12-31,1
+Steam Power,Steam Power,1817-01-02,1821-12-31,38
+Steam Power,Steam Power,1823-01-02,1823-12-31,2
+Steam Power,Steam Power,1826-01-02,1827-12-31,2
+Steam Power,Steam Power,1829-01-02,1840-12-31,79
+Steam Power,Steam Power,1843-01-02,1845-12-31,41
+Steam Power,Steam Power,1847-01-02,1847-12-31,7
+Textile Industry,Textile Industry,1800-01-02,1800-12-31,4
+Textile Industry,Textile Industry,1810-01-02,1810-12-31,1
+Textile Industry,Textile Industry,1818-01-02,1818-12-31,1
+Textile Industry,Textile Industry,1824-01-02,1824-12-31,1
+Textile Industry,Textile Industry,1827-01-02,1827-12-31,3
+ • Industry • ,Industry,1800-01-02,1800-12-31,4
+ • Industry • ,Industry,1810-01-02,1810-12-31,2
+ • Industry • ,Industry,1812-01-02,1812-12-31,1
+ • Industry • ,Industry,1814-01-02,1814-12-31,1
+ • Industry • ,Industry,1817-01-02,1821-12-31,42
+ • Industry • ,Industry,1823-01-02,1823-12-31,2
+ • Industry • ,Industry,1824-01-02,1824-12-31,2
+ • Industry • ,Industry,1826-01-02,1827-12-31,9
+ • Industry • ,Industry,1829-01-02,1840-12-31,79
+ • Industry • ,Industry,1843-01-02,1845-12-31,41
+ • Industry • ,Industry,1847-01-02,1847-12-31,7
  • Politics • ,Caucus System,1808-01-02,1808-12-31,0
  • Politics • ,Caucus System,1820-01-02,1824-12-31,0
  • Politics • ,Caucus System,1840-01-02,1840-12-31,0
@@ -104,197 +800,35 @@ Gag Rule,Gag Rule,1836-01-02,1845-12-31,123
  • Politics • ,Politics,1831-01-02,1832-12-31,52
  • Politics • ,Politics,1835-01-02,1835-12-31,11
  • Politics • ,Politics,1836-01-02,1845-12-31,206
- • Science • ,Science and Technology,1783-01-02,1783-12-31,0
- • Science • ,Science and Technology,1803-01-02,1803-12-31,0
- • Science • ,Science and Technology,1817-01-02,1821-12-31,0
- • Science • ,Science and Technology,1823-01-02,1823-12-31,0
- • Science • ,Science and Technology,1825-01-02,1825-12-31,0
- • Science • ,Science and Technology,1827-01-02,1828-12-31,0
- • Science • ,Science and Technology,1830-01-02,1838-12-31,0
- • Science • ,Science and Technology,1843-01-02,1845-12-31,0
- • Science • ,Science and Technology,1847-01-02,1847-12-31,0
- • Science • ,Telegraph,1826-01-02,1826-12-31,0
- • Science • ,Telegraph,1841-01-02,1841-12-31,0
- • Science • ,Science,1783-01-02,1783-12-31
-Science and Technology,Science and Technology,1783-01-02,1783-12-31,3
-Science and Technology,Science and Technology,1803-01-02,1803-12-31,6
-Science and Technology,Science and Technology,1817-01-02,1821-12-31,71
-Science and Technology,Science and Technology,1823-01-02,1823-12-31,4
-Science and Technology,Science and Technology,1825-01-02,1825-12-31,1
-Science and Technology,Science and Technology,1827-01-02,1828-12-31,2
-Science and Technology,Science and Technology,1830-01-02,1838-12-31,91
-Science and Technology,Science and Technology,1843-01-02,1845-12-31,27
-Science and Technology,Science and Technology,1847-01-02,1847-12-31,7
-Telegraph,Telegraph,1826-01-02,1826-12-31,1
-Telegraph,Telegraph,1841-01-02,1841-12-31,2
- • Science • ,Science,1803-01-02,1803-12-31,6
- • Science • ,Science,1817-01-02,1821-12-31,110
- • Science • ,Science,1823-01-02,1823-12-31,6
- • Science • ,Science,1825-01-02,1825-12-31,1
- • Science • ,Science,1826-01-02,1826-12-31,2
- • Science • ,Science,1827-01-02,1828-12-31,6
- • Science • ,Science,1830-01-02,1838-12-31,201
- • Science • ,Science,1841-01-02,1841-12-31,17
- • Science • ,Science,1843-01-02,1845-12-31,104
- • Science • ,Science,1847-01-02,1847-12-31,18
- • Uncategorized • ,Slave Rebellions,1819-01-02,1819-12-31,0
- • Uncategorized • ,Uncategorized,1819-01-02,1819-12-31
-Slave Rebellions,Slave Rebellions,1819-01-02,1819-12-31,1
- • African American • ,African Americans,1785-01-02,1785-12-31,0
- • African American • ,African Americans,1787-01-02,1787-12-31,0
- • African American • ,African Americans,1794-01-02,1794-12-31,0
- • African American • ,African Americans,1806-01-02,1807-12-31,0
- • African American • ,African Americans,1809-01-02,1822-12-31,0
- • African American • ,African Americans,1824-01-02,1829-12-31,0
- • African American • ,African Americans,1831-01-02,1847-12-31,0
- • African American • ,African American,1785-01-02,1785-12-31
-African Americans,African Americans,1785-01-02,1785-12-31,1
-African Americans,African Americans,1787-01-02,1787-12-31,1
-African Americans,African Americans,1794-01-02,1794-12-31,2
-African Americans,African Americans,1806-01-02,1807-12-31,2
-African Americans,African Americans,1809-01-02,1822-12-31,117
-African Americans,African Americans,1824-01-02,1829-12-31,39
-African Americans,African Americans,1831-01-02,1847-12-31,120
- • African American • ,African American,1787-01-02,1787-12-31,1
- • African American • ,African American,1794-01-02,1794-12-31,2
- • African American • ,African American,1806-01-02,1807-12-31,2
- • African American • ,African American,1809-01-02,1822-12-31,117
- • African American • ,African American,1824-01-02,1829-12-31,39
- • African American • ,African American,1831-01-02,1847-12-31,120
- • Reform • ,Reform Movements,1806-01-02,1806-12-31,0
- • Reform • ,Reform Movements,1813-01-02,1813-12-31,0
- • Reform • ,Reform Movements,1824-01-02,1824-12-31,0
- • Reform • ,Reform Movements,1835-01-02,1835-12-31,0
- • Reform • ,Reform Movements,1837-01-02,1838-12-31,0
- • Reform • ,Reform Movements,1841-01-02,1841-12-31,0
- • Reform • ,Reform Movements,1844-01-02,1846-12-31,0
- • Reform • ,Asylum Movement,1818-01-02,1818-12-31,0
- • Reform • ,Asylum Movement,1832-01-02,1833-12-31,0
- • Reform • ,Asylum Movement,1840-01-02,1840-12-31,0
- • Reform • ,Anti-Slavery Movements,1819-01-02,1823-12-31,0
- • Reform • ,Anti-Slavery Movements,1831-01-02,1833-12-31,0
- • Reform • ,Anti-Slavery Movements,1835-01-02,1841-12-31,0
- • Reform • ,Anti-Slavery Movements,1843-01-02,1846-12-31,0
- • Reform • ,Suffrage,1819-01-02,1819-12-31,0
- • Reform • ,Suffrage,1827-01-02,1827-12-31,0
- • Reform • ,Temperance Movement,1827-01-02,1827-12-31,0
- • Reform • ,Temperance Movement,1831-01-02,1847-12-31,0
- • Reform • ,Anti-Slavery Petitions,1831-01-02,1847-12-31,0
- • Reform • ,Reform,1806-01-02,1806-12-31
-Reform Movements,Reform Movements,1806-01-02,1806-12-31,1
-Reform Movements,Reform Movements,1813-01-02,1813-12-31,1
-Reform Movements,Reform Movements,1824-01-02,1824-12-31,2
-Reform Movements,Reform Movements,1835-01-02,1835-12-31,1
-Reform Movements,Reform Movements,1837-01-02,1838-12-31,8
-Reform Movements,Reform Movements,1841-01-02,1841-12-31,1
-Reform Movements,Reform Movements,1844-01-02,1846-12-31,3
-Asylum Movement,Asylum Movement,1818-01-02,1818-12-31,1
-Asylum Movement,Asylum Movement,1832-01-02,1833-12-31,4
-Asylum Movement,Asylum Movement,1840-01-02,1840-12-31,1
-Anti-Slavery Movements,Anti-Slavery Movements,1819-01-02,1823-12-31,20
-Anti-Slavery Movements,Anti-Slavery Movements,1831-01-02,1833-12-31,4
-Anti-Slavery Movements,Anti-Slavery Movements,1835-01-02,1841-12-31,58
-Anti-Slavery Movements,Anti-Slavery Movements,1843-01-02,1846-12-31,27
-Suffrage,Suffrage,1819-01-02,1819-12-31,1
-Suffrage,Suffrage,1827-01-02,1827-12-31,1
-Temperance Movement,Temperance Movement,1827-01-02,1827-12-31,2
-Temperance Movement,Temperance Movement,1831-01-02,1847-12-31,57
-Anti-Slavery Petitions,Anti-Slavery Petitions,1831-01-02,1847-12-31,197
- • Reform • ,Reform,1813-01-02,1813-12-31,1
- • Reform • ,Reform,1818-01-02,1818-12-31,3
- • Reform • ,Reform,1819-01-02,1823-12-31,38
- • Reform • ,Reform,1824-01-02,1824-12-31,9
- • Reform • ,Reform,1827-01-02,1827-12-31,11
- • Reform • ,Reform,1831-01-02,1847-12-31,413
- • Health • ,Health and Illness,1779-01-02,1779-12-31,0
- • Health • ,Health and Illness,1782-01-02,1783-12-31,0
- • Health • ,Health and Illness,1785-01-02,1789-12-31,0
- • Health • ,Health and Illness,1791-01-02,1847-12-31,0
- • Health • ,Recreation,1779-01-02,1847-12-31,0
- • Health • ,Health,1779-01-02,1847-12-31
-Health and Illness,Health and Illness,1779-01-02,1779-12-31,2
-Health and Illness,Health and Illness,1782-01-02,1783-12-31,7
-Health and Illness,Health and Illness,1785-01-02,1789-12-31,50
-Health and Illness,Health and Illness,1791-01-02,1847-12-31,2177
-Recreation,Recreation,1779-01-02,1847-12-31,4686
- • Industry • ,Steam Power,1797-01-02,1797-12-31,0
- • Industry • ,Steam Power,1812-01-02,1812-12-31,0
- • Industry • ,Steam Power,1814-01-02,1814-12-31,0
- • Industry • ,Steam Power,1817-01-02,1821-12-31,0
- • Industry • ,Steam Power,1823-01-02,1823-12-31,0
- • Industry • ,Steam Power,1826-01-02,1827-12-31,0
- • Industry • ,Steam Power,1829-01-02,1840-12-31,0
- • Industry • ,Steam Power,1843-01-02,1845-12-31,0
- • Industry • ,Steam Power,1847-01-02,1847-12-31,0
- • Industry • ,Textile Industry,1800-01-02,1800-12-31,0
- • Industry • ,Textile Industry,1810-01-02,1810-12-31,0
- • Industry • ,Textile Industry,1818-01-02,1818-12-31,0
- • Industry • ,Textile Industry,1824-01-02,1824-12-31,0
- • Industry • ,Textile Industry,1827-01-02,1827-12-31,0
- • Industry • ,Industry,1797-01-02,1797-12-31
-Steam Power,Steam Power,1797-01-02,1797-12-31,1
-Steam Power,Steam Power,1812-01-02,1812-12-31,1
-Steam Power,Steam Power,1814-01-02,1814-12-31,1
-Steam Power,Steam Power,1817-01-02,1821-12-31,38
-Steam Power,Steam Power,1823-01-02,1823-12-31,2
-Steam Power,Steam Power,1826-01-02,1827-12-31,2
-Steam Power,Steam Power,1829-01-02,1840-12-31,78
-Steam Power,Steam Power,1843-01-02,1845-12-31,41
-Steam Power,Steam Power,1847-01-02,1847-12-31,7
-Textile Industry,Textile Industry,1800-01-02,1800-12-31,4
-Textile Industry,Textile Industry,1810-01-02,1810-12-31,1
-Textile Industry,Textile Industry,1818-01-02,1818-12-31,1
-Textile Industry,Textile Industry,1824-01-02,1824-12-31,1
-Textile Industry,Textile Industry,1827-01-02,1827-12-31,3
- • Industry • ,Industry,1800-01-02,1800-12-31,4
- • Industry • ,Industry,1810-01-02,1810-12-31,2
- • Industry • ,Industry,1812-01-02,1812-12-31,1
- • Industry • ,Industry,1814-01-02,1814-12-31,1
- • Industry • ,Industry,1817-01-02,1821-12-31,42
- • Industry • ,Industry,1823-01-02,1823-12-31,2
- • Industry • ,Industry,1824-01-02,1824-12-31,2
- • Industry • ,Industry,1826-01-02,1827-12-31,9
- • Industry • ,Industry,1829-01-02,1840-12-31,78
- • Industry • ,Industry,1843-01-02,1845-12-31,41
- • Industry • ,Industry,1847-01-02,1847-12-31,7
+ • Culture • ,"Court Life and Society, European",1797-01-02,1801-12-31,0
+ • Culture • ,"Court Life and Society, European",1809-01-02,1817-12-31,0
+ • Culture • ,Utopian Communities,1817-01-02,1817-12-31,0
+ • Culture • ,Utopian Communities,1819-01-02,1819-12-31,0
+ • Culture • ,Utopian Communities,1824-01-02,1825-12-31,0
+ • Culture • ,Utopian Communities,1844-01-02,1844-12-31,0
+ • Culture • ,Smithsonian Institution,1835-01-02,1847-12-31,0
+ • Culture • ,Transcendentalism,1840-01-02,1840-12-31,0
+ • Culture • ,Transcendentalism,1846-01-02,1846-12-31,0
+ • Culture • ,Culture,1797-01-02,1801-12-31
+"Court Life and Society, European","Court Life and Society, European",1797-01-02,1801-12-31,120
+"Court Life and Society, European","Court Life and Society, European",1809-01-02,1817-12-31,160
+Utopian Communities,Utopian Communities,1817-01-02,1817-12-31,1
+Utopian Communities,Utopian Communities,1819-01-02,1819-12-31,1
+Utopian Communities,Utopian Communities,1824-01-02,1825-12-31,12
+Utopian Communities,Utopian Communities,1844-01-02,1844-12-31,6
+Smithsonian Institution,Smithsonian Institution,1835-01-02,1847-12-31,184
+Transcendentalism,Transcendentalism,1840-01-02,1840-12-31,7
+Transcendentalism,Transcendentalism,1846-01-02,1846-12-31,1
+ • Culture • ,Culture,1809-01-02,1817-12-31,161
+ • Culture • ,Culture,1819-01-02,1819-12-31,1
+ • Culture • ,Culture,1824-01-02,1825-12-31,12
+ • Culture • ,Culture,1835-01-02,1847-12-31,198
  • Gender • ,Women's Rights,1795-01-02,1795-12-31,0
  • Gender • ,Women's Rights,1831-01-02,1831-12-31,0
  • Gender • ,Gender,1795-01-02,1795-12-31
 Women's Rights,Women's Rights,1795-01-02,1795-12-31,3
 Women's Rights,Women's Rights,1831-01-02,1831-12-31,1
  • Gender • ,Gender,1831-01-02,1831-12-31,1
- • Religion • ,"Topic, Religion",1779-01-02,1783-12-31,0
- • Religion • ,"Topic, Religion",1785-01-02,1788-12-31,0
- • Religion • ,"Topic, Religion",1797-01-02,1797-12-31,0
- • Religion • ,"Topic, Religion",1799-01-02,1799-12-31,0
- • Religion • ,"Topic, Religion",1801-01-02,1801-12-31,0
- • Religion • ,"Topic, Religion",1803-01-02,1822-12-31,0
- • Religion • ,"Topic, Religion",1826-01-02,1848-12-31,0
- • Religion • ,Unitarianism,1816-01-02,1817-12-31,0
- • Religion • ,Unitarianism,1821-01-02,1838-12-31,0
- • Religion • ,Unitarianism,1843-01-02,1845-12-31,0
- • Religion • ,Unitarianism,1847-01-02,1847-12-31,0
- • Religion • ,Second Great Awakening,1821-01-02,1821-12-31,0
- • Religion • ,Church of Jesus Christ of Latter-day Saints,1844-01-02,1844-12-31,0
- • Religion • ,Religion,1779-01-02,1783-12-31
-"Topic, Religion","Topic, Religion",1779-01-02,1783-12-31,23
-"Topic, Religion","Topic, Religion",1785-01-02,1788-12-31,166
-"Topic, Religion","Topic, Religion",1797-01-02,1797-12-31,1
-"Topic, Religion","Topic, Religion",1799-01-02,1799-12-31,2
-"Topic, Religion","Topic, Religion",1801-01-02,1801-12-31,5
-"Topic, Religion","Topic, Religion",1803-01-02,1822-12-31,252
-"Topic, Religion","Topic, Religion",1826-01-02,1848-12-31,1379
-Unitarianism,Unitarianism,1816-01-02,1817-12-31,4
-Unitarianism,Unitarianism,1821-01-02,1838-12-31,96
-Unitarianism,Unitarianism,1843-01-02,1845-12-31,16
-Unitarianism,Unitarianism,1847-01-02,1847-12-31,10
-Second Great Awakening,Second Great Awakening,1821-01-02,1821-12-31,2
-Church of Jesus Christ of Latter-day Saints,Church of Jesus Christ of Latter-day Saints,1844-01-02,1844-12-31,4
- • Religion • ,Religion,1785-01-02,1788-12-31,166
- • Religion • ,Religion,1797-01-02,1797-12-31,1
- • Religion • ,Religion,1799-01-02,1799-12-31,2
- • Religion • ,Religion,1801-01-02,1801-12-31,5
- • Religion • ,Religion,1803-01-02,1848-12-31,1763
  • Economics • ,Privateering,1779-01-02,1779-12-31,0
  • Economics • ,Privateering,1810-01-02,1813-12-31,0
  • Economics • ,Privateering,1817-01-02,1825-12-31,0
@@ -383,18 +917,18 @@ Bank of the United States,Bank of the United States,1802-01-02,1802-12-31,1
 Bank of the United States,Bank of the United States,1809-01-02,1809-12-31,1
 Bank of the United States,Bank of the United States,1813-01-02,1813-12-31,1
 Bank of the United States,Bank of the United States,1816-01-02,1826-12-31,91
-Bank of the United States,Bank of the United States,1829-01-02,1842-12-31,304
+Bank of the United States,Bank of the United States,1829-01-02,1842-12-31,305
 Industrialization,Industrialization,1797-01-02,1797-12-31,1
 Industrialization,Industrialization,1810-01-02,1810-12-31,1
 Industrialization,Industrialization,1819-01-02,1819-12-31,2
 Industrialization,Industrialization,1821-01-02,1821-12-31,1
 Industrialization,Industrialization,1824-01-02,1824-12-31,1
 Industrialization,Industrialization,1826-01-02,1827-12-31,4
-Family Finances (Adams Family),Family Finances (Adams Family),1801-01-02,1805-12-31,41
+Family Finances (Adams Family),Family Finances (Adams Family),1801-01-02,1805-12-31,42
 Family Finances (Adams Family),Family Finances (Adams Family),1807-01-02,1807-12-31,8
 Family Finances (Adams Family),Family Finances (Adams Family),1809-01-02,1810-12-31,2
 Family Finances (Adams Family),Family Finances (Adams Family),1812-01-02,1812-12-31,1
-Family Finances (Adams Family),Family Finances (Adams Family),1816-01-02,1847-12-31,868
+Family Finances (Adams Family),Family Finances (Adams Family),1816-01-02,1847-12-31,876
 Internal Improvements,Internal Improvements,1805-01-02,1805-12-31,3
 Internal Improvements,Internal Improvements,1807-01-02,1807-12-31,1
 Internal Improvements,Internal Improvements,1818-01-02,1847-12-31,206
@@ -420,230 +954,40 @@ Panic of 1837,Panic of 1837,1837-01-02,1837-12-31,19
  • Economics • ,Economics,1789-01-02,1789-12-31,1
  • Economics • ,Economics,1791-01-02,1791-12-31,3
  • Economics • ,Economics,1797-01-02,1798-12-31,4
- • Economics • ,Economics,1801-01-02,1847-12-31,2634
- • Wars and Revolutions • ,American Revolution,1779-01-02,1782-12-31,0
- • Wars and Revolutions • ,American Revolution,1785-01-02,1786-12-31,0
- • Wars and Revolutions • ,American Revolution,1788-01-02,1788-12-31,0
- • Wars and Revolutions • ,American Revolution,1795-01-02,1797-12-31,0
- • Wars and Revolutions • ,American Revolution,1799-01-02,1801-12-31,0
- • Wars and Revolutions • ,American Revolution,1805-01-02,1805-12-31,0
- • Wars and Revolutions • ,American Revolution,1808-01-02,1811-12-31,0
- • Wars and Revolutions • ,American Revolution,1813-01-02,1822-12-31,0
- • Wars and Revolutions • ,American Revolution,1824-01-02,1826-12-31,0
- • Wars and Revolutions • ,American Revolution,1828-01-02,1847-12-31,0
- • Wars and Revolutions • ,Barbary Wars,1785-01-02,1785-12-31,0
- • Wars and Revolutions • ,Barbary Wars,1794-01-02,1794-12-31,0
- • Wars and Revolutions • ,Barbary Wars,1796-01-02,1796-12-31,0
- • Wars and Revolutions • ,Barbary Wars,1815-01-02,1816-12-31,0
- • Wars and Revolutions • ,Barbary Wars,1831-01-02,1831-12-31,0
- • Wars and Revolutions • ,French Revolution,1793-01-02,1797-12-31,0
- • Wars and Revolutions • ,French Revolution,1801-01-02,1801-12-31,0
- • Wars and Revolutions • ,French Revolution,1804-01-02,1804-12-31,0
- • Wars and Revolutions • ,French Revolution,1809-01-02,1815-12-31,0
- • Wars and Revolutions • ,French Revolution,1817-01-02,1817-12-31,0
- • Wars and Revolutions • ,French Revolution,1834-01-02,1836-12-31,0
- • Wars and Revolutions • ,French Revolution,1839-01-02,1841-12-31,0
- • Wars and Revolutions • ,French Revolution,1846-01-02,1846-12-31,0
- • Wars and Revolutions • ,Haitian Revolution,1793-01-02,1793-12-31,0
- • Wars and Revolutions • ,Quasi-War,1798-01-02,1798-12-31,0
- • Wars and Revolutions • ,Quasi-War,1830-01-02,1830-12-31,0
- • Wars and Revolutions • ,Quasi-War,1837-01-02,1837-12-31,0
- • Wars and Revolutions • ,Napoleonic Wars,1806-01-02,1806-12-31,0
- • Wars and Revolutions • ,Napoleonic Wars,1812-01-02,1815-12-31,0
- • Wars and Revolutions • ,Napoleonic Wars,1831-01-02,1831-12-31,0
- • Wars and Revolutions • ,Napoleonic Wars,1833-01-02,1833-12-31,0
- • Wars and Revolutions • ,Napoleonic Wars,1837-01-02,1837-12-31,0
- • Wars and Revolutions • ,Napoleonic Wars,1843-01-02,1843-12-31,0
- • Wars and Revolutions • ,Latin American Wars of Independence,1810-01-02,1812-12-31,0
- • Wars and Revolutions • ,Latin American Wars of Independence,1816-01-02,1823-12-31,0
- • Wars and Revolutions • ,Latin American Wars of Independence,1825-01-02,1825-12-31,0
- • Wars and Revolutions • ,Latin American Wars of Independence,1830-01-02,1830-12-31,0
- • Wars and Revolutions • ,War of 1812,1811-01-02,1829-12-31,0
- • Wars and Revolutions • ,War of 1812,1831-01-02,1847-12-31,0
- • Wars and Revolutions • ,Mexican War of Independence,1817-01-02,1822-12-31,0
- • Wars and Revolutions • ,Mexican War of Independence,1843-01-02,1843-12-31,0
- • Wars and Revolutions • ,Texas Revolution and Independence,1836-01-02,1838-12-31,0
- • Wars and Revolutions • ,Texas Revolution and Independence,1843-01-02,1843-12-31,0
- • Wars and Revolutions • ,Mexican War,1846-01-02,1848-12-31,0
- • Wars and Revolutions • ,Wars and Revolutions,1779-01-02,1782-12-31
-American Revolution,American Revolution,1779-01-02,1782-12-31,7
-American Revolution,American Revolution,1785-01-02,1786-12-31,6
-American Revolution,American Revolution,1788-01-02,1788-12-31,2
-American Revolution,American Revolution,1795-01-02,1797-12-31,4
-American Revolution,American Revolution,1799-01-02,1801-12-31,3
-American Revolution,American Revolution,1805-01-02,1805-12-31,1
-American Revolution,American Revolution,1808-01-02,1811-12-31,7
-American Revolution,American Revolution,1813-01-02,1822-12-31,63
-American Revolution,American Revolution,1824-01-02,1826-12-31,9
-American Revolution,American Revolution,1828-01-02,1847-12-31,234
-Barbary Wars,Barbary Wars,1785-01-02,1785-12-31,1
-Barbary Wars,Barbary Wars,1794-01-02,1794-12-31,1
-Barbary Wars,Barbary Wars,1796-01-02,1796-12-31,1
-Barbary Wars,Barbary Wars,1815-01-02,1816-12-31,21
-Barbary Wars,Barbary Wars,1831-01-02,1831-12-31,1
-French Revolution,French Revolution,1793-01-02,1797-12-31,16
-French Revolution,French Revolution,1801-01-02,1801-12-31,1
-French Revolution,French Revolution,1804-01-02,1804-12-31,1
-French Revolution,French Revolution,1809-01-02,1815-12-31,14
-French Revolution,French Revolution,1817-01-02,1817-12-31,1
-French Revolution,French Revolution,1834-01-02,1836-12-31,8
-French Revolution,French Revolution,1839-01-02,1841-12-31,4
-French Revolution,French Revolution,1846-01-02,1846-12-31,1
-Haitian Revolution,Haitian Revolution,1793-01-02,1793-12-31,1
-Quasi-War,Quasi-War,1798-01-02,1798-12-31,3
-Quasi-War,Quasi-War,1830-01-02,1830-12-31,1
-Quasi-War,Quasi-War,1837-01-02,1837-12-31,1
-Napoleonic Wars,Napoleonic Wars,1806-01-02,1806-12-31,2
-Napoleonic Wars,Napoleonic Wars,1812-01-02,1815-12-31,166
-Napoleonic Wars,Napoleonic Wars,1831-01-02,1831-12-31,1
-Napoleonic Wars,Napoleonic Wars,1833-01-02,1833-12-31,1
-Napoleonic Wars,Napoleonic Wars,1837-01-02,1837-12-31,1
-Napoleonic Wars,Napoleonic Wars,1843-01-02,1843-12-31,1
-Latin American Wars of Independence,Latin American Wars of Independence,1810-01-02,1812-12-31,3
-Latin American Wars of Independence,Latin American Wars of Independence,1816-01-02,1823-12-31,171
-Latin American Wars of Independence,Latin American Wars of Independence,1825-01-02,1825-12-31,2
-Latin American Wars of Independence,Latin American Wars of Independence,1830-01-02,1830-12-31,1
-War of 1812,War of 1812,1811-01-02,1829-12-31,218
-War of 1812,War of 1812,1831-01-02,1847-12-31,74
-Mexican War of Independence,Mexican War of Independence,1817-01-02,1822-12-31,17
-Mexican War of Independence,Mexican War of Independence,1843-01-02,1843-12-31,1
-Texas Revolution and Independence,Texas Revolution and Independence,1836-01-02,1838-12-31,62
-Texas Revolution and Independence,Texas Revolution and Independence,1843-01-02,1843-12-31,1
-Mexican War,Mexican War,1846-01-02,1848-12-31,47
- • Wars and Revolutions • ,Wars and Revolutions,1785-01-02,1786-12-31,8
- • Wars and Revolutions • ,Wars and Revolutions,1788-01-02,1788-12-31,3
- • Wars and Revolutions • ,Wars and Revolutions,1793-01-02,1797-12-31,23
- • Wars and Revolutions • ,Wars and Revolutions,1798-01-02,1798-12-31,3
- • Wars and Revolutions • ,Wars and Revolutions,1799-01-02,1801-12-31,4
- • Wars and Revolutions • ,Wars and Revolutions,1804-01-02,1804-12-31,1
- • Wars and Revolutions • ,Wars and Revolutions,1805-01-02,1805-12-31,1
- • Wars and Revolutions • ,Wars and Revolutions,1806-01-02,1806-12-31,2
- • Wars and Revolutions • ,Wars and Revolutions,1808-01-02,1848-12-31,1295
- • Travel and Transportation • ,"Travel and Touring, International",1779-01-02,1785-12-31,0
- • Travel and Transportation • ,"Travel and Touring, International",1794-01-02,1794-12-31,0
- • Travel and Transportation • ,"Travel and Touring, International",1796-01-02,1801-12-31,0
- • Travel and Transportation • ,"Travel and Touring, International",1809-01-02,1809-12-31,0
- • Travel and Transportation • ,"Travel and Touring, International",1814-01-02,1815-12-31,0
- • Travel and Transportation • ,"Travel and Touring, International",1817-01-02,1817-12-31,0
- • Travel and Transportation • ,"Travel and Touring, International",1840-01-02,1840-12-31,0
- • Travel and Transportation • ,"Travel and Touring, International",1843-01-02,1843-12-31,0
- • Travel and Transportation • ,Canals,1812-01-02,1812-12-31,0
- • Travel and Transportation • ,Canals,1818-01-02,1820-12-31,0
- • Travel and Transportation • ,Canals,1824-01-02,1835-12-31,0
- • Travel and Transportation • ,Canals,1838-01-02,1838-12-31,0
- • Travel and Transportation • ,Canals,1843-01-02,1845-12-31,0
- • Travel and Transportation • ,Roads,1818-01-02,1821-12-31,0
- • Travel and Transportation • ,Roads,1824-01-02,1824-12-31,0
- • Travel and Transportation • ,Roads,1826-01-02,1826-12-31,0
- • Travel and Transportation • ,Roads,1830-01-02,1831-12-31,0
- • Travel and Transportation • ,Roads,1834-01-02,1834-12-31,0
- • Travel and Transportation • ,Roads,1836-01-02,1836-12-31,0
- • Travel and Transportation • ,Railroads,1826-01-02,1838-12-31,0
- • Travel and Transportation • ,Railroads,1843-01-02,1847-12-31,0
- • Travel and Transportation • ,Travel and Transportation,1779-01-02,1785-12-31
-"Travel and Touring, International","Travel and Touring, International",1779-01-02,1785-12-31,224
-"Travel and Touring, International","Travel and Touring, International",1794-01-02,1794-12-31,33
-"Travel and Touring, International","Travel and Touring, International",1796-01-02,1801-12-31,180
-"Travel and Touring, International","Travel and Touring, International",1809-01-02,1809-12-31,80
-"Travel and Touring, International","Travel and Touring, International",1814-01-02,1815-12-31,50
-"Travel and Touring, International","Travel and Touring, International",1817-01-02,1817-12-31,54
-"Travel and Touring, International","Travel and Touring, International",1840-01-02,1840-12-31,20
-"Travel and Touring, International","Travel and Touring, International",1843-01-02,1843-12-31,12
-Canals,Canals,1812-01-02,1812-12-31,1
-Canals,Canals,1818-01-02,1820-12-31,5
-Canals,Canals,1824-01-02,1835-12-31,87
-Canals,Canals,1838-01-02,1838-12-31,3
-Canals,Canals,1843-01-02,1845-12-31,8
-Roads,Roads,1818-01-02,1821-12-31,16
-Roads,Roads,1824-01-02,1824-12-31,1
-Roads,Roads,1826-01-02,1826-12-31,2
-Roads,Roads,1830-01-02,1831-12-31,2
-Roads,Roads,1834-01-02,1834-12-31,2
-Roads,Roads,1836-01-02,1836-12-31,3
-Railroads,Railroads,1826-01-02,1838-12-31,85
-Railroads,Railroads,1843-01-02,1847-12-31,67
- • Travel and Transportation • ,Travel and Transportation,1794-01-02,1794-12-31,33
- • Travel and Transportation • ,Travel and Transportation,1796-01-02,1801-12-31,181
- • Travel and Transportation • ,Travel and Transportation,1809-01-02,1809-12-31,80
- • Travel and Transportation • ,Travel and Transportation,1812-01-02,1812-12-31,2
- • Travel and Transportation • ,Travel and Transportation,1814-01-02,1815-12-31,51
- • Travel and Transportation • ,Travel and Transportation,1817-01-02,1817-12-31,57
- • Travel and Transportation • ,Travel and Transportation,1818-01-02,1821-12-31,73
- • Travel and Transportation • ,Travel and Transportation,1824-01-02,1838-12-31,397
- • Travel and Transportation • ,Travel and Transportation,1840-01-02,1840-12-31,31
- • Travel and Transportation • ,Travel and Transportation,1843-01-02,1847-12-31,167
- • Law • ,Supreme Court,1803-01-02,1804-12-31,0
- • Law • ,Supreme Court,1806-01-02,1809-12-31,0
- • Law • ,Supreme Court,1811-01-02,1811-12-31,0
- • Law • ,Supreme Court,1818-01-02,1821-12-31,0
- • Law • ,Supreme Court,1823-01-02,1823-12-31,0
- • Law • ,Supreme Court,1826-01-02,1826-12-31,0
- • Law • ,Supreme Court,1828-01-02,1838-12-31,0
- • Law • ,Supreme Court,1840-01-02,1846-12-31,0
- • Law • ,Emancipation,1819-01-02,1820-12-31,0
- • Law • ,Emancipation,1822-01-02,1822-12-31,0
- • Law • ,Emancipation,1826-01-02,1827-12-31,0
- • Law • ,Emancipation,1831-01-02,1835-12-31,0
- • Law • ,Emancipation,1837-01-02,1839-12-31,0
- • Law • ,Emancipation,1843-01-02,1843-12-31,0
- • Law • ,Emancipation,1847-01-02,1847-12-31,0
- • Law • ,Fugitive Slave Laws,1820-01-02,1820-12-31,0
- • Law • ,Fugitive Slave Laws,1822-01-02,1822-12-31,0
- • Law • ,Fugitive Slave Laws,1838-01-02,1839-12-31,0
- • Law • ,Fugitive Slave Laws,1841-01-02,1844-12-31,0
- • Law • ,Nullification,1820-01-02,1820-12-31,0
- • Law • ,Nullification,1830-01-02,1841-12-31,0
- • Law • ,Northwest Ordinance,1831-01-02,1831-12-31,0
- • Law • ,Northwest Ordinance,1835-01-02,1835-12-31,0
- • Law • ,Northwest Ordinance,1837-01-02,1838-12-31,0
- • Law • ,Northwest Ordinance,1843-01-02,1844-12-31,0
- • Law • ,Alien and Sedition Acts,1833-01-02,1834-12-31,0
- • Law • ,Alien and Sedition Acts,1836-01-02,1836-12-31,0
- • Law • ,Law,1803-01-02,1804-12-31
-Supreme Court,Supreme Court,1803-01-02,1804-12-31,18
-Supreme Court,Supreme Court,1806-01-02,1809-12-31,44
-Supreme Court,Supreme Court,1811-01-02,1811-12-31,1
-Supreme Court,Supreme Court,1818-01-02,1821-12-31,27
-Supreme Court,Supreme Court,1823-01-02,1823-12-31,11
-Supreme Court,Supreme Court,1826-01-02,1826-12-31,3
-Supreme Court,Supreme Court,1828-01-02,1838-12-31,72
-Supreme Court,Supreme Court,1840-01-02,1846-12-31,55
-Emancipation,Emancipation,1819-01-02,1820-12-31,9
-Emancipation,Emancipation,1822-01-02,1822-12-31,2
-Emancipation,Emancipation,1826-01-02,1827-12-31,2
-Emancipation,Emancipation,1831-01-02,1835-12-31,10
-Emancipation,Emancipation,1837-01-02,1839-12-31,7
-Emancipation,Emancipation,1843-01-02,1843-12-31,2
-Emancipation,Emancipation,1847-01-02,1847-12-31,1
-Fugitive Slave Laws,Fugitive Slave Laws,1820-01-02,1820-12-31,2
-Fugitive Slave Laws,Fugitive Slave Laws,1822-01-02,1822-12-31,3
-Fugitive Slave Laws,Fugitive Slave Laws,1838-01-02,1839-12-31,2
-Fugitive Slave Laws,Fugitive Slave Laws,1841-01-02,1844-12-31,6
-Nullification,Nullification,1820-01-02,1820-12-31,1
-Nullification,Nullification,1830-01-02,1841-12-31,89
-Northwest Ordinance,Northwest Ordinance,1831-01-02,1831-12-31,1
-Northwest Ordinance,Northwest Ordinance,1835-01-02,1835-12-31,1
-Northwest Ordinance,Northwest Ordinance,1837-01-02,1838-12-31,2
-Northwest Ordinance,Northwest Ordinance,1843-01-02,1844-12-31,2
-Alien and Sedition Acts,Alien and Sedition Acts,1833-01-02,1834-12-31,2
-Alien and Sedition Acts,Alien and Sedition Acts,1836-01-02,1836-12-31,4
- • Law • ,Law,1806-01-02,1809-12-31,88
- • Law • ,Law,1811-01-02,1811-12-31,6
- • Law • ,Law,1818-01-02,1821-12-31,140
- • Law • ,Law,1822-01-02,1822-12-31,14
- • Law • ,Law,1823-01-02,1823-12-31,14
- • Law • ,Law,1826-01-02,1827-12-31,8
- • Law • ,Law,1828-01-02,1846-12-31,530
- • Law • ,Law,1847-01-02,1847-12-31,2
- • Political Upheavals • ,Shays's Rebellion,1786-01-02,1788-12-31,0
- • Political Upheavals • ,Shays's Rebellion,1837-01-02,1837-12-31,0
- • Political Upheavals • ,Shays's Rebellion,1839-01-02,1839-12-31,0
- • Political Upheavals • ,Political Upheavals,1786-01-02,1788-12-31
-Shays's Rebellion,Shays's Rebellion,1786-01-02,1788-12-31,27
-Shays's Rebellion,Shays's Rebellion,1837-01-02,1837-12-31,1
-Shays's Rebellion,Shays's Rebellion,1839-01-02,1839-12-31,1
- • Political Upheavals • ,Political Upheavals,1837-01-02,1837-12-31,1
- • Political Upheavals • ,Political Upheavals,1839-01-02,1839-12-31,1
+ • Economics • ,Economics,1801-01-02,1847-12-31,2644
+ • Science and Technology • ,"Topic, Science and Technology",1783-01-02,1783-12-31,0
+ • Science and Technology • ,"Topic, Science and Technology",1803-01-02,1803-12-31,0
+ • Science and Technology • ,"Topic, Science and Technology",1817-01-02,1821-12-31,0
+ • Science and Technology • ,"Topic, Science and Technology",1823-01-02,1823-12-31,0
+ • Science and Technology • ,"Topic, Science and Technology",1825-01-02,1825-12-31,0
+ • Science and Technology • ,"Topic, Science and Technology",1827-01-02,1828-12-31,0
+ • Science and Technology • ,"Topic, Science and Technology",1830-01-02,1838-12-31,0
+ • Science and Technology • ,"Topic, Science and Technology",1843-01-02,1845-12-31,0
+ • Science and Technology • ,"Topic, Science and Technology",1847-01-02,1847-12-31,0
+ • Science and Technology • ,Telegraph,1826-01-02,1826-12-31,0
+ • Science and Technology • ,Telegraph,1841-01-02,1841-12-31,0
+ • Science and Technology • ,Science and Technology,1783-01-02,1783-12-31
+"Topic, Science and Technology","Topic, Science and Technology",1783-01-02,1783-12-31,3
+"Topic, Science and Technology","Topic, Science and Technology",1803-01-02,1803-12-31,6
+"Topic, Science and Technology","Topic, Science and Technology",1817-01-02,1821-12-31,71
+"Topic, Science and Technology","Topic, Science and Technology",1823-01-02,1823-12-31,4
+"Topic, Science and Technology","Topic, Science and Technology",1825-01-02,1825-12-31,1
+"Topic, Science and Technology","Topic, Science and Technology",1827-01-02,1828-12-31,2
+"Topic, Science and Technology","Topic, Science and Technology",1830-01-02,1838-12-31,91
+"Topic, Science and Technology","Topic, Science and Technology",1843-01-02,1845-12-31,27
+"Topic, Science and Technology","Topic, Science and Technology",1847-01-02,1847-12-31,8
+Telegraph,Telegraph,1826-01-02,1826-12-31,1
+Telegraph,Telegraph,1841-01-02,1841-12-31,2
+ • Science and Technology • ,Science and Technology,1803-01-02,1803-12-31,6
+ • Science and Technology • ,Science and Technology,1817-01-02,1821-12-31,110
+ • Science and Technology • ,Science and Technology,1823-01-02,1823-12-31,6
+ • Science and Technology • ,Science and Technology,1825-01-02,1825-12-31,1
+ • Science and Technology • ,Science and Technology,1826-01-02,1826-12-31,2
+ • Science and Technology • ,Science and Technology,1827-01-02,1828-12-31,6
+ • Science and Technology • ,Science and Technology,1830-01-02,1838-12-31,202
+ • Science and Technology • ,Science and Technology,1841-01-02,1841-12-31,17
+ • Science and Technology • ,Science and Technology,1843-01-02,1845-12-31,104
+ • Science and Technology • ,Science and Technology,1847-01-02,1847-12-31,19
  • Indigenous Peoples • ,Native Americans,1786-01-02,1786-12-31,0
  • Indigenous Peoples • ,Native Americans,1793-01-02,1795-12-31,0
  • Indigenous Peoples • ,Native Americans,1803-01-02,1808-12-31,0
@@ -677,83 +1021,6 @@ Indian Removal,Indian Removal,1843-01-02,1843-12-31,1
  • Indigenous Peoples • ,Indigenous Peoples,1803-01-02,1808-12-31,33
  • Indigenous Peoples • ,Indigenous Peoples,1810-01-02,1810-12-31,2
  • Indigenous Peoples • ,Indigenous Peoples,1812-01-02,1847-12-31,866
- • Education • ,Boylston Professor of Rhetoric and Oratory,1805-01-02,1809-12-31,0
- • Education • ,Boylston Professor of Rhetoric and Oratory,1811-01-02,1811-12-31,0
- • Education • ,Boylston Professor of Rhetoric and Oratory,1816-01-02,1816-12-31,0
- • Education • ,Boylston Professor of Rhetoric and Oratory,1830-01-02,1831-12-31,0
- • Education • ,Boylston Professor of Rhetoric and Oratory,1833-01-02,1833-12-31,0
- • Education • ,Boylston Professor of Rhetoric and Oratory,1835-01-02,1835-12-31,0
- • Education • ,Boylston Professor of Rhetoric and Oratory,1844-01-02,1845-12-31,0
- • Education • ,Education,1805-01-02,1809-12-31
-Boylston Professor of Rhetoric and Oratory,Boylston Professor of Rhetoric and Oratory,1805-01-02,1809-12-31,84
-Boylston Professor of Rhetoric and Oratory,Boylston Professor of Rhetoric and Oratory,1811-01-02,1811-12-31,1
-Boylston Professor of Rhetoric and Oratory,Boylston Professor of Rhetoric and Oratory,1816-01-02,1816-12-31,1
-Boylston Professor of Rhetoric and Oratory,Boylston Professor of Rhetoric and Oratory,1830-01-02,1831-12-31,2
-Boylston Professor of Rhetoric and Oratory,Boylston Professor of Rhetoric and Oratory,1833-01-02,1833-12-31,1
-Boylston Professor of Rhetoric and Oratory,Boylston Professor of Rhetoric and Oratory,1835-01-02,1835-12-31,2
-Boylston Professor of Rhetoric and Oratory,Boylston Professor of Rhetoric and Oratory,1844-01-02,1845-12-31,3
- • Education • ,Education,1811-01-02,1811-12-31,1
- • Education • ,Education,1816-01-02,1816-12-31,1
- • Education • ,Education,1830-01-02,1831-12-31,2
- • Education • ,Education,1833-01-02,1833-12-31,1
- • Education • ,Education,1835-01-02,1835-12-31,2
- • Education • ,Education,1844-01-02,1845-12-31,3
- • Territorial Expansionism • ,Territorial Expansion,1797-01-02,1797-12-31,0
- • Territorial Expansionism • ,Territorial Expansion,1818-01-02,1821-12-31,0
- • Territorial Expansionism • ,Territorial Expansion,1826-01-02,1827-12-31,0
- • Territorial Expansionism • ,Territorial Expansion,1835-01-02,1838-12-31,0
- • Territorial Expansionism • ,Territorial Expansion,1842-01-02,1846-12-31,0
- • Territorial Expansionism • ,Louisiana Purchase,1803-01-02,1804-12-31,0
- • Territorial Expansionism • ,Louisiana Purchase,1806-01-02,1806-12-31,0
- • Territorial Expansionism • ,Louisiana Purchase,1811-01-02,1811-12-31,0
- • Territorial Expansionism • ,Louisiana Purchase,1814-01-02,1815-12-31,0
- • Territorial Expansionism • ,Louisiana Purchase,1817-01-02,1824-12-31,0
- • Territorial Expansionism • ,Louisiana Purchase,1827-01-02,1830-12-31,0
- • Territorial Expansionism • ,Louisiana Purchase,1835-01-02,1838-12-31,0
- • Territorial Expansionism • ,Louisiana Purchase,1844-01-02,1846-12-31,0
- • Territorial Expansionism • ,Oregon Country,1817-01-02,1819-12-31,0
- • Territorial Expansionism • ,Oregon Country,1821-01-02,1824-12-31,0
- • Territorial Expansionism • ,Oregon Country,1826-01-02,1826-12-31,0
- • Territorial Expansionism • ,Oregon Country,1828-01-02,1828-12-31,0
- • Territorial Expansionism • ,Oregon Country,1839-01-02,1839-12-31,0
- • Territorial Expansionism • ,Oregon Country,1842-01-02,1846-12-31,0
- • Territorial Expansionism • ,Florida Annexation,1818-01-02,1822-12-31,0
- • Territorial Expansionism • ,Florida Annexation,1830-01-02,1831-12-31,0
- • Territorial Expansionism • ,Florida Annexation,1838-01-02,1838-12-31,0
- • Territorial Expansionism • ,Florida Annexation,1844-01-02,1844-12-31,0
- • Territorial Expansionism • ,Territorial Expansionism,1797-01-02,1797-12-31
-Territorial Expansion,Territorial Expansion,1797-01-02,1797-12-31,1
-Territorial Expansion,Territorial Expansion,1818-01-02,1821-12-31,16
-Territorial Expansion,Territorial Expansion,1826-01-02,1827-12-31,4
-Territorial Expansion,Territorial Expansion,1835-01-02,1838-12-31,20
-Territorial Expansion,Territorial Expansion,1842-01-02,1846-12-31,9
-Louisiana Purchase,Louisiana Purchase,1803-01-02,1804-12-31,16
-Louisiana Purchase,Louisiana Purchase,1806-01-02,1806-12-31,1
-Louisiana Purchase,Louisiana Purchase,1811-01-02,1811-12-31,1
-Louisiana Purchase,Louisiana Purchase,1814-01-02,1815-12-31,4
-Louisiana Purchase,Louisiana Purchase,1817-01-02,1824-12-31,46
-Louisiana Purchase,Louisiana Purchase,1827-01-02,1830-12-31,5
-Louisiana Purchase,Louisiana Purchase,1835-01-02,1838-12-31,7
-Louisiana Purchase,Louisiana Purchase,1844-01-02,1846-12-31,8
-Oregon Country,Oregon Country,1817-01-02,1819-12-31,14
-Oregon Country,Oregon Country,1821-01-02,1824-12-31,39
-Oregon Country,Oregon Country,1826-01-02,1826-12-31,3
-Oregon Country,Oregon Country,1828-01-02,1828-12-31,1
-Oregon Country,Oregon Country,1839-01-02,1839-12-31,2
-Oregon Country,Oregon Country,1842-01-02,1846-12-31,105
-Florida Annexation,Florida Annexation,1818-01-02,1822-12-31,134
-Florida Annexation,Florida Annexation,1830-01-02,1831-12-31,5
-Florida Annexation,Florida Annexation,1838-01-02,1838-12-31,1
-Florida Annexation,Florida Annexation,1844-01-02,1844-12-31,9
- • Territorial Expansionism • ,Territorial Expansionism,1803-01-02,1804-12-31,16
- • Territorial Expansionism • ,Territorial Expansionism,1806-01-02,1806-12-31,1
- • Territorial Expansionism • ,Territorial Expansionism,1811-01-02,1811-12-31,1
- • Territorial Expansionism • ,Territorial Expansionism,1814-01-02,1815-12-31,4
- • Territorial Expansionism • ,Territorial Expansionism,1817-01-02,1824-12-31,640
- • Territorial Expansionism • ,Territorial Expansionism,1826-01-02,1831-12-31,22
- • Territorial Expansionism • ,Territorial Expansionism,1835-01-02,1838-12-31,60
- • Territorial Expansionism • ,Territorial Expansionism,1839-01-02,1839-12-31,2
- • Territorial Expansionism • ,Territorial Expansionism,1842-01-02,1846-12-31,280
  • International Relations • ,European Alliances,1779-01-02,1779-12-31,0
  • International Relations • ,European Alliances,1810-01-02,1810-12-31,0
  • International Relations • ,European Alliances,1812-01-02,1813-12-31,0
@@ -846,7 +1113,7 @@ Diplomacy,Diplomacy,1847-01-02,1847-12-31,1
 Foreign Relations,Foreign Relations,1798-01-02,1798-12-31,8
 Foreign Relations,Foreign Relations,1808-01-02,1808-12-31,3
 Foreign Relations,Foreign Relations,1810-01-02,1814-12-31,38
-Foreign Relations,Foreign Relations,1816-01-02,1839-12-31,912
+Foreign Relations,Foreign Relations,1816-01-02,1839-12-31,914
 Foreign Relations,Foreign Relations,1843-01-02,1845-12-31,75
 XYZ Affair,XYZ Affair,1798-01-02,1798-12-31,1
 Prussian-American Treaty of Amity and Commerce,Prussian-American Treaty of Amity and Commerce,1799-01-02,1799-12-31,23
@@ -869,173 +1136,63 @@ Treaty of Ghent,Treaty of Ghent,1833-01-02,1835-12-31,5
 Treaty of Ghent,Treaty of Ghent,1837-01-02,1839-12-31,5
 Treaty of Ghent,Treaty of Ghent,1842-01-02,1843-12-31,2
 Treaty of Ghent,Treaty of Ghent,1845-01-02,1846-12-31,4
-Adams-Onis Treaty,Adams-Onis Treaty,1817-01-02,1825-12-31,259
+Adams-Onis Treaty,Adams-Onis Treaty,1817-01-02,1825-12-31,261
 Adams-Onis Treaty,Adams-Onis Treaty,1838-01-02,1838-12-31,1
 Adams-Onis Treaty,Adams-Onis Treaty,1844-01-02,1846-12-31,8
 Convention of 1818,Convention of 1818,1818-01-02,1818-12-31,2
 Monroe Doctrine,Monroe Doctrine,1823-01-02,1824-12-31,16
 Amistad,Amistad,1839-01-02,1845-12-31,125
 Amistad,Amistad,1847-01-02,1847-12-31,1
-Webster-Ashburton Treaty,Webster-Ashburton Treaty,1842-01-02,1847-12-31,47
+Webster-Ashburton Treaty,Webster-Ashburton Treaty,1842-01-02,1847-12-31,49
  • International Relations • ,International Relations,1783-01-02,1783-12-31,2
  • International Relations • ,International Relations,1794-01-02,1796-12-31,14
- • International Relations • ,International Relations,1797-01-02,1801-12-31,202
+ • International Relations • ,International Relations,1797-01-02,1801-12-31,203
  • International Relations • ,International Relations,1803-01-02,1803-12-31,1
  • International Relations • ,International Relations,1804-01-02,1804-12-31,2
  • International Relations • ,International Relations,1805-01-02,1805-12-31,1
- • International Relations • ,International Relations,1807-01-02,1847-12-31,2583
- • Personal Relationships • ,Courtship and Marriage of JQA and LCA,1796-01-02,1797-12-31,0
- • Personal Relationships • ,Courtship and Marriage of JQA and LCA,1844-01-02,1845-12-31,0
- • Personal Relationships • ,Personal Relationships,1796-01-02,1797-12-31
-Courtship and Marriage of JQA and LCA,Courtship and Marriage of JQA and LCA,1796-01-02,1797-12-31,23
-Courtship and Marriage of JQA and LCA,Courtship and Marriage of JQA and LCA,1844-01-02,1845-12-31,3
- • Personal Relationships • ,Personal Relationships,1844-01-02,1845-12-31,29
- • Political Groups • ,Loyalists,1785-01-02,1785-12-31,0
- • Political Groups • ,Loyalists,1787-01-02,1788-12-31,0
- • Political Groups • ,Loyalists,1840-01-02,1840-12-31,0
- • Political Groups • ,Anti-Federalists,1788-01-02,1788-12-31,0
- • Political Groups • ,Federalist Party,1795-01-02,1795-12-31,0
- • Political Groups • ,Federalist Party,1802-01-02,1809-12-31,0
- • Political Groups • ,Federalist Party,1811-01-02,1812-12-31,0
- • Political Groups • ,Federalist Party,1828-01-02,1831-12-31,0
- • Political Groups • ,Federalist Party,1833-01-02,1835-12-31,0
- • Political Groups • ,Federalist Party,1837-01-02,1838-12-31,0
- • Political Groups • ,Federalist Party,1840-01-02,1841-12-31,0
- • Political Groups • ,Federalist Party,1845-01-02,1845-12-31,0
- • Political Groups • ,Democratic-Republican Party,1803-01-02,1806-12-31,0
- • Political Groups • ,Democratic-Republican Party,1808-01-02,1808-12-31,0
- • Political Groups • ,Democratic-Republican Party,1818-01-02,1818-12-31,0
- • Political Groups • ,Democratic-Republican Party,1822-01-02,1824-12-31,0
- • Political Groups • ,Democratic-Republican Party,1830-01-02,1830-12-31,0
- • Political Groups • ,Democratic-Republican Party,1832-01-02,1833-12-31,0
- • Political Groups • ,Democratic-Republican Party,1835-01-02,1835-12-31,0
- • Political Groups • ,Essex Junto,1808-01-02,1808-12-31,0
- • Political Groups • ,Essex Junto,1830-01-02,1830-12-31,0
- • Political Groups • ,Essex Junto,1833-01-02,1833-12-31,0
- • Political Groups • ,Hartford Convention,1814-01-02,1815-12-31,0
- • Political Groups • ,Hartford Convention,1828-01-02,1830-12-31,0
- • Political Groups • ,Hartford Convention,1833-01-02,1836-12-31,0
- • Political Groups • ,Hartford Convention,1840-01-02,1841-12-31,0
- • Political Groups • ,Hartford Convention,1845-01-02,1846-12-31,0
- • Political Groups • ,Anti-Masonic Party,1827-01-02,1839-12-31,0
- • Political Groups • ,Anti-Masonic Party,1841-01-02,1841-12-31,0
- • Political Groups • ,Democratic Party,1830-01-02,1830-12-31,0
- • Political Groups • ,Democratic Party,1834-01-02,1846-12-31,0
- • Political Groups • ,National Republican Party,1830-01-02,1834-12-31,0
- • Political Groups • ,Whig Party,1834-01-02,1847-12-31,0
- • Political Groups • ,American Party,1846-01-02,1846-12-31,0
- • Political Groups • ,Political Groups,1785-01-02,1785-12-31
-Loyalists,Loyalists,1785-01-02,1785-12-31,1
-Loyalists,Loyalists,1787-01-02,1788-12-31,2
-Loyalists,Loyalists,1840-01-02,1840-12-31,5
-Anti-Federalists,Anti-Federalists,1788-01-02,1788-12-31,9
-Federalist Party,Federalist Party,1795-01-02,1795-12-31,1
-Federalist Party,Federalist Party,1802-01-02,1809-12-31,20
-Federalist Party,Federalist Party,1811-01-02,1812-12-31,4
-Federalist Party,Federalist Party,1828-01-02,1831-12-31,16
-Federalist Party,Federalist Party,1833-01-02,1835-12-31,4
-Federalist Party,Federalist Party,1837-01-02,1838-12-31,3
-Federalist Party,Federalist Party,1840-01-02,1841-12-31,4
-Federalist Party,Federalist Party,1845-01-02,1845-12-31,2
-Democratic-Republican Party,Democratic-Republican Party,1803-01-02,1806-12-31,13
-Democratic-Republican Party,Democratic-Republican Party,1808-01-02,1808-12-31,8
-Democratic-Republican Party,Democratic-Republican Party,1818-01-02,1818-12-31,1
-Democratic-Republican Party,Democratic-Republican Party,1822-01-02,1824-12-31,8
-Democratic-Republican Party,Democratic-Republican Party,1830-01-02,1830-12-31,1
-Democratic-Republican Party,Democratic-Republican Party,1832-01-02,1833-12-31,2
-Democratic-Republican Party,Democratic-Republican Party,1835-01-02,1835-12-31,1
-Essex Junto,Essex Junto,1808-01-02,1808-12-31,1
-Essex Junto,Essex Junto,1830-01-02,1830-12-31,1
-Essex Junto,Essex Junto,1833-01-02,1833-12-31,1
-Hartford Convention,Hartford Convention,1814-01-02,1815-12-31,2
-Hartford Convention,Hartford Convention,1828-01-02,1830-12-31,9
-Hartford Convention,Hartford Convention,1833-01-02,1836-12-31,5
-Hartford Convention,Hartford Convention,1840-01-02,1841-12-31,3
-Hartford Convention,Hartford Convention,1845-01-02,1846-12-31,2
-Anti-Masonic Party,Anti-Masonic Party,1827-01-02,1839-12-31,160
-Anti-Masonic Party,Anti-Masonic Party,1841-01-02,1841-12-31,2
-Democratic Party,Democratic Party,1830-01-02,1830-12-31,2
-Democratic Party,Democratic Party,1834-01-02,1846-12-31,82
-National Republican Party,National Republican Party,1830-01-02,1834-12-31,42
-Whig Party,Whig Party,1834-01-02,1847-12-31,276
-American Party,American Party,1846-01-02,1846-12-31,2
- • Political Groups • ,Political Groups,1787-01-02,1788-12-31,11
- • Political Groups • ,Political Groups,1795-01-02,1795-12-31,1
- • Political Groups • ,Political Groups,1802-01-02,1809-12-31,42
- • Political Groups • ,Political Groups,1811-01-02,1812-12-31,4
- • Political Groups • ,Political Groups,1814-01-02,1815-12-31,2
- • Political Groups • ,Political Groups,1818-01-02,1818-12-31,1
- • Political Groups • ,Political Groups,1822-01-02,1824-12-31,8
- • Political Groups • ,Political Groups,1827-01-02,1847-12-31,625
- • Family • ,Family Relations (Adams Family),1785-01-02,1787-12-31,0
- • Family • ,Family Relations (Adams Family),1801-01-02,1801-12-31,0
- • Family • ,Family Relations (Adams Family),1803-01-02,1803-12-31,0
- • Family • ,Family Relations (Adams Family),1805-01-02,1805-12-31,0
- • Family • ,Family Relations (Adams Family),1807-01-02,1807-12-31,0
- • Family • ,Family Relations (Adams Family),1813-01-02,1813-12-31,0
- • Family • ,Family Relations (Adams Family),1817-01-02,1821-12-31,0
- • Family • ,Family Relations (Adams Family),1823-01-02,1823-12-31,0
- • Family • ,Family Relations (Adams Family),1826-01-02,1836-12-31,0
- • Family • ,Family Relations (Adams Family),1838-01-02,1838-12-31,0
- • Family • ,Family Relations (Adams Family),1840-01-02,1840-12-31,0
- • Family • ,Family Relations (Adams Family),1843-01-02,1845-12-31,0
- • Family • ,Family Relations (Adams Family),1847-01-02,1847-12-31,0
- • Family • ,Family Residences (Adams Family),1785-01-02,1785-12-31,0
- • Family • ,Family Residences (Adams Family),1797-01-02,1798-12-31,0
- • Family • ,Family Residences (Adams Family),1800-01-02,1803-12-31,0
- • Family • ,Family Residences (Adams Family),1805-01-02,1812-12-31,0
- • Family • ,Family Residences (Adams Family),1815-01-02,1821-12-31,0
- • Family • ,Family Residences (Adams Family),1823-01-02,1827-12-31,0
- • Family • ,Family Residences (Adams Family),1829-01-02,1838-12-31,0
- • Family • ,Family Residences (Adams Family),1840-01-02,1840-12-31,0
- • Family • ,Family Residences (Adams Family),1842-01-02,1842-12-31,0
- • Family • ,Family Residences (Adams Family),1844-01-02,1845-12-31,0
- • Family • ,Family Residences (Adams Family),1847-01-02,1847-12-31,0
- • Family • ,Family,1785-01-02,1787-12-31
-Family Relations (Adams Family),Family Relations (Adams Family),1785-01-02,1787-12-31,8
-Family Relations (Adams Family),Family Relations (Adams Family),1801-01-02,1801-12-31,1
-Family Relations (Adams Family),Family Relations (Adams Family),1803-01-02,1803-12-31,1
-Family Relations (Adams Family),Family Relations (Adams Family),1805-01-02,1805-12-31,2
-Family Relations (Adams Family),Family Relations (Adams Family),1807-01-02,1807-12-31,3
-Family Relations (Adams Family),Family Relations (Adams Family),1813-01-02,1813-12-31,6
-Family Relations (Adams Family),Family Relations (Adams Family),1817-01-02,1821-12-31,65
-Family Relations (Adams Family),Family Relations (Adams Family),1823-01-02,1823-12-31,8
-Family Relations (Adams Family),Family Relations (Adams Family),1826-01-02,1836-12-31,106
-Family Relations (Adams Family),Family Relations (Adams Family),1838-01-02,1838-12-31,2
-Family Relations (Adams Family),Family Relations (Adams Family),1840-01-02,1840-12-31,1
-Family Relations (Adams Family),Family Relations (Adams Family),1843-01-02,1845-12-31,42
-Family Relations (Adams Family),Family Relations (Adams Family),1847-01-02,1847-12-31,3
-Family Residences (Adams Family),Family Residences (Adams Family),1785-01-02,1785-12-31,2
-Family Residences (Adams Family),Family Residences (Adams Family),1797-01-02,1798-12-31,8
-Family Residences (Adams Family),Family Residences (Adams Family),1800-01-02,1803-12-31,7
-Family Residences (Adams Family),Family Residences (Adams Family),1805-01-02,1812-12-31,44
-Family Residences (Adams Family),Family Residences (Adams Family),1815-01-02,1821-12-31,135
-Family Residences (Adams Family),Family Residences (Adams Family),1823-01-02,1827-12-31,28
-Family Residences (Adams Family),Family Residences (Adams Family),1829-01-02,1838-12-31,90
-Family Residences (Adams Family),Family Residences (Adams Family),1840-01-02,1840-12-31,1
-Family Residences (Adams Family),Family Residences (Adams Family),1842-01-02,1842-12-31,1
-Family Residences (Adams Family),Family Residences (Adams Family),1844-01-02,1845-12-31,11
-Family Residences (Adams Family),Family Residences (Adams Family),1847-01-02,1847-12-31,8
- • Family • ,Family,1797-01-02,1798-12-31,8
- • Family • ,Family,1800-01-02,1803-12-31,47
- • Family • ,Family,1805-01-02,1812-12-31,62
- • Family • ,Family,1813-01-02,1813-12-31,6
- • Family • ,Family,1815-01-02,1821-12-31,375
- • Family • ,Family,1823-01-02,1838-12-31,760
- • Family • ,Family,1840-01-02,1840-12-31,8
- • Family • ,Family,1842-01-02,1842-12-31,13
- • Family • ,Family,1843-01-02,1845-12-31,143
- • Family • ,Family,1847-01-02,1847-12-31,40
- • Slavery and Enslaved People • ,"Topic, Slavery and Enslaved Persons",1785-01-02,1785-12-31,0
- • Slavery and Enslaved People • ,"Topic, Slavery and Enslaved Persons",1795-01-02,1795-12-31,0
- • Slavery and Enslaved People • ,"Topic, Slavery and Enslaved Persons",1817-01-02,1828-12-31,0
- • Slavery and Enslaved People • ,"Topic, Slavery and Enslaved Persons",1830-01-02,1847-12-31,0
- • Slavery and Enslaved People • ,Pro-Slavery Movements,1820-01-02,1821-12-31,0
- • Slavery and Enslaved People • ,Texas Annexation,1820-01-02,1820-12-31,0
- • Slavery and Enslaved People • ,Texas Annexation,1838-01-02,1838-12-31,0
- • Slavery and Enslaved People • ,Texas Annexation,1841-01-02,1846-12-31,0
- • Slavery and Enslaved People • ,Wilmot Proviso,1846-01-02,1846-12-31,0
- • Slavery and Enslaved People • ,Slavery and Enslaved People,1785-01-02,1785-12-31
+ • International Relations • ,International Relations,1807-01-02,1847-12-31,2590
+ • Religion • ,"Topic, Religion",1779-01-02,1783-12-31,0
+ • Religion • ,"Topic, Religion",1785-01-02,1788-12-31,0
+ • Religion • ,"Topic, Religion",1797-01-02,1797-12-31,0
+ • Religion • ,"Topic, Religion",1799-01-02,1799-12-31,0
+ • Religion • ,"Topic, Religion",1801-01-02,1801-12-31,0
+ • Religion • ,"Topic, Religion",1803-01-02,1822-12-31,0
+ • Religion • ,"Topic, Religion",1826-01-02,1848-12-31,0
+ • Religion • ,Unitarianism,1816-01-02,1817-12-31,0
+ • Religion • ,Unitarianism,1821-01-02,1838-12-31,0
+ • Religion • ,Unitarianism,1843-01-02,1845-12-31,0
+ • Religion • ,Unitarianism,1847-01-02,1847-12-31,0
+ • Religion • ,Second Great Awakening,1821-01-02,1821-12-31,0
+ • Religion • ,Church of Jesus Christ of Latter-day Saints,1844-01-02,1844-12-31,0
+ • Religion • ,Religion,1779-01-02,1783-12-31
+"Topic, Religion","Topic, Religion",1779-01-02,1783-12-31,23
+"Topic, Religion","Topic, Religion",1785-01-02,1788-12-31,169
+"Topic, Religion","Topic, Religion",1797-01-02,1797-12-31,1
+"Topic, Religion","Topic, Religion",1799-01-02,1799-12-31,2
+"Topic, Religion","Topic, Religion",1801-01-02,1801-12-31,5
+"Topic, Religion","Topic, Religion",1803-01-02,1822-12-31,257
+"Topic, Religion","Topic, Religion",1826-01-02,1848-12-31,1398
+Unitarianism,Unitarianism,1816-01-02,1817-12-31,4
+Unitarianism,Unitarianism,1821-01-02,1838-12-31,96
+Unitarianism,Unitarianism,1843-01-02,1845-12-31,16
+Unitarianism,Unitarianism,1847-01-02,1847-12-31,13
+Second Great Awakening,Second Great Awakening,1821-01-02,1821-12-31,2
+Church of Jesus Christ of Latter-day Saints,Church of Jesus Christ of Latter-day Saints,1844-01-02,1844-12-31,4
+ • Religion • ,Religion,1785-01-02,1788-12-31,169
+ • Religion • ,Religion,1797-01-02,1797-12-31,1
+ • Religion • ,Religion,1799-01-02,1799-12-31,2
+ • Religion • ,Religion,1801-01-02,1801-12-31,5
+ • Religion • ,Religion,1803-01-02,1848-12-31,1790
+ • Slavery and Enslaved Persons • ,"Topic, Slavery and Enslaved Persons",1785-01-02,1785-12-31,0
+ • Slavery and Enslaved Persons • ,"Topic, Slavery and Enslaved Persons",1795-01-02,1795-12-31,0
+ • Slavery and Enslaved Persons • ,"Topic, Slavery and Enslaved Persons",1817-01-02,1828-12-31,0
+ • Slavery and Enslaved Persons • ,"Topic, Slavery and Enslaved Persons",1830-01-02,1847-12-31,0
+ • Slavery and Enslaved Persons • ,Pro-Slavery Movements,1820-01-02,1821-12-31,0
+ • Slavery and Enslaved Persons • ,Texas Annexation,1820-01-02,1820-12-31,0
+ • Slavery and Enslaved Persons • ,Texas Annexation,1838-01-02,1838-12-31,0
+ • Slavery and Enslaved Persons • ,Texas Annexation,1841-01-02,1846-12-31,0
+ • Slavery and Enslaved Persons • ,Wilmot Proviso,1846-01-02,1846-12-31,0
+ • Slavery and Enslaved Persons • ,Slavery and Enslaved Persons,1785-01-02,1785-12-31
 "Topic, Slavery and Enslaved Persons","Topic, Slavery and Enslaved Persons",1785-01-02,1785-12-31,1
 "Topic, Slavery and Enslaved Persons","Topic, Slavery and Enslaved Persons",1795-01-02,1795-12-31,1
 "Topic, Slavery and Enslaved Persons","Topic, Slavery and Enslaved Persons",1817-01-02,1828-12-31,140
@@ -1045,166 +1202,6 @@ Texas Annexation,Texas Annexation,1820-01-02,1820-12-31,8
 Texas Annexation,Texas Annexation,1838-01-02,1838-12-31,26
 Texas Annexation,Texas Annexation,1841-01-02,1846-12-31,141
 Wilmot Proviso,Wilmot Proviso,1846-01-02,1846-12-31,2
- • Slavery and Enslaved People • ,Slavery and Enslaved People,1795-01-02,1795-12-31,1
- • Slavery and Enslaved People • ,Slavery and Enslaved People,1817-01-02,1828-12-31,396
- • Slavery and Enslaved People • ,Slavery and Enslaved People,1830-01-02,1847-12-31,1084
- • Migration • ,Colonization Movements,1817-01-02,1829-12-31,0
- • Migration • ,Colonization Movements,1831-01-02,1833-12-31,0
- • Migration • ,Colonization Movements,1835-01-02,1839-12-31,0
- • Migration • ,Colonization Movements,1841-01-02,1845-12-31,0
- • Migration • ,Immigration,1817-01-02,1820-12-31,0
- • Migration • ,Migration,1817-01-02,1829-12-31
-Colonization Movements,Colonization Movements,1817-01-02,1829-12-31,38
-Colonization Movements,Colonization Movements,1831-01-02,1833-12-31,10
-Colonization Movements,Colonization Movements,1835-01-02,1839-12-31,15
-Colonization Movements,Colonization Movements,1841-01-02,1845-12-31,12
-Immigration,Immigration,1817-01-02,1820-12-31,25
- • Migration • ,Migration,1831-01-02,1833-12-31,10
- • Migration • ,Migration,1835-01-02,1839-12-31,15
- • Migration • ,Migration,1841-01-02,1845-12-31,12
- • Elections • ,"Elections, Presidential 1796",1797-01-02,1797-12-31,0
- • Elections • ,"Elections, Presidential 1800",1801-01-02,1801-12-31,0
- • Elections • ,"Elections, Presidential 1808",1807-01-02,1809-12-31,0
- • Elections • ,"Elections, Presidential 1812",1812-01-02,1813-12-31,0
- • Elections • ,"Elections, Presidential 1812",1820-01-02,1820-12-31,0
- • Elections • ,"Elections, Presidential 1812",1828-01-02,1828-12-31,0
- • Elections • ,"Elections, Presidential 1816",1816-01-02,1816-12-31,0
- • Elections • ,"Elections, Presidential 1816",1822-01-02,1822-12-31,0
- • Elections • ,"Elections, Presidential 1816",1824-01-02,1824-12-31,0
- • Elections • ,"Elections, Presidential 1820",1818-01-02,1821-12-31,0
- • Elections • ,"Elections, Presidential 1820",1845-01-02,1845-12-31,0
- • Elections • ,"Elections, Presidential 1824",1819-01-02,1826-12-31,0
- • Elections • ,"Elections, Presidential 1824",1828-01-02,1828-12-31,0
- • Elections • ,"Elections, Presidential 1824",1831-01-02,1831-12-31,0
- • Elections • ,"Elections, Presidential 1824",1845-01-02,1845-12-31,0
- • Elections • ,"Elections, Presidential 1828",1827-01-02,1829-12-31,0
- • Elections • ,"Elections, Presidential 1828",1831-01-02,1831-12-31,0
- • Elections • ,"Elections, Presidential 1828",1835-01-02,1835-12-31,0
- • Elections • ,"Elections, Presidential 1832",1828-01-02,1834-12-31,0
- • Elections • ,"Elections, Presidential 1836",1833-01-02,1837-12-31,0
- • Elections • ,"Elections, Presidential 1836",1839-01-02,1840-12-31,0
- • Elections • ,"Elections, Presidential 1840",1837-01-02,1841-12-31,0
- • Elections • ,"Elections, Presidential 1844",1843-01-02,1846-12-31,0
- • Elections • ,"Elections, Presidential 1848",1847-01-02,1847-12-31,0
- • Elections • ,Elections,1797-01-02,1797-12-31
-"Elections, Presidential 1796","Elections, Presidential 1796",1797-01-02,1797-12-31,1
-"Elections, Presidential 1800","Elections, Presidential 1800",1801-01-02,1801-12-31,2
-"Elections, Presidential 1808","Elections, Presidential 1808",1807-01-02,1809-12-31,16
-"Elections, Presidential 1812","Elections, Presidential 1812",1812-01-02,1813-12-31,5
-"Elections, Presidential 1812","Elections, Presidential 1812",1820-01-02,1820-12-31,1
-"Elections, Presidential 1812","Elections, Presidential 1812",1828-01-02,1828-12-31,1
-"Elections, Presidential 1816","Elections, Presidential 1816",1816-01-02,1816-12-31,3
-"Elections, Presidential 1816","Elections, Presidential 1816",1822-01-02,1822-12-31,1
-"Elections, Presidential 1816","Elections, Presidential 1816",1824-01-02,1824-12-31,1
-"Elections, Presidential 1820","Elections, Presidential 1820",1818-01-02,1821-12-31,26
-"Elections, Presidential 1820","Elections, Presidential 1820",1845-01-02,1845-12-31,1
-"Elections, Presidential 1824","Elections, Presidential 1824",1819-01-02,1826-12-31,193
-"Elections, Presidential 1824","Elections, Presidential 1824",1828-01-02,1828-12-31,1
-"Elections, Presidential 1824","Elections, Presidential 1824",1831-01-02,1831-12-31,1
-"Elections, Presidential 1824","Elections, Presidential 1824",1845-01-02,1845-12-31,1
-"Elections, Presidential 1828","Elections, Presidential 1828",1827-01-02,1829-12-31,22
-"Elections, Presidential 1828","Elections, Presidential 1828",1831-01-02,1831-12-31,5
-"Elections, Presidential 1828","Elections, Presidential 1828",1835-01-02,1835-12-31,1
-"Elections, Presidential 1832","Elections, Presidential 1832",1828-01-02,1834-12-31,67
-"Elections, Presidential 1836","Elections, Presidential 1836",1833-01-02,1837-12-31,57
-"Elections, Presidential 1836","Elections, Presidential 1836",1839-01-02,1840-12-31,2
-"Elections, Presidential 1840","Elections, Presidential 1840",1837-01-02,1841-12-31,32
-"Elections, Presidential 1844","Elections, Presidential 1844",1843-01-02,1846-12-31,39
-"Elections, Presidential 1848","Elections, Presidential 1848",1847-01-02,1847-12-31,2
- • Elections • ,Elections,1801-01-02,1801-12-31,2
- • Elections • ,Elections,1807-01-02,1809-12-31,16
- • Elections • ,Elections,1812-01-02,1813-12-31,5
- • Elections • ,Elections,1816-01-02,1816-12-31,3
- • Elections • ,Elections,1818-01-02,1826-12-31,222
- • Elections • ,Elections,1827-01-02,1841-12-31,189
- • Elections • ,Elections,1843-01-02,1846-12-31,41
- • Elections • ,Elections,1847-01-02,1847-12-31,2
- • Identity • ,Sectionalism,1814-01-02,1814-12-31,0
- • Identity • ,Sectionalism,1816-01-02,1826-12-31,0
- • Identity • ,Sectionalism,1828-01-02,1829-12-31,0
- • Identity • ,Sectionalism,1838-01-02,1838-12-31,0
- • Identity • ,Sectionalism,1841-01-02,1842-12-31,0
- • Identity • ,"West, The",1817-01-02,1821-12-31,0
- • Identity • ,"West, The",1827-01-02,1827-12-31,0
- • Identity • ,"South, The",1819-01-02,1820-12-31,0
- • Identity • ,"South, The",1831-01-02,1833-12-31,0
- • Identity • ,"South, The",1835-01-02,1838-12-31,0
- • Identity • ,Identity,1814-01-02,1814-12-31
-Sectionalism,Sectionalism,1814-01-02,1814-12-31,3
-Sectionalism,Sectionalism,1816-01-02,1826-12-31,70
-Sectionalism,Sectionalism,1828-01-02,1829-12-31,6
-Sectionalism,Sectionalism,1838-01-02,1838-12-31,4
-Sectionalism,Sectionalism,1841-01-02,1842-12-31,7
-"West, The","West, The",1817-01-02,1821-12-31,57
-"West, The","West, The",1827-01-02,1827-12-31,1
-"South, The","South, The",1819-01-02,1820-12-31,15
-"South, The","South, The",1831-01-02,1833-12-31,7
-"South, The","South, The",1835-01-02,1838-12-31,20
- • Identity • ,Identity,1816-01-02,1826-12-31,142
- • Identity • ,Identity,1827-01-02,1827-12-31,1
- • Identity • ,Identity,1828-01-02,1829-12-31,6
- • Identity • ,Identity,1831-01-02,1833-12-31,7
- • Identity • ,Identity,1835-01-02,1838-12-31,24
- • Identity • ,Identity,1841-01-02,1842-12-31,7
- • Publications and Press • ,Press,1808-01-02,1808-12-31,0
- • Publications and Press • ,Press,1817-01-02,1823-12-31,0
- • Publications and Press • ,Press,1830-01-02,1839-12-31,0
- • Publications and Press • ,Press,1843-01-02,1845-12-31,0
- • Publications and Press • ,Press,1847-01-02,1847-12-31,0
- • Publications and Press • ,Publications and Press,1808-01-02,1808-12-31
-Press,Press,1808-01-02,1808-12-31,1
-Press,Press,1817-01-02,1823-12-31,131
-Press,Press,1830-01-02,1839-12-31,366
-Press,Press,1843-01-02,1845-12-31,163
-Press,Press,1847-01-02,1847-12-31,6
- • Publications and Press • ,Publications and Press,1817-01-02,1823-12-31,131
- • Publications and Press • ,Publications and Press,1830-01-02,1839-12-31,372
- • Publications and Press • ,Publications and Press,1843-01-02,1845-12-31,163
- • Publications and Press • ,Publications and Press,1847-01-02,1847-12-31,6
- • Society • ,Dueling,1786-01-02,1786-12-31,0
- • Society • ,Dueling,1796-01-02,1796-12-31,0
- • Society • ,Dueling,1804-01-02,1806-12-31,0
- • Society • ,Dueling,1808-01-02,1809-12-31,0
- • Society • ,Dueling,1811-01-02,1816-12-31,0
- • Society • ,Dueling,1818-01-02,1825-12-31,0
- • Society • ,Dueling,1827-01-02,1831-12-31,0
- • Society • ,Dueling,1835-01-02,1846-12-31,0
- • Society • ,Society,1786-01-02,1786-12-31
-Dueling,Dueling,1786-01-02,1786-12-31,1
-Dueling,Dueling,1796-01-02,1796-12-31,1
-Dueling,Dueling,1804-01-02,1806-12-31,4
-Dueling,Dueling,1808-01-02,1809-12-31,4
-Dueling,Dueling,1811-01-02,1816-12-31,9
-Dueling,Dueling,1818-01-02,1825-12-31,36
-Dueling,Dueling,1827-01-02,1831-12-31,17
-Dueling,Dueling,1835-01-02,1846-12-31,76
- • Society • ,Society,1796-01-02,1796-12-31,245
- • Society • ,Society,1804-01-02,1806-12-31,72
- • Society • ,Society,1808-01-02,1809-12-31,83
- • Society • ,Society,1811-01-02,1816-12-31,493
- • Society • ,Society,1818-01-02,1825-12-31,634
- • Society • ,Society,1827-01-02,1831-12-31,768
- • Society • ,Society,1835-01-02,1846-12-31,506
- • Culture • ,"Court Life and Society, European",1797-01-02,1801-12-31,0
- • Culture • ,"Court Life and Society, European",1809-01-02,1817-12-31,0
- • Culture • ,Utopian Communities,1817-01-02,1817-12-31,0
- • Culture • ,Utopian Communities,1819-01-02,1819-12-31,0
- • Culture • ,Utopian Communities,1824-01-02,1825-12-31,0
- • Culture • ,Utopian Communities,1844-01-02,1844-12-31,0
- • Culture • ,Smithsonian Institution,1835-01-02,1847-12-31,0
- • Culture • ,Transcendentalism,1840-01-02,1840-12-31,0
- • Culture • ,Transcendentalism,1846-01-02,1846-12-31,0
- • Culture • ,Culture,1797-01-02,1801-12-31
-"Court Life and Society, European","Court Life and Society, European",1797-01-02,1801-12-31,119
-"Court Life and Society, European","Court Life and Society, European",1809-01-02,1817-12-31,159
-Utopian Communities,Utopian Communities,1817-01-02,1817-12-31,1
-Utopian Communities,Utopian Communities,1819-01-02,1819-12-31,1
-Utopian Communities,Utopian Communities,1824-01-02,1825-12-31,12
-Utopian Communities,Utopian Communities,1844-01-02,1844-12-31,6
-Smithsonian Institution,Smithsonian Institution,1835-01-02,1847-12-31,184
-Transcendentalism,Transcendentalism,1840-01-02,1840-12-31,7
-Transcendentalism,Transcendentalism,1846-01-02,1846-12-31,1
- • Culture • ,Culture,1809-01-02,1817-12-31,160
- • Culture • ,Culture,1819-01-02,1819-12-31,1
- • Culture • ,Culture,1824-01-02,1825-12-31,12
- • Culture • ,Culture,1835-01-02,1847-12-31,198
+ • Slavery and Enslaved Persons • ,Slavery and Enslaved Persons,1795-01-02,1795-12-31,1
+ • Slavery and Enslaved Persons • ,Slavery and Enslaved Persons,1817-01-02,1828-12-31,464
+ • Slavery and Enslaved Persons • ,Slavery and Enslaved Persons,1830-01-02,1847-12-31,1089

@@ -73,7 +73,7 @@ module.exports = {
                         short_title: "Early Legal Career",
                         icon: "fa-child",
                         date: "(November 1779 - August 1794)",
-                        data_file: "1779-9-1794-8.json",
+                        data_file: "1779-11-1794-8.json",
                         desc: "John Quincy Adams’s (JQA) diary, which was inspired by his father John Adams (JA) and started as a travel journal, initiated a lifelong writing obsession. In 1779, twelve-year-old JQA made his second trip abroad to accompany his father’s diplomatic mission. While in Europe, he attended various schools and traveled to St. Petersburg as an interpreter during Francis Dana’s mission to Russia. He subsequently served as JA’s secretary at Paris during the final months before the Anglo-American Definitive Peace Treaty was signed in September 1783. Two years later, JQA returned to the US. After graduating from Harvard College in 1787, he moved to Newburyport to read law under Theophilus Parsons. In 1790 he established a legal practice in Boston. JQA’s skill as a writer brought him public acclaim, and in 1794 President George Washington nominated him as US minister resident to the Netherlands."
                     },
                     {
