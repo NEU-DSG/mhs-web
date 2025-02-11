@@ -55,6 +55,33 @@ ul.topnav li.right {
   ul.topnav li.right,
   ul.topnav li {
     float: none;
+    width: 100%;
+  }
+
+  .dropdown-content {
+    position: relative;
+    width: 100%;
+    background-color: #547371;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+    position: relative;
+    font-style: italic;
+  }
+
+  .topnav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .topnav li {
+    width: 100%;
+  }
+  
+  .dropdown-content {
+    position: relative;
+    width: 100%;
   }
 }
 
@@ -71,7 +98,6 @@ li a .dropbtn {
   position: absolute;
   background-color: #5A7C77;
   min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1000;
 }
 
@@ -81,6 +107,7 @@ li a .dropbtn {
   text-decoration: none;
   display: block;
   text-align: left;
+  font-style: italic;
 }
 
 .dropdown-content a:hover,
@@ -99,12 +126,21 @@ li a .dropbtn {
   margin-left: 5px;
   vertical-align: middle;
   content: "▼";
-  /* Default downward arrow */
 }
 
 /* Update arrow when dropdown is visible */
 .dropdown:hover>a .dropdown-arrow,
 .dropdown:focus-within>a .dropdown-arrow {
   content: "▲";
-  /* Upward arrow */
+}
+
+#footer-box {
+  height: auto;
+  text-align: center;
+  background-color:#5A7C77;
+  color: #FFF;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 5px;
 }

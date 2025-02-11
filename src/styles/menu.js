@@ -92,7 +92,6 @@ fetch('/data/menudata.json') // Adjust path as necessary
 
         // Create ABOUT US link.
         const about = document.createElement('li');
-        about.setAttribute('class', 'dropdown');
 
         const aboutA = document.createElement('a');
         aboutA.setAttribute('href', '/about/index.html');
