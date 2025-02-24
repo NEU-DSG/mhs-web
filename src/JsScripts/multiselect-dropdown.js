@@ -30,11 +30,12 @@ style.innerHTML = `
 }
 .multiselect-dropdown span.optext .optdel {
   float: right;
-  margin: 0 -6px 1px 5px;
+  padding-left: 0.5em;
+  padding-top: 0.1em;
   font-size: 0.7em;
   margin-top: 2px;
   cursor: pointer;
-  color: #666;
+  color: black;
 }
 .multiselect-dropdown span.optext .optdel:hover { color: #c66;}
 .multiselect-dropdown span.placeholder{

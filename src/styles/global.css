@@ -18,3 +18,20 @@
 .tool-body {
     color: black;
 }
+
+.Filter-Title {
+    color: black;
+}
+
+.subtitle {
+    color: black;
+}
+
+.about-text {
+    display: flex;
+    padding-left: 1rem;
+}
+
+.legend-list {
+    padding-left: 2rem;
+}

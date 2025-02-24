@@ -3,6 +3,7 @@
 {% block head %}
     <title>PSC Lab Space {{ person }} Co-Refs</title>
     <link rel="stylesheet" href="../../../styles/d3-dark.css"></link>
+    <link rel="stylesheet" href="/styles/global.css">
     <link rel="stylesheet" href="../../../styles/slider_styles.css"></link>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
     <link rel="stylesheet" href="../../../styles/tabs-style.css">
@@ -17,7 +18,7 @@
 {% endblock %}
 
 {% block content %}
-    <div style="width: 85%;" class="main-body">
+    <div class="main-body">
 
         <h3 class="subtitle">{{ person }}
             {{built.Btitles["coref"]}}</h3>
@@ -59,12 +60,12 @@
                 <h3 class="subtitle">About</h3>
 
                 <div class="about-holder">
-                    <p style="padding-left: 5%; padding-right: 5%;">
+                    <p class="about-text">
                         Network visualizations showcase the interconnectivity between different entities.
                         Here, they show the co-references of people mentioned in {{ person }}’s diaries.
                     </p>
                     <br>
-                    <ul style="padding-left: 5%; padding-right: 5%;">
+                    <ul class="legend-list">
                         <li>
                             <span>Node:</span> The circles, each representing a different person.</li>
                         <li>
@@ -106,7 +107,7 @@
         <div id="FiltersandTitle">
             <div class="Filter-Title">
                 <br>
-                <h2 style="color: #7a7369;" class="subtitle">Filters</h2>
+                <h2 class="subtitle">Filters</h2>
             </div>
 
             <div id="contains"
@@ -129,12 +130,12 @@
             <div class="Filter-Container" id="Filter-Container">
                 <!-- Modular Slider Builder -->
                 <div class="child">
-                    <h3 style="color: #7a7369;">Community Filter</h3>
-                    <div class="slider" style="color: #7a7369;">
+                    <h3>Community Filter</h3>
+                    <div class="slider">
                         <select name="comms" id="comms" multiple multiselect-search="true" multiselect-select-all="true">
                             <!-- Options for Community Filter -->
                             {% for i in range(0, 21) %}
-                                <option value="{{ i }}.0">{{ i }}</option>
+                                <option class="option" value="{{ i }}.0">{{ i }}</option>
                             {% endfor %}
                         </select>
                     </div>
