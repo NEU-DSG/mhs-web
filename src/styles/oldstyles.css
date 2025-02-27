@@ -92,7 +92,6 @@ img {
 /* General Title styling */
 .title {
     text-align: center;
-
     font-family: 'Playfair Display', serif;
     font-size: 2em;
     color: #242124;
@@ -105,16 +104,8 @@ img {
     font-size: 3em;
     font-weight: bold;
     color: #F36D73;
-    margin-right: -25px;
     line-height: 1;
 }
-
-/* Specific style for the title with id="special-title" */
-#JQA-header::first-letter {
-    margin-right: -10px;
-}
-
-
 
 .subtitle span {
     letter-spacing: 0.02em;

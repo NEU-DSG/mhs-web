@@ -11,7 +11,7 @@
     <div class="main-body">
         <div class="container">
 
-            <img src="/images/bookimages/{{ initials }}.jpg" class="header-image" alt="Example of {{ initials }} data visualization.">
+            <img src="/images/bookimages/{{ initials }}.jpg" class="header-image" alt="Portrait of {{ initials }}">
 
             <h1 id="JQA-header" class="title">{{title}}</h1>
 
@@ -20,6 +20,31 @@
                 <button class="button-1" role="button" onclick="window.location.href = '/{{ kind | lower }}/index.html';">Back to {{ kind }}</button>
             </div>
         </div>
+
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                document.querySelectorAll(".header-image").forEach(img => {
+                    let initials = img.getAttribute("src").match(/\/([^\/]+)\.jpg$/)?.[1]; // Extract initials
+
+                  if (!initials) return;
+
+                  let altText;
+                    if (initials.startsWith("coref")) {
+                     altText = `Example of Coreference Graph`;
+                    } else if (initials.startsWith("geo")) {
+                       altText = `Example of Geo-Reference Graph`;
+                    } else if (initials.starstWith("CMS")) {
+                        altText = `Portrait of Catherine Maria Sedgwick`;
+                    } else if (initials.startsWith("JQA")) {
+                        altText = `Portrait of John Quincy Adams`;
+                    } else if (initials.startsWith("RBT")) {
+                        altText = `Portrait of Roger Brooke Taney`;
+                    }
+
+                 img.setAttribute("alt", altText);
+               });
+          });
+         </script>
         <br>
         <br>
         <br>
