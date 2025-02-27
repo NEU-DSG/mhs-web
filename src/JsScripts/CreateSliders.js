@@ -17,23 +17,32 @@ function SliderHTML(title, step, containerId) {
 
     // Shorthand to keep track of slider values 
     const shortTitle = title.substring(0, 3);
+    const labelId = `${shortTitle}-label`;
 
     const sliderHTML = `
         <div class="child">
-            <h3 style="color: #7a7369;" class="${shortTitle}-filter">${title.charAt(0).toUpperCase() + title.slice(1)} Filter</h3>
+            <h3 id="${labelId}" class="${shortTitle}-filter">
+                ${title.charAt(0).toUpperCase() + title.slice(1)} Filter
+            </h3>
             <div class="${shortTitle}-slider slider">
-                <div class="${shortTitle}-min-value ${shortTitle}-numberVal">
+                <div class="${shortTitle}-min-value ${shortTitle}-numberVal" style="padding: .5rem;">
+                    <label class="visually-hidden" for="${shortTitle}-minnum">Minimum ${title}</label>
                     <input type="number" min="0" max="100" value="25" id="${shortTitle}-minnum" disabled>
                 </div>
                
                 <div class="${shortTitle}-range-slider range-slider">
+                    <div class="slider-track"></div>
                     <div class="${shortTitle}-progress progress"></div>
-                    <input type="range" class="${shortTitle}-range-min" min="0" max="100" value="25" step="${step}" id="${shortTitle}-minrange">
-                    <input type="range" class="${shortTitle}-range-max" min="0" max="100" value="75" step="${step}" id="${shortTitle}-maxrange">
+
+                    <label for="${shortTitle}-minrange" class="visually-hidden">Minimum ${title} Range</label>
+                    <input type="range" class="${shortTitle}-range-min" min="0" max="100" value="25" step="${step}" id="${shortTitle}-minrange" aria-labelledby="${labelId}"">
+                    <label for="${shortTitle}-maxrange" class="visually-hidden">Maximum ${title} Range</label>
+                    <input type="range" class="${shortTitle}-range-max" min="0" max="100" value="75" step="${step}" id="${shortTitle}-maxrange" aria-labelledby="${labelId}">
                 </div>
               
-                <div class="${shortTitle}-max-value ${shortTitle}-numberVal">
-                    <input type="number" min="0" max="100" value="100" id="${shortTitle}-maxnum" disabled>
+                <div class="${shortTitle}-max-value ${shortTitle}-numberVal" style="padding: .5rem;">
+                    <label class="visually-hidden" for="${shortTitle}-maxnum">Maximum ${title}</label>
+                    <input type="number" min="0" max="100" value="100" id="${shortTitle}-maxnum" disabled aria-labelledby="${labelId}">
                 </div>
             </div>
         </div>

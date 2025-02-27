@@ -73,9 +73,6 @@ style.innerHTML = `
 }
 
 .multiselect-dropdown-list div{
-
-
-    
     padding: 5px;
 }
 
@@ -83,15 +80,15 @@ style.innerHTML = `
 .multiselect-dropdown-list input{
   height: 1.15em;
   width: 500px;
-  margin-right: 0.35em;  
+  margin-right: 0.35em;
 }
-.multiselect-dropdown-list div.checked{
+.multiselect-dropdown-list div.checked {
 }
 .multiselect-dropdown-list div:hover{
   background-color: #ced4da;
 }
-.multiselect-dropdown span.maxselected {width:100%;}
-.multiselect-dropdown-all-selector {border-bottom:solid 1px #999;}
+.multiselect-dropdown span.maxselected { width:100%; }
+.multiselect-dropdown-all-selector { border-bottom:solid 1px #999; }
 `;
 document.head.appendChild(style);
 
@@ -140,8 +137,8 @@ function MultiselectDropdown(options) {
       if (el.attributes['multiselect-select-all']?.value == 'true') {
         var op = newEl('div', { class: 'multiselect-dropdown-all-selector' })
         var ic = newEl('input', { type: 'checkbox' });
-        op.appendChild(ic);
         op.appendChild(newEl('label', { text: config.txtAll }));
+        op.appendChild(ic);
 
         op.addEventListener('click', () => {
           op.classList.toggle('checked');
@@ -181,8 +178,8 @@ function MultiselectDropdown(options) {
         if (window.Extent.includes(parseInt(o.value))) {
           var op = newEl('div', { class: o.selected ? 'checked' : '', optEl: o });
           var ic = newEl('input', { type: 'checkbox', checked: false }); // Initially set checked to false
-          op.appendChild(ic);
           op.appendChild(newEl('label', { text: o.text }));
+          op.appendChild(ic);
 
           // Add click event to toggle checked state
           op.addEventListener('click', () => {

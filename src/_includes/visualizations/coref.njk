@@ -114,16 +114,16 @@
                  style="background-color: #fff; margin: 0px; padding: 10px; display: flex; align-items: center;">
                 <div id="first">
                     <input type="checkbox" id="filterCheckbox" name="filterCheckbox" style="transform: scale(1.5); margin-right: 10px;">
-                    <label for="filterCheckbox" style="color: #7a7369; font-size: 16px;">Show Neighbor Nodes Outside of Filter Parameters on Hover</label>
+                    <label for="filterCheckbox" style="font-size: 16px;">Show Neighbor Nodes Outside of Filter Parameters on Hover</label>
                 </div>
 
                 <!-- Spacer Div -->
                 <div style="flex-grow: 1;"></div>
 
-                <div style="color: #7a7369;" id="second">
+                <div id="second">
                     <label for="site-search">Search for person by name:</label>
                     <input type="search" id="site-search" name="q" onkeydown="if(event.key === 'Enter') Searched();"/>
-                    <button class="button-1" onclick="Searched()">Search</button>
+                    <button class="search-button" onclick="Searched()">Search</button>
                 </div>
             </div>
 
@@ -133,6 +133,7 @@
                     <h3>Community Filter</h3>
                     <div class="slider">
                         <select name="comms" id="comms" multiple multiselect-search="true" multiselect-select-all="true">
+                            <h3>Community Levels</h3>
                             <!-- Options for Community Filter -->
                             {% for i in range(0, 21) %}
                                 <option class="option" value="{{ i }}.0">{{ i }}</option>

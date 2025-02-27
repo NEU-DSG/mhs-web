@@ -86,18 +86,18 @@
     background: #fff;
     border-radius: 50px;
     position: absolute;
-
 }
 
 .slider .range-slider input[type="range"] {
     position: absolute;
-    top: -8px;
+    top: -6px;
     left: 0;
     width: 100%;
     appearance: none;
     pointer-events: none;
     background: none;
     outline: none;
+    cursor: pointer;
 }
 
 .slider .range-slider input::-webkit-slider-thumb {
@@ -108,5 +108,50 @@
     background: #fff;
     border-radius: 50px;
     position: relative;
-    /* Adjust relative to the input */
+}
+
+.slider-track {
+    position: absolute;
+    background-color: lightgray;
+    width: 96%;
+    height: 100%;
+    margin-left: 5px;
+    border-radius: 20px;
+}
+
+.search-button {
+    background-color: #5A7C77;
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    height: 30px;
+    line-height: 20px;
+    list-style: none;
+    margin: 0;
+    outline: none;
+    padding: 5px 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    transition: color 100ms;
+    vertical-align: baseline;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    border: 0;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
 }
