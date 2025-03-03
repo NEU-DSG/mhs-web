@@ -47,3 +47,11 @@
     clip: rect(0, 0, 0, 0);
     white-space: nowrap;
 }
+
+a {
+    color: #5A7C77;
+}
+
+.about-link {
+    color: #51706E;
+}

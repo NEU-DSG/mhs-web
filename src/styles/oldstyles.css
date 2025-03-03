@@ -6,11 +6,6 @@ p {
     position: relative;
 }
 
-a {
-    color: #688F88;
-    text-decoration: none;
-}
-
 a:hover {
     text-decoration: underline;
 }
