@@ -7,36 +7,22 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
     <script src="../../../JsScripts/timeline.cjs" type="text/javascript"></script>
     <link rel="stylesheet" href="../../../styles/tabs-style.css"></link>
-    <link rel="stylesheet" href="/styles/global.css">
-
-    <style type="text/css">
-        div.tooltip {
-            position: absolute;
-            text-align: center;
-            padding: 5px;
-            font: 12px sans-serif;
-            background: white;
-            border: 1px solid #AAA;
-            border-radius: 2px;
-            pointer-events: none;
-        }
-    </style>
+    <link rel="stylesheet" href="../../../styles/timeline.css"></link>
+    <link rel="stylesheet" href="../../../styles/global.css"></link>
 {% endblock %}
 
 {% block content %}
-    <div style="width: 80%;" class="main-body">
-
+    <div class="main-body">
         <h1 class="subtitle">{{ person }}
             {{built.Btitles["timeline"]}}</h3>
 
-        <div style="position: absolute; left: 50%; transform: translateX(-50%);">
-
+        <div class="button-container">
             <button class="button-1" role="button" onclick="window.location.href='/projects/{{initials}}/index.html';">Back to
 				{{initials}}</button>
             <button class="button-1" role="button" onclick="window.location.href='/tools/timeline/index.html';">Back to Timeline
 				Charts</button>
         </div>
-        <br><br><br>
+        <br>
 
         {% if initials %}
 
@@ -46,22 +32,17 @@
 		topics under their umbrella. Each topic, topic umbrella, and appearance of the topic on the timeline chart can
 		be clicked to bring you to the Primary Source Cooperative website.</p><br>
 
-            <div class="menu__item item-active" style="border: 3px solid #94b3ae; border-radius: 8px; line-height: .3;">
-
+            <div class="menu__item item-active vis-container">
                 <br>
                 <div id="centered-div">
-
-                    <button style="font-size: 10px; height: 20px; line-height: 20px; padding: 0 12px; border-radius: 2px;"
-					class="button-1" id="collapseAllButton" onclick="collapseAll()">Collapse All</button>
-                    <button style="font-size: 10px; height: 20px; line-height: 20px; padding: 0 12px; border-radius: 2px;"
-					class="button-1" id="expandAllButton" onclick="expandAll()">Expand All</button>
+                    <button class="button-1 collapse-btn" id="collapseAllButton" onclick="collapseAll()">Collapse All</button>
+                    <button class="button-1 expand-btn" id="expandAllButton" onclick="expandAll()">Expand All</button>
                 </div>
                 <br>
                 <div id="chart"></div>
             </div>
 
             <script>
-
                 // Load the CSV file asynchronously
                 d3
                     .csv("../../../data/{{initials}}/timeline/sortedtimeline.csv", function (row) {
@@ -80,12 +61,18 @@
                         // After the data is transformed, draw the chart
                         drawChart(transformedData, "../../../data/{{initials}}/timeline/sortedcolors.csv");
 
+                        // window resize listener
+                        window.addEventListener("resize", () => {
+                            clearTimeout(window.resizedFinished);
+                            window.resizedFinished = setTimeout(() => {
+                                drawChart(transformedData, "../../../data/{{initials}}/timeline/sortedcolors.csv");
+                            }, 200);
+                        });
                     })
                     .catch(function (error) {
                         console.error("Error loading the CSV file:", error);
                     });
                 // Function to create the timeline chart
-
                 function drawChart(data, colors) {
 
                     d3
@@ -95,6 +82,9 @@
                             let colorsArray = csvText
                                 .trim()
                                 .split(",");
+
+                            // Remove the chart if it already exists (for re-renders)
+                            d3.select("#chart").selectAll("*").remove();
 
                             // Remove the double quotes around each color value, while keeping them as strings
                             colorsArray = colorsArray.map(color => color.trim().replace(/^"|"$/g, ''));
@@ -147,12 +137,11 @@
                         parseInt(d.count)
                     ]);
                 }
-            </script>
+          </script>
 
         {% else %}
             <p> No Subject Timeline Chart found for this person. </p>
 
         {% endif %}
-
     </div>
 {% endblock %}

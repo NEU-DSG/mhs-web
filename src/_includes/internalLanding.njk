@@ -30,9 +30,9 @@
 
                   let altText;
                     if (initials.startsWith("coref")) {
-                     altText = `Example of Coreference Graph`;
+                     altText = `Example of a Coreference Graph`;
                     } else if (initials.startsWith("geo")) {
-                       altText = `Example of Geo-Reference Graph`;
+                       altText = `Example of a Geo-Reference Graph`;
                     } else if (initials.starstWith("CMS")) {
                         altText = `Portrait of Catherine Maria Sedgwick`;
                     } else if (initials.startsWith("JQA")) {
@@ -52,6 +52,8 @@
         <div class="bookshelf">
             {% if kind == "Projects" %}
 
+            {# {% set customParams = subpage.params %}
+            {% if customParams.files %} #}
                 {% for tool in data.tools %}
                     {% set author = tool.tool %}
                     {% include "book.njk" %}

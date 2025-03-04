@@ -104,9 +104,14 @@ function MultiselectDropdown(options) {
     ...options
   };
   function newEl(tag, attrs) {
+    if (tag === "label") {
+      console.log(attrs);
+    }
     var e = document.createElement(tag);
     if (attrs !== undefined) Object.keys(attrs).forEach(k => {
       if (k === 'class') { Array.isArray(attrs[k]) ? attrs[k].forEach(o => o !== '' ? e.classList.add(o) : 0) : (attrs[k] !== '' ? e.classList.add(attrs[k]) : 0) }
+      else if (k === 'for') { e.htmlFor = attrs[k] }
+      else if (k === 'id') { e.id = attrs[k] }
       else if (k === 'style') {
         Object.keys(attrs[k]).forEach(ks => {
           e.style[ks] = attrs[k][ks];
@@ -115,6 +120,7 @@ function MultiselectDropdown(options) {
       else if (k === 'text') { attrs[k] === '' ? e.innerHTML = '&nbsp;' : e.innerText = attrs[k] }
       else e[k] = attrs[k];
     });
+    console.log(e);
     return e;
   }
 
@@ -177,8 +183,8 @@ function MultiselectDropdown(options) {
         // Check if the option is visible and if its value is included in the window.Extent array
         if (window.Extent.includes(parseInt(o.value))) {
           var op = newEl('div', { class: o.selected ? 'checked' : '', optEl: o });
-          var ic = newEl('input', { type: 'checkbox', checked: false }); // Initially set checked to false
-          op.appendChild(newEl('label', { text: o.text }));
+          var ic = newEl('input', { id: o.text, type: 'checkbox', checked: false }); // Initially set checked to false
+          op.appendChild(newEl('label', { for: o.text, text: o.text }));
           op.appendChild(ic);
 
           // Add click event to toggle checked state

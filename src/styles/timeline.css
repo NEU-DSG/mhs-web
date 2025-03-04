@@ -1,0 +1,32 @@
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    padding: 5px;
+    font: 12px sans-serif;
+    background: white;
+    border: 1px solid #AAA;
+    border-radius: 2px;
+    pointer-events: none;
+}
+
+.vis-container {
+    border: 3px solid #94b3ae;
+    border-radius: 8px;
+    line-height: .3;
+}
+
+.collapse-btn {
+    font-size: 10px;
+    height: 20px;
+    line-height: 20px;
+    padding: 0 12px;
+    border-radius: 2px;
+}
+
+.expand-btn {
+    font-size: 10px;
+    height: 20px;
+    line-height: 20px;
+    padding: 0 12px;
+    border-radius: 2px;
+}
