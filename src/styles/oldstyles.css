@@ -16,7 +16,7 @@ a:focus {
 
 body {
     background-color: #f5f5f5;
-    font-size: 1em;
+    font-size: 18px;
     color: #353135;
     font-family: 'Merriweather', serif, Arial, Helvetica, sans-serif;
     justify-content: center;
@@ -206,7 +206,7 @@ img {
     color: #FFFFFF;
     cursor: pointer;
     display: inline-block;
-    font-size: 1em;
+    font-size: 14px;
     font-weight: 500;
     line-height: 20px;
     list-style: none;
