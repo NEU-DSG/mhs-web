@@ -68,11 +68,13 @@ ul.topnav li.right {
     display: block;
     position: relative;
     font-style: italic;
+    width: 100%;
   }
 
   .topnav {
     flex-direction: column;
     align-items: flex-start;
+    width: 100%;
   }
   
   .topnav li {

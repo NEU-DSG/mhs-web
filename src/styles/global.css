@@ -57,3 +57,21 @@ a {
 .about-link {
     color: #51706E;
 }
+
+@media screen and (max-width: 600px) {
+    .main-body {
+        width: 90%;
+    }
+    
+    .button-container {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .button-1 {
+        margin-bottom: 10px;
+        justify-content: center;
+        align-items: center;
+    }
+}
