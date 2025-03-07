@@ -52,6 +52,10 @@ ul.topnav li.right {
 }
 
 @media screen and (max-width: 600px) {
+  * {
+    box-sizing: border-box;
+  }
+  
   ul.topnav li.right,
   ul.topnav li {
     float: none;
@@ -74,7 +78,8 @@ ul.topnav li.right {
   .topnav {
     flex-direction: column;
     align-items: flex-start;
-    width: 100%;
+    display: flex;
+    width: 100vw;
   }
   
   .topnav li {

@@ -74,4 +74,14 @@ a {
         justify-content: center;
         align-items: center;
     }
+
+    html, body {
+        width: 100vw;
+        overflow-x: hidden;
+    }
+
+    * {
+        box-sizing: border-box;
+      }      
+      
 }
