@@ -1,0 +1,32 @@
+.tabs {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.tab-date {
+    text-align: center;
+}
+
+.filter-1 {
+    background-color: #fff;
+    margin: 0px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.filter-checkbox {
+    margin-right: .5em;
+}
+
+.checkbox-label {
+    font-size: 16px;
+}
+
+.spacer {
+    flex-grow: 1;
+}
+
+.network {
+    width: 100%;
+}

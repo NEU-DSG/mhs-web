@@ -14,6 +14,7 @@
     "serve": "eleventy --serve"
   },
   "dependencies": {
-    "dsg-gtimeline": "github:NEU-DSG/mhs-gtimeline"
+    "dsg-gtimeline": "github:NEU-DSG/mhs-gtimeline",
+    "nunjucks": "^3.2.4"
   }
 }

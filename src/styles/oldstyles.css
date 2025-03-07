@@ -6,11 +6,6 @@ p {
     position: relative;
 }
 
-a {
-    color: #688F88;
-    text-decoration: none;
-}
-
 a:hover {
     text-decoration: underline;
 }
@@ -92,7 +87,6 @@ img {
 /* General Title styling */
 .title {
     text-align: center;
-
     font-family: 'Playfair Display', serif;
     font-size: 2em;
     color: #242124;
@@ -105,16 +99,8 @@ img {
     font-size: 3em;
     font-weight: bold;
     color: #F36D73;
-    margin-right: -25px;
     line-height: 1;
 }
-
-/* Specific style for the title with id="special-title" */
-#JQA-header::first-letter {
-    margin-right: -10px;
-}
-
-
 
 .subtitle span {
     letter-spacing: 0.02em;
@@ -213,7 +199,7 @@ img {
 }
 
 .button-1 {
-    background-color: #94b3ae;
+    background-color: #5A7C77;
     border-radius: 8px;
     border-style: none;
     box-sizing: border-box;
@@ -222,7 +208,6 @@ img {
     display: inline-block;
     font-size: 14px;
     font-weight: 500;
-    height: 40px;
     line-height: 20px;
     list-style: none;
     margin: 0;
@@ -240,7 +225,7 @@ img {
 
 .button-1:hover,
 .button-1:focus {
-    background-color: #b0b7b6;
+    background-color: #4D6A67;
 }
 
 body {

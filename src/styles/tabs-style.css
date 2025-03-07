@@ -38,7 +38,7 @@ html {
 	justify-content: center;
 	white-space: nowrap;
 	padding: 1em;
-	background: #94b3ae;
+	background: #5A7C77;
 	color: #FFF;
 	text-decoration: none;
 	border-radius: 10px 10px 0 0;
@@ -59,17 +59,17 @@ html {
 }
 
 .menu__tabs a:hover {
-	background: #b0b7b6;
+	background: #4D6A67;
 }
 
 .menu__tabs a.active {
-	color: #b0b7b6;
+	color: #5A7C77;
 	background: #FFF;
 	box-shadow: none;
 }
 
 .menu__tabs a.active i {
-	color: #94b3ae;
+	color: #5A7C77;
 }
 
 .menu__tabs a span {
@@ -90,7 +90,6 @@ html {
 }
 
 .tab-menu {
-	margin: 55px auto 0;
 	width: 100%;
 	max-width: 3000px;
 	position: relative;
@@ -151,17 +150,21 @@ html {
 .menu__wrapper .menu__item p {
 	font-size: 1.3em;
 	line-height: 1.6em;
-	color: #76716f;
+	color: black;
 }
 
 .menu__item.item-active {
 	display: block;
 	background-color: #ffffff;
 	border-radius: 0px 10px 10px 10px;
-	color: #7a7369;
+	color: black;
 	margin-top: 0;
 }
 
 .menu__item {
 	display: none;
+}
+
+#comms {
+	color: black;
 }

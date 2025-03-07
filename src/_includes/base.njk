@@ -6,51 +6,25 @@
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <link rel="icon" type="image/x-icon" href="/images/book.ico">
+        <link rel="stylesheet" href="/styles/global.css">
         <link rel="stylesheet" href="/styles/oldstyles.css">
+        <link rel="stylesheet" href="/styles/menu.css">
 
         <!-- Allow pages to add their own head content if needed -->
         {% block head %}{% endblock %}
     </head>
 
     <body>
-
-        <div id="landscape-warning" class="landscape-warning">
-  Please rotate your device to landscape mode or enlargen your browser window.
-</div>
-
-        <script>
-            function checkOrientation() {
-                const warning = document.getElementById('landscape-warning');
-                const isPortrait = window
-                    .matchMedia("(orientation: portrait)")
-                    .matches;
-                const isMobile = window.innerWidth < 400;
-
-                if (isPortrait && isMobile) {
-                    warning.style.display = 'flex';
-                } else {
-                    warning.style.display = 'none';
-                }
-            }
-
-            checkOrientation();
-
-            window.addEventListener("orientationchange", checkOrientation);
-            window.addEventListener("resize", checkOrientation);
-        </script>
-
         <header id="menu">
             <script src="/styles/menu.js"></script>
             <br>
-
         </header>
 
         <!-- Page content will be injected here -->
         {% block content %}{% endblock %}
 
         <!-- Footer -->
-        <div id="footer-box" style="height: 130px; text-align: center; background-color:#94b3ae; color: #FFF; position: absolute; bottom: 0; width: 100%;">
-
+        <div id="footer-box">
             <br>
        
 © 2024 Digital Scholarship Group (DSG) at Northeastern University

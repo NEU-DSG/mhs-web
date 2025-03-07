@@ -4,6 +4,7 @@
     <title>PSC Lab Space {{ person }} Subject Line Geo-Reference Map</title>
 
     <link rel="stylesheet" href="../../../styles/geostyles.css"></link>
+    <link rel="stylesheet" href="/styles/global.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -22,10 +23,10 @@
 {% block content %}
     <div class="main-body">
 
-        <h3 class="subtitle">{{ person }}
+        <h1 class="subtitle">{{ person }}
             {{built.Btitles["geo"]}}</h3>
 
-        <div style="position: absolute; left: 50%; transform: translateX(-50%); margin-top: -5px; margin-bottom: 40px;">
+        <div class="button-container">
             <button class="button-1" role="button" onclick="window.location.href='/projects/{{ initials }}/index.html';">Back to {{ initials }}</button>
             <button class="button-1" role="button" onclick="window.location.href='/tools/geo/index.html';">Back to Geo-Reference Maps</button>
         </div>
@@ -39,7 +40,7 @@
                 const filelist = {{ customParams.files | dump | safe }};
             </script>
 
-            <p>
+            <p class="description">
                 {{ customParams.desctext }}
                 <br><br>
                 You can click on the information icon in the top right for more information on how to specifically interact with the map.

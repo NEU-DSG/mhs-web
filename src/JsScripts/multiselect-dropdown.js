@@ -30,11 +30,12 @@ style.innerHTML = `
 }
 .multiselect-dropdown span.optext .optdel {
   float: right;
-  margin: 0 -6px 1px 5px;
+  padding-left: 0.5em;
+  padding-top: 0.1em;
   font-size: 0.7em;
   margin-top: 2px;
   cursor: pointer;
-  color: #666;
+  color: black;
 }
 .multiselect-dropdown span.optext .optdel:hover { color: #c66;}
 .multiselect-dropdown span.placeholder{
@@ -72,9 +73,6 @@ style.innerHTML = `
 }
 
 .multiselect-dropdown-list div{
-
-
-    
     padding: 5px;
 }
 
@@ -82,15 +80,15 @@ style.innerHTML = `
 .multiselect-dropdown-list input{
   height: 1.15em;
   width: 500px;
-  margin-right: 0.35em;  
+  margin-right: 0.35em;
 }
-.multiselect-dropdown-list div.checked{
+.multiselect-dropdown-list div.checked {
 }
 .multiselect-dropdown-list div:hover{
   background-color: #ced4da;
 }
-.multiselect-dropdown span.maxselected {width:100%;}
-.multiselect-dropdown-all-selector {border-bottom:solid 1px #999;}
+.multiselect-dropdown span.maxselected { width:100%; }
+.multiselect-dropdown-all-selector { border-bottom:solid 1px #999; }
 `;
 document.head.appendChild(style);
 
@@ -106,9 +104,14 @@ function MultiselectDropdown(options) {
     ...options
   };
   function newEl(tag, attrs) {
+    if (tag === "label") {
+      console.log(attrs);
+    }
     var e = document.createElement(tag);
     if (attrs !== undefined) Object.keys(attrs).forEach(k => {
       if (k === 'class') { Array.isArray(attrs[k]) ? attrs[k].forEach(o => o !== '' ? e.classList.add(o) : 0) : (attrs[k] !== '' ? e.classList.add(attrs[k]) : 0) }
+      else if (k === 'for') { e.htmlFor = attrs[k] }
+      else if (k === 'id') { e.id = attrs[k] }
       else if (k === 'style') {
         Object.keys(attrs[k]).forEach(ks => {
           e.style[ks] = attrs[k][ks];
@@ -117,6 +120,7 @@ function MultiselectDropdown(options) {
       else if (k === 'text') { attrs[k] === '' ? e.innerHTML = '&nbsp;' : e.innerText = attrs[k] }
       else e[k] = attrs[k];
     });
+    console.log(e);
     return e;
   }
 
@@ -139,8 +143,8 @@ function MultiselectDropdown(options) {
       if (el.attributes['multiselect-select-all']?.value == 'true') {
         var op = newEl('div', { class: 'multiselect-dropdown-all-selector' })
         var ic = newEl('input', { type: 'checkbox' });
-        op.appendChild(ic);
         op.appendChild(newEl('label', { text: config.txtAll }));
+        op.appendChild(ic);
 
         op.addEventListener('click', () => {
           op.classList.toggle('checked');
@@ -179,9 +183,9 @@ function MultiselectDropdown(options) {
         // Check if the option is visible and if its value is included in the window.Extent array
         if (window.Extent.includes(parseInt(o.value))) {
           var op = newEl('div', { class: o.selected ? 'checked' : '', optEl: o });
-          var ic = newEl('input', { type: 'checkbox', checked: false }); // Initially set checked to false
+          var ic = newEl('input', { id: o.text, type: 'checkbox', checked: false }); // Initially set checked to false
+          op.appendChild(newEl('label', { for: o.text, text: o.text }));
           op.appendChild(ic);
-          op.appendChild(newEl('label', { text: o.text }));
 
           // Add click event to toggle checked state
           op.addEventListener('click', () => {

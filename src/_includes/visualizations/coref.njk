@@ -3,6 +3,8 @@
 {% block head %}
     <title>PSC Lab Space {{ person }} Co-Refs</title>
     <link rel="stylesheet" href="../../../styles/d3-dark.css"></link>
+    <link rel="stylesheet" href="/styles/global.css">
+    <link rel="stylesheet" href="/styles/coref.css">
     <link rel="stylesheet" href="../../../styles/slider_styles.css"></link>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
     <link rel="stylesheet" href="../../../styles/tabs-style.css">
@@ -17,12 +19,12 @@
 {% endblock %}
 
 {% block content %}
-    <div style="width: 85%;" class="main-body">
+    <div class="main-body">
 
-        <h3 class="subtitle">{{ person }}
+        <h1 class="subtitle">{{ person }}
             {{built.Btitles["coref"]}}</h3>
 
-        <div style="position: absolute; left: 50%; transform: translateX(-50%); margin-top: 10px; margin-bottom: 40px;">
+        <div class="button-container">
             <button class="button-1" role="button" onclick="window.location.href='/projects/{{ initials }}/index.html';">Back to {{ initials }}</button>
             <button class="button-1" role="button" onclick="window.location.href='/tools/coref/index.html';">Back to Network Maps</button>
         </div>
@@ -56,15 +58,15 @@
             <!-- About Section -->
             <article id="item-1" class="menu__item item-active">
                 <br>
-                <h3 class="subtitle">About</h3>
+                <h2 class="subtitle">About</h3>
 
                 <div class="about-holder">
-                    <p style="padding-left: 5%; padding-right: 5%;">
+                    <p class="about-text">
                         Network visualizations showcase the interconnectivity between different entities.
                         Here, they show the co-references of people mentioned in {{ person }}’s diaries.
                     </p>
                     <br>
-                    <ul style="padding-left: 5%; padding-right: 5%;">
+                    <ul class="legend-list">
                         <li>
                             <span>Node:</span> The circles, each representing a different person.</li>
                         <li>
@@ -89,11 +91,11 @@
                 <article id="item-{{ tab.number }}" class="menu__item">
                     <br>
                     <h3 class="subtitle">{{ tab.title }}</h3>
-                    <h4 style="text-align: center;">
+                    <h4 class="tab-date">
                         <i>{{ tab.date }}</i>
                     </h4>
                     <br>
-                    <p style="padding-left: 5%; padding-right: 5%;">{{ tab.desc }}</p>
+                    <p class="tabs">{{ tab.desc }}</p>
                     <br><br>
                     <div id="G-{{ tab.number }}" class="Chart-Holder"></div>
                     <br><br>
@@ -106,35 +108,36 @@
         <div id="FiltersandTitle">
             <div class="Filter-Title">
                 <br>
-                <h2 style="color: #7a7369;" class="subtitle">Filters</h2>
+                <h2 class="subtitle">Filters</h2>
             </div>
 
-            <div id="contains"
-                 style="background-color: #fff; margin: 0px; padding: 10px; display: flex; align-items: center;">
+            <div id="contains" class="filter-1">
                 <div id="first">
-                    <input type="checkbox" id="filterCheckbox" name="filterCheckbox" style="transform: scale(1.5); margin-right: 10px;">
-                    <label for="filterCheckbox" style="color: #7a7369; font-size: 16px;">Show Neighbor Nodes Outside of Filter Parameters on Hover</label>
+                    <input type="checkbox" id="filterCheckbox" name="filterCheckbox" class="filter-checkbox">
+                    <label for="filterCheckbox" class="checkbox-label">Show Neighbor Nodes Outside of Filter Parameters on Hover</label>
                 </div>
 
                 <!-- Spacer Div -->
-                <div style="flex-grow: 1;"></div>
+                <div class="spacer"></div>
 
-                <div style="color: #7a7369;" id="second">
+                <div id="second">
                     <label for="site-search">Search for person by name:</label>
                     <input type="search" id="site-search" name="q" onkeydown="if(event.key === 'Enter') Searched();"/>
-                    <button class="button-1" onclick="Searched()">Search</button>
+                    <button class="search-button" onclick="Searched()">Search</button>
                 </div>
             </div>
 
             <div class="Filter-Container" id="Filter-Container">
                 <!-- Modular Slider Builder -->
                 <div class="child">
-                    <h3 style="color: #7a7369;">Community Filter</h3>
-                    <div class="slider" style="color: #7a7369;">
+                    <h3>Community Filter</h3>
+                    <div class="slider">
                         <select name="comms" id="comms" multiple multiselect-search="true" multiselect-select-all="true">
+                            <h3>Community Levels</h3>
                             <!-- Options for Community Filter -->
                             {% for i in range(0, 21) %}
-                                <option value="{{ i }}.0">{{ i }}</option>
+                                <label for="option">{{ i }}</label>
+                                <option id="option" class="option" value="{{ i }}.0">{{ i }}</option>
                             {% endfor %}
                         </select>
                     </div>
@@ -199,7 +202,7 @@
         }
 
         async function loadGraph(graphScript, containerID) {
-            var div_string = '<div style="width: 100%;" class="network"></div>';
+            var div_string = '<div class="network"></div>';
             $(div_string).appendTo(document.getElementById(containerID));
             await graph("../../../data/{{ initials }}/coref/" + graphScript);
             Searched();
