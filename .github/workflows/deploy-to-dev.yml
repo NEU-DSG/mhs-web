@@ -30,7 +30,7 @@ jobs:
         aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
 
     - name: Deploy site to S3 bucket
-      run: aws s3 sync _site/ s3://${{ secrets.DEV_S3_BUCKET }} --delete
+      run: aws s3 sync _site/ s3://${{ secrets.DEV_S3_BUCKET }}/psc --delete
 
     - name: Invalidate CloudFront Cache
       run: aws cloudfront create-invalidation --distribution-id ${{ secrets.DEV_CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
