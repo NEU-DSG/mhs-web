@@ -5,10 +5,10 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.0/d3.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
-    <script src="../../../JsScripts/timeline.cjs" type="text/javascript"></script>
-    <link rel="stylesheet" href="../../../styles/tabs-style.css"></link>
-    <link rel="stylesheet" href="../../../styles/timeline.css"></link>
-    <link rel="stylesheet" href="../../../styles/global.css"></link>
+    <script src="/psc/JsScripts/timeline.cjs" type="text/javascript"></script>
+    <link rel="stylesheet" href="/psc/styles/tabs-style.css"></link>
+    <link rel="stylesheet" href="/psc/styles/timeline.css"></link>
+    <link rel="stylesheet" href="/psc/styles/global.css"></link>
 {% endblock %}
 
 {% block content %}
@@ -45,7 +45,7 @@
             <script>
                 // Load the CSV file asynchronously
                 d3
-                    .csv("../../../data/{{initials}}/timeline/sortedtimeline.csv", function (row) {
+                    .csv("/psc/data/{{initials}}/timeline/sortedtimeline.csv", function (row) {
                         return {
                             role: row.Role,
                             name: row.Name,
@@ -59,13 +59,13 @@
                         const transformedData = transformData(data);
 
                         // After the data is transformed, draw the chart
-                        drawChart(transformedData, "../../../data/{{initials}}/timeline/sortedcolors.csv");
+                        drawChart(transformedData, "/psc/data/{{initials}}/timeline/sortedcolors.csv");
 
                         // window resize listener
                         window.addEventListener("resize", () => {
                             clearTimeout(window.resizedFinished);
                             window.resizedFinished = setTimeout(() => {
-                                drawChart(transformedData, "../../../data/{{initials}}/timeline/sortedcolors.csv");
+                                drawChart(transformedData, "/psc/data/{{initials}}/timeline/sortedcolors.csv");
                             }, 200);
                         });
                     })
