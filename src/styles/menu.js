@@ -4,7 +4,7 @@ const header = document.getElementById('menu');
 // Create <link> element for CSS.
 const link = document.createElement('link');
 link.setAttribute('rel', 'stylesheet');
-link.setAttribute('href', '/styles/menu.css');
+link.setAttribute('href', 'styles/menu.css');
 header.appendChild(link);
 
 // Create <ul> element.
@@ -14,7 +14,7 @@ ul.setAttribute('class', 'topnav');
 // Create HOME link.
 const l1 = document.createElement('li');
 const homeA = document.createElement('a');
-homeA.setAttribute('href', '/index.html');
+homeA.setAttribute('href', 'index.html');
 homeA.setAttribute('class', 'logo');
 
 const homeText = document.createTextNode('Home');
@@ -23,7 +23,7 @@ l1.appendChild(homeA);
 ul.append(l1);
 
 // Fetch JSON data
-fetch('/data/menudata.json') // Adjust path as necessary
+fetch('data/menudata.json') // Adjust path as necessary
     .then((response) => response.json())
     .then((data) => {
         // Create first dropdown menu: Projects
@@ -31,7 +31,7 @@ fetch('/data/menudata.json') // Adjust path as necessary
         project.setAttribute('class', 'dropdown');
 
         const projectA = document.createElement('a');
-        projectA.setAttribute('href', '/projects/index.html');
+        projectA.setAttribute('href', 'projects/index.html');
         projectA.setAttribute('class', 'dropbtn');
 
         const projectAText = document.createTextNode('Projects ');
@@ -64,7 +64,7 @@ fetch('/data/menudata.json') // Adjust path as necessary
         tools.setAttribute('class', 'dropdown');
 
         const toolsA = document.createElement('a');
-        toolsA.setAttribute('href', '/tools/index.html');
+        toolsA.setAttribute('href', 'tools/index.html');
         toolsA.setAttribute('class', 'dropbtn');
 
         const toolsAText = document.createTextNode('Tools ');
@@ -94,7 +94,7 @@ fetch('/data/menudata.json') // Adjust path as necessary
         const about = document.createElement('li');
 
         const aboutA = document.createElement('a');
-        aboutA.setAttribute('href', '/about/index.html');
+        aboutA.setAttribute('href', 'about/index.html');
         aboutA.setAttribute('class', 'dropbtn');
 
         const aboutAText = document.createTextNode('About Us ');
