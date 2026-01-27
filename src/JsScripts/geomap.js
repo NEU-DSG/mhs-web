@@ -25,7 +25,7 @@ function Leafmap(files, collection) {
         legendData.push({ year, hueRotation });
 
         // Fetches the data 
-        fetch("../../../data/" + collection + "/geo/" + file)
+        fetch("/psc/data/" + collection + "/geo/" + file)
             .then(response => response.json())
             // Operates on it 
             .then(data => {

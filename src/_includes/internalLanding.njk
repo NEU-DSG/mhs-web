@@ -61,7 +61,7 @@
             {% elif kind == "Tools" %}
 
                 {% for proj in data.projects %}
-                    {% set type = "../../projects" %}
+                    {% set type = "/psc/projects" %}
                     {% set author = proj.initials %}
                     {% set viz = initials %}
                     {% if tool.tool != "geo" or (tool.tool == "geo" and proj.initials != "CMS" and proj.initials != "RBT") %}

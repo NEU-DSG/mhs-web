@@ -75,7 +75,7 @@ button.card {
   height: 20px;
   background-color: rgba(139, 69, 19, 0.7);
   /* Brown color for the bookshelf */
-  background-image: url('../images/bookimages/wood.jpg');
+  background-image: url('/psc/images/bookimages/wood.jpg');
   /* Add wood texture */
   background-size: cover;
   box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.2);
@@ -92,7 +92,7 @@ button.card {
   /* Width of the shelf holders */
   height: 40px;
   /* Height of the shelf holders */
-  background-image: url('../images/bookimages/wood.jpg');
+  background-image: url('/psc/images/bookimages/wood.jpg');
   /* Same wood texture as the shelf */
   background-size: cover;
   background-color: rgba(139, 69, 19, 0.7);

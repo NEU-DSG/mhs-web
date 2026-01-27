@@ -1,4 +1,4 @@
-const data = require('../data'); // Import your projects and tools
+const data = require('/psc/data'); // Import your projects and tools
 
 // Combine data into a single object
 const Btitles = {};
