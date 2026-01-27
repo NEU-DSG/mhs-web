@@ -1,4 +1,4 @@
-const data = require('/psc/data');
+const data = require('../data');
 
 // Process projects and tools, and merge custom parameters dynamically
 const subpages = data.projects.reduce((acc, project) => {

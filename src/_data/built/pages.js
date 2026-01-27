@@ -1,4 +1,4 @@
-const data = require('/psc/data'); // Import your projects
+const data = require('../data'); // Import your projects
 
 var pages = []; // Initialize an empty array to store results
 
