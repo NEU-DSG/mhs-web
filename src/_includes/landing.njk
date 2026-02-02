@@ -27,6 +27,7 @@
                 {% elif title == "Projects" %}
 
                     {% for proj in data.projects %}
+                        {% set type = "projects" %}
                         {% set author = proj.initials %}
                         {% include "book.njk" %}
                     {% endfor %}
