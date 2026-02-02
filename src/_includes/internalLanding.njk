@@ -66,7 +66,7 @@
                     {% set type = "projects" %}
                     {% set author = proj.initials %}
                     {% set viz = initials %}
-                    {% if tool.tool != "geo" or (tool.tool == "geo" and proj.initials != "CMS" and proj.initials != "RBT") %}
+                    {% if initials != "geo" or (initials == "geo" and proj.initials != "CMS" and proj.initials != "RBT") %}
                         {% include "book.njk" %}
                     {% endif %}
                 {% endfor %}
