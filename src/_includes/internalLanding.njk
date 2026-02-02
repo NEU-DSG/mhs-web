@@ -49,7 +49,7 @@
         <br>
 
         <div class="bookshelf">
-            {% if kind == "Tools" %}
+            {% if kind == "Projects" %}
 
                 {% for tool in data.tools %}
                     {% set author = tool.tool %}
@@ -58,7 +58,7 @@
                     {% endif %}
                 {% endfor %}
 
-            {% elif kind == "Projects" %}
+            {% elif kind == "Tools" %}
 
                 {% for proj in data.projects %}
                     {% set type = "projects" %}
