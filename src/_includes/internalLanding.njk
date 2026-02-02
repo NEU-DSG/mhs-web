@@ -53,8 +53,8 @@
                 
                 {% for tool in data.tools %}
                     {% set type = "projects" %}
-                    {% set author = proj.initials %}
-                    {% set viz = initials %}
+                    {% set author = initials %}
+                    {% set viz = tool.tool %}
                     {% if tool.tool != "geo" or (tool.tool == "geo" and (initials != "CMS" and initials != "RBT")) %}
                         {% include "book.njk" %}
                     {% endif %}
