@@ -50,9 +50,11 @@
 
         <div class="bookshelf">
             {% if kind == "Projects" %}
-                {% set type = "projects" %}
+                
                 {% for tool in data.tools %}
-                    {% set author = tool.tool %}
+                    {% set type = "projects" %}
+                    {% set author = proj.initials %}
+                    {% set viz = initials %}
                     {% if tool.tool != "geo" or (tool.tool == "geo" and (initials != "CMS" and initials != "RBT")) %}
                         {% include "book.njk" %}
                     {% endif %}
