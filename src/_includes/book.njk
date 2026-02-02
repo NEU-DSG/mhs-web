@@ -1,9 +1,17 @@
 <button class="card" onclick="window.location.href='/psc/{% if type %}{{ type }}/{% endif %}{{ author }}{% if viz %}/{{ viz }}{% endif %}/index.html';">
     <div class="card-header">
-        <img src="/psc/images/bookimages/{{ author }}.jpg" alt="Cover of {{ built.Btitles[author] }}" class="card-image">
+        {% if kind == "Projects" %}
+            <img src="/psc/images/bookimages/{{ viz }}.jpg" alt="Cover of {{ built.Btitles[viz] }}" class="card-image">
+        {% else %}
+            <img src="/psc/images/bookimages/{{ author }}.jpg" alt="Cover of {{ built.Btitles[author] }}" class="card-image">
+        {% endif %}
     </div>
     <div class="card-body">
-        <h2 class="card-title">{{ built.Btitles[author] }}</h3>
+        {% if kind == "Projects" %}
+            <h2 class="card-title">{{ built.Btitles[viz] }}</h3>
+        {% else %}
+            <h2 class="card-title">{{ built.Btitles[author] }}</h3>
+        {% endif %}
         <p class="card-description"></p>
     </div>
 </button>
