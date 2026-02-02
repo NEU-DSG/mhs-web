@@ -20,6 +20,7 @@
                 {% if title == "Tools" %}
 
                     {% for tool in data.tools %}
+                        {% set type = "tools" %}
                         {% set author = tool.tool %}
                         {% include "book.njk" %}
                     {% endfor %}
