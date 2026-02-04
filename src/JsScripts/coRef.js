@@ -108,7 +108,7 @@ function graph(filepath) {
                 .append('div')
                 .attr('class', 'network-tooltip')
                 .style('opacity', 0)
-                .style('position', 'fixed')
+                .style('position', 'absolute')
                 .attr('pointer-events', 'none');
 
             const toolHeader = tooltip
