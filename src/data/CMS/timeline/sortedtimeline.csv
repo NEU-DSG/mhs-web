@@ -1,751 +1,980 @@
 Role,Name,Start,End,Count
- • Art • ,"Arts, Visual and Performing",1801-01-02,1801-12-31,0
- • Art • ,"Arts, Visual and Performing",1812-01-02,1812-12-31,0
- • Art • ,"Arts, Visual and Performing",1819-01-02,1821-12-31,0
- • Art • ,"Arts, Visual and Performing",1823-01-02,1825-12-31,0
- • Art • ,Art,1801-01-02,1801-12-31
-"Arts, Visual and Performing","Arts, Visual and Performing",1801-01-02,1801-12-31,1
-"Arts, Visual and Performing","Arts, Visual and Performing",1812-01-02,1812-12-31,1
-"Arts, Visual and Performing","Arts, Visual and Performing",1819-01-02,1821-12-31,5
-"Arts, Visual and Performing","Arts, Visual and Performing",1823-01-02,1825-12-31,13
- • Art • ,Art,1812-01-02,1812-12-31,1
- • Art • ,Art,1819-01-02,1821-12-31,5
- • Art • ,Art,1823-01-02,1825-12-31,13
- • Government • ,Public Service,1800-01-02,1801-12-31,0
- • Government • ,Public Service,1812-01-02,1812-12-31,0
- • Government • ,Public Service,1823-01-02,1825-12-31,0
- • Government • ,Government,1800-01-02,1801-12-31
-Public Service,Public Service,1800-01-02,1801-12-31,3
-Public Service,Public Service,1812-01-02,1812-12-31,1
-Public Service,Public Service,1823-01-02,1825-12-31,7
- • Government • ,Government,1812-01-02,1812-12-31,1
- • Government • ,Government,1823-01-02,1825-12-31,7
- • Health • ,Health and Illness,1800-01-02,1800-12-31,0
- • Health • ,Health and Illness,1803-01-02,1804-12-31,0
- • Health • ,Health and Illness,1807-01-02,1807-12-31,0
- • Health • ,Health and Illness,1809-01-02,1814-12-31,0
- • Health • ,Health and Illness,1816-01-02,1826-12-31,0
- • Health • ,Health and Illness,1828-01-02,1828-12-31,0
- • Health • ,Childbirth,1802-01-02,1802-12-31,0
- • Health • ,Childbirth,1807-01-02,1807-12-31,0
- • Health • ,Childbirth,1811-01-02,1811-12-31,0
- • Health • ,Childbirth,1813-01-02,1814-12-31,0
- • Health • ,Childbirth,1817-01-02,1817-12-31,0
- • Health • ,Childbirth,1819-01-02,1819-12-31,0
- • Health • ,Childbirth,1821-01-02,1822-12-31,0
- • Health • ,Childbirth,1824-01-02,1826-12-31,0
- • Health • ,Childbirth,1828-01-02,1828-12-31,0
- • Health • ,Pregnancy,1802-01-02,1802-12-31,0
- • Health • ,Pregnancy,1807-01-02,1807-12-31,0
- • Health • ,Pregnancy,1811-01-02,1811-12-31,0
- • Health • ,Pregnancy,1813-01-02,1814-12-31,0
- • Health • ,Pregnancy,1817-01-02,1819-12-31,0
- • Health • ,Pregnancy,1821-01-02,1822-12-31,0
- • Health • ,Pregnancy,1824-01-02,1825-12-31,0
- • Health • ,Pregnancy,1828-01-02,1828-12-31,0
- • Health • ,Recreation,1820-01-02,1820-12-31,0
- • Health • ,Recreation,1822-01-02,1825-12-31,0
- • Health • ,Health,1800-01-02,1800-12-31
-Health and Illness,Health and Illness,1800-01-02,1800-12-31,5
-Health and Illness,Health and Illness,1803-01-02,1804-12-31,2
-Health and Illness,Health and Illness,1807-01-02,1807-12-31,3
-Health and Illness,Health and Illness,1809-01-02,1814-12-31,43
-Health and Illness,Health and Illness,1816-01-02,1826-12-31,102
-Health and Illness,Health and Illness,1828-01-02,1828-12-31,1
-Childbirth,Childbirth,1802-01-02,1802-12-31,1
-Childbirth,Childbirth,1807-01-02,1807-12-31,2
-Childbirth,Childbirth,1811-01-02,1811-12-31,1
-Childbirth,Childbirth,1813-01-02,1814-12-31,3
-Childbirth,Childbirth,1817-01-02,1817-12-31,2
-Childbirth,Childbirth,1819-01-02,1819-12-31,1
-Childbirth,Childbirth,1821-01-02,1822-12-31,4
-Childbirth,Childbirth,1824-01-02,1826-12-31,9
-Childbirth,Childbirth,1828-01-02,1828-12-31,1
-Pregnancy,Pregnancy,1802-01-02,1802-12-31,1
-Pregnancy,Pregnancy,1807-01-02,1807-12-31,2
-Pregnancy,Pregnancy,1811-01-02,1811-12-31,1
-Pregnancy,Pregnancy,1813-01-02,1814-12-31,2
-Pregnancy,Pregnancy,1817-01-02,1819-12-31,4
-Pregnancy,Pregnancy,1821-01-02,1822-12-31,3
-Pregnancy,Pregnancy,1824-01-02,1825-12-31,6
-Pregnancy,Pregnancy,1828-01-02,1828-12-31,1
-Recreation,Recreation,1820-01-02,1820-12-31,2
-Recreation,Recreation,1822-01-02,1825-12-31,12
- • Health • ,Health,1802-01-02,1802-12-31,2
- • Health • ,Health,1803-01-02,1804-12-31,2
- • Health • ,Health,1807-01-02,1807-12-31,7
- • Health • ,Health,1809-01-02,1814-12-31,50
- • Health • ,Health,1816-01-02,1826-12-31,145
- • Health • ,Health,1828-01-02,1828-12-31,3
- • Wars and Revolutions • ,War of 1812,1812-01-02,1814-12-31,0
- • Wars and Revolutions • ,American Revolution,1825-01-02,1825-12-31,0
- • Wars and Revolutions • ,Wars and Revolutions,1812-01-02,1814-12-31
-War of 1812,War of 1812,1812-01-02,1814-12-31,11
-American Revolution,American Revolution,1825-01-02,1825-12-31,1
- • Wars and Revolutions • ,Wars and Revolutions,1825-01-02,1825-12-31,1
- • Stages of Life • ,Childhood,1798-01-02,1798-12-31,0
- • Stages of Life • ,Childhood,1800-01-02,1805-12-31,0
- • Stages of Life • ,Childhood,1807-01-02,1807-12-31,0
- • Stages of Life • ,Childhood,1809-01-02,1812-12-31,0
- • Stages of Life • ,Childhood,1814-01-02,1814-12-31,0
- • Stages of Life • ,Childhood,1816-01-02,1816-12-31,0
- • Stages of Life • ,Childhood,1818-01-02,1826-12-31,0
- • Stages of Life • ,Death,1800-01-02,1800-12-31,0
- • Stages of Life • ,Death,1804-01-02,1804-12-31,0
- • Stages of Life • ,Death,1809-01-02,1815-12-31,0
- • Stages of Life • ,Death,1817-01-02,1823-12-31,0
- • Stages of Life • ,Death,1825-01-02,1825-12-31,0
- • Stages of Life • ,Aging,1801-01-02,1801-12-31,0
- • Stages of Life • ,Aging,1818-01-02,1818-12-31,0
- • Stages of Life • ,Aging,1822-01-02,1822-12-31,0
- • Stages of Life • ,Aging,1824-01-02,1825-12-31,0
- • Stages of Life • ,Stages of Life,1798-01-02,1798-12-31
-Childhood,Childhood,1798-01-02,1798-12-31,1
-Childhood,Childhood,1800-01-02,1805-12-31,11
-Childhood,Childhood,1807-01-02,1807-12-31,4
-Childhood,Childhood,1809-01-02,1812-12-31,5
-Childhood,Childhood,1814-01-02,1814-12-31,3
-Childhood,Childhood,1816-01-02,1816-12-31,2
-Childhood,Childhood,1818-01-02,1826-12-31,65
-Death,Death,1800-01-02,1800-12-31,2
-Death,Death,1804-01-02,1804-12-31,1
-Death,Death,1809-01-02,1815-12-31,14
-Death,Death,1817-01-02,1823-12-31,24
-Death,Death,1825-01-02,1825-12-31,11
-Aging,Aging,1801-01-02,1801-12-31,1
-Aging,Aging,1818-01-02,1818-12-31,2
-Aging,Aging,1822-01-02,1822-12-31,1
-Aging,Aging,1824-01-02,1825-12-31,4
- • Stages of Life • ,Stages of Life,1800-01-02,1805-12-31,22
- • Stages of Life • ,Stages of Life,1807-01-02,1807-12-31,13
- • Stages of Life • ,Stages of Life,1809-01-02,1815-12-31,66
- • Stages of Life • ,Stages of Life,1816-01-02,1816-12-31,7
- • Stages of Life • ,Stages of Life,1817-01-02,1826-12-31,261
- • Family • ,Family Relations (Sedgwick Family),1798-01-02,1798-12-31,0
- • Family • ,Family Relations (Sedgwick Family),1800-01-02,1805-12-31,0
- • Family • ,Family Relations (Sedgwick Family),1807-01-02,1814-12-31,0
- • Family • ,Family Relations (Sedgwick Family),1816-01-02,1826-12-31,0
- • Family • ,Family Relations (Sedgwick Family),1828-01-02,1828-12-31,0
- • Family • ,Family Residences (Sedgwick Family),1805-01-02,1805-12-31,0
- • Family • ,Family Residences (Sedgwick Family),1807-01-02,1807-12-31,0
- • Family • ,Family Residences (Sedgwick Family),1813-01-02,1814-12-31,0
- • Family • ,Family Residences (Sedgwick Family),1816-01-02,1825-12-31,0
- • Family • ,Family,1798-01-02,1798-12-31
-Family Relations (Sedgwick Family),Family Relations (Sedgwick Family),1798-01-02,1798-12-31,1
-Family Relations (Sedgwick Family),Family Relations (Sedgwick Family),1800-01-02,1805-12-31,18
-Family Relations (Sedgwick Family),Family Relations (Sedgwick Family),1807-01-02,1814-12-31,59
-Family Relations (Sedgwick Family),Family Relations (Sedgwick Family),1816-01-02,1826-12-31,122
-Family Relations (Sedgwick Family),Family Relations (Sedgwick Family),1828-01-02,1828-12-31,1
-Family Residences (Sedgwick Family),Family Residences (Sedgwick Family),1805-01-02,1805-12-31,1
-Family Residences (Sedgwick Family),Family Residences (Sedgwick Family),1807-01-02,1807-12-31,1
-Family Residences (Sedgwick Family),Family Residences (Sedgwick Family),1813-01-02,1814-12-31,4
-Family Residences (Sedgwick Family),Family Residences (Sedgwick Family),1816-01-02,1825-12-31,38
- • Family • ,Family,1800-01-02,1805-12-31,19
- • Family • ,Family,1807-01-02,1814-12-31,70
- • Family • ,Family,1816-01-02,1826-12-31,192
- • Family • ,Family,1828-01-02,1828-12-31,2
- • Law • ,Legal Issues,1813-01-02,1813-12-31,0
- • Law • ,Legal Issues,1817-01-02,1818-12-31,0
- • Law • ,Legal Issues,1821-01-02,1826-12-31,0
- • Law • ,Law,1813-01-02,1813-12-31
-Legal Issues,Legal Issues,1813-01-02,1813-12-31,2
-Legal Issues,Legal Issues,1817-01-02,1818-12-31,3
-Legal Issues,Legal Issues,1821-01-02,1826-12-31,8
- • Law • ,Law,1817-01-02,1818-12-31,3
- • Law • ,Law,1821-01-02,1826-12-31,8
- • Travel and Transportation • ,Transportation,1800-01-02,1800-12-31,0
- • Travel and Transportation • ,Transportation,1807-01-02,1812-12-31,0
- • Travel and Transportation • ,Transportation,1814-01-02,1820-12-31,0
- • Travel and Transportation • ,Transportation,1822-01-02,1825-12-31,0
- • Travel and Transportation • ,"Travel and Touring, US",1800-01-02,1800-12-31,0
- • Travel and Transportation • ,"Travel and Touring, US",1810-01-02,1815-12-31,0
- • Travel and Transportation • ,"Travel and Touring, US",1817-01-02,1825-12-31,0
- • Travel and Transportation • ,"Travel and Touring, International",1812-01-02,1813-12-31,0
- • Travel and Transportation • ,"Travel and Touring, International",1818-01-02,1819-12-31,0
- • Travel and Transportation • ,"Travel and Touring, International",1821-01-02,1822-12-31,0
- • Travel and Transportation • ,"Travel and Touring, International",1825-01-02,1825-12-31,0
- • Travel and Transportation • ,Travel and Transportation,1800-01-02,1800-12-31
-Transportation,Transportation,1800-01-02,1800-12-31,1
-Transportation,Transportation,1807-01-02,1812-12-31,7
-Transportation,Transportation,1814-01-02,1820-12-31,17
-Transportation,Transportation,1822-01-02,1825-12-31,13
-"Travel and Touring, US","Travel and Touring, US",1800-01-02,1800-12-31,1
-"Travel and Touring, US","Travel and Touring, US",1810-01-02,1815-12-31,13
-"Travel and Touring, US","Travel and Touring, US",1817-01-02,1825-12-31,53
-"Travel and Touring, International","Travel and Touring, International",1812-01-02,1813-12-31,3
-"Travel and Touring, International","Travel and Touring, International",1818-01-02,1819-12-31,2
-"Travel and Touring, International","Travel and Touring, International",1821-01-02,1822-12-31,5
-"Travel and Touring, International","Travel and Touring, International",1825-01-02,1825-12-31,2
- • Travel and Transportation • ,Travel and Transportation,1807-01-02,1825-12-31,117
- • African Americans • ,"Topic, African Americans",1818-01-02,1818-12-31,0
- • African Americans • ,"Topic, African Americans",1824-01-02,1824-12-31,0
- • African Americans • ,African Americans,1818-01-02,1818-12-31
-"Topic, African Americans","Topic, African Americans",1818-01-02,1818-12-31,1
-"Topic, African Americans","Topic, African Americans",1824-01-02,1824-12-31,3
- • African Americans • ,African Americans,1824-01-02,1824-12-31,3
- • Political Groups • ,Federalist Party,1814-01-02,1814-12-31,0
- • Political Groups • ,Federalist Party,1825-01-02,1825-12-31,0
- • Political Groups • ,Political Groups,1814-01-02,1814-12-31
-Federalist Party,Federalist Party,1814-01-02,1814-12-31,1
-Federalist Party,Federalist Party,1825-01-02,1825-12-31,1
- • Political Groups • ,Political Groups,1825-01-02,1825-12-31,1
- • Work • ,Employees,1800-01-02,1801-12-31,0
- • Work • ,Employees,1804-01-02,1804-12-31,0
- • Work • ,Employees,1814-01-02,1814-12-31,0
- • Work • ,Employees,1816-01-02,1816-12-31,0
- • Work • ,Employees,1818-01-02,1820-12-31,0
- • Work • ,Employees,1823-01-02,1824-12-31,0
- • Work • ,"Topic, Work",1800-01-02,1800-12-31,0
- • Work • ,"Topic, Work",1810-01-02,1812-12-31,0
- • Work • ,"Topic, Work",1814-01-02,1814-12-31,0
- • Work • ,"Topic, Work",1816-01-02,1816-12-31,0
- • Work • ,"Topic, Work",1818-01-02,1825-12-31,0
- • Work • ,"Topic, Work",1828-01-02,1828-12-31,0
- • Work • ,Work,1800-01-02,1801-12-31
-Employees,Employees,1800-01-02,1801-12-31,3
-Employees,Employees,1804-01-02,1804-12-31,2
-Employees,Employees,1814-01-02,1814-12-31,2
-Employees,Employees,1816-01-02,1816-12-31,1
-Employees,Employees,1818-01-02,1820-12-31,3
-Employees,Employees,1823-01-02,1824-12-31,6
-"Topic, Work","Topic, Work",1800-01-02,1800-12-31,1
-"Topic, Work","Topic, Work",1810-01-02,1812-12-31,8
-"Topic, Work","Topic, Work",1814-01-02,1814-12-31,1
-"Topic, Work","Topic, Work",1816-01-02,1816-12-31,1
-"Topic, Work","Topic, Work",1818-01-02,1825-12-31,45
-"Topic, Work","Topic, Work",1828-01-02,1828-12-31,1
- • Work • ,Work,1804-01-02,1804-12-31,2
- • Work • ,Work,1810-01-02,1812-12-31,20
- • Work • ,Work,1814-01-02,1814-12-31,10
- • Work • ,Work,1816-01-02,1816-12-31,3
- • Work • ,Work,1818-01-02,1825-12-31,127
- • Work • ,Work,1828-01-02,1828-12-31,1
+ • Economics • ,Embargo,1809-01-02,1809-12-31,0
+ • Economics • ,Embargo,1812-01-02,1812-12-31,0
+ • Economics • ,Family Finances (Sedgwick Family),1810-01-02,1810-12-31,0
+ • Economics • ,Family Finances (Sedgwick Family),1813-01-02,1819-12-31,0
+ • Economics • ,Family Finances (Sedgwick Family),1821-01-02,1832-12-31,0
+ • Economics • ,Family Finances (Sedgwick Family),1834-01-02,1834-12-31,0
+ • Economics • ,Blockades,1812-01-02,1812-12-31,0
+ • Economics • ,Privateering,1812-01-02,1812-12-31,0
+ • Economics • ,Privateering,1828-01-02,1828-12-31,0
+ • Economics • ,"Topic, Economics",1820-01-02,1820-12-31,0
+ • Economics • ,"Topic, Economics",1822-01-02,1832-12-31,0
+ • Economics • ,Economics,1809-01-02,1809-12-31
+Embargo,Embargo,1809-01-02,1809-12-31,1
+Embargo,Embargo,1812-01-02,1812-12-31,1
+Family Finances (Sedgwick Family),Family Finances (Sedgwick Family),1810-01-02,1810-12-31,2
+Family Finances (Sedgwick Family),Family Finances (Sedgwick Family),1813-01-02,1819-12-31,19
+Family Finances (Sedgwick Family),Family Finances (Sedgwick Family),1821-01-02,1832-12-31,46
+Family Finances (Sedgwick Family),Family Finances (Sedgwick Family),1834-01-02,1834-12-31,1
+Blockades,Blockades,1812-01-02,1812-12-31,1
+Privateering,Privateering,1812-01-02,1812-12-31,1
+Privateering,Privateering,1828-01-02,1828-12-31,1
+"Topic, Economics","Topic, Economics",1820-01-02,1820-12-31,1
+"Topic, Economics","Topic, Economics",1822-01-02,1832-12-31,42
+ • Economics • ,Economics,1810-01-02,1810-12-31,6
+ • Economics • ,Economics,1812-01-02,1812-12-31,14
+ • Economics • ,Economics,1813-01-02,1819-12-31,55
+ • Economics • ,Economics,1820-01-02,1820-12-31,6
+ • Economics • ,Economics,1821-01-02,1832-12-31,172
+ • Economics • ,Economics,1834-01-02,1834-12-31,2
+ • Philosophy • ,Morality and Ethics,1804-01-02,1804-12-31,0
+ • Philosophy • ,Morality and Ethics,1808-01-02,1808-12-31,0
+ • Philosophy • ,Morality and Ethics,1810-01-02,1813-12-31,0
+ • Philosophy • ,Morality and Ethics,1816-01-02,1832-12-31,0
+ • Philosophy • ,Morality and Ethics,1837-01-02,1837-12-31,0
+ • Philosophy • ,Philosophy,1804-01-02,1804-12-31
+Morality and Ethics,Morality and Ethics,1804-01-02,1804-12-31,1
+Morality and Ethics,Morality and Ethics,1808-01-02,1808-12-31,1
+Morality and Ethics,Morality and Ethics,1810-01-02,1813-12-31,7
+Morality and Ethics,Morality and Ethics,1816-01-02,1832-12-31,108
+Morality and Ethics,Morality and Ethics,1837-01-02,1837-12-31,1
+ • Philosophy • ,Philosophy,1808-01-02,1808-12-31,1
+ • Philosophy • ,Philosophy,1810-01-02,1813-12-31,7
+ • Philosophy • ,Philosophy,1816-01-02,1832-12-31,144
+ • Philosophy • ,Philosophy,1837-01-02,1837-12-31,1
  • Elections • ,"Topic, Elections",1800-01-02,1800-12-31,0
  • Elections • ,"Topic, Elections",1804-01-02,1804-12-31,0
  • Elections • ,"Topic, Elections",1812-01-02,1812-12-31,0
+ • Elections • ,"Topic, Elections",1821-01-02,1821-12-31,0
  • Elections • ,"Topic, Elections",1825-01-02,1825-12-31,0
  • Elections • ,Elections,1800-01-02,1800-12-31
 "Topic, Elections","Topic, Elections",1800-01-02,1800-12-31,1
 "Topic, Elections","Topic, Elections",1804-01-02,1804-12-31,1
 "Topic, Elections","Topic, Elections",1812-01-02,1812-12-31,3
+"Topic, Elections","Topic, Elections",1821-01-02,1821-12-31,1
 "Topic, Elections","Topic, Elections",1825-01-02,1825-12-31,1
  • Elections • ,Elections,1804-01-02,1804-12-31,1
  • Elections • ,Elections,1812-01-02,1812-12-31,3
+ • Elections • ,Elections,1821-01-02,1821-12-31,1
  • Elections • ,Elections,1825-01-02,1825-12-31,1
- • Identity • ,National Identity,1810-01-02,1810-12-31,0
- • Identity • ,National Identity,1812-01-02,1812-12-31,0
- • Identity • ,National Identity,1817-01-02,1820-12-31,0
- • Identity • ,National Identity,1822-01-02,1826-12-31,0
- • Identity • ,Self-reflection,1811-01-02,1814-12-31,0
- • Identity • ,Self-reflection,1816-01-02,1826-12-31,0
- • Identity • ,Self-reflection,1828-01-02,1828-12-31,0
- • Identity • ,Singlehood,1811-01-02,1811-12-31,0
- • Identity • ,Singlehood,1813-01-02,1813-12-31,0
- • Identity • ,Singlehood,1816-01-02,1825-12-31,0
- • Identity • ,Race and Ethnicity,1817-01-02,1818-12-31,0
- • Identity • ,Race and Ethnicity,1820-01-02,1820-12-31,0
- • Identity • ,Caribbean,1820-01-02,1820-12-31,0
- • Identity • ,Regional Identity,1822-01-02,1822-12-31,0
- • Identity • ,Catholicism,1823-01-02,1823-12-31,0
- • Identity • ,"South, The",1824-01-02,1824-12-31,0
- • Identity • ,Widowhood,1825-01-02,1825-12-31,0
- • Identity • ,Identity,1810-01-02,1810-12-31
-National Identity,National Identity,1810-01-02,1810-12-31,1
-National Identity,National Identity,1812-01-02,1812-12-31,1
-National Identity,National Identity,1817-01-02,1820-12-31,5
-National Identity,National Identity,1822-01-02,1826-12-31,7
-Self-reflection,Self-reflection,1811-01-02,1814-12-31,17
-Self-reflection,Self-reflection,1816-01-02,1826-12-31,83
-Self-reflection,Self-reflection,1828-01-02,1828-12-31,1
-Singlehood,Singlehood,1811-01-02,1811-12-31,2
-Singlehood,Singlehood,1813-01-02,1813-12-31,2
-Singlehood,Singlehood,1816-01-02,1825-12-31,28
-Race and Ethnicity,Race and Ethnicity,1817-01-02,1818-12-31,3
-Race and Ethnicity,Race and Ethnicity,1820-01-02,1820-12-31,1
-Caribbean,Caribbean,1820-01-02,1820-12-31,2
-Regional Identity,Regional Identity,1822-01-02,1822-12-31,1
-Catholicism,Catholicism,1823-01-02,1823-12-31,1
-"South, The","South, The",1824-01-02,1824-12-31,1
-Widowhood,Widowhood,1825-01-02,1825-12-31,1
- • Identity • ,Identity,1811-01-02,1814-12-31,22
- • Identity • ,Identity,1816-01-02,1826-12-31,133
- • Identity • ,Identity,1828-01-02,1828-12-31,1
- • Education • ,"Topic, Education",1800-01-02,1801-12-31,0
- • Education • ,"Topic, Education",1803-01-02,1805-12-31,0
- • Education • ,"Topic, Education",1807-01-02,1807-12-31,0
- • Education • ,"Topic, Education",1809-01-02,1809-12-31,0
- • Education • ,"Topic, Education",1812-01-02,1812-12-31,0
- • Education • ,"Topic, Education",1814-01-02,1814-12-31,0
- • Education • ,"Topic, Education",1816-01-02,1826-12-31,0
- • Education • ,"Topic, Education",1828-01-02,1828-12-31,0
- • Education • ,Education,1800-01-02,1801-12-31
-"Topic, Education","Topic, Education",1800-01-02,1801-12-31,3
-"Topic, Education","Topic, Education",1803-01-02,1805-12-31,6
-"Topic, Education","Topic, Education",1807-01-02,1807-12-31,1
-"Topic, Education","Topic, Education",1809-01-02,1809-12-31,1
-"Topic, Education","Topic, Education",1812-01-02,1812-12-31,1
-"Topic, Education","Topic, Education",1814-01-02,1814-12-31,4
-"Topic, Education","Topic, Education",1816-01-02,1826-12-31,34
-"Topic, Education","Topic, Education",1828-01-02,1828-12-31,1
- • Education • ,Education,1803-01-02,1805-12-31,6
- • Education • ,Education,1807-01-02,1807-12-31,1
- • Education • ,Education,1809-01-02,1809-12-31,1
- • Education • ,Education,1812-01-02,1812-12-31,1
- • Education • ,Education,1814-01-02,1814-12-31,4
- • Education • ,Education,1816-01-02,1826-12-31,34
- • Education • ,Education,1828-01-02,1828-12-31,1
- • Nature • ,Natural World,1814-01-02,1814-12-31,0
- • Nature • ,Natural World,1817-01-02,1817-12-31,0
- • Nature • ,Natural World,1819-01-02,1826-12-31,0
- • Nature • ,Disasters,1824-01-02,1825-12-31,0
- • Nature • ,Nature,1814-01-02,1814-12-31
-Natural World,Natural World,1814-01-02,1814-12-31,2
-Natural World,Natural World,1817-01-02,1817-12-31,2
-Natural World,Natural World,1819-01-02,1826-12-31,31
-Disasters,Disasters,1824-01-02,1825-12-31,3
- • Nature • ,Nature,1817-01-02,1817-12-31,2
- • Nature • ,Nature,1819-01-02,1826-12-31,34
+ • Political Groups • ,Federalist Party,1814-01-02,1814-12-31,0
+ • Political Groups • ,Federalist Party,1825-01-02,1825-12-31,0
+ • Political Groups • ,Jacksonian Democracy,1831-01-02,1831-12-31,0
+ • Political Groups • ,Political Groups,1814-01-02,1814-12-31
+Federalist Party,Federalist Party,1814-01-02,1814-12-31,1
+Federalist Party,Federalist Party,1825-01-02,1825-12-31,1
+Jacksonian Democracy,Jacksonian Democracy,1831-01-02,1831-12-31,2
+ • Political Groups • ,Political Groups,1825-01-02,1825-12-31,1
+ • Political Groups • ,Political Groups,1831-01-02,1831-12-31,2
  • Political Upheavals • ,Shays's Rebellion,1822-01-02,1822-12-31,0
  • Political Upheavals • ,Political Upheavals,1822-01-02,1822-12-31
 Shays's Rebellion,Shays's Rebellion,1822-01-02,1822-12-31,1
- • Society • ,Holidays and Celebrations,1800-01-02,1801-12-31,0
- • Society • ,Holidays and Celebrations,1810-01-02,1810-12-31,0
- • Society • ,Holidays and Celebrations,1814-01-02,1814-12-31,0
- • Society • ,Holidays and Celebrations,1817-01-02,1818-12-31,0
- • Society • ,Holidays and Celebrations,1822-01-02,1825-12-31,0
- • Society • ,Urban Life,1801-01-02,1801-12-31,0
- • Society • ,Urban Life,1804-01-02,1804-12-31,0
- • Society • ,Urban Life,1809-01-02,1809-12-31,0
- • Society • ,Urban Life,1812-01-02,1814-12-31,0
- • Society • ,Urban Life,1817-01-02,1818-12-31,0
- • Society • ,Urban Life,1820-01-02,1825-12-31,0
- • Society • ,Clothing,1803-01-02,1803-12-31,0
- • Society • ,Clothing,1807-01-02,1807-12-31,0
- • Society • ,Clothing,1811-01-02,1814-12-31,0
- • Society • ,Clothing,1816-01-02,1820-12-31,0
- • Society • ,Clothing,1822-01-02,1825-12-31,0
- • Society • ,Village Life,1804-01-02,1804-12-31,0
- • Society • ,Village Life,1809-01-02,1809-12-31,0
- • Society • ,Village Life,1812-01-02,1820-12-31,0
- • Society • ,Village Life,1822-01-02,1825-12-31,0
- • Society • ,Housewares and Furnishings,1811-01-02,1811-12-31,0
- • Society • ,Housewares and Furnishings,1813-01-02,1813-12-31,0
- • Society • ,Housewares and Furnishings,1817-01-02,1817-12-31,0
- • Society • ,Housewares and Furnishings,1819-01-02,1821-12-31,0
- • Society • ,Housewares and Furnishings,1823-01-02,1825-12-31,0
- • Society • ,Charity,1813-01-02,1814-12-31,0
- • Society • ,Charity,1818-01-02,1820-12-31,0
- • Society • ,Charity,1823-01-02,1826-12-31,0
- • Society • ,Class,1818-01-02,1820-12-31,0
- • Society • ,Class,1822-01-02,1822-12-31,0
- • Society • ,Class,1824-01-02,1825-12-31,0
- • Society • ,Crime,1822-01-02,1823-12-31,0
- • Society • ,Society,1800-01-02,1801-12-31
-Holidays and Celebrations,Holidays and Celebrations,1800-01-02,1801-12-31,2
-Holidays and Celebrations,Holidays and Celebrations,1810-01-02,1810-12-31,1
-Holidays and Celebrations,Holidays and Celebrations,1814-01-02,1814-12-31,1
-Holidays and Celebrations,Holidays and Celebrations,1817-01-02,1818-12-31,4
-Holidays and Celebrations,Holidays and Celebrations,1822-01-02,1825-12-31,14
-Urban Life,Urban Life,1801-01-02,1801-12-31,1
-Urban Life,Urban Life,1804-01-02,1804-12-31,1
-Urban Life,Urban Life,1809-01-02,1809-12-31,1
-Urban Life,Urban Life,1812-01-02,1814-12-31,5
-Urban Life,Urban Life,1817-01-02,1818-12-31,3
-Urban Life,Urban Life,1820-01-02,1825-12-31,21
-Clothing,Clothing,1803-01-02,1803-12-31,1
-Clothing,Clothing,1807-01-02,1807-12-31,1
-Clothing,Clothing,1811-01-02,1814-12-31,12
-Clothing,Clothing,1816-01-02,1820-12-31,13
-Clothing,Clothing,1822-01-02,1825-12-31,12
-Village Life,Village Life,1804-01-02,1804-12-31,1
-Village Life,Village Life,1809-01-02,1809-12-31,1
-Village Life,Village Life,1812-01-02,1820-12-31,26
-Village Life,Village Life,1822-01-02,1825-12-31,25
-Housewares and Furnishings,Housewares and Furnishings,1811-01-02,1811-12-31,1
-Housewares and Furnishings,Housewares and Furnishings,1813-01-02,1813-12-31,1
-Housewares and Furnishings,Housewares and Furnishings,1817-01-02,1817-12-31,2
-Housewares and Furnishings,Housewares and Furnishings,1819-01-02,1821-12-31,3
-Housewares and Furnishings,Housewares and Furnishings,1823-01-02,1825-12-31,7
-Charity,Charity,1813-01-02,1814-12-31,2
-Charity,Charity,1818-01-02,1820-12-31,7
-Charity,Charity,1823-01-02,1826-12-31,11
-Class,Class,1818-01-02,1820-12-31,5
-Class,Class,1822-01-02,1822-12-31,1
-Class,Class,1824-01-02,1825-12-31,11
-Crime,Crime,1822-01-02,1823-12-31,2
- • Society • ,Society,1803-01-02,1803-12-31,1
- • Society • ,Society,1804-01-02,1804-12-31,4
- • Society • ,Society,1807-01-02,1807-12-31,2
- • Society • ,Society,1809-01-02,1809-12-31,5
- • Society • ,Society,1810-01-02,1810-12-31,7
- • Society • ,Society,1811-01-02,1826-12-31,404
- • Reform • ,Reform Movements,1818-01-02,1818-12-31,0
- • Reform • ,Reform Movements,1828-01-02,1828-12-31,0
- • Reform • ,Temperance Movement,1825-01-02,1825-12-31,0
- • Reform • ,Reform,1818-01-02,1818-12-31
-Reform Movements,Reform Movements,1818-01-02,1818-12-31,1
-Reform Movements,Reform Movements,1828-01-02,1828-12-31,1
-Temperance Movement,Temperance Movement,1825-01-02,1825-12-31,1
- • Reform • ,Reform,1825-01-02,1825-12-31,3
- • Reform • ,Reform,1828-01-02,1828-12-31,1
- • Philosophy • ,Morality and Ethics,1804-01-02,1804-12-31,0
- • Philosophy • ,Morality and Ethics,1808-01-02,1808-12-31,0
- • Philosophy • ,Morality and Ethics,1810-01-02,1813-12-31,0
- • Philosophy • ,Morality and Ethics,1816-01-02,1826-12-31,0
- • Philosophy • ,Philosophy,1804-01-02,1804-12-31
-Morality and Ethics,Morality and Ethics,1804-01-02,1804-12-31,1
-Morality and Ethics,Morality and Ethics,1808-01-02,1808-12-31,1
-Morality and Ethics,Morality and Ethics,1810-01-02,1813-12-31,7
-Morality and Ethics,Morality and Ethics,1816-01-02,1826-12-31,40
- • Philosophy • ,Philosophy,1808-01-02,1808-12-31,1
- • Philosophy • ,Philosophy,1810-01-02,1813-12-31,7
- • Philosophy • ,Philosophy,1816-01-02,1826-12-31,58
- • Publications and Press • ,Press,1800-01-02,1800-12-31,0
- • Publications and Press • ,Press,1822-01-02,1825-12-31,0
- • Publications and Press • ,Authorship,1807-01-02,1808-12-31,0
- • Publications and Press • ,Authorship,1810-01-02,1813-12-31,0
- • Publications and Press • ,Authorship,1815-01-02,1825-12-31,0
- • Publications and Press • ,Publication,1820-01-02,1820-12-31,0
- • Publications and Press • ,Publication,1822-01-02,1826-12-31,0
- • Publications and Press • ,Publications and Press,1800-01-02,1800-12-31
-Press,Press,1800-01-02,1800-12-31,1
-Press,Press,1822-01-02,1825-12-31,11
-Authorship,Authorship,1807-01-02,1808-12-31,4
-Authorship,Authorship,1810-01-02,1813-12-31,9
-Authorship,Authorship,1815-01-02,1825-12-31,53
-Publication,Publication,1820-01-02,1820-12-31,1
-Publication,Publication,1822-01-02,1826-12-31,11
- • Publications and Press • ,Publications and Press,1807-01-02,1808-12-31,4
- • Publications and Press • ,Publications and Press,1810-01-02,1813-12-31,9
- • Publications and Press • ,Publications and Press,1815-01-02,1826-12-31,76
- • Migration • ,Exiles,1814-01-02,1814-12-31,0
- • Migration • ,Exiles,1819-01-02,1819-12-31,0
- • Migration • ,Immigration,1823-01-02,1825-12-31,0
- • Migration • ,Migration,1814-01-02,1814-12-31
-Exiles,Exiles,1814-01-02,1814-12-31,1
-Exiles,Exiles,1819-01-02,1819-12-31,1
-Immigration,Immigration,1823-01-02,1825-12-31,3
- • Migration • ,Migration,1819-01-02,1819-12-31,1
- • Migration • ,Migration,1823-01-02,1825-12-31,3
- • Personal Relationships • ,Courtship,1801-01-02,1801-12-31,0
- • Personal Relationships • ,Courtship,1807-01-02,1807-12-31,0
- • Personal Relationships • ,Courtship,1810-01-02,1815-12-31,0
- • Personal Relationships • ,Courtship,1817-01-02,1823-12-31,0
- • Personal Relationships • ,Courtship,1825-01-02,1825-12-31,0
- • Personal Relationships • ,Motherhood,1802-01-02,1802-12-31,0
- • Personal Relationships • ,Motherhood,1804-01-02,1804-12-31,0
- • Personal Relationships • ,Motherhood,1807-01-02,1807-12-31,0
- • Personal Relationships • ,Motherhood,1809-01-02,1810-12-31,0
- • Personal Relationships • ,Motherhood,1814-01-02,1814-12-31,0
- • Personal Relationships • ,Motherhood,1816-01-02,1826-12-31,0
- • Personal Relationships • ,Marriage,1803-01-02,1803-12-31,0
- • Personal Relationships • ,Marriage,1808-01-02,1808-12-31,0
- • Personal Relationships • ,Marriage,1811-01-02,1814-12-31,0
- • Personal Relationships • ,Marriage,1816-01-02,1820-12-31,0
- • Personal Relationships • ,Marriage,1822-01-02,1825-12-31,0
- • Personal Relationships • ,Fatherhood,1804-01-02,1804-12-31,0
- • Personal Relationships • ,Fatherhood,1807-01-02,1807-12-31,0
- • Personal Relationships • ,Fatherhood,1811-01-02,1811-12-31,0
- • Personal Relationships • ,Fatherhood,1813-01-02,1814-12-31,0
- • Personal Relationships • ,Fatherhood,1816-01-02,1818-12-31,0
- • Personal Relationships • ,Fatherhood,1821-01-02,1825-12-31,0
- • Personal Relationships • ,Friendship,1804-01-02,1804-12-31,0
- • Personal Relationships • ,Friendship,1807-01-02,1807-12-31,0
- • Personal Relationships • ,Friendship,1809-01-02,1809-12-31,0
- • Personal Relationships • ,Friendship,1811-01-02,1826-12-31,0
- • Personal Relationships • ,Social Life and Networks,1804-01-02,1804-12-31,0
- • Personal Relationships • ,Social Life and Networks,1807-01-02,1826-12-31,0
- • Personal Relationships • ,Social Life and Networks,1828-01-02,1828-12-31,0
- • Personal Relationships • ,Gifts,1810-01-02,1810-12-31,0
- • Personal Relationships • ,Gifts,1817-01-02,1820-12-31,0
- • Personal Relationships • ,Gifts,1822-01-02,1826-12-31,0
- • Personal Relationships • ,Personal Relationships,1801-01-02,1801-12-31
-Courtship,Courtship,1801-01-02,1801-12-31,1
-Courtship,Courtship,1807-01-02,1807-12-31,3
-Courtship,Courtship,1810-01-02,1815-12-31,20
-Courtship,Courtship,1817-01-02,1823-12-31,25
-Courtship,Courtship,1825-01-02,1825-12-31,3
-Motherhood,Motherhood,1802-01-02,1802-12-31,1
-Motherhood,Motherhood,1804-01-02,1804-12-31,1
-Motherhood,Motherhood,1807-01-02,1807-12-31,1
-Motherhood,Motherhood,1809-01-02,1810-12-31,2
-Motherhood,Motherhood,1814-01-02,1814-12-31,1
-Motherhood,Motherhood,1816-01-02,1826-12-31,44
-Marriage,Marriage,1803-01-02,1803-12-31,1
-Marriage,Marriage,1808-01-02,1808-12-31,1
-Marriage,Marriage,1811-01-02,1814-12-31,11
-Marriage,Marriage,1816-01-02,1820-12-31,16
-Marriage,Marriage,1822-01-02,1825-12-31,25
-Fatherhood,Fatherhood,1804-01-02,1804-12-31,1
-Fatherhood,Fatherhood,1807-01-02,1807-12-31,1
-Fatherhood,Fatherhood,1811-01-02,1811-12-31,1
-Fatherhood,Fatherhood,1813-01-02,1814-12-31,2
-Fatherhood,Fatherhood,1816-01-02,1818-12-31,3
-Fatherhood,Fatherhood,1821-01-02,1825-12-31,13
-Friendship,Friendship,1804-01-02,1804-12-31,1
-Friendship,Friendship,1807-01-02,1807-12-31,4
-Friendship,Friendship,1809-01-02,1809-12-31,1
-Friendship,Friendship,1811-01-02,1826-12-31,71
-Social Life and Networks,Social Life and Networks,1804-01-02,1804-12-31,2
-Social Life and Networks,Social Life and Networks,1807-01-02,1826-12-31,158
-Social Life and Networks,Social Life and Networks,1828-01-02,1828-12-31,1
-Gifts,Gifts,1810-01-02,1810-12-31,1
-Gifts,Gifts,1817-01-02,1820-12-31,8
-Gifts,Gifts,1822-01-02,1826-12-31,19
- • Personal Relationships • ,Personal Relationships,1802-01-02,1802-12-31,3
- • Personal Relationships • ,Personal Relationships,1803-01-02,1803-12-31,3
- • Personal Relationships • ,Personal Relationships,1804-01-02,1804-12-31,8
- • Personal Relationships • ,Personal Relationships,1807-01-02,1826-12-31,615
- • Personal Relationships • ,Personal Relationships,1828-01-02,1828-12-31,2
- • Industry • ,Agriculture,1823-01-02,1823-12-31,0
- • Industry • ,Agriculture,1825-01-02,1825-12-31,0
- • Industry • ,Industry,1823-01-02,1823-12-31
-Agriculture,Agriculture,1823-01-02,1823-12-31,1
-Agriculture,Agriculture,1825-01-02,1825-12-31,1
- • Industry • ,Industry,1825-01-02,1825-12-31,1
+ • Government • ,Public Service,1800-01-02,1801-12-31,0
+ • Government • ,Public Service,1812-01-02,1812-12-31,0
+ • Government • ,Public Service,1823-01-02,1825-12-31,0
+ • Government • ,Public Service,1827-01-02,1828-12-31,0
+ • Government • ,Public Service,1831-01-02,1831-12-31,0
+ • Government • ,Public Service,1833-01-02,1833-12-31,0
+ • Government • ,Government,1800-01-02,1801-12-31
+Public Service,Public Service,1800-01-02,1801-12-31,3
+Public Service,Public Service,1812-01-02,1812-12-31,1
+Public Service,Public Service,1823-01-02,1825-12-31,7
+Public Service,Public Service,1827-01-02,1828-12-31,3
+Public Service,Public Service,1831-01-02,1831-12-31,3
+Public Service,Public Service,1833-01-02,1833-12-31,1
+ • Government • ,Government,1812-01-02,1812-12-31,1
+ • Government • ,Government,1823-01-02,1825-12-31,7
+ • Government • ,Government,1827-01-02,1828-12-31,3
+ • Government • ,Government,1831-01-02,1831-12-31,3
+ • Government • ,Government,1833-01-02,1833-12-31,1
  • Politics • ,"Topic, Politics",1800-01-02,1800-12-31,0
  • Politics • ,"Topic, Politics",1804-01-02,1804-12-31,0
  • Politics • ,"Topic, Politics",1809-01-02,1810-12-31,0
  • Politics • ,"Topic, Politics",1812-01-02,1812-12-31,0
  • Politics • ,"Topic, Politics",1814-01-02,1814-12-31,0
+ • Politics • ,"Topic, Politics",1816-01-02,1816-12-31,0
  • Politics • ,"Topic, Politics",1819-01-02,1819-12-31,0
- • Politics • ,"Topic, Politics",1823-01-02,1826-12-31,0
+ • Politics • ,"Topic, Politics",1823-01-02,1832-12-31,0
+ • Politics • ,"Topic, Politics",1837-01-02,1837-12-31,0
  • Politics • ,Politics,1800-01-02,1800-12-31
 "Topic, Politics","Topic, Politics",1800-01-02,1800-12-31,1
 "Topic, Politics","Topic, Politics",1804-01-02,1804-12-31,1
 "Topic, Politics","Topic, Politics",1809-01-02,1810-12-31,2
 "Topic, Politics","Topic, Politics",1812-01-02,1812-12-31,6
 "Topic, Politics","Topic, Politics",1814-01-02,1814-12-31,3
+"Topic, Politics","Topic, Politics",1816-01-02,1816-12-31,1
 "Topic, Politics","Topic, Politics",1819-01-02,1819-12-31,1
-"Topic, Politics","Topic, Politics",1823-01-02,1826-12-31,7
+"Topic, Politics","Topic, Politics",1823-01-02,1832-12-31,39
+"Topic, Politics","Topic, Politics",1837-01-02,1837-12-31,1
  • Politics • ,Politics,1804-01-02,1804-12-31,1
  • Politics • ,Politics,1809-01-02,1810-12-31,2
  • Politics • ,Politics,1812-01-02,1812-12-31,6
  • Politics • ,Politics,1814-01-02,1814-12-31,4
+ • Politics • ,Politics,1816-01-02,1816-12-31,1
  • Politics • ,Politics,1819-01-02,1819-12-31,2
- • Politics • ,Politics,1823-01-02,1826-12-31,8
+ • Politics • ,Politics,1823-01-02,1832-12-31,45
+ • Politics • ,Politics,1837-01-02,1837-12-31,3
+ • African Americans • ,"Topic, African Americans",1818-01-02,1818-12-31,0
+ • African Americans • ,"Topic, African Americans",1824-01-02,1824-12-31,0
+ • African Americans • ,"Topic, African Americans",1826-01-02,1826-12-31,0
+ • African Americans • ,"Topic, African Americans",1829-01-02,1829-12-31,0
+ • African Americans • ,"Topic, African Americans",1831-01-02,1831-12-31,0
+ • African Americans • ,African Americans,1818-01-02,1818-12-31
+"Topic, African Americans","Topic, African Americans",1818-01-02,1818-12-31,1
+"Topic, African Americans","Topic, African Americans",1824-01-02,1824-12-31,3
+"Topic, African Americans","Topic, African Americans",1826-01-02,1826-12-31,1
+"Topic, African Americans","Topic, African Americans",1829-01-02,1829-12-31,2
+"Topic, African Americans","Topic, African Americans",1831-01-02,1831-12-31,5
+ • African Americans • ,African Americans,1824-01-02,1824-12-31,3
+ • African Americans • ,African Americans,1826-01-02,1826-12-31,1
+ • African Americans • ,African Americans,1829-01-02,1829-12-31,2
+ • African Americans • ,African Americans,1831-01-02,1831-12-31,5
+ • Religion • ,"Topic, Religion",1803-01-02,1803-12-31,0
+ • Religion • ,"Topic, Religion",1807-01-02,1833-12-31,0
+ • Religion • ,"Topic, Religion",1837-01-02,1837-12-31,0
+ • Religion • ,Unitarianism,1813-01-02,1814-12-31,0
+ • Religion • ,Unitarianism,1820-01-02,1831-12-31,0
+ • Religion • ,Unitarianism,1833-01-02,1833-12-31,0
+ • Religion • ,Unitarianism,1837-01-02,1837-12-31,0
+ • Religion • ,Second Great Awakening,1818-01-02,1818-12-31,0
+ • Religion • ,Second Great Awakening,1821-01-02,1821-12-31,0
+ • Religion • ,Second Great Awakening,1823-01-02,1824-12-31,0
+ • Religion • ,Second Great Awakening,1826-01-02,1827-12-31,0
+ • Religion • ,Second Great Awakening,1829-01-02,1829-12-31,0
+ • Religion • ,Second Great Awakening,1831-01-02,1831-12-31,0
+ • Religion • ,Religion,1803-01-02,1803-12-31
+"Topic, Religion","Topic, Religion",1803-01-02,1803-12-31,1
+"Topic, Religion","Topic, Religion",1807-01-02,1833-12-31,286
+"Topic, Religion","Topic, Religion",1837-01-02,1837-12-31,2
+Unitarianism,Unitarianism,1813-01-02,1814-12-31,4
+Unitarianism,Unitarianism,1820-01-02,1831-12-31,82
+Unitarianism,Unitarianism,1833-01-02,1833-12-31,1
+Unitarianism,Unitarianism,1837-01-02,1837-12-31,2
+Second Great Awakening,Second Great Awakening,1818-01-02,1818-12-31,1
+Second Great Awakening,Second Great Awakening,1821-01-02,1821-12-31,3
+Second Great Awakening,Second Great Awakening,1823-01-02,1824-12-31,3
+Second Great Awakening,Second Great Awakening,1826-01-02,1827-12-31,2
+Second Great Awakening,Second Great Awakening,1829-01-02,1829-12-31,1
+Second Great Awakening,Second Great Awakening,1831-01-02,1831-12-31,1
+ • Religion • ,Religion,1807-01-02,1833-12-31,493
+ • Religion • ,Religion,1837-01-02,1837-12-31,4
+ • Education • ,"Topic, Education",1800-01-02,1801-12-31,0
+ • Education • ,"Topic, Education",1803-01-02,1805-12-31,0
+ • Education • ,"Topic, Education",1807-01-02,1807-12-31,0
+ • Education • ,"Topic, Education",1809-01-02,1809-12-31,0
+ • Education • ,"Topic, Education",1812-01-02,1812-12-31,0
+ • Education • ,"Topic, Education",1814-01-02,1832-12-31,0
+ • Education • ,"Topic, Education",1834-01-02,1834-12-31,0
+ • Education • ,"Topic, Education",1837-01-02,1837-12-31,0
+ • Education • ,Education,1800-01-02,1801-12-31
+"Topic, Education","Topic, Education",1800-01-02,1801-12-31,3
+"Topic, Education","Topic, Education",1803-01-02,1805-12-31,6
+"Topic, Education","Topic, Education",1807-01-02,1807-12-31,1
+"Topic, Education","Topic, Education",1809-01-02,1809-12-31,1
+"Topic, Education","Topic, Education",1812-01-02,1812-12-31,1
+"Topic, Education","Topic, Education",1814-01-02,1832-12-31,119
+"Topic, Education","Topic, Education",1834-01-02,1834-12-31,1
+"Topic, Education","Topic, Education",1837-01-02,1837-12-31,1
+ • Education • ,Education,1803-01-02,1805-12-31,6
+ • Education • ,Education,1807-01-02,1807-12-31,1
+ • Education • ,Education,1809-01-02,1809-12-31,1
+ • Education • ,Education,1812-01-02,1812-12-31,1
+ • Education • ,Education,1814-01-02,1832-12-31,119
+ • Education • ,Education,1834-01-02,1834-12-31,1
+ • Education • ,Education,1837-01-02,1837-12-31,1
+ • Slavery and Enslaved Persons • ,"Topic, Slavery and Enslaved Persons",1827-01-02,1827-12-31,0
+ • Slavery and Enslaved Persons • ,"Topic, Slavery and Enslaved Persons",1831-01-02,1831-12-31,0
+ • Slavery and Enslaved Persons • ,"Topic, Slavery and Enslaved Persons",1837-01-02,1837-12-31,0
+ • Slavery and Enslaved Persons • ,Slavery and Enslaved Persons,1827-01-02,1827-12-31
+"Topic, Slavery and Enslaved Persons","Topic, Slavery and Enslaved Persons",1827-01-02,1827-12-31,1
+"Topic, Slavery and Enslaved Persons","Topic, Slavery and Enslaved Persons",1831-01-02,1831-12-31,5
+"Topic, Slavery and Enslaved Persons","Topic, Slavery and Enslaved Persons",1837-01-02,1837-12-31,1
+ • Slavery and Enslaved Persons • ,Slavery and Enslaved Persons,1831-01-02,1831-12-31,6
+ • Slavery and Enslaved Persons • ,Slavery and Enslaved Persons,1837-01-02,1837-12-31,2
  • Culture • ,Leisure Activities,1798-01-02,1798-12-31,0
  • Culture • ,Leisure Activities,1800-01-02,1800-12-31,0
  • Culture • ,Leisure Activities,1809-01-02,1814-12-31,0
  • Culture • ,Leisure Activities,1817-01-02,1818-12-31,0
  • Culture • ,Leisure Activities,1820-01-02,1820-12-31,0
- • Culture • ,Leisure Activities,1822-01-02,1826-12-31,0
- • Culture • ,Leisure Activities,1828-01-02,1828-12-31,0
+ • Culture • ,Leisure Activities,1822-01-02,1834-12-31,0
+ • Culture • ,Leisure Activities,1837-01-02,1837-12-31,0
  • Culture • ,Gardens,1800-01-02,1800-12-31,0
- • Culture • ,Gardens,1814-01-02,1814-12-31,0
+ • Culture • ,Gardens,1814-01-02,1815-12-31,0
  • Culture • ,Gardens,1817-01-02,1817-12-31,0
+ • Culture • ,Gardens,1820-01-02,1820-12-31,0
  • Culture • ,Gardens,1822-01-02,1823-12-31,0
- • Culture • ,Gardens,1825-01-02,1825-12-31,0
+ • Culture • ,Gardens,1825-01-02,1827-12-31,0
+ • Culture • ,Gardens,1830-01-02,1832-12-31,0
  • Culture • ,Manners,1804-01-02,1804-12-31,0
  • Culture • ,Manners,1808-01-02,1815-12-31,0
  • Culture • ,Manners,1817-01-02,1818-12-31,0
- • Culture • ,Manners,1820-01-02,1820-12-31,0
- • Culture • ,Manners,1822-01-02,1823-12-31,0
- • Culture • ,Manners,1825-01-02,1826-12-31,0
+ • Culture • ,Manners,1820-01-02,1823-12-31,0
+ • Culture • ,Manners,1825-01-02,1834-12-31,0
  • Culture • ,Shopping and Material Exchange,1804-01-02,1804-12-31,0
  • Culture • ,Shopping and Material Exchange,1807-01-02,1807-12-31,0
- • Culture • ,Shopping and Material Exchange,1810-01-02,1814-12-31,0
- • Culture • ,Shopping and Material Exchange,1816-01-02,1826-12-31,0
- • Culture • ,Shopping and Material Exchange,1828-01-02,1828-12-31,0
- • Culture • ,Romanticism,1823-01-02,1826-12-31,0
- • Culture • ,Transcendentalism,1823-01-02,1825-12-31,0
+ • Culture • ,Shopping and Material Exchange,1810-01-02,1832-12-31,0
+ • Culture • ,Shopping and Material Exchange,1834-01-02,1834-12-31,0
+ • Culture • ,Shopping and Material Exchange,1837-01-02,1837-12-31,0
+ • Culture • ,Romanticism,1821-01-02,1821-12-31,0
+ • Culture • ,Romanticism,1823-01-02,1828-12-31,0
+ • Culture • ,Romanticism,1830-01-02,1830-12-31,0
+ • Culture • ,Transcendentalism,1823-01-02,1826-12-31,0
+ • Culture • ,Translation,1827-01-02,1830-12-31,0
  • Culture • ,Culture,1798-01-02,1798-12-31
 Leisure Activities,Leisure Activities,1798-01-02,1798-12-31,1
 Leisure Activities,Leisure Activities,1800-01-02,1800-12-31,1
 Leisure Activities,Leisure Activities,1809-01-02,1814-12-31,12
 Leisure Activities,Leisure Activities,1817-01-02,1818-12-31,5
 Leisure Activities,Leisure Activities,1820-01-02,1820-12-31,6
-Leisure Activities,Leisure Activities,1822-01-02,1826-12-31,25
-Leisure Activities,Leisure Activities,1828-01-02,1828-12-31,1
+Leisure Activities,Leisure Activities,1822-01-02,1834-12-31,94
+Leisure Activities,Leisure Activities,1837-01-02,1837-12-31,1
 Gardens,Gardens,1800-01-02,1800-12-31,1
-Gardens,Gardens,1814-01-02,1814-12-31,1
+Gardens,Gardens,1814-01-02,1815-12-31,2
 Gardens,Gardens,1817-01-02,1817-12-31,2
-Gardens,Gardens,1822-01-02,1823-12-31,3
-Gardens,Gardens,1825-01-02,1825-12-31,2
+Gardens,Gardens,1820-01-02,1820-12-31,1
+Gardens,Gardens,1822-01-02,1823-12-31,4
+Gardens,Gardens,1825-01-02,1827-12-31,7
+Gardens,Gardens,1830-01-02,1832-12-31,12
 Manners,Manners,1804-01-02,1804-12-31,1
 Manners,Manners,1808-01-02,1815-12-31,17
 Manners,Manners,1817-01-02,1818-12-31,3
-Manners,Manners,1820-01-02,1820-12-31,3
-Manners,Manners,1822-01-02,1823-12-31,7
-Manners,Manners,1825-01-02,1826-12-31,9
+Manners,Manners,1820-01-02,1823-12-31,17
+Manners,Manners,1825-01-02,1834-12-31,54
 Shopping and Material Exchange,Shopping and Material Exchange,1804-01-02,1804-12-31,1
-Shopping and Material Exchange,Shopping and Material Exchange,1807-01-02,1807-12-31,1
-Shopping and Material Exchange,Shopping and Material Exchange,1810-01-02,1814-12-31,26
-Shopping and Material Exchange,Shopping and Material Exchange,1816-01-02,1826-12-31,56
-Shopping and Material Exchange,Shopping and Material Exchange,1828-01-02,1828-12-31,1
-Romanticism,Romanticism,1823-01-02,1826-12-31,10
-Transcendentalism,Transcendentalism,1823-01-02,1825-12-31,8
+Shopping and Material Exchange,Shopping and Material Exchange,1807-01-02,1807-12-31,2
+Shopping and Material Exchange,Shopping and Material Exchange,1810-01-02,1832-12-31,140
+Shopping and Material Exchange,Shopping and Material Exchange,1834-01-02,1834-12-31,1
+Shopping and Material Exchange,Shopping and Material Exchange,1837-01-02,1837-12-31,1
+Romanticism,Romanticism,1821-01-02,1821-12-31,2
+Romanticism,Romanticism,1823-01-02,1828-12-31,22
+Romanticism,Romanticism,1830-01-02,1830-12-31,2
+Transcendentalism,Transcendentalism,1823-01-02,1826-12-31,10
+Translation,Translation,1827-01-02,1830-12-31,4
  • Culture • ,Culture,1800-01-02,1800-12-31,2
  • Culture • ,Culture,1804-01-02,1804-12-31,2
- • Culture • ,Culture,1807-01-02,1807-12-31,1
- • Culture • ,Culture,1808-01-02,1815-12-31,57
- • Culture • ,Culture,1816-01-02,1826-12-31,157
- • Culture • ,Culture,1828-01-02,1828-12-31,2
+ • Culture • ,Culture,1807-01-02,1807-12-31,2
+ • Culture • ,Culture,1808-01-02,1834-12-31,481
+ • Culture • ,Culture,1837-01-02,1837-12-31,2
+ • Health • ,Health and Illness,1800-01-02,1800-12-31,0
+ • Health • ,Health and Illness,1803-01-02,1804-12-31,0
+ • Health • ,Health and Illness,1807-01-02,1807-12-31,0
+ • Health • ,Health and Illness,1809-01-02,1834-12-31,0
+ • Health • ,Health and Illness,1837-01-02,1837-12-31,0
+ • Health • ,Pregnancy,1802-01-02,1802-12-31,0
+ • Health • ,Pregnancy,1807-01-02,1807-12-31,0
+ • Health • ,Pregnancy,1813-01-02,1814-12-31,0
+ • Health • ,Pregnancy,1817-01-02,1822-12-31,0
+ • Health • ,Pregnancy,1824-01-02,1830-12-31,0
+ • Health • ,Childbirth,1807-01-02,1807-12-31,0
+ • Health • ,Childbirth,1811-01-02,1811-12-31,0
+ • Health • ,Childbirth,1813-01-02,1815-12-31,0
+ • Health • ,Childbirth,1817-01-02,1817-12-31,0
+ • Health • ,Childbirth,1819-01-02,1819-12-31,0
+ • Health • ,Childbirth,1821-01-02,1822-12-31,0
+ • Health • ,Childbirth,1824-01-02,1831-12-31,0
+ • Health • ,Recreation,1820-01-02,1820-12-31,0
+ • Health • ,Recreation,1822-01-02,1826-12-31,0
+ • Health • ,Recreation,1828-01-02,1831-12-31,0
+ • Health • ,Health,1800-01-02,1800-12-31
+Health and Illness,Health and Illness,1800-01-02,1800-12-31,5
+Health and Illness,Health and Illness,1803-01-02,1804-12-31,3
+Health and Illness,Health and Illness,1807-01-02,1807-12-31,5
+Health and Illness,Health and Illness,1809-01-02,1834-12-31,304
+Health and Illness,Health and Illness,1837-01-02,1837-12-31,2
+Pregnancy,Pregnancy,1802-01-02,1802-12-31,1
+Pregnancy,Pregnancy,1807-01-02,1807-12-31,1
+Pregnancy,Pregnancy,1813-01-02,1814-12-31,3
+Pregnancy,Pregnancy,1817-01-02,1822-12-31,8
+Pregnancy,Pregnancy,1824-01-02,1830-12-31,17
+Childbirth,Childbirth,1807-01-02,1807-12-31,2
+Childbirth,Childbirth,1811-01-02,1811-12-31,1
+Childbirth,Childbirth,1813-01-02,1815-12-31,5
+Childbirth,Childbirth,1817-01-02,1817-12-31,2
+Childbirth,Childbirth,1819-01-02,1819-12-31,1
+Childbirth,Childbirth,1821-01-02,1822-12-31,4
+Childbirth,Childbirth,1824-01-02,1831-12-31,26
+Recreation,Recreation,1820-01-02,1820-12-31,2
+Recreation,Recreation,1822-01-02,1826-12-31,22
+Recreation,Recreation,1828-01-02,1831-12-31,16
+ • Health • ,Health,1802-01-02,1802-12-31,1
+ • Health • ,Health,1803-01-02,1804-12-31,3
+ • Health • ,Health,1807-01-02,1807-12-31,8
+ • Health • ,Health,1809-01-02,1834-12-31,411
+ • Health • ,Health,1837-01-02,1837-12-31,2
+ • Society • ,Holidays and Celebrations,1800-01-02,1801-12-31,0
+ • Society • ,Holidays and Celebrations,1810-01-02,1810-12-31,0
+ • Society • ,Holidays and Celebrations,1814-01-02,1815-12-31,0
+ • Society • ,Holidays and Celebrations,1817-01-02,1818-12-31,0
+ • Society • ,Holidays and Celebrations,1821-01-02,1831-12-31,0
+ • Society • ,Urban Life,1801-01-02,1801-12-31,0
+ • Society • ,Urban Life,1804-01-02,1804-12-31,0
+ • Society • ,Urban Life,1809-01-02,1809-12-31,0
+ • Society • ,Urban Life,1812-01-02,1814-12-31,0
+ • Society • ,Urban Life,1817-01-02,1818-12-31,0
+ • Society • ,Urban Life,1820-01-02,1831-12-31,0
+ • Society • ,Urban Life,1834-01-02,1834-12-31,0
+ • Society • ,Clothing,1803-01-02,1803-12-31,0
+ • Society • ,Clothing,1807-01-02,1807-12-31,0
+ • Society • ,Clothing,1810-01-02,1820-12-31,0
+ • Society • ,Clothing,1822-01-02,1832-12-31,0
+ • Society • ,Clothing,1834-01-02,1834-12-31,0
+ • Society • ,Village Life,1804-01-02,1804-12-31,0
+ • Society • ,Village Life,1809-01-02,1809-12-31,0
+ • Society • ,Village Life,1812-01-02,1831-12-31,0
+ • Society • ,Housewares and Furnishings,1811-01-02,1811-12-31,0
+ • Society • ,Housewares and Furnishings,1813-01-02,1813-12-31,0
+ • Society • ,Housewares and Furnishings,1817-01-02,1817-12-31,0
+ • Society • ,Housewares and Furnishings,1819-01-02,1821-12-31,0
+ • Society • ,Housewares and Furnishings,1823-01-02,1825-12-31,0
+ • Society • ,Housewares and Furnishings,1828-01-02,1829-12-31,0
+ • Society • ,Housewares and Furnishings,1831-01-02,1831-12-31,0
+ • Society • ,Housewares and Furnishings,1834-01-02,1834-12-31,0
+ • Society • ,Charity,1813-01-02,1814-12-31,0
+ • Society • ,Charity,1818-01-02,1821-12-31,0
+ • Society • ,Charity,1823-01-02,1832-12-31,0
+ • Society • ,Charity,1837-01-02,1837-12-31,0
+ • Society • ,Class,1818-01-02,1831-12-31,0
+ • Society • ,Class,1834-01-02,1834-12-31,0
+ • Society • ,Class,1837-01-02,1837-12-31,0
+ • Society • ,Crime,1822-01-02,1823-12-31,0
+ • Society • ,Crime,1826-01-02,1826-12-31,0
+ • Society • ,Crime,1828-01-02,1828-12-31,0
+ • Society • ,Crime,1830-01-02,1831-12-31,0
+ • Society • ,Society,1800-01-02,1801-12-31
+Holidays and Celebrations,Holidays and Celebrations,1800-01-02,1801-12-31,2
+Holidays and Celebrations,Holidays and Celebrations,1810-01-02,1810-12-31,1
+Holidays and Celebrations,Holidays and Celebrations,1814-01-02,1815-12-31,2
+Holidays and Celebrations,Holidays and Celebrations,1817-01-02,1818-12-31,4
+Holidays and Celebrations,Holidays and Celebrations,1821-01-02,1831-12-31,33
+Urban Life,Urban Life,1801-01-02,1801-12-31,1
+Urban Life,Urban Life,1804-01-02,1804-12-31,1
+Urban Life,Urban Life,1809-01-02,1809-12-31,1
+Urban Life,Urban Life,1812-01-02,1814-12-31,6
+Urban Life,Urban Life,1817-01-02,1818-12-31,3
+Urban Life,Urban Life,1820-01-02,1831-12-31,55
+Urban Life,Urban Life,1834-01-02,1834-12-31,1
+Clothing,Clothing,1803-01-02,1803-12-31,1
+Clothing,Clothing,1807-01-02,1807-12-31,2
+Clothing,Clothing,1810-01-02,1820-12-31,28
+Clothing,Clothing,1822-01-02,1832-12-31,51
+Clothing,Clothing,1834-01-02,1834-12-31,1
+Village Life,Village Life,1804-01-02,1804-12-31,1
+Village Life,Village Life,1809-01-02,1809-12-31,1
+Village Life,Village Life,1812-01-02,1831-12-31,86
+Housewares and Furnishings,Housewares and Furnishings,1811-01-02,1811-12-31,1
+Housewares and Furnishings,Housewares and Furnishings,1813-01-02,1813-12-31,1
+Housewares and Furnishings,Housewares and Furnishings,1817-01-02,1817-12-31,2
+Housewares and Furnishings,Housewares and Furnishings,1819-01-02,1821-12-31,3
+Housewares and Furnishings,Housewares and Furnishings,1823-01-02,1825-12-31,9
+Housewares and Furnishings,Housewares and Furnishings,1828-01-02,1829-12-31,4
+Housewares and Furnishings,Housewares and Furnishings,1831-01-02,1831-12-31,6
+Housewares and Furnishings,Housewares and Furnishings,1834-01-02,1834-12-31,1
+Charity,Charity,1813-01-02,1814-12-31,2
+Charity,Charity,1818-01-02,1821-12-31,9
+Charity,Charity,1823-01-02,1832-12-31,38
+Charity,Charity,1837-01-02,1837-12-31,1
+Class,Class,1818-01-02,1831-12-31,54
+Class,Class,1834-01-02,1834-12-31,1
+Class,Class,1837-01-02,1837-12-31,1
+Crime,Crime,1822-01-02,1823-12-31,2
+Crime,Crime,1826-01-02,1826-12-31,1
+Crime,Crime,1828-01-02,1828-12-31,1
+Crime,Crime,1830-01-02,1831-12-31,3
+ • Society • ,Society,1803-01-02,1803-12-31,1
+ • Society • ,Society,1804-01-02,1804-12-31,4
+ • Society • ,Society,1807-01-02,1807-12-31,5
+ • Society • ,Society,1809-01-02,1809-12-31,5
+ • Society • ,Society,1810-01-02,1832-12-31,887
+ • Society • ,Society,1834-01-02,1834-12-31,7
+ • Society • ,Society,1837-01-02,1837-12-31,5
+ • Nature • ,Natural World,1802-01-02,1802-12-31,0
+ • Nature • ,Natural World,1814-01-02,1814-12-31,0
+ • Nature • ,Natural World,1817-01-02,1817-12-31,0
+ • Nature • ,Natural World,1819-01-02,1831-12-31,0
+ • Nature • ,Natural World,1833-01-02,1833-12-31,0
+ • Nature • ,Disasters,1812-01-02,1812-12-31,0
+ • Nature • ,Disasters,1824-01-02,1825-12-31,0
+ • Nature • ,Disasters,1830-01-02,1830-12-31,0
+ • Nature • ,Nature,1802-01-02,1802-12-31
+Natural World,Natural World,1802-01-02,1802-12-31,1
+Natural World,Natural World,1814-01-02,1814-12-31,2
+Natural World,Natural World,1817-01-02,1817-12-31,2
+Natural World,Natural World,1819-01-02,1831-12-31,75
+Natural World,Natural World,1833-01-02,1833-12-31,1
+Disasters,Disasters,1812-01-02,1812-12-31,1
+Disasters,Disasters,1824-01-02,1825-12-31,3
+Disasters,Disasters,1830-01-02,1830-12-31,1
+ • Nature • ,Nature,1812-01-02,1812-12-31,1
+ • Nature • ,Nature,1814-01-02,1814-12-31,2
+ • Nature • ,Nature,1817-01-02,1817-12-31,2
+ • Nature • ,Nature,1819-01-02,1831-12-31,79
+ • Nature • ,Nature,1833-01-02,1833-12-31,1
  • Food and Drink • ,"Topic, Food and Drink",1803-01-02,1803-12-31,0
  • Food and Drink • ,"Topic, Food and Drink",1805-01-02,1805-12-31,0
  • Food and Drink • ,"Topic, Food and Drink",1807-01-02,1807-12-31,0
  • Food and Drink • ,"Topic, Food and Drink",1811-01-02,1811-12-31,0
- • Food and Drink • ,"Topic, Food and Drink",1813-01-02,1814-12-31,0
- • Food and Drink • ,"Topic, Food and Drink",1817-01-02,1820-12-31,0
- • Food and Drink • ,"Topic, Food and Drink",1822-01-02,1825-12-31,0
+ • Food and Drink • ,"Topic, Food and Drink",1813-01-02,1820-12-31,0
+ • Food and Drink • ,"Topic, Food and Drink",1822-01-02,1831-12-31,0
+ • Food and Drink • ,"Topic, Food and Drink",1834-01-02,1834-12-31,0
+ • Food and Drink • ,"Topic, Food and Drink",1837-01-02,1837-12-31,0
  • Food and Drink • ,Food and Drink,1803-01-02,1803-12-31
 "Topic, Food and Drink","Topic, Food and Drink",1803-01-02,1803-12-31,1
 "Topic, Food and Drink","Topic, Food and Drink",1805-01-02,1805-12-31,1
-"Topic, Food and Drink","Topic, Food and Drink",1807-01-02,1807-12-31,1
-"Topic, Food and Drink","Topic, Food and Drink",1811-01-02,1811-12-31,1
-"Topic, Food and Drink","Topic, Food and Drink",1813-01-02,1814-12-31,2
-"Topic, Food and Drink","Topic, Food and Drink",1817-01-02,1820-12-31,12
-"Topic, Food and Drink","Topic, Food and Drink",1822-01-02,1825-12-31,11
+"Topic, Food and Drink","Topic, Food and Drink",1807-01-02,1807-12-31,2
+"Topic, Food and Drink","Topic, Food and Drink",1811-01-02,1811-12-31,2
+"Topic, Food and Drink","Topic, Food and Drink",1813-01-02,1820-12-31,19
+"Topic, Food and Drink","Topic, Food and Drink",1822-01-02,1831-12-31,35
+"Topic, Food and Drink","Topic, Food and Drink",1834-01-02,1834-12-31,1
+"Topic, Food and Drink","Topic, Food and Drink",1837-01-02,1837-12-31,1
  • Food and Drink • ,Food and Drink,1805-01-02,1805-12-31,1
- • Food and Drink • ,Food and Drink,1807-01-02,1807-12-31,1
- • Food and Drink • ,Food and Drink,1811-01-02,1811-12-31,1
- • Food and Drink • ,Food and Drink,1813-01-02,1814-12-31,2
- • Food and Drink • ,Food and Drink,1817-01-02,1820-12-31,12
- • Food and Drink • ,Food and Drink,1822-01-02,1825-12-31,11
- • Gender • ,Gender Roles,1803-01-02,1804-12-31,0
- • Gender • ,Gender Roles,1807-01-02,1807-12-31,0
- • Gender • ,Gender Roles,1809-01-02,1814-12-31,0
- • Gender • ,Gender Roles,1816-01-02,1826-12-31,0
- • Gender • ,Gender Roles,1828-01-02,1828-12-31,0
- • Gender • ,Domestic Life and Duties,1805-01-02,1805-12-31,0
- • Gender • ,Domestic Life and Duties,1807-01-02,1807-12-31,0
- • Gender • ,Domestic Life and Duties,1809-01-02,1814-12-31,0
- • Gender • ,Domestic Life and Duties,1816-01-02,1825-12-31,0
- • Gender • ,Women's Rights,1813-01-02,1813-12-31,0
- • Gender • ,Women's Rights,1822-01-02,1822-12-31,0
- • Gender • ,Gender,1803-01-02,1804-12-31
-Gender Roles,Gender Roles,1803-01-02,1804-12-31,2
-Gender Roles,Gender Roles,1807-01-02,1807-12-31,1
-Gender Roles,Gender Roles,1809-01-02,1814-12-31,23
-Gender Roles,Gender Roles,1816-01-02,1826-12-31,73
-Gender Roles,Gender Roles,1828-01-02,1828-12-31,1
-Domestic Life and Duties,Domestic Life and Duties,1805-01-02,1805-12-31,1
-Domestic Life and Duties,Domestic Life and Duties,1807-01-02,1807-12-31,1
-Domestic Life and Duties,Domestic Life and Duties,1809-01-02,1814-12-31,27
-Domestic Life and Duties,Domestic Life and Duties,1816-01-02,1825-12-31,59
-Women's Rights,Women's Rights,1813-01-02,1813-12-31,2
-Women's Rights,Women's Rights,1822-01-02,1822-12-31,2
- • Gender • ,Gender,1805-01-02,1805-12-31,1
- • Gender • ,Gender,1807-01-02,1807-12-31,2
- • Gender • ,Gender,1809-01-02,1814-12-31,52
- • Gender • ,Gender,1816-01-02,1826-12-31,134
- • Gender • ,Gender,1828-01-02,1828-12-31,1
- • Economics • ,Embargo,1809-01-02,1809-12-31,0
- • Economics • ,Embargo,1812-01-02,1812-12-31,0
- • Economics • ,Family Finances (Sedgwick Family),1810-01-02,1810-12-31,0
- • Economics • ,Family Finances (Sedgwick Family),1813-01-02,1814-12-31,0
- • Economics • ,Family Finances (Sedgwick Family),1816-01-02,1819-12-31,0
- • Economics • ,Family Finances (Sedgwick Family),1821-01-02,1825-12-31,0
- • Economics • ,Family Finances (Sedgwick Family),1828-01-02,1828-12-31,0
- • Economics • ,Blockades,1812-01-02,1812-12-31,0
- • Economics • ,Privateering,1812-01-02,1812-12-31,0
- • Economics • ,"Topic, Economics",1822-01-02,1825-12-31,0
- • Economics • ,Economics,1809-01-02,1809-12-31
-Embargo,Embargo,1809-01-02,1809-12-31,1
-Embargo,Embargo,1812-01-02,1812-12-31,1
-Family Finances (Sedgwick Family),Family Finances (Sedgwick Family),1810-01-02,1810-12-31,1
-Family Finances (Sedgwick Family),Family Finances (Sedgwick Family),1813-01-02,1814-12-31,5
-Family Finances (Sedgwick Family),Family Finances (Sedgwick Family),1816-01-02,1819-12-31,12
-Family Finances (Sedgwick Family),Family Finances (Sedgwick Family),1821-01-02,1825-12-31,20
-Family Finances (Sedgwick Family),Family Finances (Sedgwick Family),1828-01-02,1828-12-31,1
-Blockades,Blockades,1812-01-02,1812-12-31,1
-Privateering,Privateering,1812-01-02,1812-12-31,1
-"Topic, Economics","Topic, Economics",1822-01-02,1825-12-31,12
- • Economics • ,Economics,1810-01-02,1810-12-31,5
- • Economics • ,Economics,1812-01-02,1812-12-31,13
- • Economics • ,Economics,1813-01-02,1814-12-31,16
- • Economics • ,Economics,1816-01-02,1819-12-31,34
- • Economics • ,Economics,1821-01-02,1825-12-31,60
- • Economics • ,Economics,1828-01-02,1828-12-31,2
- • Literature • ,Literature and History,1800-01-02,1800-12-31,0
- • Literature • ,Literature and History,1803-01-02,1803-12-31,0
- • Literature • ,Literature and History,1807-01-02,1807-12-31,0
- • Literature • ,Literature and History,1810-01-02,1812-12-31,0
- • Literature • ,Literature and History,1814-01-02,1826-12-31,0
- • Literature • ,Literature and History,1828-01-02,1828-12-31,0
- • Literature • ,Bible,1812-01-02,1812-12-31,0
- • Literature • ,Bible,1817-01-02,1825-12-31,0
- • Literature • ,Bible,1828-01-02,1828-12-31,0
- • Literature • ,Literature,1800-01-02,1800-12-31
-Literature and History,Literature and History,1800-01-02,1800-12-31,1
-Literature and History,Literature and History,1803-01-02,1803-12-31,1
-Literature and History,Literature and History,1807-01-02,1807-12-31,1
-Literature and History,Literature and History,1810-01-02,1812-12-31,5
-Literature and History,Literature and History,1814-01-02,1826-12-31,69
-Literature and History,Literature and History,1828-01-02,1828-12-31,1
-Bible,Bible,1812-01-02,1812-12-31,1
-Bible,Bible,1817-01-02,1825-12-31,57
-Bible,Bible,1828-01-02,1828-12-31,1
- • Literature • ,Literature,1803-01-02,1803-12-31,1
- • Literature • ,Literature,1807-01-02,1807-12-31,1
- • Literature • ,Literature,1810-01-02,1812-12-31,6
- • Literature • ,Literature,1814-01-02,1826-12-31,126
- • Literature • ,Literature,1828-01-02,1828-12-31,2
+ • Food and Drink • ,Food and Drink,1807-01-02,1807-12-31,2
+ • Food and Drink • ,Food and Drink,1811-01-02,1811-12-31,2
+ • Food and Drink • ,Food and Drink,1813-01-02,1820-12-31,19
+ • Food and Drink • ,Food and Drink,1822-01-02,1831-12-31,35
+ • Food and Drink • ,Food and Drink,1834-01-02,1834-12-31,1
+ • Food and Drink • ,Food and Drink,1837-01-02,1837-12-31,1
+ • Stages of Life • ,Childhood,1798-01-02,1798-12-31,0
+ • Stages of Life • ,Childhood,1800-01-02,1805-12-31,0
+ • Stages of Life • ,Childhood,1807-01-02,1807-12-31,0
+ • Stages of Life • ,Childhood,1809-01-02,1812-12-31,0
+ • Stages of Life • ,Childhood,1814-01-02,1816-12-31,0
+ • Stages of Life • ,Childhood,1818-01-02,1832-12-31,0
+ • Stages of Life • ,Childhood,1837-01-02,1837-12-31,0
+ • Stages of Life • ,Death,1800-01-02,1800-12-31,0
+ • Stages of Life • ,Death,1804-01-02,1804-12-31,0
+ • Stages of Life • ,Death,1809-01-02,1823-12-31,0
+ • Stages of Life • ,Death,1825-01-02,1832-12-31,0
+ • Stages of Life • ,Aging,1801-01-02,1801-12-31,0
+ • Stages of Life • ,Aging,1818-01-02,1818-12-31,0
+ • Stages of Life • ,Aging,1822-01-02,1826-12-31,0
+ • Stages of Life • ,Aging,1829-01-02,1831-12-31,0
+ • Stages of Life • ,Aging,1833-01-02,1833-12-31,0
+ • Stages of Life • ,Aging,1837-01-02,1837-12-31,0
+ • Stages of Life • ,Stages of Life,1798-01-02,1798-12-31
+Childhood,Childhood,1798-01-02,1798-12-31,1
+Childhood,Childhood,1800-01-02,1805-12-31,11
+Childhood,Childhood,1807-01-02,1807-12-31,5
+Childhood,Childhood,1809-01-02,1812-12-31,5
+Childhood,Childhood,1814-01-02,1816-12-31,7
+Childhood,Childhood,1818-01-02,1832-12-31,160
+Childhood,Childhood,1837-01-02,1837-12-31,1
+Death,Death,1800-01-02,1800-12-31,2
+Death,Death,1804-01-02,1804-12-31,1
+Death,Death,1809-01-02,1823-12-31,49
+Death,Death,1825-01-02,1832-12-31,46
+Aging,Aging,1801-01-02,1801-12-31,1
+Aging,Aging,1818-01-02,1818-12-31,2
+Aging,Aging,1822-01-02,1826-12-31,8
+Aging,Aging,1829-01-02,1831-12-31,6
+Aging,Aging,1833-01-02,1833-12-31,1
+Aging,Aging,1837-01-02,1837-12-31,1
+ • Stages of Life • ,Stages of Life,1800-01-02,1805-12-31,21
+ • Stages of Life • ,Stages of Life,1807-01-02,1807-12-31,14
+ • Stages of Life • ,Stages of Life,1809-01-02,1832-12-31,660
+ • Stages of Life • ,Stages of Life,1833-01-02,1833-12-31,3
+ • Stages of Life • ,Stages of Life,1837-01-02,1837-12-31,4
  • Uncategorized • ,Domestic Animals,1804-01-02,1804-12-31,0
+ • Uncategorized • ,Domestic Animals,1807-01-02,1807-12-31,0
  • Uncategorized • ,Domestic Animals,1809-01-02,1809-12-31,0
  • Uncategorized • ,Domestic Animals,1812-01-02,1812-12-31,0
  • Uncategorized • ,Domestic Animals,1815-01-02,1815-12-31,0
  • Uncategorized • ,Domestic Animals,1817-01-02,1819-12-31,0
- • Uncategorized • ,Domestic Animals,1822-01-02,1825-12-31,0
- • Uncategorized • ,Illness,1804-01-02,1804-12-31,0
- • Uncategorized • ,Illness,1807-01-02,1807-12-31,0
- • Uncategorized • ,Illness,1809-01-02,1809-12-31,0
+ • Uncategorized • ,Domestic Animals,1822-01-02,1827-12-31,0
+ • Uncategorized • ,Domestic Animals,1829-01-02,1831-12-31,0
  • Uncategorized • ,Childcare,1807-01-02,1807-12-31,0
  • Uncategorized • ,Childcare,1810-01-02,1810-12-31,0
  • Uncategorized • ,Childcare,1812-01-02,1814-12-31,0
- • Uncategorized • ,Childcare,1819-01-02,1820-12-31,0
- • Uncategorized • ,Childcare,1822-01-02,1825-12-31,0
+ • Uncategorized • ,Childcare,1819-01-02,1831-12-31,0
+ • Uncategorized • ,Childcare,1833-01-02,1834-12-31,0
  • Uncategorized • ,Uncategorized,1804-01-02,1804-12-31
 Domestic Animals,Domestic Animals,1804-01-02,1804-12-31,1
+Domestic Animals,Domestic Animals,1807-01-02,1807-12-31,1
 Domestic Animals,Domestic Animals,1809-01-02,1809-12-31,1
 Domestic Animals,Domestic Animals,1812-01-02,1812-12-31,1
-Domestic Animals,Domestic Animals,1815-01-02,1815-12-31,1
+Domestic Animals,Domestic Animals,1815-01-02,1815-12-31,2
 Domestic Animals,Domestic Animals,1817-01-02,1819-12-31,5
-Domestic Animals,Domestic Animals,1822-01-02,1825-12-31,4
-Illness,Illness,1804-01-02,1804-12-31,1
-Illness,Illness,1807-01-02,1807-12-31,1
-Illness,Illness,1809-01-02,1809-12-31,1
-Childcare,Childcare,1807-01-02,1807-12-31,4
+Domestic Animals,Domestic Animals,1822-01-02,1827-12-31,9
+Domestic Animals,Domestic Animals,1829-01-02,1831-12-31,13
+Childcare,Childcare,1807-01-02,1807-12-31,5
 Childcare,Childcare,1810-01-02,1810-12-31,1
 Childcare,Childcare,1812-01-02,1814-12-31,8
-Childcare,Childcare,1819-01-02,1820-12-31,3
-Childcare,Childcare,1822-01-02,1825-12-31,22
+Childcare,Childcare,1819-01-02,1831-12-31,79
+Childcare,Childcare,1833-01-02,1834-12-31,3
  • Uncategorized • ,Uncategorized,1807-01-02,1807-12-31,0
  • Uncategorized • ,Uncategorized,1809-01-02,1809-12-31,0
  • Uncategorized • ,Uncategorized,1810-01-02,1810-12-31,0
  • Uncategorized • ,Uncategorized,1812-01-02,1814-12-31,0
  • Uncategorized • ,Uncategorized,1815-01-02,1815-12-31,0
- • Uncategorized • ,Uncategorized,1817-01-02,1820-12-31,0
- • Uncategorized • ,Uncategorized,1822-01-02,1825-12-31,0
+ • Uncategorized • ,Uncategorized,1817-01-02,1831-12-31,0
+ • Uncategorized • ,Uncategorized,1833-01-02,1834-12-31,0
+ • Reform • ,Temperance Movement,1817-01-02,1817-12-31,0
+ • Reform • ,Temperance Movement,1825-01-02,1825-12-31,0
+ • Reform • ,Reform Movements,1818-01-02,1818-12-31,0
+ • Reform • ,Reform Movements,1823-01-02,1823-12-31,0
+ • Reform • ,Reform Movements,1826-01-02,1826-12-31,0
+ • Reform • ,Reform Movements,1828-01-02,1828-12-31,0
+ • Reform • ,Reform Movements,1837-01-02,1837-12-31,0
+ • Reform • ,Anti-Slavery Movements,1827-01-02,1827-12-31,0
+ • Reform • ,Anti-Slavery Movements,1831-01-02,1831-12-31,0
+ • Reform • ,Anti-Slavery Movements,1837-01-02,1837-12-31,0
+ • Reform • ,Reform,1817-01-02,1817-12-31
+Temperance Movement,Temperance Movement,1817-01-02,1817-12-31,1
+Temperance Movement,Temperance Movement,1825-01-02,1825-12-31,1
+Reform Movements,Reform Movements,1818-01-02,1818-12-31,1
+Reform Movements,Reform Movements,1823-01-02,1823-12-31,1
+Reform Movements,Reform Movements,1826-01-02,1826-12-31,2
+Reform Movements,Reform Movements,1828-01-02,1828-12-31,2
+Reform Movements,Reform Movements,1837-01-02,1837-12-31,1
+Anti-Slavery Movements,Anti-Slavery Movements,1827-01-02,1827-12-31,1
+Anti-Slavery Movements,Anti-Slavery Movements,1831-01-02,1831-12-31,1
+Anti-Slavery Movements,Anti-Slavery Movements,1837-01-02,1837-12-31,1
+ • Reform • ,Reform,1818-01-02,1818-12-31,1
+ • Reform • ,Reform,1823-01-02,1823-12-31,4
+ • Reform • ,Reform,1825-01-02,1825-12-31,4
+ • Reform • ,Reform,1826-01-02,1826-12-31,3
+ • Reform • ,Reform,1827-01-02,1827-12-31,1
+ • Reform • ,Reform,1828-01-02,1828-12-31,2
+ • Reform • ,Reform,1831-01-02,1831-12-31,2
+ • Reform • ,Reform,1837-01-02,1837-12-31,2
+ • Industry • ,Agriculture,1823-01-02,1823-12-31,0
+ • Industry • ,Agriculture,1825-01-02,1826-12-31,0
+ • Industry • ,Agriculture,1831-01-02,1831-12-31,0
+ • Industry • ,Industry,1823-01-02,1823-12-31
+Agriculture,Agriculture,1823-01-02,1823-12-31,1
+Agriculture,Agriculture,1825-01-02,1826-12-31,2
+Agriculture,Agriculture,1831-01-02,1831-12-31,1
+ • Industry • ,Industry,1825-01-02,1826-12-31,2
+ • Industry • ,Industry,1831-01-02,1831-12-31,1
+ • Wars and Revolutions • ,War of 1812,1812-01-02,1814-12-31,0
+ • Wars and Revolutions • ,American Revolution,1825-01-02,1825-12-31,0
+ • Wars and Revolutions • ,American Revolution,1828-01-02,1828-12-31,0
+ • Wars and Revolutions • ,American Revolution,1830-01-02,1831-12-31,0
+ • Wars and Revolutions • ,Wars and Revolutions,1812-01-02,1814-12-31
+War of 1812,War of 1812,1812-01-02,1814-12-31,11
+American Revolution,American Revolution,1825-01-02,1825-12-31,1
+American Revolution,American Revolution,1828-01-02,1828-12-31,1
+American Revolution,American Revolution,1830-01-02,1831-12-31,4
+ • Wars and Revolutions • ,Wars and Revolutions,1825-01-02,1825-12-31,1
+ • Wars and Revolutions • ,Wars and Revolutions,1828-01-02,1828-12-31,1
+ • Wars and Revolutions • ,Wars and Revolutions,1830-01-02,1831-12-31,4
+ • Gender • ,Gender Roles,1803-01-02,1804-12-31,0
+ • Gender • ,Gender Roles,1807-01-02,1807-12-31,0
+ • Gender • ,Gender Roles,1809-01-02,1814-12-31,0
+ • Gender • ,Gender Roles,1816-01-02,1833-12-31,0
+ • Gender • ,Gender Roles,1837-01-02,1837-12-31,0
+ • Gender • ,Domestic Life and Duties,1805-01-02,1805-12-31,0
+ • Gender • ,Domestic Life and Duties,1807-01-02,1807-12-31,0
+ • Gender • ,Domestic Life and Duties,1809-01-02,1834-12-31,0
+ • Gender • ,Domestic Life and Duties,1837-01-02,1837-12-31,0
+ • Gender • ,Women's Rights,1813-01-02,1813-12-31,0
+ • Gender • ,Women's Rights,1822-01-02,1822-12-31,0
+ • Gender • ,Women's Rights,1831-01-02,1831-12-31,0
+ • Gender • ,Gender,1803-01-02,1804-12-31
+Gender Roles,Gender Roles,1803-01-02,1804-12-31,2
+Gender Roles,Gender Roles,1807-01-02,1807-12-31,2
+Gender Roles,Gender Roles,1809-01-02,1814-12-31,24
+Gender Roles,Gender Roles,1816-01-02,1833-12-31,201
+Gender Roles,Gender Roles,1837-01-02,1837-12-31,1
+Domestic Life and Duties,Domestic Life and Duties,1805-01-02,1805-12-31,1
+Domestic Life and Duties,Domestic Life and Duties,1807-01-02,1807-12-31,2
+Domestic Life and Duties,Domestic Life and Duties,1809-01-02,1834-12-31,157
+Domestic Life and Duties,Domestic Life and Duties,1837-01-02,1837-12-31,1
+Women's Rights,Women's Rights,1813-01-02,1813-12-31,2
+Women's Rights,Women's Rights,1822-01-02,1822-12-31,2
+Women's Rights,Women's Rights,1831-01-02,1831-12-31,1
+ • Gender • ,Gender,1805-01-02,1805-12-31,1
+ • Gender • ,Gender,1807-01-02,1807-12-31,4
+ • Gender • ,Gender,1809-01-02,1834-12-31,387
+ • Gender • ,Gender,1837-01-02,1837-12-31,2
+ • International Relations • ,Foreign Relations,1826-01-02,1827-12-31,0
+ • International Relations • ,Foreign Relations,1831-01-02,1832-12-31,0
+ • International Relations • ,International Relations,1826-01-02,1827-12-31
+Foreign Relations,Foreign Relations,1826-01-02,1827-12-31,5
+Foreign Relations,Foreign Relations,1831-01-02,1832-12-31,3
+ • International Relations • ,International Relations,1831-01-02,1832-12-31,3
+ • Publications and Press • ,Press,1800-01-02,1800-12-31,0
+ • Publications and Press • ,Press,1821-01-02,1825-12-31,0
+ • Publications and Press • ,Press,1827-01-02,1832-12-31,0
+ • Publications and Press • ,Press,1837-01-02,1837-12-31,0
+ • Publications and Press • ,Authorship,1807-01-02,1808-12-31,0
+ • Publications and Press • ,Authorship,1810-01-02,1813-12-31,0
+ • Publications and Press • ,Authorship,1815-01-02,1834-12-31,0
+ • Publications and Press • ,Authorship,1837-01-02,1837-12-31,0
+ • Publications and Press • ,Publication,1820-01-02,1820-12-31,0
+ • Publications and Press • ,Publication,1822-01-02,1832-12-31,0
+ • Publications and Press • ,Publication,1834-01-02,1834-12-31,0
+ • Publications and Press • ,Publications and Press,1800-01-02,1800-12-31
+Press,Press,1800-01-02,1800-12-31,1
+Press,Press,1821-01-02,1825-12-31,13
+Press,Press,1827-01-02,1832-12-31,23
+Press,Press,1837-01-02,1837-12-31,1
+Authorship,Authorship,1807-01-02,1808-12-31,3
+Authorship,Authorship,1810-01-02,1813-12-31,10
+Authorship,Authorship,1815-01-02,1834-12-31,141
+Authorship,Authorship,1837-01-02,1837-12-31,2
+Publication,Publication,1820-01-02,1820-12-31,1
+Publication,Publication,1822-01-02,1832-12-31,47
+Publication,Publication,1834-01-02,1834-12-31,1
+ • Publications and Press • ,Publications and Press,1807-01-02,1808-12-31,3
+ • Publications and Press • ,Publications and Press,1810-01-02,1813-12-31,10
+ • Publications and Press • ,Publications and Press,1815-01-02,1834-12-31,226
+ • Publications and Press • ,Publications and Press,1837-01-02,1837-12-31,3
+ • Art • ,"Arts, Visual and Performing",1801-01-02,1801-12-31,0
+ • Art • ,"Arts, Visual and Performing",1812-01-02,1812-12-31,0
+ • Art • ,"Arts, Visual and Performing",1819-01-02,1821-12-31,0
+ • Art • ,"Arts, Visual and Performing",1823-01-02,1833-12-31,0
+ • Art • ,Art,1801-01-02,1801-12-31
+"Arts, Visual and Performing","Arts, Visual and Performing",1801-01-02,1801-12-31,1
+"Arts, Visual and Performing","Arts, Visual and Performing",1812-01-02,1812-12-31,1
+"Arts, Visual and Performing","Arts, Visual and Performing",1819-01-02,1821-12-31,6
+"Arts, Visual and Performing","Arts, Visual and Performing",1823-01-02,1833-12-31,57
+ • Art • ,Art,1812-01-02,1812-12-31,1
+ • Art • ,Art,1819-01-02,1821-12-31,6
+ • Art • ,Art,1823-01-02,1833-12-31,57
+ • Family • ,Family Relations (Sedgwick Family),1798-01-02,1798-12-31,0
+ • Family • ,Family Relations (Sedgwick Family),1800-01-02,1805-12-31,0
+ • Family • ,Family Relations (Sedgwick Family),1807-01-02,1832-12-31,0
+ • Family • ,Family Relations (Sedgwick Family),1834-01-02,1834-12-31,0
+ • Family • ,Family Relations (Sedgwick Family),1837-01-02,1837-12-31,0
+ • Family • ,Family Residences (Sedgwick Family),1805-01-02,1805-12-31,0
+ • Family • ,Family Residences (Sedgwick Family),1807-01-02,1807-12-31,0
+ • Family • ,Family Residences (Sedgwick Family),1813-01-02,1830-12-31,0
+ • Family • ,Family,1798-01-02,1798-12-31
+Family Relations (Sedgwick Family),Family Relations (Sedgwick Family),1798-01-02,1798-12-31,1
+Family Relations (Sedgwick Family),Family Relations (Sedgwick Family),1800-01-02,1805-12-31,18
+Family Relations (Sedgwick Family),Family Relations (Sedgwick Family),1807-01-02,1832-12-31,373
+Family Relations (Sedgwick Family),Family Relations (Sedgwick Family),1834-01-02,1834-12-31,1
+Family Relations (Sedgwick Family),Family Relations (Sedgwick Family),1837-01-02,1837-12-31,1
+Family Residences (Sedgwick Family),Family Residences (Sedgwick Family),1805-01-02,1805-12-31,1
+Family Residences (Sedgwick Family),Family Residences (Sedgwick Family),1807-01-02,1807-12-31,1
+Family Residences (Sedgwick Family),Family Residences (Sedgwick Family),1813-01-02,1830-12-31,74
+ • Family • ,Family,1800-01-02,1805-12-31,19
+ • Family • ,Family,1807-01-02,1832-12-31,515
+ • Family • ,Family,1834-01-02,1834-12-31,2
+ • Family • ,Family,1837-01-02,1837-12-31,1
+ • Migration • ,Exiles,1814-01-02,1814-12-31,0
+ • Migration • ,Exiles,1819-01-02,1819-12-31,0
+ • Migration • ,Exiles,1825-01-02,1825-12-31,0
+ • Migration • ,Exiles,1834-01-02,1834-12-31,0
+ • Migration • ,Exiles,1837-01-02,1837-12-31,0
+ • Migration • ,Immigration,1821-01-02,1821-12-31,0
+ • Migration • ,Immigration,1823-01-02,1825-12-31,0
+ • Migration • ,Immigration,1827-01-02,1831-12-31,0
+ • Migration • ,Immigration,1834-01-02,1834-12-31,0
+ • Migration • ,Immigration,1837-01-02,1837-12-31,0
+ • Migration • ,Migration,1814-01-02,1814-12-31
+Exiles,Exiles,1814-01-02,1814-12-31,1
+Exiles,Exiles,1819-01-02,1819-12-31,1
+Exiles,Exiles,1825-01-02,1825-12-31,1
+Exiles,Exiles,1834-01-02,1834-12-31,1
+Exiles,Exiles,1837-01-02,1837-12-31,1
+Immigration,Immigration,1821-01-02,1821-12-31,1
+Immigration,Immigration,1823-01-02,1825-12-31,5
+Immigration,Immigration,1827-01-02,1831-12-31,10
+Immigration,Immigration,1834-01-02,1834-12-31,1
+Immigration,Immigration,1837-01-02,1837-12-31,1
+ • Migration • ,Migration,1819-01-02,1819-12-31,1
+ • Migration • ,Migration,1821-01-02,1821-12-31,1
+ • Migration • ,Migration,1823-01-02,1825-12-31,6
+ • Migration • ,Migration,1827-01-02,1831-12-31,10
+ • Migration • ,Migration,1834-01-02,1834-12-31,2
+ • Migration • ,Migration,1837-01-02,1837-12-31,2
+ • Literature • ,Literature and History,1800-01-02,1800-12-31,0
+ • Literature • ,Literature and History,1803-01-02,1803-12-31,0
+ • Literature • ,Literature and History,1807-01-02,1807-12-31,0
+ • Literature • ,Literature and History,1810-01-02,1812-12-31,0
+ • Literature • ,Literature and History,1814-01-02,1834-12-31,0
+ • Literature • ,Literature and History,1837-01-02,1837-12-31,0
+ • Literature • ,Bible,1811-01-02,1812-12-31,0
+ • Literature • ,Bible,1817-01-02,1831-12-31,0
+ • Literature • ,Literature,1800-01-02,1800-12-31
+Literature and History,Literature and History,1800-01-02,1800-12-31,1
+Literature and History,Literature and History,1803-01-02,1803-12-31,1
+Literature and History,Literature and History,1807-01-02,1807-12-31,1
+Literature and History,Literature and History,1810-01-02,1812-12-31,5
+Literature and History,Literature and History,1814-01-02,1834-12-31,178
+Literature and History,Literature and History,1837-01-02,1837-12-31,2
+Bible,Bible,1811-01-02,1812-12-31,4
+Bible,Bible,1817-01-02,1831-12-31,93
+ • Literature • ,Literature,1803-01-02,1803-12-31,1
+ • Literature • ,Literature,1807-01-02,1807-12-31,1
+ • Literature • ,Literature,1810-01-02,1812-12-31,9
+ • Literature • ,Literature,1814-01-02,1834-12-31,275
+ • Literature • ,Literature,1837-01-02,1837-12-31,2
+ • Law • ,Legal Issues,1807-01-02,1807-12-31,0
+ • Law • ,Legal Issues,1813-01-02,1813-12-31,0
+ • Law • ,Legal Issues,1816-01-02,1818-12-31,0
+ • Law • ,Legal Issues,1821-01-02,1828-12-31,0
+ • Law • ,Legal Issues,1830-01-02,1831-12-31,0
+ • Law • ,Supreme Court,1831-01-02,1831-12-31,0
+ • Law • ,Law,1807-01-02,1807-12-31
+Legal Issues,Legal Issues,1807-01-02,1807-12-31,1
+Legal Issues,Legal Issues,1813-01-02,1813-12-31,2
+Legal Issues,Legal Issues,1816-01-02,1818-12-31,5
+Legal Issues,Legal Issues,1821-01-02,1828-12-31,25
+Legal Issues,Legal Issues,1830-01-02,1831-12-31,5
+Supreme Court,Supreme Court,1831-01-02,1831-12-31,3
+ • Law • ,Law,1813-01-02,1813-12-31,2
+ • Law • ,Law,1816-01-02,1818-12-31,5
+ • Law • ,Law,1821-01-02,1828-12-31,25
+ • Law • ,Law,1830-01-02,1831-12-31,8
+ • Work • ,Employees,1800-01-02,1801-12-31,0
+ • Work • ,Employees,1804-01-02,1804-12-31,0
+ • Work • ,Employees,1807-01-02,1807-12-31,0
+ • Work • ,Employees,1814-01-02,1814-12-31,0
+ • Work • ,Employees,1816-01-02,1816-12-31,0
+ • Work • ,Employees,1818-01-02,1821-12-31,0
+ • Work • ,Employees,1823-01-02,1824-12-31,0
+ • Work • ,Employees,1826-01-02,1832-12-31,0
+ • Work • ,"Topic, Work",1800-01-02,1800-12-31,0
+ • Work • ,"Topic, Work",1807-01-02,1807-12-31,0
+ • Work • ,"Topic, Work",1810-01-02,1812-12-31,0
+ • Work • ,"Topic, Work",1814-01-02,1814-12-31,0
+ • Work • ,"Topic, Work",1816-01-02,1816-12-31,0
+ • Work • ,"Topic, Work",1818-01-02,1831-12-31,0
+ • Work • ,"Topic, Work",1833-01-02,1833-12-31,0
+ • Work • ,"Topic, Work",1837-01-02,1837-12-31,0
+ • Work • ,Work,1800-01-02,1801-12-31
+Employees,Employees,1800-01-02,1801-12-31,3
+Employees,Employees,1804-01-02,1804-12-31,2
+Employees,Employees,1807-01-02,1807-12-31,2
+Employees,Employees,1814-01-02,1814-12-31,2
+Employees,Employees,1816-01-02,1816-12-31,1
+Employees,Employees,1818-01-02,1821-12-31,6
+Employees,Employees,1823-01-02,1824-12-31,6
+Employees,Employees,1826-01-02,1832-12-31,17
+"Topic, Work","Topic, Work",1800-01-02,1800-12-31,1
+"Topic, Work","Topic, Work",1807-01-02,1807-12-31,1
+"Topic, Work","Topic, Work",1810-01-02,1812-12-31,8
+"Topic, Work","Topic, Work",1814-01-02,1814-12-31,1
+"Topic, Work","Topic, Work",1816-01-02,1816-12-31,1
+"Topic, Work","Topic, Work",1818-01-02,1831-12-31,121
+"Topic, Work","Topic, Work",1833-01-02,1833-12-31,2
+"Topic, Work","Topic, Work",1837-01-02,1837-12-31,1
+ • Work • ,Work,1804-01-02,1804-12-31,2
+ • Work • ,Work,1807-01-02,1807-12-31,5
+ • Work • ,Work,1810-01-02,1812-12-31,21
+ • Work • ,Work,1814-01-02,1814-12-31,10
+ • Work • ,Work,1816-01-02,1816-12-31,4
+ • Work • ,Work,1818-01-02,1832-12-31,335
+ • Work • ,Work,1833-01-02,1833-12-31,3
+ • Work • ,Work,1837-01-02,1837-12-31,3
+ • Personal Relationships • ,Courtship,1801-01-02,1801-12-31,0
+ • Personal Relationships • ,Courtship,1807-01-02,1807-12-31,0
+ • Personal Relationships • ,Courtship,1810-01-02,1815-12-31,0
+ • Personal Relationships • ,Courtship,1817-01-02,1823-12-31,0
+ • Personal Relationships • ,Courtship,1825-01-02,1831-12-31,0
+ • Personal Relationships • ,Motherhood,1802-01-02,1802-12-31,0
+ • Personal Relationships • ,Motherhood,1804-01-02,1804-12-31,0
+ • Personal Relationships • ,Motherhood,1807-01-02,1807-12-31,0
+ • Personal Relationships • ,Motherhood,1809-01-02,1810-12-31,0
+ • Personal Relationships • ,Motherhood,1814-01-02,1833-12-31,0
+ • Personal Relationships • ,Marriage,1803-01-02,1803-12-31,0
+ • Personal Relationships • ,Marriage,1808-01-02,1808-12-31,0
+ • Personal Relationships • ,Marriage,1811-01-02,1814-12-31,0
+ • Personal Relationships • ,Marriage,1816-01-02,1831-12-31,0
+ • Personal Relationships • ,Marriage,1833-01-02,1833-12-31,0
+ • Personal Relationships • ,Marriage,1837-01-02,1837-12-31,0
+ • Personal Relationships • ,Fatherhood,1804-01-02,1804-12-31,0
+ • Personal Relationships • ,Fatherhood,1807-01-02,1807-12-31,0
+ • Personal Relationships • ,Fatherhood,1811-01-02,1811-12-31,0
+ • Personal Relationships • ,Fatherhood,1813-01-02,1814-12-31,0
+ • Personal Relationships • ,Fatherhood,1816-01-02,1818-12-31,0
+ • Personal Relationships • ,Fatherhood,1821-01-02,1831-12-31,0
+ • Personal Relationships • ,Friendship,1804-01-02,1804-12-31,0
+ • Personal Relationships • ,Friendship,1807-01-02,1807-12-31,0
+ • Personal Relationships • ,Friendship,1809-01-02,1809-12-31,0
+ • Personal Relationships • ,Friendship,1811-01-02,1833-12-31,0
+ • Personal Relationships • ,Friendship,1837-01-02,1837-12-31,0
+ • Personal Relationships • ,Social Life and Networks,1804-01-02,1804-12-31,0
+ • Personal Relationships • ,Social Life and Networks,1807-01-02,1834-12-31,0
+ • Personal Relationships • ,Social Life and Networks,1837-01-02,1837-12-31,0
+ • Personal Relationships • ,Gifts,1807-01-02,1807-12-31,0
+ • Personal Relationships • ,Gifts,1810-01-02,1810-12-31,0
+ • Personal Relationships • ,Gifts,1815-01-02,1815-12-31,0
+ • Personal Relationships • ,Gifts,1817-01-02,1831-12-31,0
+ • Personal Relationships • ,Gifts,1834-01-02,1834-12-31,0
+ • Personal Relationships • ,Gifts,1837-01-02,1837-12-31,0
+ • Personal Relationships • ,Personal Relationships,1801-01-02,1801-12-31
+Courtship,Courtship,1801-01-02,1801-12-31,1
+Courtship,Courtship,1807-01-02,1807-12-31,3
+Courtship,Courtship,1810-01-02,1815-12-31,20
+Courtship,Courtship,1817-01-02,1823-12-31,32
+Courtship,Courtship,1825-01-02,1831-12-31,25
+Motherhood,Motherhood,1802-01-02,1802-12-31,1
+Motherhood,Motherhood,1804-01-02,1804-12-31,1
+Motherhood,Motherhood,1807-01-02,1807-12-31,2
+Motherhood,Motherhood,1809-01-02,1810-12-31,2
+Motherhood,Motherhood,1814-01-02,1833-12-31,100
+Marriage,Marriage,1803-01-02,1803-12-31,1
+Marriage,Marriage,1808-01-02,1808-12-31,1
+Marriage,Marriage,1811-01-02,1814-12-31,11
+Marriage,Marriage,1816-01-02,1831-12-31,82
+Marriage,Marriage,1833-01-02,1833-12-31,1
+Marriage,Marriage,1837-01-02,1837-12-31,2
+Fatherhood,Fatherhood,1804-01-02,1804-12-31,1
+Fatherhood,Fatherhood,1807-01-02,1807-12-31,1
+Fatherhood,Fatherhood,1811-01-02,1811-12-31,1
+Fatherhood,Fatherhood,1813-01-02,1814-12-31,3
+Fatherhood,Fatherhood,1816-01-02,1818-12-31,3
+Fatherhood,Fatherhood,1821-01-02,1831-12-31,31
+Friendship,Friendship,1804-01-02,1804-12-31,1
+Friendship,Friendship,1807-01-02,1807-12-31,5
+Friendship,Friendship,1809-01-02,1809-12-31,1
+Friendship,Friendship,1811-01-02,1833-12-31,157
+Friendship,Friendship,1837-01-02,1837-12-31,1
+Social Life and Networks,Social Life and Networks,1804-01-02,1804-12-31,2
+Social Life and Networks,Social Life and Networks,1807-01-02,1834-12-31,350
+Social Life and Networks,Social Life and Networks,1837-01-02,1837-12-31,2
+Gifts,Gifts,1807-01-02,1807-12-31,1
+Gifts,Gifts,1810-01-02,1810-12-31,1
+Gifts,Gifts,1815-01-02,1815-12-31,1
+Gifts,Gifts,1817-01-02,1831-12-31,66
+Gifts,Gifts,1834-01-02,1834-12-31,1
+Gifts,Gifts,1837-01-02,1837-12-31,1
+ • Personal Relationships • ,Personal Relationships,1802-01-02,1802-12-31,3
+ • Personal Relationships • ,Personal Relationships,1803-01-02,1803-12-31,3
+ • Personal Relationships • ,Personal Relationships,1804-01-02,1804-12-31,8
+ • Personal Relationships • ,Personal Relationships,1807-01-02,1834-12-31,1275
+ • Personal Relationships • ,Personal Relationships,1837-01-02,1837-12-31,7
  • Science and Technology • ,"Topic, Science and Technology",1820-01-02,1820-12-31,0
  • Science and Technology • ,"Topic, Science and Technology",1823-01-02,1823-12-31,0
- • Science and Technology • ,"Topic, Science and Technology",1825-01-02,1825-12-31,0
+ • Science and Technology • ,"Topic, Science and Technology",1825-01-02,1826-12-31,0
+ • Science and Technology • ,"Topic, Science and Technology",1828-01-02,1828-12-31,0
+ • Science and Technology • ,"Topic, Science and Technology",1830-01-02,1831-12-31,0
  • Science and Technology • ,Science and Technology,1820-01-02,1820-12-31
 "Topic, Science and Technology","Topic, Science and Technology",1820-01-02,1820-12-31,1
 "Topic, Science and Technology","Topic, Science and Technology",1823-01-02,1823-12-31,1
-"Topic, Science and Technology","Topic, Science and Technology",1825-01-02,1825-12-31,1
+"Topic, Science and Technology","Topic, Science and Technology",1825-01-02,1826-12-31,4
+"Topic, Science and Technology","Topic, Science and Technology",1828-01-02,1828-12-31,1
+"Topic, Science and Technology","Topic, Science and Technology",1830-01-02,1831-12-31,5
  • Science and Technology • ,Science and Technology,1823-01-02,1823-12-31,2
- • Science and Technology • ,Science and Technology,1825-01-02,1825-12-31,2
+ • Science and Technology • ,Science and Technology,1825-01-02,1826-12-31,6
+ • Science and Technology • ,Science and Technology,1828-01-02,1828-12-31,1
+ • Science and Technology • ,Science and Technology,1830-01-02,1831-12-31,6
+ • Travel and Transportation • ,Transportation,1800-01-02,1800-12-31,0
+ • Travel and Transportation • ,Transportation,1807-01-02,1812-12-31,0
+ • Travel and Transportation • ,Transportation,1814-01-02,1831-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, US",1800-01-02,1800-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, US",1810-01-02,1815-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, US",1817-01-02,1831-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, US",1837-01-02,1837-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, International",1812-01-02,1813-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, International",1818-01-02,1819-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, International",1821-01-02,1822-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, International",1825-01-02,1825-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, International",1827-01-02,1827-12-31,0
+ • Travel and Transportation • ,"Travel and Touring, International",1829-01-02,1831-12-31,0
+ • Travel and Transportation • ,Canals,1821-01-02,1821-12-31,0
+ • Travel and Transportation • ,Travel and Transportation,1800-01-02,1800-12-31
+Transportation,Transportation,1800-01-02,1800-12-31,1
+Transportation,Transportation,1807-01-02,1812-12-31,7
+Transportation,Transportation,1814-01-02,1831-12-31,71
+"Travel and Touring, US","Travel and Touring, US",1800-01-02,1800-12-31,1
+"Travel and Touring, US","Travel and Touring, US",1810-01-02,1815-12-31,13
+"Travel and Touring, US","Travel and Touring, US",1817-01-02,1831-12-31,147
+"Travel and Touring, US","Travel and Touring, US",1837-01-02,1837-12-31,1
+"Travel and Touring, International","Travel and Touring, International",1812-01-02,1813-12-31,3
+"Travel and Touring, International","Travel and Touring, International",1818-01-02,1819-12-31,2
+"Travel and Touring, International","Travel and Touring, International",1821-01-02,1822-12-31,10
+"Travel and Touring, International","Travel and Touring, International",1825-01-02,1825-12-31,3
+"Travel and Touring, International","Travel and Touring, International",1827-01-02,1827-12-31,1
+"Travel and Touring, International","Travel and Touring, International",1829-01-02,1831-12-31,9
+Canals,Canals,1821-01-02,1821-12-31,2
+ • Travel and Transportation • ,Travel and Transportation,1807-01-02,1831-12-31,275
+ • Travel and Transportation • ,Travel and Transportation,1837-01-02,1837-12-31,1
  • Indigenous Peoples • ,Native Americans,1819-01-02,1819-12-31,0
- • Indigenous Peoples • ,Native Americans,1825-01-02,1825-12-31,0
+ • Indigenous Peoples • ,Native Americans,1822-01-02,1823-12-31,0
+ • Indigenous Peoples • ,Native Americans,1825-01-02,1827-12-31,0
+ • Indigenous Peoples • ,Native Americans,1829-01-02,1831-12-31,0
  • Indigenous Peoples • ,Indigenous Peoples,1819-01-02,1819-12-31
 Native Americans,Native Americans,1819-01-02,1819-12-31,1
-Native Americans,Native Americans,1825-01-02,1825-12-31,1
- • Indigenous Peoples • ,Indigenous Peoples,1825-01-02,1825-12-31,1
- • Religion • ,"Topic, Religion",1803-01-02,1803-12-31,0
- • Religion • ,"Topic, Religion",1807-01-02,1826-12-31,0
- • Religion • ,"Topic, Religion",1828-01-02,1828-12-31,0
- • Religion • ,Unitarianism,1813-01-02,1814-12-31,0
- • Religion • ,Unitarianism,1820-01-02,1826-12-31,0
- • Religion • ,Second Great Awakening,1818-01-02,1818-12-31,0
- • Religion • ,Second Great Awakening,1823-01-02,1824-12-31,0
- • Religion • ,Religion,1803-01-02,1803-12-31
-"Topic, Religion","Topic, Religion",1803-01-02,1803-12-31,1
-"Topic, Religion","Topic, Religion",1807-01-02,1826-12-31,137
-"Topic, Religion","Topic, Religion",1828-01-02,1828-12-31,1
-Unitarianism,Unitarianism,1813-01-02,1814-12-31,3
-Unitarianism,Unitarianism,1820-01-02,1826-12-31,32
-Second Great Awakening,Second Great Awakening,1818-01-02,1818-12-31,1
-Second Great Awakening,Second Great Awakening,1823-01-02,1824-12-31,3
- • Religion • ,Religion,1807-01-02,1826-12-31,235
- • Religion • ,Religion,1828-01-02,1828-12-31,2
+Native Americans,Native Americans,1822-01-02,1823-12-31,2
+Native Americans,Native Americans,1825-01-02,1827-12-31,5
+Native Americans,Native Americans,1829-01-02,1831-12-31,10
+ • Indigenous Peoples • ,Indigenous Peoples,1822-01-02,1823-12-31,2
+ • Indigenous Peoples • ,Indigenous Peoples,1825-01-02,1827-12-31,5
+ • Indigenous Peoples • ,Indigenous Peoples,1829-01-02,1831-12-31,10
+ • Identity • ,Self-reflection,1807-01-02,1807-12-31,0
+ • Identity • ,Self-reflection,1811-01-02,1834-12-31,0
+ • Identity • ,Self-reflection,1837-01-02,1837-12-31,0
+ • Identity • ,National Identity,1810-01-02,1810-12-31,0
+ • Identity • ,National Identity,1812-01-02,1812-12-31,0
+ • Identity • ,National Identity,1817-01-02,1829-12-31,0
+ • Identity • ,National Identity,1831-01-02,1831-12-31,0
+ • Identity • ,National Identity,1833-01-02,1833-12-31,0
+ • Identity • ,National Identity,1837-01-02,1837-12-31,0
+ • Identity • ,Singlehood,1811-01-02,1811-12-31,0
+ • Identity • ,Singlehood,1813-01-02,1813-12-31,0
+ • Identity • ,Singlehood,1816-01-02,1829-12-31,0
+ • Identity • ,Singlehood,1831-01-02,1833-12-31,0
+ • Identity • ,Race and Ethnicity,1817-01-02,1818-12-31,0
+ • Identity • ,Race and Ethnicity,1820-01-02,1821-12-31,0
+ • Identity • ,Race and Ethnicity,1823-01-02,1823-12-31,0
+ • Identity • ,Race and Ethnicity,1826-01-02,1826-12-31,0
+ • Identity • ,Race and Ethnicity,1829-01-02,1829-12-31,0
+ • Identity • ,Race and Ethnicity,1831-01-02,1831-12-31,0
+ • Identity • ,Race and Ethnicity,1834-01-02,1834-12-31,0
+ • Identity • ,Race and Ethnicity,1837-01-02,1837-12-31,0
+ • Identity • ,Caribbean,1820-01-02,1820-12-31,0
+ • Identity • ,Caribbean,1822-01-02,1822-12-31,0
+ • Identity • ,Caribbean,1828-01-02,1831-12-31,0
+ • Identity • ,Catholicism,1821-01-02,1821-12-31,0
+ • Identity • ,Catholicism,1823-01-02,1823-12-31,0
+ • Identity • ,Catholicism,1826-01-02,1826-12-31,0
+ • Identity • ,Catholicism,1829-01-02,1830-12-31,0
+ • Identity • ,Regional Identity,1821-01-02,1822-12-31,0
+ • Identity • ,Regional Identity,1826-01-02,1828-12-31,0
+ • Identity • ,Regional Identity,1830-01-02,1831-12-31,0
+ • Identity • ,Judaism,1823-01-02,1823-12-31,0
+ • Identity • ,Judaism,1828-01-02,1831-12-31,0
+ • Identity • ,"South, The",1824-01-02,1824-12-31,0
+ • Identity • ,"South, The",1831-01-02,1831-12-31,0
+ • Identity • ,"South, The",1837-01-02,1837-12-31,0
+ • Identity • ,"West, The",1825-01-02,1825-12-31,0
+ • Identity • ,"West, The",1831-01-02,1831-12-31,0
+ • Identity • ,Widowhood,1825-01-02,1825-12-31,0
+ • Identity • ,Identity,1807-01-02,1807-12-31
+Self-reflection,Self-reflection,1807-01-02,1807-12-31,1
+Self-reflection,Self-reflection,1811-01-02,1834-12-31,218
+Self-reflection,Self-reflection,1837-01-02,1837-12-31,1
+National Identity,National Identity,1810-01-02,1810-12-31,1
+National Identity,National Identity,1812-01-02,1812-12-31,1
+National Identity,National Identity,1817-01-02,1829-12-31,32
+National Identity,National Identity,1831-01-02,1831-12-31,6
+National Identity,National Identity,1833-01-02,1833-12-31,1
+National Identity,National Identity,1837-01-02,1837-12-31,1
+Singlehood,Singlehood,1811-01-02,1811-12-31,2
+Singlehood,Singlehood,1813-01-02,1813-12-31,2
+Singlehood,Singlehood,1816-01-02,1829-12-31,49
+Singlehood,Singlehood,1831-01-02,1833-12-31,6
+Race and Ethnicity,Race and Ethnicity,1817-01-02,1818-12-31,3
+Race and Ethnicity,Race and Ethnicity,1820-01-02,1821-12-31,2
+Race and Ethnicity,Race and Ethnicity,1823-01-02,1823-12-31,1
+Race and Ethnicity,Race and Ethnicity,1826-01-02,1826-12-31,1
+Race and Ethnicity,Race and Ethnicity,1829-01-02,1829-12-31,3
+Race and Ethnicity,Race and Ethnicity,1831-01-02,1831-12-31,7
+Race and Ethnicity,Race and Ethnicity,1834-01-02,1834-12-31,1
+Race and Ethnicity,Race and Ethnicity,1837-01-02,1837-12-31,1
+Caribbean,Caribbean,1820-01-02,1820-12-31,2
+Caribbean,Caribbean,1822-01-02,1822-12-31,1
+Caribbean,Caribbean,1828-01-02,1831-12-31,4
+Catholicism,Catholicism,1821-01-02,1821-12-31,1
+Catholicism,Catholicism,1823-01-02,1823-12-31,1
+Catholicism,Catholicism,1826-01-02,1826-12-31,1
+Catholicism,Catholicism,1829-01-02,1830-12-31,2
+Regional Identity,Regional Identity,1821-01-02,1822-12-31,4
+Regional Identity,Regional Identity,1826-01-02,1828-12-31,5
+Regional Identity,Regional Identity,1830-01-02,1831-12-31,4
+Judaism,Judaism,1823-01-02,1823-12-31,2
+Judaism,Judaism,1828-01-02,1831-12-31,5
+"South, The","South, The",1824-01-02,1824-12-31,1
+"South, The","South, The",1831-01-02,1831-12-31,2
+"South, The","South, The",1837-01-02,1837-12-31,1
+"West, The","West, The",1825-01-02,1825-12-31,1
+"West, The","West, The",1831-01-02,1831-12-31,1
+Widowhood,Widowhood,1825-01-02,1825-12-31,1
+ • Identity • ,Identity,1810-01-02,1810-12-31,1
+ • Identity • ,Identity,1811-01-02,1834-12-31,373
+ • Identity • ,Identity,1837-01-02,1837-12-31,4
