@@ -360,8 +360,8 @@ function graph(filepath) {
                     .attr('pointer-events', 'none')
                     .style('opacity', 0.7)
                     .style('color', "#fff")
-                    .style("right", "40px")
-                    .style("top", "10px");
+                    .style("right", "7%")
+                    .style("top", "20px")
 
                 toolHeader
                     .html(d.name)
