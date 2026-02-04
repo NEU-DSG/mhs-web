@@ -360,8 +360,8 @@ function graph(filepath) {
                     .attr('pointer-events', 'none')
                     .style('opacity', 0.7)
                     .style('color', "#fff")
-                    .style("right", "0px")
-                    .style("top", "0px");
+                    .style("right", "10px")
+                    .style("top", "10px");
 
                 toolHeader
                     .html(d.name)
@@ -371,8 +371,8 @@ function graph(filepath) {
                 toolBody
                     .selectAll('p')
                     .data(nodeInfo)
-                    .style('color', "#fff")
                     .join('p')
+                    .style('color', "#fff")
                     .html(d => `${d[0]}: ${d[1]}`)
                     .attr('pointer-events', 'none');
             }
