@@ -177,12 +177,48 @@ module.exports = {
                 tabs: [
                     {
                         number: 2,
-                        title: "Co-References",
-                        short_title: "Co-Ref",
-                        icon: "fa-diagram-project",
-                        date: "(1828 - 1866)",
-                        data_file: "data.json",
-                        desc: "Roger Brooke Taney (1777 – 1864) was one of the most significant American jurists of the 19th century, second only to John Marshall (1755 – 1835) in importance. Although remembered today for his decision in Dred Scott v. Sandford, Taney wielded considerable political influence in the years prior to his appointment to the Supreme Court. His writings during the first half of the 1830s provide insights into the political and economic dynamics of the period, the lessons of which inform the contemporary American political scene and our understanding of his juridical reasoning."
+                        title: "State and National Politics",
+                        short_title: "1816-1831",
+                        icon: "",
+                        date: "(January 1816 - May 1831)",
+                        data_file: "1816-01-1831-05-rbt.json",
+                        desc: "With the end of the War of 1812, leading Marylanders turned to state and local concerns. Taney immersed himself in issues such as banking, currency, and internal improvements while serving as a state senator (1816-1821) and state attorney general (1827-1831). The latter post, Taney would recall, represented \"my highest ambition,\" as \"it had been most commonly filled by highly gifted and eminent men . . .\" As a private attorney, he achieved some notoriety while representing Jacob Gruber, a Pennsylvania Methodist minister who was charged with inciting slaves to insurrection after delivering an anti-slavery sermon in Hagerstown in the summer of 1818. Taney, who had recently freed his own slaves, successfully argued for Gruber on free speech grounds. Taney moved to Baltimore in 1823, and made his first appearance before the U.S. Supreme Court two years later. By this time he had hitched his political wagon to Andrew Jackson, who would remember Taney's support when reorganizing his cabinet in the aftermath of the Eaton affair."
+                    },
+                    {
+                        number: 3,
+                        title: "U.S. Attorney General",
+                        short_title: "1831-1833",
+                        icon: "",
+                        date: "(June 1831 - August 1833)",
+                        data_file: "1831-06-1833-08-rbt.json",
+                        desc: "On 21 June 1831 President Jackson appointed Taney Attorney General of the United States. Over the next two years, other cabinet members would call on Taney for opinions on subjects both domestic and international. One case that concerned both spheres involved a South Carolina law that provided for the temporary imprisonment of free blacks employed on foreign vessels calling on ports of the state, with said sailors sold into slavery if the master of the vessel could not pay for their confinement. When the British protested the law as a violation of treaty obligations, Taney opined that it was a valid protection against the potential unrest resulting from free blacks visiting a slave state. Attorney General Taney also weighed in on the Bank War, the titanic struggle between President Jackson and the Bank of the United States. It was Taney's lengthy opinion on the recharter of the bank that informed Jackson's famous veto message of 10 July 1832."
+                    },
+                    {
+                        number: 4,
+                        title: "Secretary of the Treasury",
+                        short_title: "1833-1834",
+                        icon: "",
+                        date: "(September 1833 - June 1834)",
+                        data_file: "1833-09-1834-06-rbt.json",
+                        desc: "Taney's tenure as Secretary of the Treasury was brief, but turbulent. It began in September 1833, when President Jackson appointed him to replace William John Duane, who had refused to comply with Jackson's directive to remove federal deposits from the Bank of the United States. Secretary Taney oversaw the removal process, including the selection of banks to receive government funds. One of these \"pet\" banks was Baltimore's Union Bank of Maryland, headed by Thomas Ellicott, a Quaker friend of Taney's. Ellicott's misuse of government funds proved to be a major source of consternation for Taney, who exchanged numerous contentious letters with his erstwhile ally in early 1834. This controversy over the Union Bank provided ammunition for Whig opponents to the removal of deposits. Taney would pay the price on 24 June 1834, when the Senate rejected his nomination as Secretary of the Treasury. He returned to his private practice, which he had all but abandoned after assuming the Treasury post."
+                    },
+                    {
+                        number: 5,
+                        title: "Chief Justice: A Jacksonian Jurist",
+                        short_title: "1834-1857",
+                        icon: "",
+                        date: "(July 1834 - February 1857)",
+                        data_file: "1834-07-1857-02-rbt.json",
+                        desc: "Taney's respite from public office ended on 15 March 1836, when the Senate confirmed his nomination as Chief Justice of the Supreme Court of the United States. In succeeding John Marshall, the stalwart guardian of nationalism and property rights, Taney proved to be more sympathetic to states' rights and economic competition. Thus in Charles River Bridge Company v. Warren Bridge Company (1837), one of the first major cases to appear before his court, Taney held that the Massachusetts legislature's granting of a charter for construction of a bridge across the Charles River—in competition with a nearby bridge chartered decades before—was not a violation of the U.S. Constitution's contract clause. Taney further refined Marshall's \"national capitalism\" in cases such as Bank of Augusta v. Earle (1839), Swift v. Tyson (1842), and Cooley v. Board of Wardens of the Port of Philadelphia (1852). All the while, he endured a series of crises on the home front. One daughter was an invalid, and another left her husband (\"an evil . . . hypocrite,\" in Taney's estimation) to return home. Tragedy struck in September 1855, when Taney's wife and youngest daughter died from fever on consecutive days."
+                    },
+                    {
+                        number: 6,
+                        title: "Chief Justice: Dred Scott and the Civil War",
+                        short_title: "1857-1865",
+                        icon: "",
+                        date: "(March 1857 - October 1865)",
+                        data_file: "1857-03-1865-10-rbt.json",
+                        desc: "On 6 March 1857 Chief Justice Taney delivered the majority opinion in Dred Scott v. Sandford, a case that centered on a Missouri slave who had sued for his freedom on the grounds that he and his owner had temporarily resided in Illinois and the Wisconsin Territory. Taney asserted that Scott was still a slave, in part because blacks were not U.S. citizens and thus \"had no rights which the white man was bound to respect\"—including the right to sue in federal courts. Taney's ruling provoked outrage throughout the North, exacerbating sectional tensions over slavery that culminated in civil war. When that war came, Taney proved to be a stalwart critic of the Lincoln administration's policies, noting in Ex parte Merryman (1861) that the President had no power under the Constitution to suspend the writ of habeas corpus. Yet by this point both his reputation and his health were broken. After Taney's death on 12 October 1864, Charles Sumner—for whom Taney had once written a letter of introduction—presciently stated that \"the name of Taney is to be hooted down the page of history.\""
                     }
                 ],
             },

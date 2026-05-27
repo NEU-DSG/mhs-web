@@ -1,0 +1,4134 @@
+{
+    "metrics": {
+        "start_month_year": "1834-07",
+        "end_month_year": "1857-02",
+        "weight_min": "3",
+        "num_entries": "293",
+        "avg_entry_len": "3420.5597269624573",
+        "pers_ref_avg": "5.610921501706485",
+        "num_nodes": 85,
+        "num_edges": 602
+    },
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 11,
+            "betweenness": 0.0,
+            "eigenvector": 0.08320387286378222,
+            "degree_cent": 0.13095238095238093,
+            "modularity": 3,
+            "id": "allison-richard",
+            "given_name": "Richard",
+            "middle_name": "Taylor",
+            "family_name": "Allison",
+            "date_of_birth": "1823",
+            "date_of_death": "1909"
+        },
+        {
+            "degree": 50,
+            "betweenness": 0.059885023514900666,
+            "eigenvector": 0.2492132625407787,
+            "degree_cent": 0.5952380952380952,
+            "modularity": 0,
+            "id": "allison-maria",
+            "given_name": "Maria",
+            "middle_name": "Key",
+            "family_name": "Allison",
+            "date_of_birth": "1819",
+            "date_of_death": "1887"
+        },
+        {
+            "degree": 18,
+            "betweenness": 0.001174501641230307,
+            "eigenvector": 0.11443159097457845,
+            "degree_cent": 0.21428571428571427,
+            "modularity": 3,
+            "id": "anderson-mary",
+            "given_name": "Mary",
+            "middle_name": "Monica Taney",
+            "family_name": "Anderson",
+            "date_of_birth": "1839",
+            "date_of_death": "1923"
+        },
+        {
+            "degree": 10,
+            "betweenness": 3.187352584942946e-05,
+            "eigenvector": 0.08628373366813284,
+            "degree_cent": 0.11904761904761904,
+            "modularity": 0,
+            "id": "benton-thomas",
+            "given_name": "Thomas",
+            "middle_name": "Hart",
+            "family_name": "Benton",
+            "date_of_birth": "1782",
+            "date_of_death": "1858"
+        },
+        {
+            "degree": 6,
+            "betweenness": 0.00040856064952450485,
+            "eigenvector": 0.0518356904407726,
+            "degree_cent": 0.07142857142857142,
+            "modularity": 3,
+            "id": "buckler-thomas",
+            "given_name": "Thomas",
+            "middle_name": "Hepburn",
+            "family_name": "Buckler",
+            "date_of_birth": "1812-01-04",
+            "date_of_death": "1901-01-20"
+        },
+        {
+            "degree": 56,
+            "betweenness": 0.1215647734203401,
+            "eigenvector": 0.25754245396256836,
+            "degree_cent": 0.6666666666666666,
+            "modularity": 3,
+            "id": "campbell-anne",
+            "given_name": "Anne",
+            "middle_name": "Arnold Key",
+            "family_name": "Campbell",
+            "date_of_birth": "1808",
+            "date_of_death": "1871"
+        },
+        {
+            "degree": 14,
+            "betweenness": 0.00027380386882913123,
+            "eigenvector": 0.10012244981491414,
+            "degree_cent": 0.16666666666666666,
+            "modularity": 3,
+            "id": "campbell-anne2",
+            "given_name": "Anne",
+            "middle_name": "Taney",
+            "family_name": "Campbell",
+            "date_of_birth": "1846",
+            "date_of_death": ""
+        },
+        {
+            "degree": 14,
+            "betweenness": 7.823501799405414e-05,
+            "eigenvector": 0.1007431913576099,
+            "degree_cent": 0.16666666666666666,
+            "modularity": 3,
+            "id": "campbell-james5",
+            "given_name": "James",
+            "middle_name": "Mason",
+            "family_name": "Campbell",
+            "date_of_birth": "1810",
+            "date_of_death": "1869"
+        },
+        {
+            "degree": 18,
+            "betweenness": 0.001795905346635783,
+            "eigenvector": 0.11236280905357728,
+            "degree_cent": 0.21428571428571427,
+            "modularity": 3,
+            "id": "campbell-taney",
+            "given_name": "Roger",
+            "middle_name": "Brooke Taney",
+            "family_name": "Campbell",
+            "date_of_birth": "1843",
+            "date_of_death": "1870"
+        },
+        {
+            "degree": 4,
+            "betweenness": 0.0,
+            "eigenvector": 0.04156999871655574,
+            "degree_cent": 0.047619047619047616,
+            "modularity": 1,
+            "id": "carroll-william",
+            "given_name": "William",
+            "middle_name": "Thomas",
+            "family_name": "Carroll",
+            "date_of_birth": "1802",
+            "date_of_death": "1863"
+        },
+        {
+            "degree": 18,
+            "betweenness": 0.009900660846174362,
+            "eigenvector": 0.10050976052491735,
+            "degree_cent": 0.21428571428571427,
+            "modularity": 1,
+            "id": "catron-john",
+            "given_name": "John",
+            "middle_name": "",
+            "family_name": "Catron",
+            "date_of_birth": "1786",
+            "date_of_death": "1865"
+        },
+        {
+            "degree": 16,
+            "betweenness": 0.0004149381408417552,
+            "eigenvector": 0.12099601970467244,
+            "degree_cent": 0.19047619047619047,
+            "modularity": 0,
+            "id": "clay-henry",
+            "given_name": "Henry",
+            "middle_name": "",
+            "family_name": "Clay",
+            "date_of_birth": "1777",
+            "date_of_death": "1852"
+        },
+        {
+            "degree": 10,
+            "betweenness": 0.0005408044808803168,
+            "eigenvector": 0.05919182788351645,
+            "degree_cent": 0.11904761904761904,
+            "modularity": 1,
+            "id": "daniel-peter",
+            "given_name": "Peter",
+            "middle_name": "Vivian",
+            "family_name": "Daniel",
+            "date_of_birth": "1784",
+            "date_of_death": "1860"
+        },
+        {
+            "degree": 26,
+            "betweenness": 0.004374042635280865,
+            "eigenvector": 0.16615404782585774,
+            "degree_cent": 0.30952380952380953,
+            "modularity": 0,
+            "id": "donelson-andrew",
+            "given_name": "Andrew",
+            "middle_name": "Jackson",
+            "family_name": "Donelson",
+            "date_of_birth": "1799",
+            "date_of_death": "1871"
+        },
+        {
+            "degree": 18,
+            "betweenness": 0.0001251342365800197,
+            "eigenvector": 0.13454902342594274,
+            "degree_cent": 0.21428571428571427,
+            "modularity": 0,
+            "id": "donelson-andrew2",
+            "given_name": "Andrew",
+            "middle_name": "Jackson",
+            "family_name": "Donelson",
+            "date_of_birth": "1826-06-06",
+            "date_of_death": "1859-10-20"
+        },
+        {
+            "degree": 18,
+            "betweenness": 0.0001251342365800197,
+            "eigenvector": 0.13454902342594274,
+            "degree_cent": 0.21428571428571427,
+            "modularity": 0,
+            "id": "donelson-john",
+            "given_name": "John",
+            "middle_name": "Samuel",
+            "family_name": "Donelson",
+            "date_of_birth": "1832-05-18",
+            "date_of_death": "1863-09-19"
+        },
+        {
+            "degree": 18,
+            "betweenness": 0.0001251342365800197,
+            "eigenvector": 0.13454902342594274,
+            "degree_cent": 0.21428571428571427,
+            "modularity": 0,
+            "id": "donelson-mary",
+            "given_name": "Mary",
+            "middle_name": "Emily",
+            "family_name": "Wilcox",
+            "date_of_birth": "1829",
+            "date_of_death": "1905"
+        },
+        {
+            "degree": 17,
+            "betweenness": 0.07972769300285246,
+            "eigenvector": 0.10643923343338482,
+            "degree_cent": 0.20238095238095238,
+            "modularity": 0,
+            "id": "duane-william",
+            "given_name": "William",
+            "middle_name": "John",
+            "family_name": "Duane",
+            "date_of_birth": "1780",
+            "date_of_death": "1865"
+        },
+        {
+            "degree": 17,
+            "betweenness": 0.0003008244282163489,
+            "eigenvector": 0.12764157938276413,
+            "degree_cent": 0.20238095238095238,
+            "modularity": 0,
+            "id": "earl-ralph",
+            "given_name": "Ralph",
+            "middle_name": "Eleaser Whiteside",
+            "family_name": "Earl (Earle)",
+            "date_of_birth": "1788",
+            "date_of_death": "1838"
+        },
+        {
+            "degree": 18,
+            "betweenness": 0.0001251342365800197,
+            "eigenvector": 0.13454902342594274,
+            "degree_cent": 0.21428571428571427,
+            "modularity": 0,
+            "id": "eckford-rachel",
+            "given_name": "Rachel",
+            "middle_name": "Jackson",
+            "family_name": "Eckford",
+            "date_of_birth": "1835-04-11",
+            "date_of_death": "1888-03-22"
+        },
+        {
+            "degree": 17,
+            "betweenness": 0.0015104924106204376,
+            "eigenvector": 0.10916005988230876,
+            "degree_cent": 0.20238095238095238,
+            "modularity": 3,
+            "id": "etting-alice",
+            "given_name": "Alice",
+            "middle_name": "Taney",
+            "family_name": "Etting",
+            "date_of_birth": "1841",
+            "date_of_death": "1882"
+        },
+        {
+            "degree": 16,
+            "betweenness": 0.020469176690846226,
+            "eigenvector": 0.10154566315148157,
+            "degree_cent": 0.19047619047619047,
+            "modularity": 2,
+            "id": "jackson-andrew",
+            "given_name": "Andrew",
+            "middle_name": "",
+            "family_name": "Jackson",
+            "date_of_birth": "1767",
+            "date_of_death": "1845"
+        },
+        {
+            "degree": 12,
+            "betweenness": 0.0,
+            "eigenvector": 0.10040314188810531,
+            "degree_cent": 0.14285714285714285,
+            "modularity": 0,
+            "id": "jackson-andrew2",
+            "given_name": "Andrew",
+            "middle_name": "M. D.",
+            "family_name": "Jackson",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 24,
+            "betweenness": 0.002870127816341241,
+            "eigenvector": 0.15972500509589235,
+            "degree_cent": 0.2857142857142857,
+            "modularity": 0,
+            "id": "jackson-andrew3",
+            "given_name": "Andrew",
+            "middle_name": "",
+            "family_name": "Jackson",
+            "date_of_birth": "1808",
+            "date_of_death": "1865"
+        },
+        {
+            "degree": 18,
+            "betweenness": 0.0001922919306740305,
+            "eigenvector": 0.13276541909847558,
+            "degree_cent": 0.21428571428571427,
+            "modularity": 0,
+            "id": "jackson-andrew4",
+            "given_name": "Andrew",
+            "middle_name": "",
+            "family_name": "Jackson",
+            "date_of_birth": "1834-04-04",
+            "date_of_death": "1906-12-17"
+        },
+        {
+            "degree": 12,
+            "betweenness": 0.0,
+            "eigenvector": 0.10040314188810531,
+            "degree_cent": 0.14285714285714285,
+            "modularity": 0,
+            "id": "jackson-samuel",
+            "given_name": "Samuel",
+            "middle_name": "",
+            "family_name": "Jackson",
+            "date_of_birth": "1775",
+            "date_of_death": "1845"
+        },
+        {
+            "degree": 18,
+            "betweenness": 0.0001922919306740305,
+            "eigenvector": 0.13276541909847558,
+            "degree_cent": 0.21428571428571427,
+            "modularity": 0,
+            "id": "jackson-samuel2",
+            "given_name": "Samuel",
+            "middle_name": "",
+            "family_name": "Jackson",
+            "date_of_birth": "1837-06-09",
+            "date_of_death": "1863-09-29"
+        },
+        {
+            "degree": 24,
+            "betweenness": 0.002870127816341241,
+            "eigenvector": 0.15972500509589235,
+            "degree_cent": 0.2857142857142857,
+            "modularity": 0,
+            "id": "jackson-sarah",
+            "given_name": "Sarah",
+            "middle_name": "",
+            "family_name": "Jackson",
+            "date_of_birth": "1805-07-16",
+            "date_of_death": "1887-08-23"
+        },
+        {
+            "degree": 22,
+            "betweenness": 0.12615631180471565,
+            "eigenvector": 0.0930185287657398,
+            "degree_cent": 0.26190476190476186,
+            "modularity": 2,
+            "id": "johnson-reverdy",
+            "given_name": "Reverdy",
+            "middle_name": "",
+            "family_name": "Johnson",
+            "date_of_birth": "1796",
+            "date_of_death": "1876"
+        },
+        {
+            "degree": 15,
+            "betweenness": 0.024119736364367057,
+            "eigenvector": 0.1101946605346417,
+            "degree_cent": 0.17857142857142855,
+            "modularity": 0,
+            "id": "kendall-amos",
+            "given_name": "Amos",
+            "middle_name": "",
+            "family_name": "Kendall",
+            "date_of_birth": "1789",
+            "date_of_death": "1869"
+        },
+        {
+            "degree": 20,
+            "betweenness": 0.0005613672997493996,
+            "eigenvector": 0.140887960397484,
+            "degree_cent": 0.23809523809523808,
+            "modularity": 0,
+            "id": "lawrence-rachel",
+            "given_name": "Rachel",
+            "middle_name": "",
+            "family_name": "Lawrence",
+            "date_of_birth": "1832-11-11",
+            "date_of_death": "1923-02-03"
+        },
+        {
+            "degree": 17,
+            "betweenness": 0.009227332612605164,
+            "eigenvector": 0.09676974789382073,
+            "degree_cent": 0.20238095238095238,
+            "modularity": 1,
+            "id": "mckinley-john",
+            "given_name": "John",
+            "middle_name": "",
+            "family_name": "McKinley",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 14,
+            "betweenness": 0.005712243561782438,
+            "eigenvector": 0.06822125996944765,
+            "degree_cent": 0.16666666666666666,
+            "modularity": 1,
+            "id": "mclean-john2",
+            "given_name": "John",
+            "middle_name": "",
+            "family_name": "McLean",
+            "date_of_birth": "1785",
+            "date_of_death": "1861"
+        },
+        {
+            "degree": 9,
+            "betweenness": 0.0,
+            "eigenvector": 0.07869810901279828,
+            "degree_cent": 0.10714285714285714,
+            "modularity": 2,
+            "id": "morris-john",
+            "given_name": "John",
+            "middle_name": "B.",
+            "family_name": "Morris",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 19,
+            "betweenness": 0.055588325574078834,
+            "eigenvector": 0.09257590276400358,
+            "degree_cent": 0.22619047619047616,
+            "modularity": 2,
+            "id": "perine-david",
+            "given_name": "David",
+            "middle_name": "Maulden",
+            "family_name": "Perine",
+            "date_of_birth": "1796",
+            "date_of_death": "1882"
+        },
+        {
+            "degree": 13,
+            "betweenness": 0.0003129122105025719,
+            "eigenvector": 0.09710696157580319,
+            "degree_cent": 0.15476190476190477,
+            "modularity": 3,
+            "id": "polk-james",
+            "given_name": "James",
+            "middle_name": "Knox",
+            "family_name": "Polk",
+            "date_of_birth": "1795",
+            "date_of_death": "1849"
+        },
+        {
+            "degree": 50,
+            "betweenness": 0.06636199885476396,
+            "eigenvector": 0.24786756968295087,
+            "degree_cent": 0.5952380952380952,
+            "modularity": 0,
+            "id": "stevenson-elizabeth",
+            "given_name": "Elizabeth",
+            "middle_name": "Maynadier",
+            "family_name": "Stevenson",
+            "date_of_birth": "1810",
+            "date_of_death": "1873"
+        },
+        {
+            "degree": 14,
+            "betweenness": 7.823501799405414e-05,
+            "eigenvector": 0.1007431913576099,
+            "degree_cent": 0.16666666666666666,
+            "modularity": 3,
+            "id": "stevenson-william2",
+            "given_name": "William",
+            "middle_name": "C.",
+            "family_name": "Stevenson",
+            "date_of_birth": "1810",
+            "date_of_death": "1872"
+        },
+        {
+            "degree": 18,
+            "betweenness": 0.001174501641230307,
+            "eigenvector": 0.11443159097457845,
+            "degree_cent": 0.21428571428571427,
+            "modularity": 3,
+            "id": "stryker-phoebe",
+            "given_name": "Phoebe",
+            "middle_name": "Key",
+            "family_name": "Stryker",
+            "date_of_birth": "1836",
+            "date_of_death": "1881"
+        },
+        {
+            "degree": 49,
+            "betweenness": 0.07830159317991839,
+            "eigenvector": 0.2428099054110201,
+            "degree_cent": 0.5833333333333333,
+            "modularity": 0,
+            "id": "taney-alice",
+            "given_name": "Alice",
+            "middle_name": "Carroll",
+            "family_name": "Taney",
+            "date_of_birth": "1827",
+            "date_of_death": "1855"
+        },
+        {
+            "degree": 50,
+            "betweenness": 0.07988505473241563,
+            "eigenvector": 0.24360824556896718,
+            "degree_cent": 0.5952380952380952,
+            "modularity": 2,
+            "id": "taney-anne",
+            "given_name": "Anne",
+            "middle_name": "Arnold Phoebe Charlton",
+            "family_name": "Taney",
+            "date_of_birth": "1783",
+            "date_of_death": "1855"
+        },
+        {
+            "degree": 61,
+            "betweenness": 0.21460279444711458,
+            "eigenvector": 0.2613272044639109,
+            "degree_cent": 0.7261904761904762,
+            "modularity": 1,
+            "id": "taney-ellen",
+            "given_name": "Ellen",
+            "middle_name": "",
+            "family_name": "Taney",
+            "date_of_birth": "1813",
+            "date_of_death": "1871"
+        },
+        {
+            "degree": 17,
+            "betweenness": 0.0061364680899270874,
+            "eigenvector": 0.09851081776454375,
+            "degree_cent": 0.20238095238095238,
+            "modularity": 1,
+            "id": "taylor-roger",
+            "given_name": "Roger",
+            "middle_name": "Taney",
+            "family_name": "Taylor",
+            "date_of_birth": "1853",
+            "date_of_death": "1912"
+        },
+        {
+            "degree": 57,
+            "betweenness": 0.11596683346430219,
+            "eigenvector": 0.25933063522659294,
+            "degree_cent": 0.6785714285714285,
+            "modularity": 1,
+            "id": "taylor-sophia",
+            "given_name": "Sophia",
+            "middle_name": "Brooke",
+            "family_name": "Taylor",
+            "date_of_birth": "1816",
+            "date_of_death": "1891"
+        },
+        {
+            "degree": 15,
+            "betweenness": 0.00021004764980668593,
+            "eigenvector": 0.11688981068183323,
+            "degree_cent": 0.17857142857142855,
+            "modularity": 0,
+            "id": "vanburen-martin",
+            "given_name": "Martin",
+            "middle_name": "",
+            "family_name": "Van Buren",
+            "date_of_birth": "1782",
+            "date_of_death": "1862"
+        },
+        {
+            "degree": 19,
+            "betweenness": 0.01128390189355959,
+            "eigenvector": 0.09224596044082045,
+            "degree_cent": 0.22619047619047616,
+            "modularity": 1,
+            "id": "wayne-james",
+            "given_name": "James",
+            "middle_name": "Moore",
+            "family_name": "Wayne",
+            "date_of_birth": "1790",
+            "date_of_death": "1867"
+        },
+        {
+            "degree": 8,
+            "betweenness": 0.0,
+            "eigenvector": 0.07609565242521739,
+            "degree_cent": 0.09523809523809523,
+            "modularity": 0,
+            "id": "webster-daniel",
+            "given_name": "Daniel",
+            "middle_name": "",
+            "family_name": "Webster",
+            "date_of_birth": "1782",
+            "date_of_death": "1852"
+        },
+        {
+            "degree": 11,
+            "betweenness": 0.0,
+            "eigenvector": 0.08622651371485704,
+            "degree_cent": 0.13095238095238093,
+            "modularity": 2,
+            "id": "white-john",
+            "given_name": "John",
+            "middle_name": "Duncan",
+            "family_name": "White",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 9,
+            "betweenness": 0.0,
+            "eigenvector": 0.08137373532700981,
+            "degree_cent": 0.10714285714285714,
+            "modularity": 0,
+            "id": "wilcox-mary",
+            "given_name": "wilcox-mary",
+            "middle_name": "",
+            "family_name": "",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 26,
+            "betweenness": 0.022603960218238385,
+            "eigenvector": 0.15581977462079008,
+            "degree_cent": 0.30952380952380953,
+            "modularity": 0,
+            "id": "woodbury-levi",
+            "given_name": "Levi",
+            "middle_name": "",
+            "family_name": "Woodbury",
+            "date_of_birth": "1789",
+            "date_of_death": "1851"
+        },
+        {
+            "degree": 11,
+            "betweenness": 0.0,
+            "eigenvector": 0.08622651371485704,
+            "degree_cent": 0.13095238095238093,
+            "modularity": 2,
+            "id": "young-mcclintock",
+            "given_name": "McClintock",
+            "middle_name": "",
+            "family_name": "Young",
+            "date_of_birth": "1801",
+            "date_of_death": "1863"
+        },
+        {
+            "degree": 10,
+            "betweenness": 2.3905144387072095e-05,
+            "eigenvector": 0.06684892776698885,
+            "degree_cent": 0.11904761904761904,
+            "modularity": 3,
+            "id": "campbell-amy",
+            "given_name": "Amy",
+            "middle_name": "M.",
+            "family_name": "Campbell",
+            "date_of_birth": "1854",
+            "date_of_death": ""
+        },
+        {
+            "degree": 8,
+            "betweenness": 0.0005823138070171317,
+            "eigenvector": 0.02864730084162643,
+            "degree_cent": 0.09523809523809523,
+            "modularity": 1,
+            "id": "barbour-philip",
+            "given_name": "Philip",
+            "middle_name": "Pendleton",
+            "family_name": "Barbour",
+            "date_of_birth": "1783",
+            "date_of_death": "1841"
+        },
+        {
+            "degree": 9,
+            "betweenness": 0.0013653255974514695,
+            "eigenvector": 0.038117108394032,
+            "degree_cent": 0.10714285714285714,
+            "modularity": 1,
+            "id": "baldwin-henry",
+            "given_name": "Henry",
+            "middle_name": "",
+            "family_name": "Baldwin",
+            "date_of_birth": "1780",
+            "date_of_death": "1844"
+        },
+        {
+            "degree": 9,
+            "betweenness": 0.0013653255974514695,
+            "eigenvector": 0.038117108394032,
+            "degree_cent": 0.10714285714285714,
+            "modularity": 1,
+            "id": "story-joseph",
+            "given_name": "Joseph",
+            "middle_name": "",
+            "family_name": "Story",
+            "date_of_birth": "1779",
+            "date_of_death": "1845"
+        },
+        {
+            "degree": 7,
+            "betweenness": 0.0,
+            "eigenvector": 0.01862618377514551,
+            "degree_cent": 0.08333333333333333,
+            "modularity": 1,
+            "id": "thompson-smith",
+            "given_name": "Smith",
+            "middle_name": "",
+            "family_name": "Thompson",
+            "date_of_birth": "1768",
+            "date_of_death": "1843"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.004255001163713151,
+            "degree_cent": 0.011904761904761904,
+            "modularity": 0,
+            "id": "barry-william",
+            "given_name": "William",
+            "middle_name": "Taylor",
+            "family_name": "Barry",
+            "date_of_birth": "1784",
+            "date_of_death": "1835"
+        },
+        {
+            "degree": 2,
+            "betweenness": 0.0,
+            "eigenvector": 0.020441860114964263,
+            "degree_cent": 0.023809523809523808,
+            "modularity": 3,
+            "id": "blair-francis",
+            "given_name": "Francis",
+            "middle_name": "Preston",
+            "family_name": "Blair",
+            "date_of_birth": "1791",
+            "date_of_death": "1876"
+        },
+        {
+            "degree": 3,
+            "betweenness": 0.0,
+            "eigenvector": 0.023064019724091077,
+            "degree_cent": 0.03571428571428571,
+            "modularity": 3,
+            "id": "buckler-john",
+            "given_name": "John",
+            "middle_name": "D.",
+            "family_name": "Buckler",
+            "date_of_birth": "1795",
+            "date_of_death": "1866"
+        },
+        {
+            "degree": 5,
+            "betweenness": 0.0,
+            "eigenvector": 0.039056330362986905,
+            "degree_cent": 0.05952380952380952,
+            "modularity": 3,
+            "id": "taylor-francis",
+            "given_name": "Francis",
+            "middle_name": "",
+            "family_name": "Taylor",
+            "date_of_birth": "",
+            "date_of_death": "before 1865"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.004255001163713151,
+            "degree_cent": 0.011904761904761904,
+            "modularity": 0,
+            "id": "cass-lewis",
+            "given_name": "Lewis",
+            "middle_name": "",
+            "family_name": "Cass",
+            "date_of_birth": "1782",
+            "date_of_death": "1866"
+        },
+        {
+            "degree": 7,
+            "betweenness": 5.393981297595755e-05,
+            "eigenvector": 0.03360020448774549,
+            "degree_cent": 0.08333333333333333,
+            "modularity": 1,
+            "id": "grier-robert",
+            "given_name": "Robert",
+            "middle_name": "Cooper",
+            "family_name": "Grier",
+            "date_of_birth": "1794-03-05",
+            "date_of_death": "1870-09-25"
+        },
+        {
+            "degree": 6,
+            "betweenness": 0.00016562850039614235,
+            "eigenvector": 0.04700635135882871,
+            "degree_cent": 0.07142857142857142,
+            "modularity": 1,
+            "id": "howard-benjamin",
+            "given_name": "Benjamin",
+            "middle_name": "Chew",
+            "family_name": "Howard",
+            "date_of_birth": "1791",
+            "date_of_death": "1872"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.004255001163713151,
+            "degree_cent": 0.011904761904761904,
+            "modularity": 0,
+            "id": "mclane-louis",
+            "given_name": "Louis",
+            "middle_name": "",
+            "family_name": "McLane",
+            "date_of_birth": "1786",
+            "date_of_death": "1857"
+        },
+        {
+            "degree": 2,
+            "betweenness": 0.0,
+            "eigenvector": 0.010517372814591775,
+            "degree_cent": 0.023809523809523808,
+            "modularity": 0,
+            "id": "whitney-reuben",
+            "given_name": "Reuben",
+            "middle_name": "Miles",
+            "family_name": "Whitney",
+            "date_of_birth": "1788",
+            "date_of_death": "1845"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.003730875250597803,
+            "degree_cent": 0.011904761904761904,
+            "modularity": 2,
+            "id": "ellicott-evan",
+            "given_name": "Evan",
+            "middle_name": "Thomas",
+            "family_name": "Ellicott",
+            "date_of_birth": "1792",
+            "date_of_death": "1866"
+        },
+        {
+            "degree": 4,
+            "betweenness": 0.0,
+            "eigenvector": 0.012039880181583064,
+            "degree_cent": 0.047619047619047616,
+            "modularity": 2,
+            "id": "ellicott-thomas",
+            "given_name": "Thomas",
+            "middle_name": "",
+            "family_name": "Ellicott",
+            "date_of_birth": "1777-11-10",
+            "date_of_death": "1859-10-06"
+        },
+        {
+            "degree": 6,
+            "betweenness": 0.000733880531709619,
+            "eigenvector": 0.012713931042684836,
+            "degree_cent": 0.07142857142857142,
+            "modularity": 2,
+            "id": "poultney-evan",
+            "given_name": "Evan",
+            "middle_name": "",
+            "family_name": "Poultney",
+            "date_of_birth": "1784",
+            "date_of_death": "1838"
+        },
+        {
+            "degree": 2,
+            "betweenness": 0.0,
+            "eigenvector": 0.007444041201319046,
+            "degree_cent": 0.023809523809523808,
+            "modularity": 2,
+            "id": "fleming-john",
+            "given_name": "John",
+            "middle_name": "",
+            "family_name": "Fleming",
+            "date_of_birth": "1781",
+            "date_of_death": "1837"
+        },
+        {
+            "degree": 5,
+            "betweenness": 0.002638915438987908,
+            "eigenvector": 0.028242585238316832,
+            "degree_cent": 0.05952380952380952,
+            "modularity": 2,
+            "id": "glenn-john",
+            "given_name": "John",
+            "middle_name": "",
+            "family_name": "Glenn",
+            "date_of_birth": "1795",
+            "date_of_death": "1853"
+        },
+        {
+            "degree": 4,
+            "betweenness": 9.562057754828838e-05,
+            "eigenvector": 0.009100595839234855,
+            "degree_cent": 0.047619047619047616,
+            "modularity": 2,
+            "id": "mcelderry-hugh",
+            "given_name": "Hugh",
+            "middle_name": "",
+            "family_name": "McElderry",
+            "date_of_birth": "1793",
+            "date_of_death": "1856"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.009815304297376416,
+            "degree_cent": 0.011904761904761904,
+            "modularity": 0,
+            "id": "hall-james2",
+            "given_name": "James",
+            "middle_name": "Crowdhill",
+            "family_name": "Hall",
+            "date_of_birth": "1805",
+            "date_of_death": "1880"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.003730875250597803,
+            "degree_cent": 0.011904761904761904,
+            "modularity": 2,
+            "id": "hunt-jesse",
+            "given_name": "Jesse",
+            "middle_name": "",
+            "family_name": "Hunt",
+            "date_of_birth": "1793",
+            "date_of_death": "1872"
+        },
+        {
+            "degree": 2,
+            "betweenness": 0.0,
+            "eigenvector": 0.007444041201319046,
+            "degree_cent": 0.023809523809523808,
+            "modularity": 2,
+            "id": "newbold-george",
+            "given_name": "George",
+            "middle_name": "",
+            "family_name": "Newbold",
+            "date_of_birth": "1780",
+            "date_of_death": "1858"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.003730875250597803,
+            "degree_cent": 0.011904761904761904,
+            "modularity": 2,
+            "id": "williams-nathaniel",
+            "given_name": "Nathaniel",
+            "middle_name": "Felton",
+            "family_name": "Williams",
+            "date_of_birth": "1782",
+            "date_of_death": "1864"
+        },
+        {
+            "degree": 3,
+            "betweenness": 0.0,
+            "eigenvector": 0.007964992992674811,
+            "degree_cent": 0.03571428571428571,
+            "modularity": 2,
+            "id": "wilson-robert",
+            "given_name": "Robert",
+            "middle_name": "",
+            "family_name": "Wilson",
+            "date_of_birth": "",
+            "date_of_death": ""
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.004408486160674283,
+            "degree_cent": 0.011904761904761904,
+            "modularity": 0,
+            "id": "rives-william",
+            "given_name": "William",
+            "middle_name": "Cabell",
+            "family_name": "Rives",
+            "date_of_birth": "1793",
+            "date_of_death": "1868"
+        },
+        {
+            "degree": 8,
+            "betweenness": 0.00043985465672212654,
+            "eigenvector": 0.03974285152667857,
+            "degree_cent": 0.09523809523809523,
+            "modularity": 1,
+            "id": "perine-mary",
+            "given_name": "Mary",
+            "middle_name": "",
+            "family_name": "Perine",
+            "date_of_birth": "1797-03-30",
+            "date_of_death": "1861-09-29"
+        },
+        {
+            "degree": 7,
+            "betweenness": 0.0,
+            "eigenvector": 0.03027304397427301,
+            "degree_cent": 0.08333333333333333,
+            "modularity": 1,
+            "id": "perine-anne",
+            "given_name": "Anne",
+            "middle_name": "Carson",
+            "family_name": "Perine",
+            "date_of_birth": "1819-01-29",
+            "date_of_death": "1919-03-14"
+        },
+        {
+            "degree": 7,
+            "betweenness": 0.0,
+            "eigenvector": 0.03027304397427301,
+            "degree_cent": 0.08333333333333333,
+            "modularity": 1,
+            "id": "perine-mary2",
+            "given_name": "Mary",
+            "middle_name": "Glenn",
+            "family_name": "Perine",
+            "date_of_birth": "1822",
+            "date_of_death": "1896-08-11"
+        },
+        {
+            "degree": 7,
+            "betweenness": 0.0,
+            "eigenvector": 0.03027304397427301,
+            "degree_cent": 0.08333333333333333,
+            "modularity": 1,
+            "id": "perine-rebecca",
+            "given_name": "Rebecca",
+            "middle_name": "Young",
+            "family_name": "Perine",
+            "date_of_birth": "1825-12-06",
+            "date_of_death": "1879"
+        },
+        {
+            "degree": 7,
+            "betweenness": 0.0,
+            "eigenvector": 0.03027304397427301,
+            "degree_cent": 0.08333333333333333,
+            "modularity": 1,
+            "id": "perine-susan",
+            "given_name": "Susan",
+            "middle_name": "Buchanon",
+            "family_name": "Perine",
+            "date_of_birth": "1820-03-15",
+            "date_of_death": "1899-03-08"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.0004224244319685611,
+            "degree_cent": 0.011904761904761904,
+            "modularity": 1,
+            "id": "shaaff-mary2",
+            "given_name": "Mary",
+            "middle_name": "",
+            "family_name": "Shaaff",
+            "date_of_birth": "1773",
+            "date_of_death": "1860"
+        },
+        {
+            "degree": 2,
+            "betweenness": 0.023809523809523808,
+            "eigenvector": 0.010595254717231287,
+            "degree_cent": 0.023809523809523808,
+            "modularity": 1,
+            "id": "shaaff-mary",
+            "given_name": "Mary",
+            "middle_name": "Athenia",
+            "family_name": "Shaaff",
+            "date_of_birth": "1807",
+            "date_of_death": "1878"
+        },
+        {
+            "degree": 1,
+            "betweenness": 0.0,
+            "eigenvector": 0.010577672174889363,
+            "degree_cent": 0.011904761904761904,
+            "modularity": 1,
+            "id": "unknown-basil-rbt",
+            "given_name": "Basil",
+            "middle_name": "",
+            "family_name": "Unknown",
+            "date_of_birth": "",
+            "date_of_death": ""
+        }
+    ],
+    "links": [
+        {
+            "weight": 4,
+            "source": "allison-richard",
+            "target": "allison-maria"
+        },
+        {
+            "weight": 3,
+            "source": "allison-richard",
+            "target": "anderson-mary"
+        },
+        {
+            "weight": 3,
+            "source": "allison-richard",
+            "target": "campbell-anne"
+        },
+        {
+            "weight": 3,
+            "source": "allison-richard",
+            "target": "campbell-james5"
+        },
+        {
+            "weight": 3,
+            "source": "allison-richard",
+            "target": "campbell-taney"
+        },
+        {
+            "weight": 4,
+            "source": "allison-richard",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "allison-richard",
+            "target": "stevenson-william2"
+        },
+        {
+            "weight": 3,
+            "source": "allison-richard",
+            "target": "stryker-phoebe"
+        },
+        {
+            "weight": 3,
+            "source": "allison-richard",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 5,
+            "source": "allison-richard",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 4,
+            "source": "allison-richard",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 9,
+            "source": "allison-maria",
+            "target": "anderson-mary"
+        },
+        {
+            "weight": 4,
+            "source": "allison-maria",
+            "target": "benton-thomas"
+        },
+        {
+            "weight": 4,
+            "source": "allison-maria",
+            "target": "buckler-thomas"
+        },
+        {
+            "weight": 52,
+            "source": "allison-maria",
+            "target": "campbell-anne"
+        },
+        {
+            "weight": 4,
+            "source": "allison-maria",
+            "target": "campbell-anne2"
+        },
+        {
+            "weight": 9,
+            "source": "allison-maria",
+            "target": "campbell-james5"
+        },
+        {
+            "weight": 9,
+            "source": "allison-maria",
+            "target": "campbell-taney"
+        },
+        {
+            "weight": 3,
+            "source": "allison-maria",
+            "target": "carroll-william"
+        },
+        {
+            "weight": 6,
+            "source": "allison-maria",
+            "target": "catron-john"
+        },
+        {
+            "weight": 5,
+            "source": "allison-maria",
+            "target": "clay-henry"
+        },
+        {
+            "weight": 3,
+            "source": "allison-maria",
+            "target": "daniel-peter"
+        },
+        {
+            "weight": 14,
+            "source": "allison-maria",
+            "target": "donelson-andrew"
+        },
+        {
+            "weight": 7,
+            "source": "allison-maria",
+            "target": "donelson-andrew2"
+        },
+        {
+            "weight": 7,
+            "source": "allison-maria",
+            "target": "donelson-john"
+        },
+        {
+            "weight": 5,
+            "source": "allison-maria",
+            "target": "donelson-mary"
+        },
+        {
+            "weight": 4,
+            "source": "allison-maria",
+            "target": "duane-william"
+        },
+        {
+            "weight": 6,
+            "source": "allison-maria",
+            "target": "earl-ralph"
+        },
+        {
+            "weight": 6,
+            "source": "allison-maria",
+            "target": "eckford-rachel"
+        },
+        {
+            "weight": 7,
+            "source": "allison-maria",
+            "target": "etting-alice"
+        },
+        {
+            "weight": 4,
+            "source": "allison-maria",
+            "target": "jackson-andrew"
+        },
+        {
+            "weight": 3,
+            "source": "allison-maria",
+            "target": "jackson-andrew2"
+        },
+        {
+            "weight": 13,
+            "source": "allison-maria",
+            "target": "jackson-andrew3"
+        },
+        {
+            "weight": 8,
+            "source": "allison-maria",
+            "target": "jackson-andrew4"
+        },
+        {
+            "weight": 3,
+            "source": "allison-maria",
+            "target": "jackson-samuel"
+        },
+        {
+            "weight": 8,
+            "source": "allison-maria",
+            "target": "jackson-samuel2"
+        },
+        {
+            "weight": 13,
+            "source": "allison-maria",
+            "target": "jackson-sarah"
+        },
+        {
+            "weight": 7,
+            "source": "allison-maria",
+            "target": "johnson-reverdy"
+        },
+        {
+            "weight": 4,
+            "source": "allison-maria",
+            "target": "kendall-amos"
+        },
+        {
+            "weight": 9,
+            "source": "allison-maria",
+            "target": "lawrence-rachel"
+        },
+        {
+            "weight": 4,
+            "source": "allison-maria",
+            "target": "mckinley-john"
+        },
+        {
+            "weight": 3,
+            "source": "allison-maria",
+            "target": "mclean-john2"
+        },
+        {
+            "weight": 3,
+            "source": "allison-maria",
+            "target": "morris-john"
+        },
+        {
+            "weight": 4,
+            "source": "allison-maria",
+            "target": "perine-david"
+        },
+        {
+            "weight": 4,
+            "source": "allison-maria",
+            "target": "polk-james"
+        },
+        {
+            "weight": 54,
+            "source": "allison-maria",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 7,
+            "source": "allison-maria",
+            "target": "stevenson-william2"
+        },
+        {
+            "weight": 11,
+            "source": "allison-maria",
+            "target": "stryker-phoebe"
+        },
+        {
+            "weight": 52,
+            "source": "allison-maria",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 43,
+            "source": "allison-maria",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 58,
+            "source": "allison-maria",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 6,
+            "source": "allison-maria",
+            "target": "taylor-roger"
+        },
+        {
+            "weight": 57,
+            "source": "allison-maria",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 7,
+            "source": "allison-maria",
+            "target": "vanburen-martin"
+        },
+        {
+            "weight": 4,
+            "source": "allison-maria",
+            "target": "wayne-james"
+        },
+        {
+            "weight": 4,
+            "source": "allison-maria",
+            "target": "webster-daniel"
+        },
+        {
+            "weight": 3,
+            "source": "allison-maria",
+            "target": "white-john"
+        },
+        {
+            "weight": 3,
+            "source": "allison-maria",
+            "target": "wilcox-mary"
+        },
+        {
+            "weight": 8,
+            "source": "allison-maria",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 3,
+            "source": "allison-maria",
+            "target": "young-mcclintock"
+        },
+        {
+            "weight": 6,
+            "source": "anderson-mary",
+            "target": "campbell-amy"
+        },
+        {
+            "weight": 19,
+            "source": "anderson-mary",
+            "target": "campbell-anne"
+        },
+        {
+            "weight": 11,
+            "source": "anderson-mary",
+            "target": "campbell-anne2"
+        },
+        {
+            "weight": 7,
+            "source": "anderson-mary",
+            "target": "campbell-james5"
+        },
+        {
+            "weight": 19,
+            "source": "anderson-mary",
+            "target": "campbell-taney"
+        },
+        {
+            "weight": 18,
+            "source": "anderson-mary",
+            "target": "etting-alice"
+        },
+        {
+            "weight": 3,
+            "source": "anderson-mary",
+            "target": "polk-james"
+        },
+        {
+            "weight": 12,
+            "source": "anderson-mary",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 6,
+            "source": "anderson-mary",
+            "target": "stevenson-william2"
+        },
+        {
+            "weight": 23,
+            "source": "anderson-mary",
+            "target": "stryker-phoebe"
+        },
+        {
+            "weight": 9,
+            "source": "anderson-mary",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 14,
+            "source": "anderson-mary",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 13,
+            "source": "anderson-mary",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 3,
+            "source": "anderson-mary",
+            "target": "taylor-roger"
+        },
+        {
+            "weight": 11,
+            "source": "anderson-mary",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 3,
+            "source": "anderson-mary",
+            "target": "wayne-james"
+        },
+        {
+            "weight": 4,
+            "source": "benton-thomas",
+            "target": "campbell-anne"
+        },
+        {
+            "weight": 4,
+            "source": "benton-thomas",
+            "target": "donelson-andrew"
+        },
+        {
+            "weight": 3,
+            "source": "benton-thomas",
+            "target": "earl-ralph"
+        },
+        {
+            "weight": 4,
+            "source": "benton-thomas",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "benton-thomas",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 4,
+            "source": "benton-thomas",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 4,
+            "source": "benton-thomas",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 4,
+            "source": "benton-thomas",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 3,
+            "source": "benton-thomas",
+            "target": "wilcox-mary"
+        },
+        {
+            "weight": 6,
+            "source": "buckler-thomas",
+            "target": "buckler-john"
+        },
+        {
+            "weight": 4,
+            "source": "buckler-thomas",
+            "target": "campbell-anne"
+        },
+        {
+            "weight": 4,
+            "source": "buckler-thomas",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "buckler-thomas",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 4,
+            "source": "buckler-thomas",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 3,
+            "source": "campbell-anne",
+            "target": "baldwin-henry"
+        },
+        {
+            "weight": 3,
+            "source": "campbell-anne",
+            "target": "barbour-philip"
+        },
+        {
+            "weight": 3,
+            "source": "campbell-anne",
+            "target": "blair-francis"
+        },
+        {
+            "weight": 3,
+            "source": "campbell-anne",
+            "target": "buckler-john"
+        },
+        {
+            "weight": 4,
+            "source": "campbell-anne",
+            "target": "campbell-amy"
+        },
+        {
+            "weight": 8,
+            "source": "campbell-anne",
+            "target": "campbell-anne2"
+        },
+        {
+            "weight": 9,
+            "source": "campbell-anne",
+            "target": "campbell-james5"
+        },
+        {
+            "weight": 17,
+            "source": "campbell-anne",
+            "target": "campbell-taney"
+        },
+        {
+            "weight": 3,
+            "source": "campbell-anne",
+            "target": "carroll-william"
+        },
+        {
+            "weight": 7,
+            "source": "campbell-anne",
+            "target": "catron-john"
+        },
+        {
+            "weight": 6,
+            "source": "campbell-anne",
+            "target": "clay-henry"
+        },
+        {
+            "weight": 3,
+            "source": "campbell-anne",
+            "target": "daniel-peter"
+        },
+        {
+            "weight": 14,
+            "source": "campbell-anne",
+            "target": "donelson-andrew"
+        },
+        {
+            "weight": 7,
+            "source": "campbell-anne",
+            "target": "donelson-andrew2"
+        },
+        {
+            "weight": 7,
+            "source": "campbell-anne",
+            "target": "donelson-john"
+        },
+        {
+            "weight": 5,
+            "source": "campbell-anne",
+            "target": "donelson-mary"
+        },
+        {
+            "weight": 5,
+            "source": "campbell-anne",
+            "target": "duane-william"
+        },
+        {
+            "weight": 6,
+            "source": "campbell-anne",
+            "target": "earl-ralph"
+        },
+        {
+            "weight": 6,
+            "source": "campbell-anne",
+            "target": "eckford-rachel"
+        },
+        {
+            "weight": 14,
+            "source": "campbell-anne",
+            "target": "etting-alice"
+        },
+        {
+            "weight": 5,
+            "source": "campbell-anne",
+            "target": "jackson-andrew"
+        },
+        {
+            "weight": 3,
+            "source": "campbell-anne",
+            "target": "jackson-andrew2"
+        },
+        {
+            "weight": 13,
+            "source": "campbell-anne",
+            "target": "jackson-andrew3"
+        },
+        {
+            "weight": 8,
+            "source": "campbell-anne",
+            "target": "jackson-andrew4"
+        },
+        {
+            "weight": 3,
+            "source": "campbell-anne",
+            "target": "jackson-samuel"
+        },
+        {
+            "weight": 8,
+            "source": "campbell-anne",
+            "target": "jackson-samuel2"
+        },
+        {
+            "weight": 13,
+            "source": "campbell-anne",
+            "target": "jackson-sarah"
+        },
+        {
+            "weight": 8,
+            "source": "campbell-anne",
+            "target": "johnson-reverdy"
+        },
+        {
+            "weight": 4,
+            "source": "campbell-anne",
+            "target": "kendall-amos"
+        },
+        {
+            "weight": 9,
+            "source": "campbell-anne",
+            "target": "lawrence-rachel"
+        },
+        {
+            "weight": 4,
+            "source": "campbell-anne",
+            "target": "mckinley-john"
+        },
+        {
+            "weight": 4,
+            "source": "campbell-anne",
+            "target": "mclean-john2"
+        },
+        {
+            "weight": 3,
+            "source": "campbell-anne",
+            "target": "morris-john"
+        },
+        {
+            "weight": 4,
+            "source": "campbell-anne",
+            "target": "perine-david"
+        },
+        {
+            "weight": 6,
+            "source": "campbell-anne",
+            "target": "polk-james"
+        },
+        {
+            "weight": 51,
+            "source": "campbell-anne",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 7,
+            "source": "campbell-anne",
+            "target": "stevenson-william2"
+        },
+        {
+            "weight": 3,
+            "source": "campbell-anne",
+            "target": "story-joseph"
+        },
+        {
+            "weight": 21,
+            "source": "campbell-anne",
+            "target": "stryker-phoebe"
+        },
+        {
+            "weight": 52,
+            "source": "campbell-anne",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 50,
+            "source": "campbell-anne",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 56,
+            "source": "campbell-anne",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 3,
+            "source": "campbell-anne",
+            "target": "taylor-roger"
+        },
+        {
+            "weight": 52,
+            "source": "campbell-anne",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 8,
+            "source": "campbell-anne",
+            "target": "vanburen-martin"
+        },
+        {
+            "weight": 5,
+            "source": "campbell-anne",
+            "target": "wayne-james"
+        },
+        {
+            "weight": 5,
+            "source": "campbell-anne",
+            "target": "webster-daniel"
+        },
+        {
+            "weight": 3,
+            "source": "campbell-anne",
+            "target": "white-john"
+        },
+        {
+            "weight": 3,
+            "source": "campbell-anne",
+            "target": "wilcox-mary"
+        },
+        {
+            "weight": 8,
+            "source": "campbell-anne",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 3,
+            "source": "campbell-anne",
+            "target": "young-mcclintock"
+        },
+        {
+            "weight": 5,
+            "source": "campbell-anne2",
+            "target": "campbell-amy"
+        },
+        {
+            "weight": 4,
+            "source": "campbell-anne2",
+            "target": "campbell-james5"
+        },
+        {
+            "weight": 11,
+            "source": "campbell-anne2",
+            "target": "campbell-taney"
+        },
+        {
+            "weight": 11,
+            "source": "campbell-anne2",
+            "target": "etting-alice"
+        },
+        {
+            "weight": 6,
+            "source": "campbell-anne2",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "campbell-anne2",
+            "target": "stevenson-william2"
+        },
+        {
+            "weight": 11,
+            "source": "campbell-anne2",
+            "target": "stryker-phoebe"
+        },
+        {
+            "weight": 6,
+            "source": "campbell-anne2",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 5,
+            "source": "campbell-anne2",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 6,
+            "source": "campbell-anne2",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 5,
+            "source": "campbell-anne2",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 6,
+            "source": "campbell-james5",
+            "target": "campbell-taney"
+        },
+        {
+            "weight": 4,
+            "source": "campbell-james5",
+            "target": "etting-alice"
+        },
+        {
+            "weight": 13,
+            "source": "campbell-james5",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "campbell-james5",
+            "target": "stevenson-william2"
+        },
+        {
+            "weight": 9,
+            "source": "campbell-james5",
+            "target": "stryker-phoebe"
+        },
+        {
+            "weight": 8,
+            "source": "campbell-james5",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 3,
+            "source": "campbell-james5",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 12,
+            "source": "campbell-james5",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 9,
+            "source": "campbell-james5",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 6,
+            "source": "campbell-taney",
+            "target": "campbell-amy"
+        },
+        {
+            "weight": 20,
+            "source": "campbell-taney",
+            "target": "etting-alice"
+        },
+        {
+            "weight": 3,
+            "source": "campbell-taney",
+            "target": "polk-james"
+        },
+        {
+            "weight": 11,
+            "source": "campbell-taney",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 6,
+            "source": "campbell-taney",
+            "target": "stevenson-william2"
+        },
+        {
+            "weight": 19,
+            "source": "campbell-taney",
+            "target": "stryker-phoebe"
+        },
+        {
+            "weight": 10,
+            "source": "campbell-taney",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 12,
+            "source": "campbell-taney",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 14,
+            "source": "campbell-taney",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 3,
+            "source": "campbell-taney",
+            "target": "taylor-francis"
+        },
+        {
+            "weight": 5,
+            "source": "campbell-taney",
+            "target": "taylor-roger"
+        },
+        {
+            "weight": 12,
+            "source": "campbell-taney",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 3,
+            "source": "carroll-william",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 3,
+            "source": "carroll-william",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 4,
+            "source": "catron-john",
+            "target": "baldwin-henry"
+        },
+        {
+            "weight": 3,
+            "source": "catron-john",
+            "target": "barbour-philip"
+        },
+        {
+            "weight": 4,
+            "source": "catron-john",
+            "target": "daniel-peter"
+        },
+        {
+            "weight": 4,
+            "source": "catron-john",
+            "target": "grier-robert"
+        },
+        {
+            "weight": 7,
+            "source": "catron-john",
+            "target": "mckinley-john"
+        },
+        {
+            "weight": 8,
+            "source": "catron-john",
+            "target": "mclean-john2"
+        },
+        {
+            "weight": 3,
+            "source": "catron-john",
+            "target": "polk-james"
+        },
+        {
+            "weight": 5,
+            "source": "catron-john",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "catron-john",
+            "target": "story-joseph"
+        },
+        {
+            "weight": 4,
+            "source": "catron-john",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 5,
+            "source": "catron-john",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 7,
+            "source": "catron-john",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 6,
+            "source": "catron-john",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 4,
+            "source": "catron-john",
+            "target": "thompson-smith"
+        },
+        {
+            "weight": 8,
+            "source": "catron-john",
+            "target": "wayne-james"
+        },
+        {
+            "weight": 3,
+            "source": "catron-john",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 3,
+            "source": "clay-henry",
+            "target": "donelson-andrew"
+        },
+        {
+            "weight": 3,
+            "source": "clay-henry",
+            "target": "jackson-andrew3"
+        },
+        {
+            "weight": 3,
+            "source": "clay-henry",
+            "target": "jackson-andrew4"
+        },
+        {
+            "weight": 3,
+            "source": "clay-henry",
+            "target": "jackson-samuel2"
+        },
+        {
+            "weight": 3,
+            "source": "clay-henry",
+            "target": "jackson-sarah"
+        },
+        {
+            "weight": 3,
+            "source": "clay-henry",
+            "target": "lawrence-rachel"
+        },
+        {
+            "weight": 6,
+            "source": "clay-henry",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 5,
+            "source": "clay-henry",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 6,
+            "source": "clay-henry",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 6,
+            "source": "clay-henry",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 5,
+            "source": "clay-henry",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 4,
+            "source": "clay-henry",
+            "target": "vanburen-martin"
+        },
+        {
+            "weight": 3,
+            "source": "clay-henry",
+            "target": "webster-daniel"
+        },
+        {
+            "weight": 3,
+            "source": "clay-henry",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 3,
+            "source": "daniel-peter",
+            "target": "grier-robert"
+        },
+        {
+            "weight": 3,
+            "source": "daniel-peter",
+            "target": "howard-benjamin"
+        },
+        {
+            "weight": 3,
+            "source": "daniel-peter",
+            "target": "mckinley-john"
+        },
+        {
+            "weight": 4,
+            "source": "daniel-peter",
+            "target": "mclean-john2"
+        },
+        {
+            "weight": 5,
+            "source": "daniel-peter",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 4,
+            "source": "daniel-peter",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 5,
+            "source": "daniel-peter",
+            "target": "wayne-james"
+        },
+        {
+            "weight": 7,
+            "source": "donelson-andrew",
+            "target": "donelson-andrew2"
+        },
+        {
+            "weight": 7,
+            "source": "donelson-andrew",
+            "target": "donelson-john"
+        },
+        {
+            "weight": 5,
+            "source": "donelson-andrew",
+            "target": "donelson-mary"
+        },
+        {
+            "weight": 6,
+            "source": "donelson-andrew",
+            "target": "duane-william"
+        },
+        {
+            "weight": 6,
+            "source": "donelson-andrew",
+            "target": "earl-ralph"
+        },
+        {
+            "weight": 6,
+            "source": "donelson-andrew",
+            "target": "eckford-rachel"
+        },
+        {
+            "weight": 3,
+            "source": "donelson-andrew",
+            "target": "jackson-andrew2"
+        },
+        {
+            "weight": 11,
+            "source": "donelson-andrew",
+            "target": "jackson-andrew3"
+        },
+        {
+            "weight": 6,
+            "source": "donelson-andrew",
+            "target": "jackson-andrew4"
+        },
+        {
+            "weight": 3,
+            "source": "donelson-andrew",
+            "target": "jackson-samuel"
+        },
+        {
+            "weight": 6,
+            "source": "donelson-andrew",
+            "target": "jackson-samuel2"
+        },
+        {
+            "weight": 11,
+            "source": "donelson-andrew",
+            "target": "jackson-sarah"
+        },
+        {
+            "weight": 3,
+            "source": "donelson-andrew",
+            "target": "kendall-amos"
+        },
+        {
+            "weight": 7,
+            "source": "donelson-andrew",
+            "target": "lawrence-rachel"
+        },
+        {
+            "weight": 14,
+            "source": "donelson-andrew",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 14,
+            "source": "donelson-andrew",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 14,
+            "source": "donelson-andrew",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 14,
+            "source": "donelson-andrew",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 14,
+            "source": "donelson-andrew",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 4,
+            "source": "donelson-andrew",
+            "target": "vanburen-martin"
+        },
+        {
+            "weight": 3,
+            "source": "donelson-andrew",
+            "target": "wilcox-mary"
+        },
+        {
+            "weight": 6,
+            "source": "donelson-andrew",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 7,
+            "source": "donelson-andrew2",
+            "target": "donelson-john"
+        },
+        {
+            "weight": 5,
+            "source": "donelson-andrew2",
+            "target": "donelson-mary"
+        },
+        {
+            "weight": 4,
+            "source": "donelson-andrew2",
+            "target": "earl-ralph"
+        },
+        {
+            "weight": 6,
+            "source": "donelson-andrew2",
+            "target": "eckford-rachel"
+        },
+        {
+            "weight": 6,
+            "source": "donelson-andrew2",
+            "target": "jackson-andrew3"
+        },
+        {
+            "weight": 5,
+            "source": "donelson-andrew2",
+            "target": "jackson-andrew4"
+        },
+        {
+            "weight": 5,
+            "source": "donelson-andrew2",
+            "target": "jackson-samuel2"
+        },
+        {
+            "weight": 6,
+            "source": "donelson-andrew2",
+            "target": "jackson-sarah"
+        },
+        {
+            "weight": 5,
+            "source": "donelson-andrew2",
+            "target": "lawrence-rachel"
+        },
+        {
+            "weight": 7,
+            "source": "donelson-andrew2",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 7,
+            "source": "donelson-andrew2",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 7,
+            "source": "donelson-andrew2",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 7,
+            "source": "donelson-andrew2",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 7,
+            "source": "donelson-andrew2",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 3,
+            "source": "donelson-andrew2",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 5,
+            "source": "donelson-john",
+            "target": "donelson-mary"
+        },
+        {
+            "weight": 4,
+            "source": "donelson-john",
+            "target": "earl-ralph"
+        },
+        {
+            "weight": 6,
+            "source": "donelson-john",
+            "target": "eckford-rachel"
+        },
+        {
+            "weight": 6,
+            "source": "donelson-john",
+            "target": "jackson-andrew3"
+        },
+        {
+            "weight": 5,
+            "source": "donelson-john",
+            "target": "jackson-andrew4"
+        },
+        {
+            "weight": 5,
+            "source": "donelson-john",
+            "target": "jackson-samuel2"
+        },
+        {
+            "weight": 6,
+            "source": "donelson-john",
+            "target": "jackson-sarah"
+        },
+        {
+            "weight": 5,
+            "source": "donelson-john",
+            "target": "lawrence-rachel"
+        },
+        {
+            "weight": 7,
+            "source": "donelson-john",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 7,
+            "source": "donelson-john",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 7,
+            "source": "donelson-john",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 7,
+            "source": "donelson-john",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 7,
+            "source": "donelson-john",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 3,
+            "source": "donelson-john",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 3,
+            "source": "donelson-mary",
+            "target": "earl-ralph"
+        },
+        {
+            "weight": 5,
+            "source": "donelson-mary",
+            "target": "eckford-rachel"
+        },
+        {
+            "weight": 4,
+            "source": "donelson-mary",
+            "target": "jackson-andrew3"
+        },
+        {
+            "weight": 4,
+            "source": "donelson-mary",
+            "target": "jackson-andrew4"
+        },
+        {
+            "weight": 4,
+            "source": "donelson-mary",
+            "target": "jackson-samuel2"
+        },
+        {
+            "weight": 4,
+            "source": "donelson-mary",
+            "target": "jackson-sarah"
+        },
+        {
+            "weight": 4,
+            "source": "donelson-mary",
+            "target": "lawrence-rachel"
+        },
+        {
+            "weight": 5,
+            "source": "donelson-mary",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 5,
+            "source": "donelson-mary",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 5,
+            "source": "donelson-mary",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 5,
+            "source": "donelson-mary",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 5,
+            "source": "donelson-mary",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 3,
+            "source": "donelson-mary",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 3,
+            "source": "duane-william",
+            "target": "barry-william"
+        },
+        {
+            "weight": 3,
+            "source": "duane-william",
+            "target": "cass-lewis"
+        },
+        {
+            "weight": 3,
+            "source": "duane-william",
+            "target": "jackson-andrew"
+        },
+        {
+            "weight": 3,
+            "source": "duane-william",
+            "target": "jackson-andrew3"
+        },
+        {
+            "weight": 3,
+            "source": "duane-william",
+            "target": "jackson-sarah"
+        },
+        {
+            "weight": 4,
+            "source": "duane-william",
+            "target": "kendall-amos"
+        },
+        {
+            "weight": 3,
+            "source": "duane-william",
+            "target": "mclane-louis"
+        },
+        {
+            "weight": 4,
+            "source": "duane-william",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 5,
+            "source": "duane-william",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 5,
+            "source": "duane-william",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 5,
+            "source": "duane-william",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 4,
+            "source": "duane-william",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 4,
+            "source": "duane-william",
+            "target": "whitney-reuben"
+        },
+        {
+            "weight": 4,
+            "source": "duane-william",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 4,
+            "source": "earl-ralph",
+            "target": "eckford-rachel"
+        },
+        {
+            "weight": 3,
+            "source": "earl-ralph",
+            "target": "jackson-andrew3"
+        },
+        {
+            "weight": 3,
+            "source": "earl-ralph",
+            "target": "jackson-sarah"
+        },
+        {
+            "weight": 3,
+            "source": "earl-ralph",
+            "target": "lawrence-rachel"
+        },
+        {
+            "weight": 6,
+            "source": "earl-ralph",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 6,
+            "source": "earl-ralph",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 6,
+            "source": "earl-ralph",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 6,
+            "source": "earl-ralph",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 6,
+            "source": "earl-ralph",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 4,
+            "source": "earl-ralph",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 5,
+            "source": "eckford-rachel",
+            "target": "jackson-andrew3"
+        },
+        {
+            "weight": 4,
+            "source": "eckford-rachel",
+            "target": "jackson-andrew4"
+        },
+        {
+            "weight": 4,
+            "source": "eckford-rachel",
+            "target": "jackson-samuel2"
+        },
+        {
+            "weight": 5,
+            "source": "eckford-rachel",
+            "target": "jackson-sarah"
+        },
+        {
+            "weight": 5,
+            "source": "eckford-rachel",
+            "target": "lawrence-rachel"
+        },
+        {
+            "weight": 6,
+            "source": "eckford-rachel",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 6,
+            "source": "eckford-rachel",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 6,
+            "source": "eckford-rachel",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 6,
+            "source": "eckford-rachel",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 6,
+            "source": "eckford-rachel",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 3,
+            "source": "eckford-rachel",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 5,
+            "source": "etting-alice",
+            "target": "campbell-amy"
+        },
+        {
+            "weight": 3,
+            "source": "etting-alice",
+            "target": "polk-james"
+        },
+        {
+            "weight": 10,
+            "source": "etting-alice",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 6,
+            "source": "etting-alice",
+            "target": "stevenson-william2"
+        },
+        {
+            "weight": 18,
+            "source": "etting-alice",
+            "target": "stryker-phoebe"
+        },
+        {
+            "weight": 9,
+            "source": "etting-alice",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 12,
+            "source": "etting-alice",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 12,
+            "source": "etting-alice",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 3,
+            "source": "etting-alice",
+            "target": "taylor-francis"
+        },
+        {
+            "weight": 4,
+            "source": "etting-alice",
+            "target": "taylor-roger"
+        },
+        {
+            "weight": 10,
+            "source": "etting-alice",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew",
+            "target": "ellicott-thomas"
+        },
+        {
+            "weight": 5,
+            "source": "jackson-andrew",
+            "target": "johnson-reverdy"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew",
+            "target": "kendall-amos"
+        },
+        {
+            "weight": 4,
+            "source": "jackson-andrew",
+            "target": "perine-david"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew",
+            "target": "poultney-evan"
+        },
+        {
+            "weight": 4,
+            "source": "jackson-andrew",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 5,
+            "source": "jackson-andrew",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 6,
+            "source": "jackson-andrew",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 5,
+            "source": "jackson-andrew",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 4,
+            "source": "jackson-andrew",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew",
+            "target": "white-john"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew",
+            "target": "young-mcclintock"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew2",
+            "target": "jackson-andrew3"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew2",
+            "target": "jackson-samuel"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew2",
+            "target": "jackson-sarah"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew2",
+            "target": "lawrence-rachel"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew2",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew2",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew2",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew2",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew2",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 8,
+            "source": "jackson-andrew3",
+            "target": "jackson-andrew4"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew3",
+            "target": "jackson-samuel"
+        },
+        {
+            "weight": 8,
+            "source": "jackson-andrew3",
+            "target": "jackson-samuel2"
+        },
+        {
+            "weight": 14,
+            "source": "jackson-andrew3",
+            "target": "jackson-sarah"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew3",
+            "target": "kendall-amos"
+        },
+        {
+            "weight": 9,
+            "source": "jackson-andrew3",
+            "target": "lawrence-rachel"
+        },
+        {
+            "weight": 13,
+            "source": "jackson-andrew3",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 13,
+            "source": "jackson-andrew3",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 14,
+            "source": "jackson-andrew3",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 13,
+            "source": "jackson-andrew3",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 13,
+            "source": "jackson-andrew3",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 4,
+            "source": "jackson-andrew3",
+            "target": "vanburen-martin"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew3",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 8,
+            "source": "jackson-andrew4",
+            "target": "jackson-samuel2"
+        },
+        {
+            "weight": 8,
+            "source": "jackson-andrew4",
+            "target": "jackson-sarah"
+        },
+        {
+            "weight": 6,
+            "source": "jackson-andrew4",
+            "target": "lawrence-rachel"
+        },
+        {
+            "weight": 8,
+            "source": "jackson-andrew4",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 8,
+            "source": "jackson-andrew4",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 8,
+            "source": "jackson-andrew4",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 8,
+            "source": "jackson-andrew4",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 8,
+            "source": "jackson-andrew4",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-andrew4",
+            "target": "vanburen-martin"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-samuel",
+            "target": "jackson-sarah"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-samuel",
+            "target": "lawrence-rachel"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-samuel",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-samuel",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-samuel",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-samuel",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-samuel",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 8,
+            "source": "jackson-samuel2",
+            "target": "jackson-sarah"
+        },
+        {
+            "weight": 6,
+            "source": "jackson-samuel2",
+            "target": "lawrence-rachel"
+        },
+        {
+            "weight": 8,
+            "source": "jackson-samuel2",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 8,
+            "source": "jackson-samuel2",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 8,
+            "source": "jackson-samuel2",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 8,
+            "source": "jackson-samuel2",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 8,
+            "source": "jackson-samuel2",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-samuel2",
+            "target": "vanburen-martin"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-sarah",
+            "target": "kendall-amos"
+        },
+        {
+            "weight": 9,
+            "source": "jackson-sarah",
+            "target": "lawrence-rachel"
+        },
+        {
+            "weight": 13,
+            "source": "jackson-sarah",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 13,
+            "source": "jackson-sarah",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 14,
+            "source": "jackson-sarah",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 13,
+            "source": "jackson-sarah",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 13,
+            "source": "jackson-sarah",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 4,
+            "source": "jackson-sarah",
+            "target": "vanburen-martin"
+        },
+        {
+            "weight": 3,
+            "source": "jackson-sarah",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 3,
+            "source": "johnson-reverdy",
+            "target": "ellicott-evan"
+        },
+        {
+            "weight": 5,
+            "source": "johnson-reverdy",
+            "target": "ellicott-thomas"
+        },
+        {
+            "weight": 4,
+            "source": "johnson-reverdy",
+            "target": "fleming-john"
+        },
+        {
+            "weight": 8,
+            "source": "johnson-reverdy",
+            "target": "glenn-john"
+        },
+        {
+            "weight": 3,
+            "source": "johnson-reverdy",
+            "target": "hunt-jesse"
+        },
+        {
+            "weight": 6,
+            "source": "johnson-reverdy",
+            "target": "mcelderry-hugh"
+        },
+        {
+            "weight": 5,
+            "source": "johnson-reverdy",
+            "target": "morris-john"
+        },
+        {
+            "weight": 4,
+            "source": "johnson-reverdy",
+            "target": "newbold-george"
+        },
+        {
+            "weight": 13,
+            "source": "johnson-reverdy",
+            "target": "perine-david"
+        },
+        {
+            "weight": 9,
+            "source": "johnson-reverdy",
+            "target": "poultney-evan"
+        },
+        {
+            "weight": 7,
+            "source": "johnson-reverdy",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 7,
+            "source": "johnson-reverdy",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 6,
+            "source": "johnson-reverdy",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 8,
+            "source": "johnson-reverdy",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 7,
+            "source": "johnson-reverdy",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 4,
+            "source": "johnson-reverdy",
+            "target": "white-john"
+        },
+        {
+            "weight": 3,
+            "source": "johnson-reverdy",
+            "target": "williams-nathaniel"
+        },
+        {
+            "weight": 6,
+            "source": "johnson-reverdy",
+            "target": "wilson-robert"
+        },
+        {
+            "weight": 4,
+            "source": "johnson-reverdy",
+            "target": "young-mcclintock"
+        },
+        {
+            "weight": 3,
+            "source": "kendall-amos",
+            "target": "rives-william"
+        },
+        {
+            "weight": 4,
+            "source": "kendall-amos",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "kendall-amos",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 4,
+            "source": "kendall-amos",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 4,
+            "source": "kendall-amos",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 4,
+            "source": "kendall-amos",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 3,
+            "source": "kendall-amos",
+            "target": "vanburen-martin"
+        },
+        {
+            "weight": 3,
+            "source": "kendall-amos",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 9,
+            "source": "lawrence-rachel",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 9,
+            "source": "lawrence-rachel",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 9,
+            "source": "lawrence-rachel",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 9,
+            "source": "lawrence-rachel",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 9,
+            "source": "lawrence-rachel",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 4,
+            "source": "mckinley-john",
+            "target": "baldwin-henry"
+        },
+        {
+            "weight": 3,
+            "source": "mckinley-john",
+            "target": "barbour-philip"
+        },
+        {
+            "weight": 3,
+            "source": "mckinley-john",
+            "target": "grier-robert"
+        },
+        {
+            "weight": 7,
+            "source": "mckinley-john",
+            "target": "mclean-john2"
+        },
+        {
+            "weight": 4,
+            "source": "mckinley-john",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 6,
+            "source": "mckinley-john",
+            "target": "story-joseph"
+        },
+        {
+            "weight": 3,
+            "source": "mckinley-john",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 3,
+            "source": "mckinley-john",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 5,
+            "source": "mckinley-john",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 4,
+            "source": "mckinley-john",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 4,
+            "source": "mckinley-john",
+            "target": "thompson-smith"
+        },
+        {
+            "weight": 7,
+            "source": "mckinley-john",
+            "target": "wayne-james"
+        },
+        {
+            "weight": 3,
+            "source": "mckinley-john",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 4,
+            "source": "mclean-john2",
+            "target": "baldwin-henry"
+        },
+        {
+            "weight": 3,
+            "source": "mclean-john2",
+            "target": "barbour-philip"
+        },
+        {
+            "weight": 4,
+            "source": "mclean-john2",
+            "target": "grier-robert"
+        },
+        {
+            "weight": 4,
+            "source": "mclean-john2",
+            "target": "story-joseph"
+        },
+        {
+            "weight": 4,
+            "source": "mclean-john2",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 3,
+            "source": "mclean-john2",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 4,
+            "source": "mclean-john2",
+            "target": "thompson-smith"
+        },
+        {
+            "weight": 8,
+            "source": "mclean-john2",
+            "target": "wayne-james"
+        },
+        {
+            "weight": 3,
+            "source": "mclean-john2",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 4,
+            "source": "morris-john",
+            "target": "perine-david"
+        },
+        {
+            "weight": 3,
+            "source": "morris-john",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "morris-john",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 3,
+            "source": "morris-john",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 3,
+            "source": "morris-john",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 3,
+            "source": "morris-john",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 4,
+            "source": "perine-david",
+            "target": "ellicott-thomas"
+        },
+        {
+            "weight": 4,
+            "source": "perine-david",
+            "target": "fleming-john"
+        },
+        {
+            "weight": 4,
+            "source": "perine-david",
+            "target": "glenn-john"
+        },
+        {
+            "weight": 3,
+            "source": "perine-david",
+            "target": "mcelderry-hugh"
+        },
+        {
+            "weight": 4,
+            "source": "perine-david",
+            "target": "newbold-george"
+        },
+        {
+            "weight": 5,
+            "source": "perine-david",
+            "target": "poultney-evan"
+        },
+        {
+            "weight": 4,
+            "source": "perine-david",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 4,
+            "source": "perine-david",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 4,
+            "source": "perine-david",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 4,
+            "source": "perine-david",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 4,
+            "source": "perine-david",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 4,
+            "source": "perine-david",
+            "target": "white-john"
+        },
+        {
+            "weight": 4,
+            "source": "perine-david",
+            "target": "wilson-robert"
+        },
+        {
+            "weight": 4,
+            "source": "perine-david",
+            "target": "young-mcclintock"
+        },
+        {
+            "weight": 5,
+            "source": "polk-james",
+            "target": "stevenson-elizabeth"
+        },
+        {
+            "weight": 3,
+            "source": "polk-james",
+            "target": "stryker-phoebe"
+        },
+        {
+            "weight": 4,
+            "source": "polk-james",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 4,
+            "source": "polk-james",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 6,
+            "source": "polk-james",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 4,
+            "source": "polk-james",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 3,
+            "source": "polk-james",
+            "target": "wayne-james"
+        },
+        {
+            "weight": 3,
+            "source": "stevenson-elizabeth",
+            "target": "blair-francis"
+        },
+        {
+            "weight": 3,
+            "source": "stevenson-elizabeth",
+            "target": "campbell-amy"
+        },
+        {
+            "weight": 3,
+            "source": "stevenson-elizabeth",
+            "target": "howard-benjamin"
+        },
+        {
+            "weight": 10,
+            "source": "stevenson-elizabeth",
+            "target": "stevenson-william2"
+        },
+        {
+            "weight": 15,
+            "source": "stevenson-elizabeth",
+            "target": "stryker-phoebe"
+        },
+        {
+            "weight": 53,
+            "source": "stevenson-elizabeth",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 45,
+            "source": "stevenson-elizabeth",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 56,
+            "source": "stevenson-elizabeth",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 3,
+            "source": "stevenson-elizabeth",
+            "target": "taylor-roger"
+        },
+        {
+            "weight": 55,
+            "source": "stevenson-elizabeth",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 8,
+            "source": "stevenson-elizabeth",
+            "target": "vanburen-martin"
+        },
+        {
+            "weight": 3,
+            "source": "stevenson-elizabeth",
+            "target": "wayne-james"
+        },
+        {
+            "weight": 4,
+            "source": "stevenson-elizabeth",
+            "target": "webster-daniel"
+        },
+        {
+            "weight": 3,
+            "source": "stevenson-elizabeth",
+            "target": "white-john"
+        },
+        {
+            "weight": 3,
+            "source": "stevenson-elizabeth",
+            "target": "wilcox-mary"
+        },
+        {
+            "weight": 8,
+            "source": "stevenson-elizabeth",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 3,
+            "source": "stevenson-elizabeth",
+            "target": "young-mcclintock"
+        },
+        {
+            "weight": 6,
+            "source": "stevenson-william2",
+            "target": "stryker-phoebe"
+        },
+        {
+            "weight": 7,
+            "source": "stevenson-william2",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 4,
+            "source": "stevenson-william2",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 9,
+            "source": "stevenson-william2",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 6,
+            "source": "stevenson-william2",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 6,
+            "source": "stryker-phoebe",
+            "target": "campbell-amy"
+        },
+        {
+            "weight": 11,
+            "source": "stryker-phoebe",
+            "target": "taney-alice"
+        },
+        {
+            "weight": 16,
+            "source": "stryker-phoebe",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 14,
+            "source": "stryker-phoebe",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 3,
+            "source": "stryker-phoebe",
+            "target": "taylor-roger"
+        },
+        {
+            "weight": 13,
+            "source": "stryker-phoebe",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 3,
+            "source": "stryker-phoebe",
+            "target": "wayne-james"
+        },
+        {
+            "weight": 3,
+            "source": "taney-alice",
+            "target": "hall-james2"
+        },
+        {
+            "weight": 3,
+            "source": "taney-alice",
+            "target": "howard-benjamin"
+        },
+        {
+            "weight": 49,
+            "source": "taney-alice",
+            "target": "taney-anne"
+        },
+        {
+            "weight": 62,
+            "source": "taney-alice",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 3,
+            "source": "taney-alice",
+            "target": "taylor-francis"
+        },
+        {
+            "weight": 3,
+            "source": "taney-alice",
+            "target": "taylor-roger"
+        },
+        {
+            "weight": 53,
+            "source": "taney-alice",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 7,
+            "source": "taney-alice",
+            "target": "vanburen-martin"
+        },
+        {
+            "weight": 5,
+            "source": "taney-alice",
+            "target": "webster-daniel"
+        },
+        {
+            "weight": 3,
+            "source": "taney-alice",
+            "target": "white-john"
+        },
+        {
+            "weight": 3,
+            "source": "taney-alice",
+            "target": "wilcox-mary"
+        },
+        {
+            "weight": 8,
+            "source": "taney-alice",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 3,
+            "source": "taney-alice",
+            "target": "young-mcclintock"
+        },
+        {
+            "weight": 3,
+            "source": "taney-anne",
+            "target": "baldwin-henry"
+        },
+        {
+            "weight": 4,
+            "source": "taney-anne",
+            "target": "campbell-amy"
+        },
+        {
+            "weight": 3,
+            "source": "taney-anne",
+            "target": "glenn-john"
+        },
+        {
+            "weight": 4,
+            "source": "taney-anne",
+            "target": "perine-mary"
+        },
+        {
+            "weight": 3,
+            "source": "taney-anne",
+            "target": "story-joseph"
+        },
+        {
+            "weight": 52,
+            "source": "taney-anne",
+            "target": "taney-ellen"
+        },
+        {
+            "weight": 3,
+            "source": "taney-anne",
+            "target": "taylor-francis"
+        },
+        {
+            "weight": 3,
+            "source": "taney-anne",
+            "target": "taylor-roger"
+        },
+        {
+            "weight": 46,
+            "source": "taney-anne",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 7,
+            "source": "taney-anne",
+            "target": "vanburen-martin"
+        },
+        {
+            "weight": 5,
+            "source": "taney-anne",
+            "target": "webster-daniel"
+        },
+        {
+            "weight": 3,
+            "source": "taney-anne",
+            "target": "white-john"
+        },
+        {
+            "weight": 3,
+            "source": "taney-anne",
+            "target": "wilcox-mary"
+        },
+        {
+            "weight": 8,
+            "source": "taney-anne",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 3,
+            "source": "taney-anne",
+            "target": "young-mcclintock"
+        },
+        {
+            "weight": 3,
+            "source": "taney-ellen",
+            "target": "buckler-john"
+        },
+        {
+            "weight": 3,
+            "source": "taney-ellen",
+            "target": "glenn-john"
+        },
+        {
+            "weight": 3,
+            "source": "taney-ellen",
+            "target": "grier-robert"
+        },
+        {
+            "weight": 4,
+            "source": "taney-ellen",
+            "target": "howard-benjamin"
+        },
+        {
+            "weight": 6,
+            "source": "taney-ellen",
+            "target": "perine-anne"
+        },
+        {
+            "weight": 6,
+            "source": "taney-ellen",
+            "target": "perine-mary"
+        },
+        {
+            "weight": 6,
+            "source": "taney-ellen",
+            "target": "perine-mary2"
+        },
+        {
+            "weight": 6,
+            "source": "taney-ellen",
+            "target": "perine-rebecca"
+        },
+        {
+            "weight": 6,
+            "source": "taney-ellen",
+            "target": "perine-susan"
+        },
+        {
+            "weight": 4,
+            "source": "taney-ellen",
+            "target": "shaaff-mary"
+        },
+        {
+            "weight": 9,
+            "source": "taney-ellen",
+            "target": "taylor-roger"
+        },
+        {
+            "weight": 63,
+            "source": "taney-ellen",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 4,
+            "source": "taney-ellen",
+            "target": "unknown-basil-rbt"
+        },
+        {
+            "weight": 7,
+            "source": "taney-ellen",
+            "target": "vanburen-martin"
+        },
+        {
+            "weight": 6,
+            "source": "taney-ellen",
+            "target": "wayne-james"
+        },
+        {
+            "weight": 5,
+            "source": "taney-ellen",
+            "target": "webster-daniel"
+        },
+        {
+            "weight": 3,
+            "source": "taney-ellen",
+            "target": "white-john"
+        },
+        {
+            "weight": 3,
+            "source": "taney-ellen",
+            "target": "wilcox-mary"
+        },
+        {
+            "weight": 9,
+            "source": "taney-ellen",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 3,
+            "source": "taney-ellen",
+            "target": "young-mcclintock"
+        },
+        {
+            "weight": 3,
+            "source": "taylor-roger",
+            "target": "campbell-amy"
+        },
+        {
+            "weight": 4,
+            "source": "taylor-roger",
+            "target": "perine-anne"
+        },
+        {
+            "weight": 4,
+            "source": "taylor-roger",
+            "target": "perine-mary"
+        },
+        {
+            "weight": 4,
+            "source": "taylor-roger",
+            "target": "perine-mary2"
+        },
+        {
+            "weight": 4,
+            "source": "taylor-roger",
+            "target": "perine-rebecca"
+        },
+        {
+            "weight": 4,
+            "source": "taylor-roger",
+            "target": "perine-susan"
+        },
+        {
+            "weight": 9,
+            "source": "taylor-roger",
+            "target": "taylor-sophia"
+        },
+        {
+            "weight": 4,
+            "source": "taylor-sophia",
+            "target": "campbell-amy"
+        },
+        {
+            "weight": 3,
+            "source": "taylor-sophia",
+            "target": "howard-benjamin"
+        },
+        {
+            "weight": 6,
+            "source": "taylor-sophia",
+            "target": "perine-anne"
+        },
+        {
+            "weight": 6,
+            "source": "taylor-sophia",
+            "target": "perine-mary"
+        },
+        {
+            "weight": 6,
+            "source": "taylor-sophia",
+            "target": "perine-mary2"
+        },
+        {
+            "weight": 6,
+            "source": "taylor-sophia",
+            "target": "perine-rebecca"
+        },
+        {
+            "weight": 6,
+            "source": "taylor-sophia",
+            "target": "perine-susan"
+        },
+        {
+            "weight": 3,
+            "source": "taylor-sophia",
+            "target": "taylor-francis"
+        },
+        {
+            "weight": 7,
+            "source": "taylor-sophia",
+            "target": "vanburen-martin"
+        },
+        {
+            "weight": 5,
+            "source": "taylor-sophia",
+            "target": "wayne-james"
+        },
+        {
+            "weight": 4,
+            "source": "taylor-sophia",
+            "target": "webster-daniel"
+        },
+        {
+            "weight": 3,
+            "source": "taylor-sophia",
+            "target": "white-john"
+        },
+        {
+            "weight": 3,
+            "source": "taylor-sophia",
+            "target": "wilcox-mary"
+        },
+        {
+            "weight": 8,
+            "source": "taylor-sophia",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 3,
+            "source": "taylor-sophia",
+            "target": "young-mcclintock"
+        },
+        {
+            "weight": 4,
+            "source": "vanburen-martin",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 4,
+            "source": "wayne-james",
+            "target": "baldwin-henry"
+        },
+        {
+            "weight": 3,
+            "source": "wayne-james",
+            "target": "barbour-philip"
+        },
+        {
+            "weight": 4,
+            "source": "wayne-james",
+            "target": "grier-robert"
+        },
+        {
+            "weight": 3,
+            "source": "wayne-james",
+            "target": "howard-benjamin"
+        },
+        {
+            "weight": 4,
+            "source": "wayne-james",
+            "target": "story-joseph"
+        },
+        {
+            "weight": 4,
+            "source": "wayne-james",
+            "target": "thompson-smith"
+        },
+        {
+            "weight": 3,
+            "source": "wayne-james",
+            "target": "woodbury-levi"
+        },
+        {
+            "weight": 3,
+            "source": "white-john",
+            "target": "young-mcclintock"
+        },
+        {
+            "weight": 3,
+            "source": "woodbury-levi",
+            "target": "grier-robert"
+        },
+        {
+            "weight": 3,
+            "source": "woodbury-levi",
+            "target": "whitney-reuben"
+        },
+        {
+            "weight": 3,
+            "source": "barbour-philip",
+            "target": "baldwin-henry"
+        },
+        {
+            "weight": 3,
+            "source": "barbour-philip",
+            "target": "story-joseph"
+        },
+        {
+            "weight": 3,
+            "source": "barbour-philip",
+            "target": "thompson-smith"
+        },
+        {
+            "weight": 4,
+            "source": "baldwin-henry",
+            "target": "story-joseph"
+        },
+        {
+            "weight": 4,
+            "source": "baldwin-henry",
+            "target": "thompson-smith"
+        },
+        {
+            "weight": 4,
+            "source": "story-joseph",
+            "target": "thompson-smith"
+        },
+        {
+            "weight": 3,
+            "source": "ellicott-thomas",
+            "target": "poultney-evan"
+        },
+        {
+            "weight": 4,
+            "source": "poultney-evan",
+            "target": "mcelderry-hugh"
+        },
+        {
+            "weight": 4,
+            "source": "poultney-evan",
+            "target": "wilson-robert"
+        },
+        {
+            "weight": 3,
+            "source": "glenn-john",
+            "target": "mcelderry-hugh"
+        },
+        {
+            "weight": 8,
+            "source": "perine-mary",
+            "target": "perine-anne"
+        },
+        {
+            "weight": 8,
+            "source": "perine-mary",
+            "target": "perine-mary2"
+        },
+        {
+            "weight": 8,
+            "source": "perine-mary",
+            "target": "perine-rebecca"
+        },
+        {
+            "weight": 8,
+            "source": "perine-mary",
+            "target": "perine-susan"
+        },
+        {
+            "weight": 8,
+            "source": "perine-anne",
+            "target": "perine-mary2"
+        },
+        {
+            "weight": 8,
+            "source": "perine-anne",
+            "target": "perine-rebecca"
+        },
+        {
+            "weight": 8,
+            "source": "perine-anne",
+            "target": "perine-susan"
+        },
+        {
+            "weight": 8,
+            "source": "perine-mary2",
+            "target": "perine-rebecca"
+        },
+        {
+            "weight": 8,
+            "source": "perine-mary2",
+            "target": "perine-susan"
+        },
+        {
+            "weight": 8,
+            "source": "perine-rebecca",
+            "target": "perine-susan"
+        },
+        {
+            "weight": 3,
+            "source": "shaaff-mary2",
+            "target": "shaaff-mary"
+        }
+    ]
+}
