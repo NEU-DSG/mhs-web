@@ -2,19 +2,19 @@
 
 {% block head %}
     <title>PSC Lab Space {{ person }} Co-Refs</title>
-    <link rel="stylesheet" href="/psc/styles/d3-dark.css"></link>
-    <link rel="stylesheet" href="/psc/styles/global.css">
-    <link rel="stylesheet" href="/psc/styles/coref.css">
-    <link rel="stylesheet" href="/psc/styles/slider_styles.css"></link>
+    <link rel="stylesheet" href="{{ '/styles/d3-dark.css' | url }}"></link>
+    <link rel="stylesheet" href="{{ '/styles/global.css' | url }}">
+    <link rel="stylesheet" href="{{ '/styles/coref.css' | url }}">
+    <link rel="stylesheet" href="{{ '/styles/slider_styles.css' | url }}"></link>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-    <link rel="stylesheet" href="/psc/styles/tabs-style.css">
+    <link rel="stylesheet" href="{{ '/styles/tabs-style.css' | url }}">
 
     <!-- Holds the code for the modular sliders-->
-    <script src="/psc/JsScripts/multiselect-dropdown.js"></script>
-    <script src="/psc/JsScripts/CreateSliders.js"></script>
+    <script src="{{ '/JsScripts/multiselect-dropdown.js' | url }}"></script>
+    <script src="{{ '/JsScripts/CreateSliders.js' | url }}"></script>
 
     <!-- Holds the code for the network viz-->
-    <script type="text/javascript" src="/psc/JsScripts/coRef.js"></script>
+    <script type="text/javascript" src="{{ '/JsScripts/coRef.js' | url }}"></script>
     <script src="https://d3js.org/d3.v7.min.js"></script>
 {% endblock %}
 
@@ -22,11 +22,11 @@
     <div class="main-body">
 
         <h1 class="subtitle">{{ person }}
-            {{built.Btitles["coref"]}}</h3>
+            {{built.Btitles["coref"]}}</h1>
 
         <div class="button-container">
-            <button class="button-1" role="button" onclick="window.location.href='/psc/projects/{{ initials }}/index.html';">Back to {{ initials }}</button>
-            <button class="button-1" role="button" onclick="window.location.href='/psc/tools/coref/index.html';">Back to Network Maps</button>
+            <button class="button-1" role="button" onclick="window.location.href='{{ ('/projects/' + initials + '/index.html') | url }}';">Back to {{ initials }}</button>
+            <button class="button-1" role="button" onclick="window.location.href='{{ '/tools/coref/index.html' | url }}';">Back to Network Maps</button>
         </div>
         <br>
 
@@ -204,7 +204,7 @@
         async function loadGraph(graphScript, containerID) {
             var div_string = '<div class="network"></div>';
             $(div_string).appendTo(document.getElementById(containerID));
-            await graph("/psc/data/{{ initials }}/coref/" + graphScript);
+            await graph("{{ '/data/' | url }}{{ initials }}/coref/" + graphScript);
             Searched();
             document
                 .getElementById("comms")

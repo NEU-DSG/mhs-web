@@ -1,17 +1,12 @@
-<button class="card" onclick="window.location.href='/psc/{% if type %}{{ type }}/{% endif %}{{ author }}{% if viz %}/{{ viz }}{% endif %}/index.html';">
+{% set cardPath = '/' + (type + '/' if type else '') + author + ('/' + viz if viz else '') + '/index.html' %}
+{% set imgFile = viz if kind == "Projects" else author %}
+
+<button class="card" onclick="window.location.href='{{ cardPath | url }}';">
     <div class="card-header">
-        {% if kind == "Projects" %}
-            <img src="/psc/images/bookimages/{{ viz }}.jpg" alt="Cover of {{ built.Btitles[viz] }}" class="card-image">
-        {% else %}
-            <img src="/psc/images/bookimages/{{ author }}.jpg" alt="Cover of {{ built.Btitles[author] }}" class="card-image">
-        {% endif %}
+        <img src="{{ ('/images/bookimages/' + imgFile + '.jpg') | url }}" alt="Cover of {{ built.Btitles[imgFile] }}" class="card-image">
     </div>
     <div class="card-body">
-        {% if kind == "Projects" %}
-            <h2 class="card-title">{{ built.Btitles[viz] }}</h3>
-        {% else %}
-            <h2 class="card-title">{{ built.Btitles[author] }}</h3>
-        {% endif %}
+        <h2 class="card-title">{{ built.Btitles[imgFile] }}</h2>
         <p class="card-description"></p>
     </div>
 </button>

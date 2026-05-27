@@ -23,6 +23,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "node_modules/dsg-gtimeline/dist/d3-gtimeline.full.umd.cjs": "JsScripts/timeline.cjs" });
 
   return {
+    pathPrefix: "/psc/",
     dir: {
       input: "src",
       output: "_site",
@@ -31,4 +32,3 @@ module.exports = function (eleventyConfig) {
     },
   };
 };
-

@@ -120,7 +120,7 @@ function MultiselectDropdown(options) {
       else if (k === 'text') { attrs[k] === '' ? e.innerHTML = '&nbsp;' : e.innerText = attrs[k] }
       else e[k] = attrs[k];
     });
-    console.log(e);
+    // console.log(e);
     return e;
   }
 
@@ -169,7 +169,7 @@ function MultiselectDropdown(options) {
 
         list.appendChild(op);
       }
-      console.log(window.Extent);
+      // console.log(window.Extent);
       // First, ensure all options are set to not selected before proceeding
       Array.from(el.options).forEach(o => {
         o.selected = false; // Reset original option selection

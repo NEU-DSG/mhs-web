@@ -5,21 +5,21 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.0/d3.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
-    <script src="/psc/JsScripts/timeline.cjs" type="text/javascript"></script>
-    <link rel="stylesheet" href="/psc/styles/tabs-style.css"></link>
-    <link rel="stylesheet" href="/psc/styles/timeline.css"></link>
-    <link rel="stylesheet" href="/psc/styles/global.css"></link>
+    <script src="{{ '/JsScripts/timeline.cjs' | url }}" type="text/javascript"></script>
+    <link rel="stylesheet" href="{{ '/styles/tabs-style.css' | url }}"></link>
+    <link rel="stylesheet" href="{{ '/styles/timeline.css' | url }}"></link>
+    <link rel="stylesheet" href="{{ '/styles/global.css' | url }}"></link>
 {% endblock %}
 
 {% block content %}
     <div class="main-body">
         <h1 class="subtitle">{{ person }}
-            {{built.Btitles["timeline"]}}</h3>
+            {{built.Btitles["timeline"]}}</h1>
 
         <div class="button-container">
-            <button class="button-1" role="button" onclick="window.location.href='/psc/projects/{{initials}}/index.html';">Back to
+            <button class="button-1" role="button" onclick="window.location.href='{{ ('/projects/' + initials + '/index.html') | url }}';">Back to
 				{{initials}}</button>
-            <button class="button-1" role="button" onclick="window.location.href='/psc/tools/timeline/index.html';">Back to Timeline
+            <button class="button-1" role="button" onclick="window.location.href='{{ '/tools/timeline/index.html' | url }}';">Back to Timeline
 				Charts</button>
         </div>
         <br>
@@ -45,7 +45,7 @@
             <script>
                 // Load the CSV file asynchronously
                 d3
-                    .csv("/psc/data/{{initials}}/timeline/sortedtimeline.csv", function (row) {
+                    .csv("{{ '/data/' | url }}{{initials}}/timeline/sortedtimeline.csv", function (row) {
                         return {
                             role: row.Role,
                             name: row.Name,
@@ -59,13 +59,13 @@
                         const transformedData = transformData(data);
 
                         // After the data is transformed, draw the chart
-                        drawChart(transformedData, "/psc/data/{{initials}}/timeline/sortedcolors.csv");
+                        drawChart(transformedData, "{{ '/data/' | url }}{{initials}}/timeline/sortedcolors.csv");
 
                         // window resize listener
                         window.addEventListener("resize", () => {
                             clearTimeout(window.resizedFinished);
                             window.resizedFinished = setTimeout(() => {
-                                drawChart(transformedData, "/psc/data/{{initials}}/timeline/sortedcolors.csv");
+                                drawChart(transformedData, "{{ '/data/' | url }}{{initials}}/timeline/sortedcolors.csv");
                             }, 200);
                         });
                     })

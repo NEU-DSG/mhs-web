@@ -5,18 +5,18 @@
         <title>PSC Lab Space {{ title }}</title>
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
-        <link rel="icon" type="image/x-icon" href="/psc/images/book.ico">
-        <link rel="stylesheet" href="/psc/styles/global.css">
-        <link rel="stylesheet" href="/psc/styles/oldstyles.css">
-        <link rel="stylesheet" href="/psc/styles/menu.css">
+        <link rel="icon" type="image/x-icon" href="{{ '/images/book.ico' | url }}">
+        <link rel="stylesheet" href="{{ '/styles/global.css' | url }}">
+        <link rel="stylesheet" href="{{ '/styles/oldstyles.css' | url }}">
+        <link rel="stylesheet" href="{{ '/styles/menu.css' | url }}">
 
         <!-- Allow pages to add their own head content if needed -->
         {% block head %}{% endblock %}
     </head>
 
     <body>
-        <header id="menu">
-            <script src="/psc/styles/menu.js"></script>
+        <header id="menu" data-baseurl="{{ '/' | url }}">
+            <script src="{{ '/styles/menu.js' | url }}"></script>
             <br>
         </header>
 
@@ -33,8 +33,4 @@ Created in colloboration with the Massachusetts Historical Society, and their Pr
 
 <br>
             <br>
-            <a style="color: white;" href="https://dsg.northeastern.edu/">Digital Scholarship Group</a> | <a style="color: white;" href="https://www.masshist.org/">Massachusetts Historical Society</a>  | <a style="color: white;" href="https://www.primarysourcecoop.org/">Primary Source Co-operative</a>   | <a style="color: white;" href="https://github.com/NEU-DSG/mhs-web">Source Code</a>
-            <br>
-        </div>
-    </body>
-</html>
+            <a style="color: white;" href="https://dsg.northeastern.edu/">Digital Scholarship Group</a> | <a style="color: white;" href="https://w

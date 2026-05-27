@@ -141,12 +141,30 @@ module.exports = {
                 tabs: [
                     {
                         number: 2,
-                        title: "Co-References",
-                        short_title: "Co-Ref",
-                        icon: "fa-diagram-project",
-                        date: "(1797 - 1828)",
-                        data_file: "data.json",
-                        desc: "To encourage and support the integrity of future scholarship, the CMS Online Letters (CMSOL) project will make available all letters written by Sedgwick during her nearly seven decades as an active correspondent, with authoritative transcriptions and selected holographs. Approximately two-thirds of Sedgwick’s letters reside at MHS and are available on microfilm; additional letters are held in other MHS collections, but many letters are scattered in archives across the nation and abroad. Our initial web publication is devoted to Sedgwick’s early years, beginning with her childhood letters of the 1790s and extending to 1826, shortly after her second novel, Redwood, had brought her national and international fame. This era’s letters (approximately 300) anticipate the issues Sedgwick explores in a lifetime of creative work."
+                        title: "Coming of Age in the New Republic",
+                        short_title: "1789-1813",
+                        icon: "",
+                        date: "(1789 - 1813)",
+                        data_file: "1789-1813-cms-ref.json",
+                        desc: "Catharine Maria Sedgwick’s early letters document the intellectual development of a prolific woman writer from her childhood in the early national period through the 1813 death of her father Theodore Sedgwick, a Federalist member of Congress and Massachusetts supreme court judge. The youngest daughter in a family of seven siblings, Sedgwick practiced epistolary conventions in her early letters while introducing her lifelong theme of balancing personal and family expectations with the obligation to write. As Sedgwick reported in her later autobiography, she felt that she lacked a satisfactory formal education, but “these great deficiencies” were offset by the quality of her homelife. Her adolescent years were marked by her mother’s chronic ill health and death in 1807, her father’s remarriage in 1808, and her engagement with her siblings’ growing families throughout the period. By 1812, as a 22-year old republican woman reflecting on her social position, CMS felt the call of a “life dignified by usefulness” and compared her father’s contributions to her own potential: “You may benefit a Nation my dear Papa, & I may improve the condition of a fellow being” (1 Mar. 1812)."
+                    },
+                    {
+                        number: 3,
+                        title: "Developing a Voice and Vocation",
+                        short_title: "1813-1822",
+                        icon: "",
+                        date: "(1813 - 1822)",
+                        data_file: "1813-1822-cms-ref.json",
+                        desc: "Letters from Sedgwick’s pre-publication adulthood demonstrate her intellectual and religious development as she grappled with events both personal and national. Her siblings became the central focus of her domestic life, and the Sedgwicks’ experiences with “the market of matrimony” (15 Aug. 1813) provide intriguing fodder for epistolary debate. Sedgwick rejected at least two marriage proposals in her twenties, one in 1812 and another in 1819. In the summer of 1821, she traveled to Niagara Falls and Montreal and began keeping a journal. As Sedgwick developed her authorial persona and worked on her first novel, her full-throated dedication to family, female relationships, and personal usefulness emerged as primary concerns. Sedgwick’s letters also become more philosophical, and her lifelong dedication to republican service and intellectual Unitarianism come into focus. Sedgwick explains her sense of vocation to her lifelong friend Eliza Cabot Follen: “my ministry must be one of watchfulness and steady devotion, and all those cares that love teaches, and can pay without being asked” (15 Nov 1822)."
+                    },
+                    {
+                        number: 4,
+                        title: "Negotiating Public and Private Lives",
+                        short_title: "1822-1835",
+                        icon: "",
+                        date: "(1822 - 1835)",
+                        data_file: "1822-1835-cms-ref.json",
+                        desc: "With her first novel A New-England Tale (1822), Sedgwick established herself as a professional writer, and she published four additional literary novels and more than 30 stories during this period. As a dedicated family woman, who also chose to be single and an author, she constructed domestic arrangements that complemented her writing career. She lived in the homes of her brothers and sisters-in-law in Stockbridge, Lenox, and New York City, deepening her relationships with her siblings as well as caring for the children and contributing to their education. Redwood, her second novel, received “much more praise and celebrity than [she] expected” (18 Oct. 1824). As her fame grew, she continued to find her spiritual home in Unitarianism, while her range of acquaintances expanded to include artists, politicians, reformers, educators, and intellectuals. Sedgwick began to travel more widely, visiting friends in Boston, Newport, and Philadelphia, and making extended trips to Washington DC and the South. As a measure of her celebrity, she was selected for inclusion in the National Portrait Gallery of Distinguished Americans (1834), the only woman included other than Martha Washington. The period was also punctuated by “the real and bitter sorrows that cloud our life” (13 Mar. 1830), including the deaths of her sister Eliza, her childhood nurse Elizabeth Freeman, and her brother Harry."
                     }
                 ],
             },

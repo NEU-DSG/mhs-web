@@ -1,8 +1,9 @@
 {% extends "base.njk" %}
 
 {% block head %}
-    <link rel="stylesheet" href="/psc/styles/global.css">
-    <link rel="stylesheet" href="/psc/styles/bookshelf.css"/>
+    <link rel="stylesheet" href="{{'/styles/global.css' | url }}">
+    
+    <link rel="stylesheet" href="{{'/styles/bookshelf.css' | url }}"/>
 {% endblock %}
 
 {% block content %}
@@ -10,13 +11,13 @@
     <div class="main-body">
         <div class="container">
 
-            <img src="/psc/images/bookimages/{{ initials }}.jpg" class="header-image" alt="Portrait of {{ initials }}">
+            <img src="{{ ('/images/bookimages/' + initials + '.jpg') | url }}" class="header-image" alt="Portrait of {{ initials }}">
 
             <h1 id="JQA-header" class="title">{{title}}</h1>
 
             <div class="button-container">
-                <button class="button-1" role="button" onclick="window.location.href='/psc/index.html';">Back to Home</button>
-                <button class="button-1" role="button" onclick="window.location.href = '/psc/{{ kind | lower }}/index.html';">Back to {{ kind }}</button>
+                <button class="button-1" role="button" onclick="window.location.href='{{ '/index.html' | url }}';">Back to Home</button>
+                <button class="button-1" role="button" onclick="window.location.href = '{{ ('/' + kind | lower + '/index.html') | url }}';">Back to {{ kind }}</button>
             </div>
         </div>
 

@@ -96,7 +96,6 @@ function graph(filepath) {
 
             // Coordinates of SVG boundaries.
             const pos = svg.node().getBoundingClientRect();
-            console.log(pos);
 
             // Build elements.
             svg.append('g').attr('class', 'links'); // links
@@ -492,8 +491,6 @@ function Searched() {
             }
         }
     });
-
-    console.log(searchValue);
 
     // Add input event listener to handle clearing the input
     document.getElementById('site-search').addEventListener('input', (e) => {
