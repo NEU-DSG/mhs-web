@@ -1,6 +1,6 @@
 # MHS-Web #
 
-The deployment version of this site on the internet is viewable at: [https://lab.dsg.northeastern.edu]([url](https://lab.dsg.northeastern.edu))
+The deployment version of this site on the internet is viewable at: [https://lab.dsg.northeastern.edu](https://lab.dsg.northeastern.edu)
 The development version of this site on the internet is viewable at: [bit.ly/dsg-mhs](bit.ly/dsg-mhs)
 
 This repo is a static site generator built website that holds visulalizations for data held in the documents of the [Mass. Histroical Society's Primary Source Co-operative.](https://www.primarysourcecoop.org)
